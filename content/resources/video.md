@@ -2,12 +2,12 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/video.mp4
+file: /media/ocw-www/video.mp4
 metadata:
   caption: ''
   credit: ''
   image_alt: ''
 resourcetype: Other
 title: video.mp4
-uid: 1f7fd2ff-8b6d-4a8c-9769-4fa0783d509c
+uid: 293f557c-10a5-4ab3-9283-887f92751f9b
 ---
