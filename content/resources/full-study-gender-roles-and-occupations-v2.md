@@ -2,12 +2,12 @@
 content_type: resource
 description: ''
 draft: ''
-file: /media/ocw-www/full-study-gender-roles-and-occupations-v2.pdf
+file: /ocw-www/full-study-gender-roles-and-occupations-v2.pdf
 metadata:
   caption: ''
   credit: ''
   image_alt: ''
 resourcetype: Document
 title: full-study-gender-roles-and-occupations-v2.pdf
-uid: 42ad566e-0c45-41f8-b71a-bc3592057444
+uid: f48a8af9-15a5-4815-98ce-5a8ad44d82cd
 ---
