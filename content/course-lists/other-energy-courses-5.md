@@ -5,17 +5,12 @@ courses:
   title: Engineering of Nuclear Reactors
 - id: courses/15-031j-energy-decisions-markets-and-policies-spring-2012
   title: Energy Decisions, Markets, and Policies
-- id: courses/5-92-energy-environment-and-society-spring-2007
-  title: Energy, Environment, and Society
 - id: courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010
   title: Engineering, Economics and Regulation of the Electric Power Sector
 - id: courses/7-347-fueling-sustainability-engineering-microbial-systems-for-biofuel-production-spring-2011
   title: 'Fueling Sustainability: Engineering Microbial Systems for Biofuel Production'
 - id: courses/21h-207-the-energy-crisis-past-and-present-fall-2010
   title: 'The Energy Crisis: Past and Present'
-- id: courses/sts-032-energy-environment-and-society-global-politics-technologies-and-ecologies-of-the-water-energy-food-crises-spring-2018
-  title: 'Energy, Environment, and Society: Global Politics, Technologies, and Ecologies
-    of the Water-Energy-Food Crises'
 - id: courses/sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006
   title: 'Energy and Environment in American History: 1705-2005'
 - id: courses/11-368-environmental-justice-law-and-policy-fall-2019

@@ -3,8 +3,6 @@ content_type: course-lists
 courses:
 - id: courses/1-252j-urban-transportation-planning-fall-2016
   title: Urban Transportation Planning
-- id: courses/5-92-energy-environment-and-society-spring-2007
-  title: Energy, Environment, and Society
 - id: courses/10-805j-technology-law-and-the-working-environment-spring-2006
   title: Technology, Law, and the Working Environment
 - id: courses/11-007-resolving-public-disputes-spring-2005
@@ -54,9 +52,6 @@ courses:
   title: 'S-Lab: Laboratory for Sustainable Business'
 - id: courses/17-181-sustainability-political-economy-science-and-policy-fall-2016
   title: 'Sustainability: Political Economy, Science, and Policy'
-- id: courses/17-906-reading-seminar-in-social-science-the-geopolitics-and-geoeconomics-of-global-energy-spring-2007
-  title: 'Reading Seminar in Social Science: The Geopolitics and Geoeconomics of Global
-    Energy'
 - id: courses/21a-342-environmental-struggles-fall-2004
   title: Environmental Struggles
 - id: courses/21a-429j-environmental-conflict-fall-2016
