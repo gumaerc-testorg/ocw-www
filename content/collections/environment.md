@@ -32,7 +32,7 @@ description: "Like so many of the big challenges taken on at MIT, environmental 
   \ change, including brief Explainer articles on key topics and the award-winning\
   \ TILClimate podcast with educator guides."
 featured-courses:
-  content: f92bf6bd-def5-407d-822c-8f22480c44a6
+  content: 11bbca83-25b8-4ab4-bf6d-a93bc134b671
   website: ocw-www
 title: Environment & Sustainability
 uid: 677e4855-ca00-42a4-9db8-7df1c6333dcc

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Please share your story, spread the word, and encourage your company
+  to support OCW.
 draft: false
 title: Other Ways to Contribute
 uid: d86966a2-9b24-49a2-b247-ea124f63a35a
@@ -10,7 +12,7 @@ Donations are vital to sustaining OpenCourseWare for the future, but financial s
 
 ### **Share your story**
 
-Your experience helps us demonstrate the global impact of OCW. [Share how the site has made a difference in your life or classroom.](https://docs.google.com/forms/d/e/1FAIpQLSfL_C2eZ5tRmd0JfRl3OsdyYSR5qtm0lf-DPEsnO0ItoawvUA/viewform) 
+Your experience helps us demonstrate the global impact of OCW. [Share how the site has made a difference in your life or classroom.](https://forms.gle/LvmpocNJBujDafqt9  )
 
 ### **Spread the word**
 

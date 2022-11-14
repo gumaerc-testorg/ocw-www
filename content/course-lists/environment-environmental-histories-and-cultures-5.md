@@ -53,6 +53,8 @@ courses:
   title: 'Energy and Environment in American History: 1705-2005'
 - id: courses/wgs-160j-science-activism-gender-race-and-power-fall-2019
   title: 'Science Activism: Gender, Race, and Power'
+- id: courses/res-env-006-teaching-with-sustainability-january-iap-2022
+  title: Teaching with Sustainability
 description: ''
 draft: false
 title: 'Environment & Sustainability: Histories and Cultures'
