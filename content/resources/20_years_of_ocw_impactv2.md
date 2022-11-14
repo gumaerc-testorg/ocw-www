@@ -2,12 +2,12 @@
 content_type: resource
 description: ''
 draft: false
-file: /ocw-www/ocw-book-of-impact_online_final.pdf
+file: /ocw-www/20_years_of_ocw_impactv2.pdf
 metadata:
   caption: ''
   credit: ''
   image_alt: ''
 resourcetype: Document
-title: OCW-Book-of-Impact_online_FINAL.pdf
-uid: ad55bd88-185e-4279-b5ee-af634a03f21c
+title: 20 Year Anniversary Book of Impact
+uid: 832a2bd0-745d-4af2-b0b0-f96a2945a3d4
 ---

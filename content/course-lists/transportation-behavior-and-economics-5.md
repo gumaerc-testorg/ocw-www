@@ -9,8 +9,6 @@ courses:
   title: Technology, Law, and the Working Environment
 - id: courses/14-03-microeconomic-theory-and-public-policy-fall-2016
   title: Microeconomic Theory and Public Policy
-- id: courses/14-04-intermediate-microeconomic-theory-fall-2006
-  title: Intermediate Microeconomic Theory
 - id: courses/14-12-economic-applications-of-game-theory-fall-2012
   title: Economic Applications of Game Theory
 - id: courses/14-122-microeconomic-theory-ii-fall-2002
