@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This page provides users with information about OCW and how to utilize
+  the site. '
 draft: false
 title: Get Started
 uid: e166242e-6b45-43f0-9d17-9bbab1be91dd
@@ -14,7 +16,7 @@ Each OCW course includes a syllabus, some instructional material (such as lectur
 
 You can freely browse the OCW collection and use it at your own pace. There's no signup, no enrollment, and no start or end dates.
 
-MIT doesn't don't offer credit or certificates for using OCW. Instead, use OCW to guide your own life-long learning, or use OCW to teach others. Knowledge is your reward!
+MIT doesn't offer credit or certificates for using OCW. Instead, use OCW to guide your own life-long learning, or use OCW to teach others. Knowledge is your reward!
 
 OCW is made for sharing. Download and save files and complete courses for later. Send them to friends and colleagues. Modify or remix OCW content for any non-commercial use -- just remember to credit OCW as the source. It's all allowed and encouraged, per the terms of our [Creative Commons license](https://ocw.mit.edu/pages/privacy-and-terms-of-use/?__hstc=215508872.8b0d6a564d954ec36735e5f3e5a4d717.1644420099739.1648738214719.1648749631544.13&__hssc=215508872.18.1648749631544&__hsfp=689994695#cc).
 
