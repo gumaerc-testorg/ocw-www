@@ -17,7 +17,7 @@ description: "Like so many of the big challenges taken on at MIT, environmental 
   \ time, the environment shapes us, as human society and institutions are built upon\
   \ our connection to the weather, land, water, and other species. What can we learn\
   \ from ecological systems and cycles? What solutions will allow people and the planet\
-  \ to thrive?\n\nMIT scholars, students and alumni are working to understand and\
+  \ to thrive?\_\n\nMIT scholars, students and alumni are working to understand and\
   \ help us make progress toward a more sustainable and just world. This core mission\
   \ draws upon all of the fields represented at MIT: not just science, engineering,\
   \ and technology, but also the humanities, arts, economics, history, architecture,\
