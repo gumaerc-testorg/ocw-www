@@ -5,6 +5,8 @@ courses:
   title: The Film Experience
 - id: courses/15-s08-fintech-shaping-the-financial-world-spring-2020
   title: 'FinTech: Shaping the Financial World '
+- id: courses/18-102-introduction-to-functional-analysis-spring-2021
+  title: Introduction to Functional Analysis
 - id: courses/11-382-water-diplomacy-spring-2021
   title: Water Diplomacy
 - id: courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020
