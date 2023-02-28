@@ -36,6 +36,6 @@ topics:
   - Curriculum and Teaching
 - - Humanities
   - Philosophy
-uid: 0d610926-e8ce-472c-90ce-95b129945617
+uid: 17f39da7-0bfe-4f32-b496-4fdff1a968ae
 year: '2003'
 ---

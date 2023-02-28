@@ -49,6 +49,6 @@ primary_course_number: PE.550
 term: January IAP
 title: Designing Your Life
 topics: []
-uid: c080e35c-99a9-49cc-9729-bf4804c8d2a3
+uid: 91934665-6b88-4b63-948e-fb051895c41a
 year: '2007'
 ---

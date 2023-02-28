@@ -29,6 +29,6 @@ title: Geographic Information System (GIS) Tutorial
 topics:
 - - Social Science
   - Geography
-uid: d16d172c-5755-47cb-aca3-b0a37c2bfa15
+uid: 5009ec77-05f5-404e-b3ab-83c91aa80bf4
 year: '2022'
 ---

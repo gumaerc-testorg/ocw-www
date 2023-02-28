@@ -33,6 +33,6 @@ title: Geographic Information System (GIS) Tutorial
 topics:
 - - Social Science
   - Geography
-uid: a913582c-bd99-4078-9dee-97eb2c19b3ac
+uid: 000478ee-77cf-442a-8e04-984a69d510ae
 year: '2016'
 ---

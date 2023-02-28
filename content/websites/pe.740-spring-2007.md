@@ -31,6 +31,6 @@ title: Fencing
 topics:
 - - Health and Medicine
   - Physical Education and Recreation
-uid: 8b4d000f-41ef-4e91-ad00-b2ad9376f86c
+uid: 9745950e-e759-45da-b1ec-add37ac91477
 year: '2007'
 ---

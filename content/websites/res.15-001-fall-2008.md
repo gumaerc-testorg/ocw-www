@@ -48,6 +48,6 @@ topics:
   - Finance
 - - Business
   - Operations Management
-uid: bb40d742-6ae0-4b06-9291-3fe3ed48b828
+uid: c7d22aef-e170-49d0-bb26-6cfef1569d88
 year: '2008'
 ---

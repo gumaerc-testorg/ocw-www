@@ -34,6 +34,6 @@ title: Archery
 topics:
 - - Health and Medicine
   - Physical Education and Recreation
-uid: 28cc1a11-ccf8-4173-b3c4-cfda48f95de6
+uid: 5b631bec-500a-487d-b6b8-403ab88fca2c
 year: '2006'
 ---

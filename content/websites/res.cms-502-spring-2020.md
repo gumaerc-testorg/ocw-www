@@ -39,6 +39,6 @@ term: Spring
 title: 'Competency-Based Education: The Why, What, and How'
 topics:
 - - Teaching and Education
-uid: 4131d696-073f-425d-976d-da0929b63c71
+uid: 8926d908-c6c9-478f-a3f4-400e6e456a77
 year: '2020'
 ---

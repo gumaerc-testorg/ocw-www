@@ -38,6 +38,6 @@ topics:
   - Global Poverty
 - - Society
   - The Developing World
-uid: bbd96e7c-28e8-40a5-8d15-a54cbbf086b6
+uid: c55ee2b4-a27e-4d08-a697-b7c86f7bfce5
 year: '2005'
 ---

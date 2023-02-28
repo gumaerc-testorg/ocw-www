@@ -39,6 +39,6 @@ topics:
 - - Fine Arts
   - Visual Arts
   - Graphic Design
-uid: 42f10ac8-9266-4fce-87d1-8721d61e220a
+uid: 73b22aac-743a-4b9a-8748-036b61132136
 year: '2013'
 ---

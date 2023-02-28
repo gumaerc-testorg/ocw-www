@@ -39,6 +39,6 @@ title: Principles of Pharmacology
 topics:
 - - Health and Medicine
   - Pharmacology and Toxicology
-uid: 4461f050-c8d2-4cfa-b314-5615c699ee5b
+uid: 95893466-472a-4f49-ace7-36878714a98c
 year: '2005'
 ---

@@ -33,6 +33,6 @@ title: Workshop I
 topics:
 - - Fine Arts
   - Media Studies
-uid: 7ef836d6-9ece-479d-9605-2c80f05dd0da
+uid: 4d16a2ce-9b76-4a7d-ba73-393d2a8a1bc9
 year: '2005'
 ---

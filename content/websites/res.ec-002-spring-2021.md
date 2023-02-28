@@ -36,6 +36,6 @@ term: Spring
 title: Lean Research Skills for Conducting Interviews
 topics:
 - - Social Science
-uid: 8b2c1b80-9501-43ee-9e71-27789b4942d3
+uid: 8df2ffe6-2702-4107-b288-a566e2fa7f0a
 year: '2021'
 ---

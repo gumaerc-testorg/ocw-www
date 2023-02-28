@@ -56,6 +56,6 @@ title: Principle and Practice of Human Pathology
 topics:
 - - Health and Medicine
   - Pathology and Pathophysiology
-uid: 47ec4ef4-451c-4cec-a2d2-aa2074169483
+uid: 7bb3783f-e9cb-4b39-af42-3ac6838d1a4d
 year: '2003'
 ---

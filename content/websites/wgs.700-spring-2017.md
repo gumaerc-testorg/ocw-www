@@ -57,6 +57,6 @@ topics:
   - Gender Studies
 - - Society
   - African American Studies
-uid: bb7d73f5-5c29-4629-bb40-0f5d78f0d054
+uid: 7d02c553-e1fa-433d-9f58-1a4ae4aa2b0b
 year: '2017'
 ---

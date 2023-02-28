@@ -47,6 +47,6 @@ topics:
   - Technical Writing
 - - Social Science
   - Communication
-uid: 64fb115d-9d95-46f2-8eed-28a6043982a7
+uid: 08a0a8e3-8aa6-4240-8a65-745d9f69cbbc
 year: '2001'
 ---

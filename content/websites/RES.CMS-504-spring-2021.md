@@ -37,6 +37,6 @@ term: Spring
 title: 'Sorting Truth From Fiction: Civic Online Reasoning'
 topics:
 - - Teaching and Education
-uid: 7f48088f-f02f-47f2-ab2e-547ca30ae657
+uid: fa4c4b8a-6a40-470d-a91e-932677b27910
 year: '2021'
 ---

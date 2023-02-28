@@ -48,6 +48,6 @@ topics:
   - Operations Management
 - - Business
   - Leadership
-uid: 96f1e856-2d22-49ca-bac4-a1a797127767
+uid: 818db7d7-e324-4ab7-9ca6-73a09332d685
 year: '2006'
 ---

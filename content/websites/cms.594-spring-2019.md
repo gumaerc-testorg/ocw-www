@@ -36,6 +36,6 @@ title: Education Technology Studio
 topics:
 - - Teaching and Education
   - Educational Technology
-uid: c0b07ce9-bc75-4ca2-82f0-b6961f7fff08
+uid: ca0449c3-a355-4cdb-99b7-1e4503f9b0ff
 year: '2019'
 ---

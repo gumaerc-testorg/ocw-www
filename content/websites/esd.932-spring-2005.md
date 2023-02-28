@@ -38,6 +38,6 @@ title: Technology Policy Organizations
 topics:
 - - Business
   - Organizational Behavior
-uid: 0ced1092-05e3-43c9-a1cc-8596a0eace0c
+uid: 4735bffe-b99c-41e8-8b6f-bdc60caf6baf
 year: '2005'
 ---

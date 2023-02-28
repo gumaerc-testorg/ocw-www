@@ -32,6 +32,6 @@ title: Algebra II Student Notes
 topics:
 - - Mathematics
   - Algebra and Number Theory
-uid: 20db5c18-9ec2-4787-a478-9820db52b0e4
+uid: a4da2750-b76f-4079-ae1d-d6784d8a83f4
 year: '2022'
 ---

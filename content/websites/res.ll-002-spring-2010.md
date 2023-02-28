@@ -43,6 +43,6 @@ topics:
 - - Science
   - Physics
   - Electromagnetism
-uid: 3416b1f3-4be6-47e1-83e9-9555062f56ae
+uid: 14f04c35-9aa5-4b84-be59-3483156d8215
 year: '2010'
 ---

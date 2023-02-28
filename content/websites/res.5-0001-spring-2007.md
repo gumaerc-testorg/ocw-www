@@ -49,6 +49,6 @@ title: Digital Lab Techniques Manual
 topics:
 - - Science
   - Chemistry
-uid: 9fd4b288-832a-4444-bde1-69e3f31043e6
+uid: 0babb85a-e4e9-46da-83c6-565528e7904f
 year: '2007'
 ---

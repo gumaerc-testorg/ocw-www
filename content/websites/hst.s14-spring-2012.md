@@ -56,6 +56,6 @@ topics:
   - Information Technology
 - - Business
   - Innovation
-uid: c25e749c-14c1-4874-a358-5477213decdd
+uid: 76b0a461-efba-4ea2-87e6-a7d47db3461d
 year: '2012'
 ---

@@ -21,6 +21,6 @@ primary_course_number: '1693'
 term: ''
 title: cpg-test-course-1693
 topics: []
-uid: 52c00d8c-1305-439e-9f1a-357ba7d479cd
+uid: aebeca6a-b812-4fc0-b546-1bf8b3141b19
 year: ''
 ---

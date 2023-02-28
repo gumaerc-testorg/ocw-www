@@ -45,6 +45,6 @@ title: 'Feminist Inquiry: Strategies for Effective Scholarship'
 topics:
 - - Society
   - Gender Studies
-uid: 34d30e4a-3b9b-4a16-bced-74b2bad31239
+uid: 2aa18968-afa3-40d1-b293-1f1922e15a18
 year: '2012'
 ---

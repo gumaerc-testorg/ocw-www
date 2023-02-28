@@ -47,6 +47,6 @@ topics:
   - Business Ethics
 - - Health and Medicine
   - Biomedical Enterprise
-uid: 0ef7d2b4-d961-4821-a737-8dbb433c7b57
+uid: 6a7fe83b-a544-4628-bafc-0d7a1719cc7f
 year: '2005'
 ---

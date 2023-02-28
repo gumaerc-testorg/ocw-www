@@ -37,6 +37,6 @@ title: How to Learn (Almost) Anything
 topics:
 - - Teaching and Education
   - Curriculum and Teaching
-uid: 2679f6b8-2138-4109-b44f-5cb2c5588c19
+uid: 61d3d493-7d0b-4f0f-9afc-d0ccaee2ace0
 year: '2001'
 ---

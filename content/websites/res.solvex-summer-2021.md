@@ -45,6 +45,6 @@ topics:
   - Entrepreneurship
 - - Business
   - Management
-uid: f079d6b0-810b-40f0-a4e4-07a970b1ba9b
+uid: be3b5a2e-9564-44b0-b06c-cee419acf817
 year: '2021'
 ---

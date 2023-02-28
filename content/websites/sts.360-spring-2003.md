@@ -35,6 +35,6 @@ topics:
 - - Social Science
   - Anthropology
   - Ethnography
-uid: 30b5d63a-7ed6-4af2-945a-fb86ab153a37
+uid: 67a61be5-107d-4479-b0d9-a29d713adfc2
 year: '2003'
 ---

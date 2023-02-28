@@ -41,6 +41,6 @@ topics:
   - Sociology
 - - Social Science
   - Political Science
-uid: 05830be2-8b74-4c57-a3f2-893f425ced12
+uid: 694d7115-d741-4a57-a89f-ad5b3ab87407
 year: '2006'
 ---

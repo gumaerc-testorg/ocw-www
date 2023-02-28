@@ -31,6 +31,6 @@ title: Art of Color
 topics:
 - - Fine Arts
   - Visual Arts
-uid: 295fbcfe-4890-4cf9-8949-3448de37d23e
+uid: 1e6558da-9faf-4c80-98ce-e640002238ea
 year: '2005'
 ---

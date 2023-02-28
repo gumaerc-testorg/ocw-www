@@ -40,6 +40,6 @@ topics:
 - - Social Science
   - Anthropology
   - Social Anthropology
-uid: 1cd43bd8-8ccb-44b9-8f7b-f6ac0329b9ed
+uid: 3b956e21-5d60-4737-9bf6-97611b338653
 year: '2002'
 ---

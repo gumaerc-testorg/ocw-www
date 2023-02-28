@@ -38,6 +38,6 @@ term: Spring
 title: 'LL EduCATE: Introduction to Engineering Concepts'
 topics:
 - - Engineering
-uid: 5767af31-39cc-400b-9608-d0ba24b95c78
+uid: 27a2ac3b-64b8-49e7-ac8e-52d76ce0fffd
 year: '2022'
 ---

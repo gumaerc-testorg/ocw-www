@@ -55,6 +55,6 @@ topics:
 - - Fine Arts
   - Visual Arts
   - Photography
-uid: 48186336-ef21-442c-8d49-037075b59daa
+uid: 7c93e87d-ae57-4200-8040-0746fccc6af0
 year: '2009'
 ---

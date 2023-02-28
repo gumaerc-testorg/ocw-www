@@ -36,6 +36,6 @@ topics:
 - - Humanities
   - Linguistics
   - Semantics
-uid: 1b3d6518-e42c-426f-abde-0b390980dfb6
+uid: 54919891-f851-4c88-8049-865269e3c2af
 year: '1997'
 ---

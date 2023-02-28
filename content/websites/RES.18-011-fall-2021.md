@@ -33,6 +33,6 @@ title: Algebra I Student Notes
 topics:
 - - Mathematics
   - Algebra and Number Theory
-uid: fb2c684f-c102-45f1-b351-8307d4ee91ca
+uid: a9d1bcbd-a571-4853-a6db-653f052479ee
 year: '2021'
 ---

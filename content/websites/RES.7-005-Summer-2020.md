@@ -33,6 +33,6 @@ title: Biology Teaching Assistant (TA) Training
 topics:
 - - Teaching and Education
   - Curriculum and Teaching
-uid: 5d3e1fe2-1685-4240-806e-8910a0c7b56a
+uid: efae4e07-6c66-42b6-bd43-5d7e77ebf9a3
 year: '2020'
 ---

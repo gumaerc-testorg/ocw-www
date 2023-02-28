@@ -37,6 +37,6 @@ title: Media Industries and Systems
 topics:
 - - Fine Arts
   - Media Studies
-uid: d3022ab0-cf53-4ef8-bcff-75f1fe543b53
+uid: 97c15b41-28a1-4bf7-87a3-83929b158da8
 year: '2006'
 ---

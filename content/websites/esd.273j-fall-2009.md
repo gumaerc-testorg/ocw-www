@@ -41,6 +41,6 @@ topics:
   - Systems Engineering
 - - Business
   - Operations Management
-uid: 9a1c6403-6917-4224-b831-27230c6ec1cd
+uid: 129d2d10-d2ef-4733-850f-85f09635532f
 year: '2009'
 ---

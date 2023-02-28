@@ -49,6 +49,6 @@ topics:
 - - Humanities
   - History
   - Intellectual History
-uid: 1a83645b-66eb-4980-a540-9031a0088d56
+uid: 254e4bcb-94c5-4292-9e43-e4b416ecf25d
 year: '2007'
 ---
