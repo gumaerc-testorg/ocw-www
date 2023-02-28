@@ -20,6 +20,7 @@ course_title: 'Engineering Health: Towards the Tricorder'
 department_numbers:
 - MAS
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 3ed48997-b81e-aa90-ead6-2eab2c93ce21

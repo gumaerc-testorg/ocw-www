@@ -22,6 +22,7 @@ course_title: Topics in Fluid Dynamics
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 32dfd2f1-f3de-0906-854a-384e71ab217a

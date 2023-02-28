@@ -24,6 +24,7 @@ course_title: Physical Intelligence
 department_numbers:
 - PE
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 390ca2d0-3f9b-2968-14d2-b2e32bc7f62d

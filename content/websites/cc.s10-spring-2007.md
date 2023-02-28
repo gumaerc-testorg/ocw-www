@@ -18,6 +18,7 @@ course_title: Prohibition and Permission
 department_numbers:
 - CC
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - b2df7a0b-fbe8-b2f8-90e9-10792d5933de

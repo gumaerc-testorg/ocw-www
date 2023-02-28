@@ -22,6 +22,7 @@ course_title: Technology in a  Dangerous World
 department_numbers:
 - STS
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - ff3f95cc-6ddb-69b1-10a7-b706dabe048d

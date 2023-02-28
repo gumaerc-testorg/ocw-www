@@ -18,6 +18,7 @@ course_title: 'Mission & Metrics: Finance Training for Federal Credit Program Pr
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 5cf435dd-276d-b867-9792-182623713ec9

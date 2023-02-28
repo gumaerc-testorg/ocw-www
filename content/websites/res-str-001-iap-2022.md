@@ -13,6 +13,7 @@ course_title: Geographic Information System (GIS) Tutorial
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - e2ea1694-9976-d7b8-7686-38b299860a05

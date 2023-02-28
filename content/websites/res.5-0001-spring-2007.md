@@ -31,6 +31,7 @@ course_title: Digital Lab Techniques Manual
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 64cde08e-416f-44e7-f350-b9a64e1b2d50

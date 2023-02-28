@@ -23,6 +23,7 @@ course_title: Introduction to Technology and Policy
 department_numbers:
 - ESD
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 38bc86fc-d5eb-1bfa-4898-a805137615e5

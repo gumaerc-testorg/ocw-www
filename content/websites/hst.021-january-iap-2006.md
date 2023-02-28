@@ -16,6 +16,7 @@ course_title: Musculoskeletal Pathophysiology
 department_numbers:
 - HST
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - ff9f9f45-7fa7-fb4f-a024-81f143709cf6

@@ -29,6 +29,7 @@ course_title: Continuum Electromechanics
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 281bb786-462c-d33d-fa7a-1142ca92c151

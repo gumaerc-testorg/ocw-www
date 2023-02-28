@@ -20,6 +20,7 @@ course_title: Practical Electronics
 department_numbers:
 - EC
 extra_course_numbers: EC.S11
+headless: true
 instructors:
   content:
   - 3f4c43b7-b236-b7f1-7e0f-f24f64f93cc0

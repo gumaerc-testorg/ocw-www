@@ -19,6 +19,7 @@ course_title: 'Cosmic Origin of the Chemical Elements '
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 0bb74f02-6e52-c6eb-1b90-fe7d782be397

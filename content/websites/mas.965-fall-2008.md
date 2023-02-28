@@ -31,6 +31,7 @@ department_numbers:
 - '6'
 - EC
 extra_course_numbers: 6.976,EC.S06
+headless: true
 instructors:
   content:
   - a51dbd5c-0ae8-89be-19c8-ed91f1b4f163

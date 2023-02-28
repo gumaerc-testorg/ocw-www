@@ -21,6 +21,7 @@ department_numbers:
 - MAS
 - '1'
 extra_course_numbers: 1.126J
+headless: true
 instructors:
   content:
   - d9cb937e-68d2-53a7-f812-696a7702697a

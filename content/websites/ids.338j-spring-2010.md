@@ -23,6 +23,7 @@ department_numbers:
 - IDS
 - '16'
 extra_course_numbers: 16.888,IDS.338J (formerly ESD.77)
+headless: true
 instructors:
   content:
   - 07d4f055-5edf-ebf2-c247-7bbf2d19dd91

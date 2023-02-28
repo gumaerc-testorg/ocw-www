@@ -21,6 +21,7 @@ course_title: 'Climate Action Hands-On: Harnessing Science with Communities to C
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 5751a0fc-f84e-1760-382c-dd30ecd58bdf

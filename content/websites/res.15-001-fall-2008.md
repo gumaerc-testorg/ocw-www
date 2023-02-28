@@ -22,6 +22,7 @@ course_title: MIT Sloan Teaching Resources Library
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - c9325e78-1760-933f-7bdc-a9df16b71044

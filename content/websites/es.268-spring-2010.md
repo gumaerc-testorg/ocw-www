@@ -17,6 +17,7 @@ course_title: The Mathematics in Toys and Games
 department_numbers:
 - ES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - e44be0c7-3aec-bb3b-9625-04b4dec7e010

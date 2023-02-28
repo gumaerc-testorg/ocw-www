@@ -19,6 +19,7 @@ course_title: Algebra I Student Notes
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content: []
   website: ocw-www

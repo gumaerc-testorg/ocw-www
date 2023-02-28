@@ -20,6 +20,7 @@ course_title: 'Industrial Design Intelligence: A Cognitive Approach to Engineeri
 department_numbers:
 - MAS
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - b581611f-1399-7003-bf00-b06562722ef8

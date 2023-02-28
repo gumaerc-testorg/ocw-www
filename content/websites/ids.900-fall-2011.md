@@ -19,6 +19,7 @@ course_title: Doctoral Seminar in Engineering Systems
 department_numbers:
 - IDS
 extra_course_numbers: IDS.900 (formerly ESD.83)
+headless: true
 instructors:
   content:
   - 54e3f5ea-38b5-3365-97a4-07feb2d7ac86

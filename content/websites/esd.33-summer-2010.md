@@ -20,6 +20,7 @@ course_title: Systems Engineering
 department_numbers:
 - ESD
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - cde7e5ae-a0ed-0b27-6305-69d1efc20904

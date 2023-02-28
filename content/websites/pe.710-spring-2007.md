@@ -18,6 +18,7 @@ course_title: Tennis
 department_numbers:
 - PE
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 7fb68e70-b501-d384-145f-ace93df771bb

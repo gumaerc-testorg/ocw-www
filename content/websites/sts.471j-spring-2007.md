@@ -22,6 +22,7 @@ department_numbers:
 - '16'
 - ESD
 extra_course_numbers: 16.895J,ESD.30J
+headless: true
 instructors:
   content:
   - e950e033-9524-c600-2449-fe5276f40a3c

@@ -26,6 +26,7 @@ course_title: Designing and Sustaining Technology Innovation for Global Health P
 department_numbers:
 - HST
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - d1efae2a-dfbd-2d93-9389-dfe704c68392

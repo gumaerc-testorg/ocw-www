@@ -15,6 +15,7 @@ course_title: Visualizing Materials Science
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 2b564674-83e7-2355-c87b-0e1734d4c8ee

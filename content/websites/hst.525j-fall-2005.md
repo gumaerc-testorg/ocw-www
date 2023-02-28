@@ -19,6 +19,7 @@ department_numbers:
 - HST
 - '10'
 extra_course_numbers: 10.548J
+headless: true
 instructors:
   content:
   - f293b267-7f3a-7556-ad4e-298e47796685

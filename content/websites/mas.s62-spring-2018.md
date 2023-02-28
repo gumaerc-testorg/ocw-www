@@ -16,6 +16,7 @@ course_title: Cryptocurrency Engineering and Design
 department_numbers:
 - MAS
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 9145a949-ebb4-c304-0078-90b1e5118744

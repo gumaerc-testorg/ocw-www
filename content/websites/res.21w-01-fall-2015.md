@@ -34,6 +34,7 @@ course_title: Angles
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - f4b9f8da-acb8-ed71-c553-106b6a963ea3

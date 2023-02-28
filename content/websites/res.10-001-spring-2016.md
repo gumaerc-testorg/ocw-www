@@ -33,6 +33,7 @@ course_title: 'Making Science and Engineering Pictures: A Practical Guide to Pre
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - e8488e88-2b26-4db5-e49f-5f59e402d924

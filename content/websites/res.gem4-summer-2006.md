@@ -84,6 +84,7 @@ course_title: Global Enterprise for Micro-Mechanics and Molecular Medicine (GEM4
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 89528313-0bf4-67f5-fc6d-42acc30a78f8

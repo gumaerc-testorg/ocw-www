@@ -94,6 +94,7 @@ course_title: 'Functional Magnetic Resonance Imaging: Data Acquisition and Analy
 department_numbers:
 - HST
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 36cef434-66a4-d5e3-e5e4-300d82532411

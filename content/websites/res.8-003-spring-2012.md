@@ -14,6 +14,7 @@ course_title: Physics Demonstration Videos
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - c2c5d8b7-1a20-424a-6836-c8c50fdea9ba

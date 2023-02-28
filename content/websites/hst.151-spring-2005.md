@@ -18,6 +18,7 @@ course_title: Principles of Pharmacology
 department_numbers:
 - HST
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 7b191554-6ce5-325f-7324-d8649b4c9e22

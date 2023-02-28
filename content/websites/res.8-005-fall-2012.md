@@ -27,6 +27,7 @@ course_title: Vibrations and Waves Problem Solving
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 39e8903d-d873-9b43-a229-51fa23b19dd0

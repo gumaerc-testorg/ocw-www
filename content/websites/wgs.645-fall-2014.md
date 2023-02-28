@@ -28,6 +28,7 @@ course_title: Gender, Health and Marginalization Through a Critical Feminist Len
 department_numbers:
 - WGS
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - ea2fcb65-1405-9c36-a6f4-cfd65d1ea01d

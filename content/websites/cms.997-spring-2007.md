@@ -26,6 +26,7 @@ course_title: 'Topics in Comparative Media: American Pro Wrestling'
 department_numbers:
 - CMS-W
 extra_course_numbers: CMS.602
+headless: true
 instructors:
   content:
   - a6e5affd-00e1-a85c-9917-e7daeb435aa4

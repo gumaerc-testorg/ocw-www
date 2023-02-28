@@ -21,6 +21,7 @@ course_title: Histories of Information, Communication, and Computing Technologie
 department_numbers:
 - STS
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 55118bc3-68c2-d2de-fdb8-222e1f4e2fed

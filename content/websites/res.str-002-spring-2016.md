@@ -20,6 +20,7 @@ course_title: Data Management
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 1273476c-a3f6-e250-0a53-2d91aea619fd

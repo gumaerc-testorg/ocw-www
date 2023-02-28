@@ -21,6 +21,7 @@ course_title: The Art and Science of Happiness
 department_numbers:
 - ES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 96ba9467-ce39-a1e0-a540-2c73d1e2ab57

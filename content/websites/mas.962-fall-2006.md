@@ -20,6 +20,7 @@ course_title: Common Sense Reasoning for Interactive Applications
 department_numbers:
 - MAS
 extra_course_numbers: MAS.964
+headless: true
 instructors:
   content:
   - c91ce378-adf8-ef81-4750-22d198f289c2

@@ -19,6 +19,7 @@ course_title: Cold War Science
 department_numbers:
 - STS
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - a82bdf46-94f8-6a7a-7a3c-39dccc6b5001

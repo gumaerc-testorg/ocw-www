@@ -16,6 +16,7 @@ department_numbers:
 - STS
 - '17'
 extra_course_numbers: 17.395J
+headless: true
 instructors:
   content:
   - 02fa8dea-9e35-ace2-2a5a-11aa73eda926

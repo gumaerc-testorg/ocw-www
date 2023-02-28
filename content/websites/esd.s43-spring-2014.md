@@ -24,6 +24,7 @@ course_title: Green Supply Chain Management
 department_numbers:
 - ESD
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 2a06b9c0-af26-41d5-3190-4232b6354b99

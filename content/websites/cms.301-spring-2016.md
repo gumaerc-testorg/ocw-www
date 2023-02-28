@@ -17,6 +17,7 @@ course_title: Introduction to Game Design Methods
 department_numbers:
 - CMS-W
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - d32163ca-b8a1-1bfb-35a9-fa64356c0206

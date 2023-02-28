@@ -20,6 +20,7 @@ department_numbers:
 - STS
 - 21H
 extra_course_numbers: 21H.913J
+headless: true
 instructors:
   content:
   - d7f32266-6f58-3606-54fa-d4b85b599d5e

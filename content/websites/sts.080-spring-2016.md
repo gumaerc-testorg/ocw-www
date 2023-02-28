@@ -21,6 +21,7 @@ department_numbers:
 - STS
 - '11'
 extra_course_numbers: '11.151'
+headless: true
 instructors:
   content:
   - 55118bc3-68c2-d2de-fdb8-222e1f4e2fed

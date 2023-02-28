@@ -21,6 +21,7 @@ course_title: Gender and Technology
 department_numbers:
 - WGS
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - ce7e3645-a595-33c5-3d1d-8e1b04665031

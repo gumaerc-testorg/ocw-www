@@ -20,6 +20,7 @@ course_title: The Peripheral Auditory System
 department_numbers:
 - HST
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 821348e6-a5e2-db1d-d72f-fa21d797e63a

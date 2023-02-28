@@ -20,6 +20,7 @@ course_title: 'Godzilla and the Bullet Train: Technology and Culture in Modern J
 department_numbers:
 - STS
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 632488c5-2392-898c-0f64-39004a4eab87

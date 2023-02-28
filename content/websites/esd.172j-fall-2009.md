@@ -23,6 +23,7 @@ department_numbers:
 - ESD
 - EC
 extra_course_numbers: EC.421J
+headless: true
 instructors:
   content:
   - b153e046-019b-8973-a792-7e9000be4f4b

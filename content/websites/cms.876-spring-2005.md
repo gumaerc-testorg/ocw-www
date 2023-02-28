@@ -20,6 +20,7 @@ course_title: History of Media and Technology
 department_numbers:
 - CMS-W
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 66634a79-63d6-2b9d-eb07-8e0cd7a8028f

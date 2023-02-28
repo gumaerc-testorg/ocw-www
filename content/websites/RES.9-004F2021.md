@@ -32,6 +32,7 @@ course_title: Nancy's Brain Talks
 department_numbers:
 - '9'
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - a200579a-eaaa-c391-a86b-f6617d0ad929

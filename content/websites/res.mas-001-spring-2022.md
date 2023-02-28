@@ -16,6 +16,7 @@ course_title: RAISE (Responsible AI for Social Empowerment and Education)
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 12212598-b448-e70b-1c32-5555dcf0248c

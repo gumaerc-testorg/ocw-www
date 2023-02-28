@@ -29,6 +29,7 @@ department_numbers:
 - HST
 - STS
 extra_course_numbers: STS.449J
+headless: true
 instructors:
   content:
   - 5630b551-e31e-6d49-d542-891e2dc7678d

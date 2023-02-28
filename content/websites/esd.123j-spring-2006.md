@@ -19,6 +19,7 @@ department_numbers:
 - '1'
 - '3'
 extra_course_numbers: 1.814J,3.560J
+headless: true
 instructors:
   content:
   - 36799794-0171-1949-bfdc-11d824133ef0

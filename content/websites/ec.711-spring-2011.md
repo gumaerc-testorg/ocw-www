@@ -24,6 +24,7 @@ course_title: 'D-Lab: Energy'
 department_numbers:
 - EC
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - e6d76a39-0122-2e62-f3b0-53fa9550466d

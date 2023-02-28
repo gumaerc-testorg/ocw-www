@@ -26,6 +26,7 @@ course_title: Brave New Planet
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 8c984d5b-9b1b-6755-8f69-a4b755c0b858

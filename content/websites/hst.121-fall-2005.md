@@ -19,6 +19,7 @@ course_title: Gastroenterology
 department_numbers:
 - HST
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 771822e9-2891-34e5-533d-61a687161a54

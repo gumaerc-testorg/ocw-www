@@ -23,6 +23,7 @@ course_title: Day of AI
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 12212598-b448-e70b-1c32-5555dcf0248c

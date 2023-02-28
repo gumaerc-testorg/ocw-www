@@ -21,6 +21,7 @@ course_title: Major Media Texts
 department_numbers:
 - CMS-W
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 4726f3b6-5bd5-5f81-098f-1766520978c4

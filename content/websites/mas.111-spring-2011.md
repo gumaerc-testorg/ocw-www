@@ -18,6 +18,7 @@ course_title: Introduction to Doing Research in Media Arts and Sciences
 department_numbers:
 - MAS
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 2cb72162-068d-82ea-b34f-0b9343ab5a2e

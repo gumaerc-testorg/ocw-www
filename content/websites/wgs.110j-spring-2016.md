@@ -21,6 +21,7 @@ department_numbers:
 - WGS
 - 21H
 extra_course_numbers: 21H.108J
+headless: true
 instructors:
   content:
   - 377502d0-d3f2-7831-7c2e-e01305599409

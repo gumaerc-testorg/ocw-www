@@ -19,6 +19,7 @@ course_title: Genomics, Computing, Economics, and Society
 department_numbers:
 - HST
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 21f4d75c-6b7a-bf37-e743-856aeb242993

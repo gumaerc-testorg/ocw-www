@@ -22,6 +22,7 @@ course_title: Adaptive Antennas and Phased Arrays
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 435326d1-6389-d6a4-0f39-c487f9c7ad33

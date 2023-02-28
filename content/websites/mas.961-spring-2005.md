@@ -21,6 +21,7 @@ course_title: Ambient Intelligence
 department_numbers:
 - MAS
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - d34ef44d-6e46-3713-61dc-8cffb0086c0c

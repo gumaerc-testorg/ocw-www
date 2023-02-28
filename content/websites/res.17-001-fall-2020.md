@@ -28,6 +28,7 @@ course_title: MIT Election Data + Science Lab
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 7d20a23f-4e5b-ba93-2a96-5671e5b3da0c

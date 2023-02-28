@@ -17,6 +17,7 @@ course_title: MIT Prison Education Initiative Discussion About Incarceration
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 95b526c2-4ddf-cfdd-68e4-7b25fa85c26f

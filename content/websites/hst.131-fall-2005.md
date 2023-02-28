@@ -18,6 +18,7 @@ course_title: Introduction to Neuroscience
 department_numbers:
 - HST
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - cfd778e8-410c-6764-9905-cbcfb10278fc

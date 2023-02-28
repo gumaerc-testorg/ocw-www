@@ -19,6 +19,7 @@ course_title: Conversational Computer Systems
 department_numbers:
 - MAS
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - b98e60b2-41df-f3a4-622f-958f3e4eda8d

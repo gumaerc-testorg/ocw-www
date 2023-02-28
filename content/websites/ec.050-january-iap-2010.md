@@ -21,6 +21,7 @@ course_title: 'Recreate Experiments from History: Inform the Future from the Pas
 department_numbers:
 - EC
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 55aa90db-559d-5311-4976-bcb0a8f91b1f

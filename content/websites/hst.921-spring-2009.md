@@ -25,6 +25,7 @@ course_title: Information Technology in the Health Care System of the Future
 department_numbers:
 - HST
 extra_course_numbers: HST.922
+headless: true
 instructors:
   content:
   - 753ecf37-9d22-98bd-9cc1-5ac8e54dffdc

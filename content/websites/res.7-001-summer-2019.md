@@ -21,6 +21,7 @@ course_title: 'Pre-7.01: Getting up to Speed in Biology'
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 278bc492-0e57-1368-8510-500ffe508e8d

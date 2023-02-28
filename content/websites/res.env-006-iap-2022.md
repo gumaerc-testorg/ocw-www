@@ -22,6 +22,7 @@ course_title: Teaching with Sustainability
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 841f80fc-fcc2-41e2-a8d5-97fc50b3f189

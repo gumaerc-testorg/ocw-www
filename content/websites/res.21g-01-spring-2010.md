@@ -31,6 +31,7 @@ course_title: Kana
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - fe43b84c-d16e-9e7e-532a-521e3865ef5b

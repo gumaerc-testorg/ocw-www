@@ -17,6 +17,7 @@ course_title: Writing Workshop
 department_numbers:
 - ES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - d5bcc774-f084-ce30-7a65-92b332f2118a

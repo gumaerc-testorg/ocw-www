@@ -23,6 +23,7 @@ course_title: System Project Management
 department_numbers:
 - ESD
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 07d4f055-5edf-ebf2-c247-7bbf2d19dd91

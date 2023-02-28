@@ -28,6 +28,7 @@ course_title: Business and Impact Planning for Social Enterprises (0.SolveX)
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - e9f1bf72-c40e-b762-0f5a-6cf11e06d9bd

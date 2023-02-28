@@ -37,6 +37,7 @@ course_title: Media Literacy in the Age of Deepfakes
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 78a34add-0c42-6ed5-b931-18f94a550dbf

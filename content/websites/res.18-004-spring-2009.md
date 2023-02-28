@@ -28,6 +28,7 @@ course_title: 'The Torch or The Firehose: A Guide to Section Teaching'
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 583cc582-1f48-236c-af5a-b2f4750fef40

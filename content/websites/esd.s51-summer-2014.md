@@ -19,6 +19,7 @@ course_title: Systems Leadership and Management Praxis
 department_numbers:
 - ESD
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 121ecb58-6e1c-b9b6-323e-3b0c67f7ca40

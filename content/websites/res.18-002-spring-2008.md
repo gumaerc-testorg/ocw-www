@@ -23,6 +23,7 @@ course_title: Introduction to MATLAB
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - c0b57fe0-cef5-2533-2569-1640ac72a098

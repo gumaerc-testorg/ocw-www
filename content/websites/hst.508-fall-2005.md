@@ -15,6 +15,7 @@ course_title: Quantitative Genomics
 department_numbers:
 - HST
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 4bf88497-1d93-d26e-cd53-b08770c14b56

@@ -18,6 +18,7 @@ course_title: Seminar on Deep Engagement
 department_numbers:
 - MAS
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 96288a93-00ec-dc38-7738-e2def96b0e9d

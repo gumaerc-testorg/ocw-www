@@ -20,6 +20,7 @@ course_title: Prototypes to Products
 department_numbers:
 - EC
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - a99c4527-0949-5168-bbd6-17232f27e098

@@ -18,6 +18,7 @@ course_title: Games for Social Change
 department_numbers:
 - CMS-W
 extra_course_numbers: CMS.815
+headless: true
 instructors:
   content:
   - af4b9835-79c7-8c76-4a36-20f599aa5904

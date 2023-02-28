@@ -22,6 +22,7 @@ course_title: 'Studies in Women''s Life Narratives: Interrogating Marriage: Case
 department_numbers:
 - WGS
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - fd4fc26a-d391-95f8-f371-7902b7f8f06d

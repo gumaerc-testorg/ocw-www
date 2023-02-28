@@ -23,6 +23,7 @@ course_title: Visualizing the Birth of Modern Tokyo
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 3ccc00a4-4a5a-8131-447b-f67c5d7e81f1

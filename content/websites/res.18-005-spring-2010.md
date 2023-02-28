@@ -25,6 +25,7 @@ course_title: Highlights of Calculus
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 84b06ab4-b3e7-63cc-f537-5507e60fa961

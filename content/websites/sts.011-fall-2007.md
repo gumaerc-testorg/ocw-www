@@ -24,6 +24,7 @@ course_title: 'American Science: Ethical Conflicts and Political Choices'
 department_numbers:
 - STS
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - a9cb8b93-a7fb-0e28-e1c6-6554ee578db1

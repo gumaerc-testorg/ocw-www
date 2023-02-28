@@ -31,6 +31,7 @@ course_title: Applied Geometric Algebra
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 625c91cc-cb6f-eed0-ad56-981ef7f1ade4

@@ -19,6 +19,7 @@ course_title: System Architecture
 department_numbers:
 - ESD
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - e042c8f9-995f-cc11-0a2a-5aafa674c5e6

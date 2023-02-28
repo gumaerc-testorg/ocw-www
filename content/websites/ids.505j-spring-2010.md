@@ -22,6 +22,7 @@ department_numbers:
 - '15'
 - ESD
 extra_course_numbers: 6.695,15.032J,ESD.162,6.974,IDS.505J (formerly ESD.934)
+headless: true
 instructors:
   content:
   - 12fdf53f-4f4a-bb29-9726-6fa1b4e15ef8

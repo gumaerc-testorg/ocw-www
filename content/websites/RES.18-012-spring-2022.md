@@ -18,6 +18,7 @@ course_title: Algebra II Student Notes
 department_numbers:
 - '18'
 extra_course_numbers: ''
+headless: true
 instructors:
   content: []
   website: algebra-ii-student-notes

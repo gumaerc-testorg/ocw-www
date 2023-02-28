@@ -22,6 +22,7 @@ department_numbers:
 - CMS-W
 - 21G
 extra_course_numbers: 21G.034
+headless: true
 instructors:
   content:
   - 3ccc00a4-4a5a-8131-447b-f67c5d7e81f1

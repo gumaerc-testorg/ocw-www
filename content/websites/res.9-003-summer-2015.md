@@ -22,6 +22,7 @@ course_title: Brains, Minds and Machines Summer Course
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 5f6bd7a0-06b9-c3c4-8759-e6aab3545d24

@@ -21,6 +21,7 @@ course_title: Ancient Greek Philosophy and Mathematics
 department_numbers:
 - ES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 6d4cc94a-1cc6-184f-cb36-2322ce10b07a

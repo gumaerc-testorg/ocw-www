@@ -22,6 +22,7 @@ course_title: Leveraging Urban Mobility Disruptions to Create Better Cities
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 1aa1da3a-e3bc-3cda-0ef6-31c063c9d5c0

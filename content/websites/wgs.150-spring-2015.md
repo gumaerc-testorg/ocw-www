@@ -17,6 +17,7 @@ course_title: Gender, Power, Leadership and the Workplace
 department_numbers:
 - WGS
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 6a28e8ad-ebb8-672f-483a-947acf326a35

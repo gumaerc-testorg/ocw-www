@@ -19,6 +19,7 @@ course_title: Social Visualization
 department_numbers:
 - MAS
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 3fe4aa95-415a-94eb-e916-09f5fe4e0e6f

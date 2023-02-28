@@ -18,6 +18,7 @@ course_title: 'Climate Science, Risk & Solutions: A Climate Primer'
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - d611afa5-56fb-9311-806f-323a785e0dcc

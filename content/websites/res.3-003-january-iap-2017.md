@@ -25,6 +25,7 @@ course_title: Learn to Build Your Own Videogame with the Unity Game Engine and M
 department_numbers:
 - RES
 extra_course_numbers: ''
+headless: true
 instructors:
   content:
   - 58b26586-6c5e-77dd-a1b4-9efaa2f5bb86
