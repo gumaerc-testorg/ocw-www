@@ -11,6 +11,7 @@ course_title: cpg-test-course-1693
 department_numbers:
 - '1'
 extra_course_numbers: ''
+headless: true
 instructors:
   content: []
   website: cpg-test-course-1693
