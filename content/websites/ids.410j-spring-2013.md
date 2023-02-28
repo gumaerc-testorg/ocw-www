@@ -22,7 +22,6 @@ department_numbers:
 - IDS
 - '12'
 extra_course_numbers: 12.844J,IDS.410J (formerly ESD.864)
-headless: true
 instructors:
   content:
   - b0eb6493-93ed-8dfb-8d97-c513b50857c4

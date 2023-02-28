@@ -23,7 +23,6 @@ course_title: 'Competency-Based Education: The Why, What, and How'
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 89666a17-6a2a-c8a6-7d92-867266505def

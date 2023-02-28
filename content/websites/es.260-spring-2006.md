@@ -21,7 +21,6 @@ course_title: 'Women''s Novels: A Weekly Book Club'
 department_numbers:
 - ES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 7a9dc7e3-ee05-1ad9-3ce1-1e91d8f2c7ae

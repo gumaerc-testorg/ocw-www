@@ -17,7 +17,6 @@ course_title: 'Passing: Flexibility in Race and Gender'
 department_numbers:
 - ES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 9187b21c-905e-1588-9eef-bf8209d7af4f

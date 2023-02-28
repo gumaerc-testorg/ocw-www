@@ -21,7 +21,6 @@ course_title: Drugs and the Brain
 department_numbers:
 - ES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - a10820e6-69c3-8428-bf10-63c938ad01d7

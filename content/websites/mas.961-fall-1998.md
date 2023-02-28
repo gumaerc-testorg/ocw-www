@@ -18,7 +18,6 @@ course_title: Numeric Photography
 department_numbers:
 - MAS
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - e06ce70d-9a10-a47e-0d78-f9a70a5d2eca

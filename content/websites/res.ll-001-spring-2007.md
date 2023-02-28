@@ -21,7 +21,6 @@ course_title: Introduction to Radar Systems
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 457e7f07-0be1-ec57-ae01-777a4e2aaf86

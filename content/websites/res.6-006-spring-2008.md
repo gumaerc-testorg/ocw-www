@@ -50,7 +50,6 @@ course_title: Video Demonstrations in Lasers and Optics
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 2d094e0f-57f5-e0ee-46da-3da67faad7c8

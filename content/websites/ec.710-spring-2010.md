@@ -21,7 +21,6 @@ course_title: 'D-Lab: Medical Technologies for the Developing World'
 department_numbers:
 - EC
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - ed134986-b322-073a-adfa-83a85fbe4f4d

@@ -19,7 +19,6 @@ department_numbers:
 - RES
 - EC
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 49e4a4b9-ad4a-4eff-902d-c1bf22bb17a6

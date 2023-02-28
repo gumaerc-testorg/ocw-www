@@ -18,7 +18,6 @@ course_title: Exploring Fairness in Machine Learning for International Developme
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - c9db1340-f58c-e074-cab0-75dd52ab737c

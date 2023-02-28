@@ -21,7 +21,6 @@ department_numbers:
 - RES
 - '10'
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - fbc0e219-bf98-ad34-1799-8ec0484b2200

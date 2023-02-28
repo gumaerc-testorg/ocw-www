@@ -28,7 +28,6 @@ course_title: Cellular and Molecular Immunology
 department_numbers:
 - HST
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 7d2a6d1f-154d-8ce7-52dd-24be47aa29a8

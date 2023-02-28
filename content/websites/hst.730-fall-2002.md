@@ -18,7 +18,6 @@ course_title: Molecular Biology for the Auditory System
 department_numbers:
 - HST
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 3fe05320-e2dc-9d16-b259-04670365000a

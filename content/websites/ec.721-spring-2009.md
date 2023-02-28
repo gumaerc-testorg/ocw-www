@@ -31,7 +31,6 @@ course_title: Wheelchair Design in Developing Countries
 department_numbers:
 - EC
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 3a7335a3-2473-488c-42af-5b2db94689f6

@@ -19,7 +19,6 @@ course_title: Videogame Theory and Analysis
 department_numbers:
 - CMS-W
 extra_course_numbers: CMS.600
-headless: true
 instructors:
   content:
   - f457d431-4e6f-5109-4f49-b93322af4b0e

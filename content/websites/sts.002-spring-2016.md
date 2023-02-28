@@ -21,7 +21,6 @@ course_title: Finance and Society
 department_numbers:
 - STS
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 9c5860c8-2218-e5dc-43ea-df9fdcfba310

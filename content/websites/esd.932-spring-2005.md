@@ -23,7 +23,6 @@ course_title: Technology Policy Organizations
 department_numbers:
 - ESD
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - f51fc489-e59a-38c5-7f93-1504fbb1076f

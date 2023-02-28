@@ -21,7 +21,6 @@ course_title: How to Process, Analyze and Visualize Data
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - b749cd83-84ec-4a63-4693-8bd34258372c

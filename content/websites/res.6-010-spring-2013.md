@@ -19,7 +19,6 @@ course_title: Electronic Feedback Systems
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 2540e332-fb7c-3c41-dc22-b19ac86c5c44

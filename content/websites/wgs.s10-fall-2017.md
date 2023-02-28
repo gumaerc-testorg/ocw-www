@@ -19,7 +19,6 @@ course_title: History of Women in Science and Engineering
 department_numbers:
 - WGS
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 21cf1bf1-d099-b1b7-77c9-e82ca0defb4c

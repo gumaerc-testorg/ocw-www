@@ -17,7 +17,6 @@ course_title: Information and Communication Technology in Africa
 department_numbers:
 - ES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 8cbed8f0-b848-af21-49ff-352e78937b75

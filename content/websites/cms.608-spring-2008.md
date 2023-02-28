@@ -18,7 +18,6 @@ course_title: Game Design
 department_numbers:
 - CMS-W
 extra_course_numbers: CMS.864
-headless: true
 instructors:
   content:
   - 7a70009f-c1b4-0726-24b1-5c1e6990fd5e

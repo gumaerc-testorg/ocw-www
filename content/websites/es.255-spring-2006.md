@@ -19,7 +19,6 @@ course_title: Physics of Rock Climbing
 department_numbers:
 - ES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 2da4ec0c-5f68-ee72-df98-a757cbf82016

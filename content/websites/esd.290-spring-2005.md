@@ -21,7 +21,6 @@ course_title: Special Topics in Supply Chain Management
 department_numbers:
 - ESD
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - d8589be4-d589-9716-08b9-2d6bf47551e9

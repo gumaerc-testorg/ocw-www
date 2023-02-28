@@ -18,7 +18,6 @@ course_title: Statistics and Visualization for Data Analysis and Inference
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 53535cce-8a8c-02d1-9553-cb78d5eae6c5

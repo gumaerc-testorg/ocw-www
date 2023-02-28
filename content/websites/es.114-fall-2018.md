@@ -22,7 +22,6 @@ course_title: Non-violence as a Way of Life
 department_numbers:
 - ES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 6d4cc94a-1cc6-184f-cb36-2322ce10b07a

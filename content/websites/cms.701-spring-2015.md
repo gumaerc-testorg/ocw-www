@@ -22,7 +22,6 @@ course_title: Current Debates in Media
 department_numbers:
 - CMS-W
 extra_course_numbers: CMS.901
-headless: true
 instructors:
   content:
   - 4a0c7e4c-ff11-1eda-e218-275de0726b05

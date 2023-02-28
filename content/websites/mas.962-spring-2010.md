@@ -28,7 +28,6 @@ course_title: 'Special Topics: New Textiles'
 department_numbers:
 - MAS
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - f925d49c-908b-d8a1-fdb3-1bd4c109c62c

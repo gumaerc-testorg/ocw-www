@@ -25,7 +25,6 @@ course_title: Mathematics of Big Data and Machine Learning
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 7a38fe7f-9519-194b-f338-d0ffdafabc25

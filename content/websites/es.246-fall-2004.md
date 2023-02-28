@@ -22,7 +22,6 @@ course_title: Current Events and Social Issues
 department_numbers:
 - ES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 0540cf98-fdcc-c472-f4ca-74dd7b2d092f

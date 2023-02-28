@@ -15,7 +15,6 @@ course_title: 'System Dynamics: Systems Thinking and Modeling for a Complex Worl
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 48f81f4e-b370-e483-eb2a-feb19a355969

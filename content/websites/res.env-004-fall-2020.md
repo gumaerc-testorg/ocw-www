@@ -20,7 +20,6 @@ course_title: MIT Climate Portal
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - f92495a0-4a0c-fd67-4c9f-4a7515419ea0

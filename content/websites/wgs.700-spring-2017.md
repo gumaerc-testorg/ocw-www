@@ -29,7 +29,6 @@ course_title: 'Changing Life: Reading the Intersections of Gender, Race, Biology
 department_numbers:
 - WGS
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - c36ae84f-55d9-4cc0-8e2c-8ca9cc8491ae

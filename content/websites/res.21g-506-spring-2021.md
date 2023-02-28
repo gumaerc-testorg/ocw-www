@@ -14,7 +14,6 @@ course_title: Kanji Learning Any Time, Any Place for Japanese VI
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - a5691d44-4ed0-67fc-77c2-ba2830da98b3

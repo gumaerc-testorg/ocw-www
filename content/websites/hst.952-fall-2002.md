@@ -26,7 +26,6 @@ course_title: Computing for Biomedical Scientists
 department_numbers:
 - HST
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - afebc392-cd86-849b-88fb-5f48a13b5033

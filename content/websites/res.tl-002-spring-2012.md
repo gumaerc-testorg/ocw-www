@@ -30,7 +30,6 @@ course_title: 'STAR: Software Tools for Academics and Researchers'
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 24fb87fd-6eae-f633-8abc-2bab8e6895de

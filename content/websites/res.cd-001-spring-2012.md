@@ -21,7 +21,6 @@ course_title: 'Leadership and Empowerment: Resources from Graduate Women at MIT 
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 19472151-3420-ada0-60d1-759ab180d03a

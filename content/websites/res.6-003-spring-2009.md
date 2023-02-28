@@ -23,7 +23,6 @@ course_title: Electromechanical Dynamics
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 02f06cbf-8e91-f6bd-e3a6-5852b886276c

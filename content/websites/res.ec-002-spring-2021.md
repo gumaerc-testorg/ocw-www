@@ -22,7 +22,6 @@ course_title: Lean Research Skills for Conducting Interviews
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - dc8f9327-8ba1-9045-ea5b-67f50f6bdb61

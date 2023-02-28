@@ -18,7 +18,6 @@ course_title: Networks, Complexity and Its Applications
 department_numbers:
 - MAS
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 35fda4a3-9e6e-29c9-8d49-cdde29fdb5d4

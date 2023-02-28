@@ -23,7 +23,6 @@ course_title: Modern Conceptions of Freedom
 department_numbers:
 - CC
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - a274523d-757e-6410-3989-e7aa4ee6da65

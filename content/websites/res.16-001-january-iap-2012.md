@@ -37,7 +37,6 @@ course_title: "Lean Enterprise en Espa\xF1ol"
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - ff38ba94-82e8-6f1a-4866-d7ff8f123a94

@@ -20,7 +20,6 @@ course_title: Evolution of Physical Oceanography
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - e1964cd1-ec2f-1173-8db4-d8e32c1feab7

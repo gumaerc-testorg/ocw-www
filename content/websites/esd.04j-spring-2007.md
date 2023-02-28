@@ -21,7 +21,6 @@ department_numbers:
 - ESD
 - '1'
 extra_course_numbers: 1.041J,ESD.01J
-headless: true
 instructors:
   content:
   - b3cd201d-274d-7ed0-a6aa-9f8653210e5e

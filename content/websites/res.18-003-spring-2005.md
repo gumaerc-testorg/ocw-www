@@ -17,7 +17,6 @@ course_title: Calculus for Beginners and Artists
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 46f7f667-3c6a-590e-2a93-addf2eafda73

@@ -20,7 +20,6 @@ course_title: Black Feminist Health Science Studies
 department_numbers:
 - WGS
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - e039595a-95e0-83a3-2856-c09f7d653c99

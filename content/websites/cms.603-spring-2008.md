@@ -21,7 +21,6 @@ course_title: American Soap Operas
 department_numbers:
 - CMS-W
 extra_course_numbers: CMS.995
-headless: true
 instructors:
   content:
   - a6e5affd-00e1-a85c-9917-e7daeb435aa4

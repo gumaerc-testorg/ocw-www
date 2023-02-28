@@ -20,7 +20,6 @@ course_title: 'The Art of Insight in Science and Engineering: Mastering Complexi
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 3069cc28-b31e-9000-e3ac-1f88d33c39de

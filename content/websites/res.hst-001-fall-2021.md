@@ -27,7 +27,6 @@ course_title: MIT Little Devices Lab
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - ed134986-b322-073a-adfa-83a85fbe4f4d

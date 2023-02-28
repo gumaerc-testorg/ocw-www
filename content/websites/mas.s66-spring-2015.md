@@ -16,7 +16,6 @@ course_title: Indistinguishable From... Magic as Interface, Technology, and Trad
 department_numbers:
 - MAS
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 9985b44a-f362-713e-2f17-9a4510eda306

@@ -31,7 +31,6 @@ course_title: Science Policy Bootcamp
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 02fa8dea-9e35-ace2-2a5a-11aa73eda926

@@ -34,7 +34,6 @@ course_title: Designing Your Life
 department_numbers:
 - PE
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 8cabf819-533f-6464-e7ad-5d2aa2e63561

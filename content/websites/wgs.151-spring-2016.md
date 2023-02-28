@@ -18,7 +18,6 @@ course_title: Gender, Health, and Society
 department_numbers:
 - WGS
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 2f60ac63-1ac0-a3ce-2a14-63c3a925103f

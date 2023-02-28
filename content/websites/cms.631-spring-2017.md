@@ -21,7 +21,6 @@ department_numbers:
 - MAS
 - CMS-W
 extra_course_numbers: CMS.831,MAS.784
-headless: true
 instructors:
   content:
   - 0024894f-2b3e-48b6-aa22-3f4d1c242f16

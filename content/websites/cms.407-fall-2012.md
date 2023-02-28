@@ -22,7 +22,6 @@ course_title: 'Media and Methods: Sound'
 department_numbers:
 - CMS-W
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - fe4110cd-7c20-ed6a-db14-6f6090300f3a

@@ -20,7 +20,6 @@ department_numbers:
 - HST
 - '6'
 extra_course_numbers: '6.872'
-headless: true
 instructors:
   content:
   - 63a00f76-105c-6091-d09d-83837b079c6c

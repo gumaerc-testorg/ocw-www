@@ -19,7 +19,6 @@ course_title: SCUBA
 department_numbers:
 - PE
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 26310a50-dac9-25c3-8b01-2bf093b600f4

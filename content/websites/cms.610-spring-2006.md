@@ -21,7 +21,6 @@ course_title: Media Industries and Systems
 department_numbers:
 - CMS-W
 extra_course_numbers: CMS.922
-headless: true
 instructors:
   content:
   - 2d0ead69-3e37-3d9f-460b-0cee7d13e4a5

@@ -19,7 +19,6 @@ course_title: CITE Reports
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 880f6366-47a0-9009-987b-e6e08b1cdd27

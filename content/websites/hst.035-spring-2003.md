@@ -40,7 +40,6 @@ course_title: Principle and Practice of Human Pathology
 department_numbers:
 - HST
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 0714bf7c-458d-8af3-333b-f8d59a82f7b7

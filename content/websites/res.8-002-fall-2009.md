@@ -24,7 +24,6 @@ course_title: A WikiTextBook for Introductory Mechanics
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 2a1545d1-cec1-efc1-1403-179d085ec617

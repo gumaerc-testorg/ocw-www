@@ -24,7 +24,6 @@ course_title: Music Perception and Cognition
 department_numbers:
 - HST
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 5cf4eddb-2845-7596-b58a-c4cc3e76dd2c

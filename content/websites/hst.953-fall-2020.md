@@ -27,7 +27,6 @@ course_title: Collaborative Data Science for Healthcare
 department_numbers:
 - HST
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - d1f991df-5344-505d-ef5a-138bd54d10ef

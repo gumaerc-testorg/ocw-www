@@ -22,7 +22,6 @@ department_numbers:
 - EC
 - '11'
 extra_course_numbers: 11.025J,11.472J
-headless: true
 instructors:
   content:
   - 7c23a4e0-d0b3-e062-153d-1643b885fc1c

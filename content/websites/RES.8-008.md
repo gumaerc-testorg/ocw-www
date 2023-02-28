@@ -14,7 +14,6 @@ course_title: Nuclear Weapons Education Project
 department_numbers:
 - '8'
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - e644ca69-12cf-42db-a499-5e3970aed2b7

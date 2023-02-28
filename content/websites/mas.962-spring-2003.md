@@ -19,7 +19,6 @@ course_title: The Nature of Constructionist Learning
 department_numbers:
 - MAS
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 1c66f889-6b69-a93f-bca7-ef1541600adc

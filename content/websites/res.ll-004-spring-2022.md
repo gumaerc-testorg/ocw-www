@@ -16,7 +16,6 @@ course_title: 'LL EduCATE: Introduction to Engineering Concepts'
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - ddbd5bd4-f826-4813-b784-bd44215fe9f4

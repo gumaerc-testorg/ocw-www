@@ -42,7 +42,6 @@ course_title: Electromagnetic Fields and Energy
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - cc6d813a-ef80-def3-fd07-90720066e417

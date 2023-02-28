@@ -23,7 +23,6 @@ course_title: "Learning Chinese: A Foundation Course in Mandarin (\u6C49\u8BED\u
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - b9948b5b-bab1-40e6-c210-e58ba753f54c

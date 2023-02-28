@@ -19,7 +19,6 @@ course_title: Introduction to Engineering Systems
 department_numbers:
 - ESD
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - b3cd201d-274d-7ed0-a6aa-9f8653210e5e

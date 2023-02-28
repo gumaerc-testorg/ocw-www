@@ -27,7 +27,6 @@ course_title: Thermodynamics and Climate Change
 department_numbers:
 - '2'
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 6cdfa32c-4122-4f9c-b2ff-b85adc9db9e7

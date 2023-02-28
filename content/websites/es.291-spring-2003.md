@@ -15,7 +15,6 @@ course_title: 'Learning Seminar: Experiments in Education'
 department_numbers:
 - ES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 847ba2b9-d810-11f3-02d7-a829ccd0da22

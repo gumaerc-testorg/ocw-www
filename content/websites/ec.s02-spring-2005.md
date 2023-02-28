@@ -19,7 +19,6 @@ course_title: Water Jet Technologies
 department_numbers:
 - EC
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 292e3ae1-66ed-e8bc-3a4b-23690a6a2ce8

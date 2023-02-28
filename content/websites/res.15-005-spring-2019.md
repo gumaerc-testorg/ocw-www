@@ -23,7 +23,6 @@ course_title: Healthcare Finance (15.482x)
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 744a26f3-c3cf-9dd6-bd52-a8d351dbfc8e

@@ -16,7 +16,6 @@ course_title: 'Composing Your Life: Exploration of Self through Visual Arts and 
 department_numbers:
 - ES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - efe03f06-390b-ff9a-dae7-b85b7656b950

@@ -29,7 +29,6 @@ course_title: Social and Ethical Responsibilities of Computing (SERC)
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - e73fc091-38c7-d0e7-0666-4595e6a22978

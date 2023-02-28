@@ -28,7 +28,6 @@ course_title: Gender, Race, and the Construction of the American West
 department_numbers:
 - WGS
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 5526ac19-4367-35f8-b17b-b20b30a44be0

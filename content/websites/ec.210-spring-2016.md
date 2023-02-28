@@ -19,7 +19,6 @@ course_title: Visualization for Mathematics, Science, and Technology Education
 department_numbers:
 - EC
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 4fc3c75c-a37b-74bf-75a1-7f9a7362b3ce

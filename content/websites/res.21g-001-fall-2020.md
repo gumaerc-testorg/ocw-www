@@ -23,7 +23,6 @@ course_title: The User-friendly Classroom
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - f4237123-fcb2-35e9-d1d7-e339c17636b7

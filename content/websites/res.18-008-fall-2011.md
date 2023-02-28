@@ -28,7 +28,6 @@ course_title: 'Calculus Revisited: Complex Variables, Differential Equations, an
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 494bb006-f78f-88aa-d3b3-e60a0fdbffe7

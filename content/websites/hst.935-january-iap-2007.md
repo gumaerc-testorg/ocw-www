@@ -24,7 +24,6 @@ course_title: 'Narrative Ethics: Literary Texts and Moral Issues in Medicine'
 department_numbers:
 - HST
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - aaa53bef-0fad-8763-0dc8-216ffd1461e5

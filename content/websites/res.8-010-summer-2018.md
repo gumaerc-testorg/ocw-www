@@ -24,7 +24,6 @@ course_title: Introduction to Statistical Physics
 department_numbers:
 - '8'
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 8c23f270-d4dc-42a5-879b-99cc519d3d5b

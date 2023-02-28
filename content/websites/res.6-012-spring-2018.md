@@ -22,7 +22,6 @@ course_title: Introduction to Probability
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 67510421-f963-0cd2-3854-bfc58720f2b4

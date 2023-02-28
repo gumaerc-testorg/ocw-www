@@ -22,7 +22,6 @@ course_title: 'IIT Joint Entrance Exam Preparation '
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - e341d426-7d42-4419-aa40-f1164e17fe0e

@@ -17,7 +17,6 @@ department_numbers:
 - MAS
 - STS
 extra_course_numbers: STS.445J
-headless: true
 instructors:
   content:
   - 3fb07337-f543-91d6-290f-b686e3a81140

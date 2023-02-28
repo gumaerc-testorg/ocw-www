@@ -16,7 +16,6 @@ course_title: Fundamentals of Computational Media Design
 department_numbers:
 - MAS
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 26179970-0ced-a4d0-4051-ae504cacdb33

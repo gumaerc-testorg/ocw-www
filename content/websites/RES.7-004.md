@@ -18,7 +18,6 @@ course_title: BioNook Online Biology Resources
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 671f7012-8459-4272-801a-5bc9809313a2

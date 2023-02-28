@@ -18,7 +18,6 @@ department_numbers:
 - ES
 - '5'
 extra_course_numbers: 5.S15
-headless: true
 instructors:
   content:
   - 7d4c2c7a-1986-e26c-05f7-56c6f78e643b

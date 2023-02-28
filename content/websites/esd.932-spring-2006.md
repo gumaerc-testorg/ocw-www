@@ -19,7 +19,6 @@ course_title: Engineering Ethics
 department_numbers:
 - ESD
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - fd0acb5c-a0ab-5eee-05c4-257d1a69445e

@@ -17,7 +17,6 @@ course_title: 'Special Subject: The Rise of Film Noir'
 department_numbers:
 - CMS-W
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - ec2718e2-cf50-cb16-ca0a-816527c33e0f

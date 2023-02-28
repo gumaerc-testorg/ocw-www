@@ -22,7 +22,6 @@ department_numbers:
 - '17'
 - '24'
 extra_course_numbers: 17.007J,24.237J,17.006
-headless: true
 instructors:
   content:
   - 1b69a877-81fa-7193-5699-cab7c0a6383d

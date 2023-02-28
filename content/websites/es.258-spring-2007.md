@@ -17,7 +17,6 @@ course_title: "G\xF6del, Escher, Bach"
 department_numbers:
 - ES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 56a1a742-f305-5788-f2be-1bba747b2da9

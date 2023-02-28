@@ -21,7 +21,6 @@ department_numbers:
 - WGS
 - STS
 extra_course_numbers: STS.021J
-headless: true
 instructors:
   content:
   - 253fdff8-1905-f6d8-1080-55f134512920

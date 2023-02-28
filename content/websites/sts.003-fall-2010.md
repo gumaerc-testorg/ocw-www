@@ -20,7 +20,6 @@ course_title: The Rise of Modern Science
 department_numbers:
 - STS
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 1f85d233-f756-a43f-ed17-f57a335ec447

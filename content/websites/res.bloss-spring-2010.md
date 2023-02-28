@@ -20,7 +20,6 @@ course_title: Blended Learning Open Source Science or Math Studies (BLOSSOMS)
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - d4d925c1-c4c8-1d6c-d859-f74e751d5f02

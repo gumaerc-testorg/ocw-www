@@ -31,7 +31,6 @@ course_title: 'Gender, Race, and the Complexities of Science and Technology: A P
 department_numbers:
 - WGS
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - baf9b8ac-157e-6e80-55db-7833201e7b87

@@ -18,7 +18,6 @@ course_title: 'Introduction to Women''s and Gender Studies '
 department_numbers:
 - WGS
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 63d1aa03-136b-4aa8-0c42-fae122078527

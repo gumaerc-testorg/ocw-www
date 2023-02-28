@@ -17,7 +17,6 @@ department_numbers:
 - STS
 - '8'
 extra_course_numbers: 8.225J
-headless: true
 instructors:
   content:
   - a82bdf46-94f8-6a7a-7a3c-39dccc6b5001

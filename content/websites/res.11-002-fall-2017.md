@@ -19,7 +19,6 @@ course_title: 'Intentional Public Disruptions: Art, Responsibility, and Pedagogy
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 5974e097-a52d-7ddc-0396-0882524db092

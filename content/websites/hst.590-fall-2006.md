@@ -18,7 +18,6 @@ course_title: 'Biomedical Engineering Seminar Series: Developing Professional Sk
 department_numbers:
 - HST
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - a64885d8-26dd-b95d-e900-92821b2b75f7

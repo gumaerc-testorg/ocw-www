@@ -19,7 +19,6 @@ course_title: Shaping the Future of Work (15.662x)
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - efb69e94-eaea-4767-5519-415b4e80043a

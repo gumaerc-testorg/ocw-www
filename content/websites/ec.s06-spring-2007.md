@@ -24,7 +24,6 @@ course_title: Design for Demining
 department_numbers:
 - EC
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 8acab122-8418-d18c-70f3-ef8793b81a01

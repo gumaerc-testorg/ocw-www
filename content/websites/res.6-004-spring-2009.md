@@ -23,7 +23,6 @@ course_title: 'Principles of Computer System Design: An Introduction'
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 1cae3612-db98-0fbf-87a4-130dffa8372a

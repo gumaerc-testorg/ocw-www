@@ -18,7 +18,6 @@ course_title: Chemistry of Sports
 department_numbers:
 - ES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 7d4c2c7a-1986-e26c-05f7-56c6f78e643b

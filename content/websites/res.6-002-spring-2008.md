@@ -22,7 +22,6 @@ course_title: 'Electromagnetic Field Theory: A Problem Solving Approach'
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 563af061-106b-b1e4-e8d2-bc3d6873e258

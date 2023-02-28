@@ -19,7 +19,6 @@ course_title: Evolution and Society
 department_numbers:
 - STS
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 92e797ef-d94c-a78e-991f-4ab72112a8b5

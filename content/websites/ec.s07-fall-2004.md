@@ -17,7 +17,6 @@ course_title: Photovoltaic Solar Energy Systems
 department_numbers:
 - EC
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 6ed898e4-0ac1-e2ff-7068-fd73360978a0

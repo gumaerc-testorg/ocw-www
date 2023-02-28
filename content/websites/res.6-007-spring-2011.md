@@ -30,7 +30,6 @@ course_title: Signals and Systems
 department_numbers:
 - RES
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - e375d565-270c-0d19-9532-fa4b28cf4b5c

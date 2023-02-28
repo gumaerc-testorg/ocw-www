@@ -29,7 +29,6 @@ course_title: Technology and Nature in American History
 department_numbers:
 - STS
 extra_course_numbers: ''
-headless: true
 instructors:
   content:
   - 85cd5dfe-209b-059f-6bc2-728f2358d7d3
