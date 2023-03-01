@@ -47,5 +47,6 @@ topics:
   - Biology
   - Neuroscience
 uid: b73ebf2c-679f-47aa-90bc-c91d755c87e0
+url_path: courses/mas-s66-indistinguishable-from-magic-as-interface-technology-and-tradition-spring-2015
 year: '2015'
 ---

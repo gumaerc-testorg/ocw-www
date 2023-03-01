@@ -44,5 +44,6 @@ topics:
   - Anthropology
   - Social Anthropology
 uid: 3b956e21-5d60-4737-9bf6-97611b338653
+url_path: courses/mas-963-techno-identity-who-we-are-and-how-we-perceive-ourselves-and-others-spring-2002
 year: '2002'
 ---

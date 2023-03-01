@@ -48,5 +48,6 @@ topics:
   - Literature
   - Academic Writing
 uid: 89fe89fc-1368-4c11-be54-c71040c29e94
+url_path: courses/sts-034-science-communication-a-practical-guide-fall-2011
 year: '2011'
 ---

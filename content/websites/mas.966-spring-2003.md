@@ -42,5 +42,6 @@ topics:
   - Media Studies
   - Digital Media
 uid: 49f36d10-bd51-413d-8c80-801a34e9c8d9
+url_path: courses/mas-966-digital-anthropology-spring-2003
 year: '2003'
 ---

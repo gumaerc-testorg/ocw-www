@@ -44,5 +44,6 @@ topics:
   - Anthropology
   - Social Anthropology
 uid: c7d029a3-b50e-448d-885f-45614cc56421
+url_path: courses/mas-965-social-visualization-fall-2004
 year: '2004'
 ---

@@ -55,5 +55,6 @@ topics:
 - - Society
   - The Developing World
 uid: 872eaa67-32bc-405f-ad01-c37671093cb5
+url_path: courses/ec-716-d-lab-waste-fall-2015
 year: '2015'
 ---

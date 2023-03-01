@@ -49,5 +49,6 @@ topics:
 - - Health and Medicine
   - Biomedical Instrumentation
 uid: af993dc4-3392-4b64-a46b-386459cd1c8a
+url_path: courses/hst-950j-biomedical-computing-fall-2010
 year: '2010'
 ---

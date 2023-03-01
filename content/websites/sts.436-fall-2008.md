@@ -45,5 +45,6 @@ topics:
   - History
   - Military History
 uid: 7391a2c9-e364-4d59-8bee-594cc5463826
+url_path: courses/sts-436-cold-war-science-fall-2008
 year: '2008'
 ---

@@ -41,5 +41,6 @@ topics:
 - - Teaching and Education
   - Curriculum and Teaching
 uid: 61d3d493-7d0b-4f0f-9afc-d0ccaee2ace0
+url_path: courses/mas-712-how-to-learn-almost-anything-spring-2001
 year: '2001'
 ---

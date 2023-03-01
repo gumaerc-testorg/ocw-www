@@ -47,5 +47,6 @@ topics:
 - - Teaching and Education
   - Educational Technology
 uid: 0e514701-7b71-499d-aae2-644270e6987a
+url_path: courses/es-333-producing-educational-videos-spring-2015
 year: '2015'
 ---

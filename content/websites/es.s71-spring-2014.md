@@ -41,5 +41,6 @@ topics:
 - - Health and Medicine
   - Physical Education and Recreation
 uid: 478d5bf3-08d5-4ac4-aa40-b9d48c9b9d09
+url_path: courses/es-s71-increasing-your-physical-intelligence-enhancing-your-social-smarts-spring-2014
 year: '2014'
 ---

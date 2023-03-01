@@ -45,5 +45,6 @@ topics:
 - - Social Science
   - Political Science
 uid: 694d7115-d741-4a57-a89f-ad5b3ab87407
+url_path: courses/sts-462-social-and-political-implications-of-technology-spring-2006
 year: '2006'
 ---

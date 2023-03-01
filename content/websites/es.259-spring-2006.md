@@ -42,5 +42,6 @@ topics:
 - - Society
   - The Developing World
 uid: 113f233f-18b8-4323-afff-2dc23f9ecf26
+url_path: courses/es-259-information-and-communication-technology-in-africa-spring-2006
 year: '2006'
 ---

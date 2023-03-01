@@ -37,5 +37,6 @@ topics:
 - - Mathematics
   - Algebra and Number Theory
 uid: a9d1bcbd-a571-4853-a6db-653f052479ee
+url_path: courses/res-18-011-algebra-i-student-notes-fall-2021
 year: '2021'
 ---

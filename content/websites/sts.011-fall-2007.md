@@ -55,5 +55,6 @@ topics:
   - History
   - History of Science and Technology
 uid: 421f57b6-f084-45c3-bfa3-b96146c1e17f
+url_path: courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007
 year: '2007'
 ---

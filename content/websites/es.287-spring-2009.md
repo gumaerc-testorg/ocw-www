@@ -38,5 +38,6 @@ topics:
 - - Science
   - Chemistry
 uid: c7a483b6-1e9c-4768-a4e8-263e66cba5e5
+url_path: courses/es-287-kitchen-chemistry-spring-2009
 year: '2009'
 ---

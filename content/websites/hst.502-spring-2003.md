@@ -46,5 +46,6 @@ topics:
   - Literature
   - Academic Writing
 uid: e9188361-dd4b-48ac-af89-6e7d68786f12
+url_path: courses/hst-502-survival-skills-for-researchers-the-responsible-conduct-of-research-spring-2003
 year: '2003'
 ---

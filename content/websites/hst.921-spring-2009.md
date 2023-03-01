@@ -53,5 +53,6 @@ topics:
 - - Health and Medicine
   - Biomedical Enterprise
 uid: 43820c71-7331-4bf3-b8fa-43a51a223b73
+url_path: courses/hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009
 year: '2009'
 ---

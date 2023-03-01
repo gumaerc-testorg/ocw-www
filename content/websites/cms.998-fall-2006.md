@@ -43,5 +43,6 @@ topics:
 - - Fine Arts
   - Media Studies
 uid: 13766398-79c6-409b-968b-b697ea9af9b3
+url_path: courses/cms-998-videogame-theory-and-analysis-fall-2006
 year: '2006'
 ---

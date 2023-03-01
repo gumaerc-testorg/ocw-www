@@ -56,5 +56,6 @@ topics:
 - - Engineering
   - Nanotechnology
 uid: 994834b3-b81c-4d2c-b046-5811187c6499
+url_path: courses/hst-410j-projects-in-microscale-engineering-for-the-life-sciences-spring-2007
 year: '2007'
 ---

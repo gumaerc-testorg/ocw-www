@@ -50,5 +50,6 @@ topics:
 - - Health and Medicine
   - Epidemiology
 uid: 2ddcb434-4c29-4152-ac48-1c56bed4422a
+url_path: courses/sts-005-disease-and-society-in-america-fall-2005
 year: '2005'
 ---

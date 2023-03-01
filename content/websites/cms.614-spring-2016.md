@@ -44,5 +44,6 @@ topics:
 - - Social Science
   - Anthropology
 uid: 5887009d-921e-443a-a91a-bae873bc6524
+url_path: courses/cms-614-network-cultures-spring-2016
 year: '2016'
 ---

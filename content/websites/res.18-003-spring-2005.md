@@ -37,5 +37,6 @@ topics:
 - - Mathematics
   - Differential Equations
 uid: bde14d76-96a6-4f2f-874a-e7ba3f1497fb
+url_path: courses/res-18-003-calculus-for-beginners-and-artists-spring-2005
 year: '2005'
 ---

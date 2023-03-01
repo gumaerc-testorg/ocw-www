@@ -36,5 +36,6 @@ topics:
 - - Mathematics
   - Algebra and Number Theory
 uid: a4da2750-b76f-4079-ae1d-d6784d8a83f4
+url_path: courses/res-18-012-algebra-ii-student-notes-spring-2022
 year: '2022'
 ---

@@ -42,5 +42,6 @@ topics:
 - - Fine Arts
   - Media Studies
 uid: 1ce4575f-2dea-4c15-b8d7-dead5eae6be4
+url_path: courses/cms-100-introduction-to-media-studies-fall-2014
 year: '2014'
 ---

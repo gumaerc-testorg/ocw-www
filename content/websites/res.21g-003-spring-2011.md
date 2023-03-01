@@ -44,5 +44,6 @@ topics:
   - Language
   - Chinese
 uid: 0472ba2a-8986-4674-a62a-dadd637d003d
+url_path: courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011
 year: '2011'
 ---

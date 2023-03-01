@@ -40,5 +40,6 @@ topics:
   - Linguistics
   - Semantics
 uid: 54919891-f851-4c88-8049-865269e3c2af
+url_path: courses/mas-962-digital-typography-fall-1997
 year: '1997'
 ---

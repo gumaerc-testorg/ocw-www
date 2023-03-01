@@ -49,5 +49,6 @@ topics:
   - Biology
   - Molecular Biology
 uid: a3742eeb-3e97-4268-a570-a17a3e891476
+url_path: courses/res-7-004-bionook-online-biology-resources-spring-2021
 year: '2021'
 ---

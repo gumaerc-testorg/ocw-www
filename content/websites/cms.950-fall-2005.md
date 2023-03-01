@@ -37,5 +37,6 @@ topics:
 - - Fine Arts
   - Media Studies
 uid: 4d16a2ce-9b76-4a7d-ba73-393d2a8a1bc9
+url_path: courses/cms-950-workshop-i-fall-2005
 year: '2005'
 ---

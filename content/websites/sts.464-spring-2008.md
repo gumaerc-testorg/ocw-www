@@ -47,5 +47,6 @@ topics:
 - - Social Science
   - Anthropology
 uid: 113002a3-0d6c-4203-bb8b-51a48adc9a63
+url_path: courses/sts-464-technology-and-the-literary-imagination-spring-2008
 year: '2008'
 ---

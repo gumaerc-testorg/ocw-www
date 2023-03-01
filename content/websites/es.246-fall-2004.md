@@ -48,5 +48,6 @@ topics:
 - - Social Science
   - Sociology
 uid: 16f70f62-7d3c-4056-a5ef-87af4197e8c0
+url_path: courses/es-246-current-events-and-social-issues-fall-2004
 year: '2004'
 ---

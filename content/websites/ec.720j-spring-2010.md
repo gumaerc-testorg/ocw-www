@@ -55,5 +55,6 @@ topics:
 - - Society
   - The Developing World
 uid: 240d11f7-02af-453b-8f66-11ec8c400fe3
+url_path: courses/ec-720j-d-lab-ii-design-spring-2010
 year: '2010'
 ---

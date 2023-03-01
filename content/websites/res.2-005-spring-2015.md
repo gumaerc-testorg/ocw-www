@@ -51,5 +51,6 @@ topics:
 - - Teaching and Education
   - Curriculum and Teaching
 uid: f11b9d7c-d4b8-48f2-bb98-881afa201815
+url_path: courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015
 year: '2015'
 ---

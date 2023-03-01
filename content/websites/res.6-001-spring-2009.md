@@ -57,5 +57,6 @@ topics:
   - Physics
   - Quantum Mechanics
 uid: 273e4a77-2682-4964-abcf-8c92a8e71775
+url_path: courses/res-6-001-continuum-electromechanics-spring-2009
 year: '2009'
 ---

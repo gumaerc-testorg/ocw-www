@@ -40,5 +40,6 @@ topics:
 - - Fine Arts
   - Media Studies
 uid: fa6f9031-125d-4cb1-9245-728685f1617f
+url_path: courses/cms-608-game-design-fall-2010
 year: '2010'
 ---

@@ -39,5 +39,6 @@ topics:
 - - Health and Medicine
   - Physical Education and Recreation
 uid: 6d4ac246-2b37-4c91-8e1c-6999b5631b4d
+url_path: courses/pe-210-scuba-spring-2007
 year: '2007'
 ---

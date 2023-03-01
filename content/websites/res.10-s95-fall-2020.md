@@ -46,5 +46,6 @@ topics:
 - - Science
   - Physics
 uid: 54da5039-8cfc-4445-b740-7326ee950f12
+url_path: courses/res-10-s95-physics-of-covid-19-transmission-fall-2020
 year: '2020'
 ---

@@ -49,5 +49,6 @@ topics:
 - - Social Science
   - Legal Studies
 uid: 24cedb57-1e4a-4f7e-8042-dceb5502b2af
+url_path: courses/wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007
 year: '2007'
 ---

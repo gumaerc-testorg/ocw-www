@@ -59,5 +59,6 @@ topics:
 - - Society
   - The Developing World
 uid: 57827b00-76e5-4d00-a802-31bc241b9e68
+url_path: courses/res-14-001-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2009-spring-2009
 year: '2009'
 ---

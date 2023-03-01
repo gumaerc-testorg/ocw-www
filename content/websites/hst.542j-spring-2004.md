@@ -48,5 +48,6 @@ topics:
   - Chemical Engineering
   - Transport Processes
 uid: 3a534a03-1f32-486e-945e-03058b028815
+url_path: courses/hst-542j-quantitative-physiology-organ-transport-systems-spring-2004
 year: '2004'
 ---

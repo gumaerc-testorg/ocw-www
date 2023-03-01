@@ -56,5 +56,6 @@ topics:
 - - Health and Medicine
   - Public Health
 uid: b9bd4aed-22fe-4b48-832f-e833bd5579e5
+url_path: courses/hst-936x-global-health-informatics-to-improve-quality-of-care-spring-2020
 year: '2020'
 ---

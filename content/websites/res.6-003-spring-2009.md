@@ -52,5 +52,6 @@ topics:
   - Physics
   - Electromagnetism
 uid: 38e82e5a-1c25-4cd7-bf16-405fcf6c89ed
+url_path: courses/res-6-003-electromechanical-dynamics-spring-2009
 year: '2009'
 ---

@@ -41,5 +41,6 @@ title: 'Sorting Truth From Fiction: Civic Online Reasoning'
 topics:
 - - Teaching and Education
 uid: fa4c4b8a-6a40-470d-a91e-932677b27910
+url_path: courses/res-cms-504-sorting-truth-from-fiction-civic-online-reasoning-spring-2021
 year: '2021'
 ---

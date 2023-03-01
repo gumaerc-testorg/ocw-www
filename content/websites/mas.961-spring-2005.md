@@ -48,5 +48,6 @@ topics:
   - Media Studies
   - Digital Media
 uid: d7dfd1e6-6042-44f5-975f-e9a158ef1e95
+url_path: courses/mas-961-ambient-intelligence-spring-2005
 year: '2005'
 ---

@@ -41,5 +41,6 @@ topics:
 - - Teaching and Education
   - Higher Education
 uid: 77ac51fd-b622-4f15-a6e1-82a020441b02
+url_path: courses/res-tll-01-guidelines-for-teaching-mit-and-beyond-spring-2016
 year: '2016'
 ---

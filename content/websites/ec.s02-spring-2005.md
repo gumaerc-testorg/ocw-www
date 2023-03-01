@@ -42,5 +42,6 @@ topics:
   - Mechanical Engineering
   - Mechanical Design
 uid: 8b687ae6-fda5-4054-9c7b-8cf51b4c3404
+url_path: courses/ec-s02-water-jet-technologies-spring-2005
 year: '2005'
 ---

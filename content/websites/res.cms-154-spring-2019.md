@@ -54,5 +54,6 @@ topics:
 - - Teaching and Education
   - Educational Technology
 uid: c08fc7da-b01b-4397-a177-1ff83b90523d
+url_path: courses/res-cms-154-launching-innovation-in-schools-spring-2019
 year: '2019'
 ---

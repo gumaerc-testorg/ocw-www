@@ -38,5 +38,6 @@ topics:
 - - Health and Medicine
   - Physical Education and Recreation
 uid: 3ab661ad-44b5-44f2-b412-0a4e202a34b3
+url_path: courses/pe-710-tennis-spring-2007
 year: '2007'
 ---

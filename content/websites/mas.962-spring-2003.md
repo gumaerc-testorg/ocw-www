@@ -40,5 +40,6 @@ topics:
 - - Humanities
   - Philosophy
 uid: 17f39da7-0bfe-4f32-b496-4fdff1a968ae
+url_path: courses/mas-962-the-nature-of-constructionist-learning-spring-2003
 year: '2003'
 ---

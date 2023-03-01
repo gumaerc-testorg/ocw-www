@@ -43,5 +43,6 @@ topics:
   - Literature
   - Criticism
 uid: 7589653f-4fe9-4b41-bb37-64c8f0a9e72c
+url_path: courses/cms-796-major-media-texts-fall-2006
 year: '2006'
 ---

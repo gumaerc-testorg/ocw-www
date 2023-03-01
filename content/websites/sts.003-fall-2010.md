@@ -44,5 +44,6 @@ topics:
   - Public Administration
   - Science and Technology Policy
 uid: 439df16c-222b-488b-84a9-e38dace59665
+url_path: courses/sts-003-the-rise-of-modern-science-fall-2010
 year: '2010'
 ---

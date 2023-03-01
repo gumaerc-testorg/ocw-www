@@ -43,5 +43,6 @@ topics:
 - - Mathematics
   - Differential Equations
 uid: 6e0d1318-981d-493d-996c-0674d1072c2f
+url_path: courses/res-18-001-calculus-online-textbook-spring-2005
 year: '2005'
 ---

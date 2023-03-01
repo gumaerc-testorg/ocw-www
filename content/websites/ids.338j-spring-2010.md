@@ -53,5 +53,6 @@ topics:
 - - Business
   - Project Management
 uid: 1fcc90fc-bf83-4b25-bbc7-1fe30b0980bf
+url_path: courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010
 year: '2010'
 ---

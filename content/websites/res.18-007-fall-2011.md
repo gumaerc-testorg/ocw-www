@@ -63,5 +63,6 @@ topics:
 - - Mathematics
   - Differential Equations
 uid: 53d5605b-be5a-491f-a43d-1ac11931fe26
+url_path: courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011
 year: '2011'
 ---

@@ -58,5 +58,6 @@ topics:
 - - Engineering
   - Civil Engineering
 uid: 6928a07f-0d6f-42d3-8a30-f0d73f5f025c
+url_path: courses/sts-036-technology-and-nature-in-american-history-spring-2008
 year: '2008'
 ---

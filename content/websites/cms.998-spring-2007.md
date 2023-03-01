@@ -53,5 +53,6 @@ topics:
   - History
   - Intellectual History
 uid: 254e4bcb-94c5-4292-9e43-e4b416ecf25d
+url_path: courses/cms-998-new-media-literacies-spring-2007
 year: '2007'
 ---

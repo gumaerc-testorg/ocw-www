@@ -46,5 +46,6 @@ topics:
 - - Society
   - Women's Studies
 uid: 963fab5b-7b5d-4a82-b0b6-ed5df981ccda
+url_path: courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014
 year: '2014'
 ---

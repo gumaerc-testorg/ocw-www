@@ -93,5 +93,6 @@ topics:
 - - Health and Medicine
   - Biomedicine
 uid: 2175774c-3bea-4146-8611-fe872aaf7cbe
+url_path: courses/hst-512-genomic-medicine-spring-2004
 year: '2004'
 ---

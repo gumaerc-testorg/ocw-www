@@ -51,5 +51,6 @@ topics:
   - Public Administration
   - Science and Technology Policy
 uid: d48e685d-f36f-4ce1-b5f8-bb189b08362c
+url_path: courses/res-stp-001-science-policy-bootcamp-january-iap-2011
 year: '2011'
 ---

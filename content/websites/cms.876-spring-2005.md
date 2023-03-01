@@ -42,5 +42,6 @@ topics:
   - History
   - History of Science and Technology
 uid: 8ff546f7-6c66-4ce1-b568-d18ec32a8f81
+url_path: courses/cms-876-history-of-media-and-technology-spring-2005
 year: '2005'
 ---

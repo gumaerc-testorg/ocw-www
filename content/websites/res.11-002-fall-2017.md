@@ -51,5 +51,6 @@ topics:
 - - Teaching and Education
   - Curriculum and Teaching
 uid: e85c7389-d638-4bf7-a384-d124a782c0aa
+url_path: courses/res-11-002-intentional-public-disruptions-art-responsibility-and-pedagogy-fall-2017
 year: '2017'
 ---

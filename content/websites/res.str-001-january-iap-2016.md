@@ -37,5 +37,6 @@ topics:
 - - Social Science
   - Geography
 uid: 000478ee-77cf-442a-8e04-984a69d510ae
+url_path: courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016
 year: '2016'
 ---

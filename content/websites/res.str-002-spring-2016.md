@@ -40,5 +40,6 @@ topics:
 - - Business
   - Project Management
 uid: ae9621b1-4cc1-41c2-a760-52fc3eba2a9d
+url_path: courses/res-str-002-data-management-spring-2016
 year: '2016'
 ---

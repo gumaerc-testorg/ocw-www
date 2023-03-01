@@ -43,5 +43,6 @@ topics:
 - - Teaching and Education
   - Educational Technology
 uid: 79fb92f3-7758-410a-8573-6ff049c21fc6
+url_path: courses/res-bloss-blended-learning-open-source-science-or-math-studies-blossoms-spring-2010
 year: '2010'
 ---

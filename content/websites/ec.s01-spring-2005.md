@@ -55,5 +55,6 @@ topics:
 - - Business
   - Entrepreneurship
 uid: 75f2e567-b5fb-43f0-9f62-6824b8765807
+url_path: courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005
 year: '2005'
 ---

@@ -46,5 +46,6 @@ topics:
   - Computer Science
   - Theory of Computation
 uid: 8216cccf-2c96-455b-9dff-c0d3b5b274a0
+url_path: courses/mas-865j-quantum-information-science-spring-2006
 year: '2006'
 ---

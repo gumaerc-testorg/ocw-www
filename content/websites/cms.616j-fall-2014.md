@@ -49,5 +49,6 @@ topics:
 - - Social Science
   - Sociology
 uid: 1a036bbc-08ca-446b-b969-c48787591b88
+url_path: courses/cms-616j-games-and-culture-fall-2014
 year: '2014'
 ---

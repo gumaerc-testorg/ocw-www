@@ -44,5 +44,6 @@ topics:
 - - Fine Arts
   - Media Studies
 uid: e0dd6442-f0bc-4712-8bf1-bc69751d1490
+url_path: courses/mas-962-common-sense-reasoning-for-interactive-applications-fall-2006
 year: '2006'
 ---

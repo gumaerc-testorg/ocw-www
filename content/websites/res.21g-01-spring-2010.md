@@ -55,5 +55,6 @@ topics:
   - Language
   - Japanese
 uid: e8768989-685a-441e-b357-8932b8a8fcf5
+url_path: courses/res-21g-01-kana-spring-2010
 year: '2010'
 ---

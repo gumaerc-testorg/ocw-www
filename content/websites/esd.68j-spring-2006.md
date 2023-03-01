@@ -51,5 +51,6 @@ topics:
   - Public Administration
   - Science and Technology Policy
 uid: f2ea6ff7-84e8-4440-86c3-8afe4fc3d50d
+url_path: courses/esd-68j-communications-and-information-policy-spring-2006
 year: '2006'
 ---

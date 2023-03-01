@@ -47,5 +47,6 @@ topics:
 - - Society
   - The Developing World
 uid: a85aa8ba-88c5-45ee-a439-ac949ed3dbaa
+url_path: courses/sts-032-energy-environment-and-society-global-politics-technologies-and-ecologies-of-the-water-energy-food-crises-spring-2018
 year: '2018'
 ---

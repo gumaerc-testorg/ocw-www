@@ -42,5 +42,6 @@ topics:
 - - Engineering
   - Systems Engineering
 uid: 2b7ba9fb-d88e-46aa-9d2d-b6cc0a4ce2e5
+url_path: courses/esd-33-systems-engineering-summer-2010
 year: '2010'
 ---

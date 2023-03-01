@@ -52,5 +52,6 @@ topics:
 - - Business
   - Leadership
 uid: 818db7d7-e324-4ab7-9ca6-73a09332d685
+url_path: courses/esd-10-introduction-to-technology-and-policy-fall-2006
 year: '2006'
 ---

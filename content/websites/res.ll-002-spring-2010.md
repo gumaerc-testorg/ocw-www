@@ -47,5 +47,6 @@ topics:
   - Physics
   - Electromagnetism
 uid: 14f04c35-9aa5-4b84-be59-3483156d8215
+url_path: courses/res-ll-002-adaptive-antennas-and-phased-arrays-spring-2010
 year: '2010'
 ---

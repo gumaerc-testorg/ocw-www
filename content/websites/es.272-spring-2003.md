@@ -52,5 +52,6 @@ topics:
   - Media Studies
   - Digital Media
 uid: 2c4b040b-c5bd-497a-a996-7243107ec04f
+url_path: courses/es-272-culture-tech-spring-2003
 year: '2003'
 ---

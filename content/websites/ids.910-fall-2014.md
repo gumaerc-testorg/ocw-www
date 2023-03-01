@@ -40,5 +40,6 @@ topics:
 - - Business
   - Leadership
 uid: 9c2f13b9-d04d-4dd4-bc10-1341c5ab0d28
+url_path: courses/ids-910-leadership-development-fall-2014
 year: '2014'
 ---

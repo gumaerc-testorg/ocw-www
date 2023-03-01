@@ -63,5 +63,6 @@ topics:
   - Literature
   - American Literature
 uid: 22ac1cae-31ee-4c7e-bc35-e50fd1ff0865
+url_path: courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013
 year: '2013'
 ---

@@ -61,5 +61,6 @@ topics:
 - - Social Science
   - Psychology
 uid: 5d4c5cbf-cb2e-4e12-bf9a-f59d43b753f9
+url_path: courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015
 year: '2015'
 ---

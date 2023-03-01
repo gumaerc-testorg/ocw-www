@@ -49,5 +49,6 @@ topics:
   - History
   - Modern History
 uid: 5d3db715-c316-438a-a853-3d422ad43edb
+url_path: courses/sts-035-the-history-of-computing-spring-2004
 year: '2004'
 ---

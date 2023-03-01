@@ -50,5 +50,6 @@ topics:
 - - Business
   - Entrepreneurship
 uid: 0b6c5680-b20e-4199-ba88-02bcffc36fe9
+url_path: courses/esd-172j-x-prize-workshop-grand-challenges-in-energy-fall-2009
 year: '2009'
 ---

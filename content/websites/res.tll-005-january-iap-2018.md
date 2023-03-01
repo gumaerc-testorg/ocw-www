@@ -46,5 +46,6 @@ topics:
 - - Teaching and Education
   - Educational Technology
 uid: 74d6e037-bba8-46db-a875-92c23445a95c
+url_path: courses/res-tll-005-how-to-speak-january-iap-2018
 year: '2018'
 ---

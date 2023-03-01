@@ -52,5 +52,6 @@ topics:
   - Physics
   - Electromagnetism
 uid: ac141e0a-72d5-4fb1-97e7-88601c1558ad
+url_path: courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012
 year: '2012'
 ---

@@ -50,5 +50,6 @@ topics:
 - - Fine Arts
   - Media Studies
 uid: a43b6dce-963e-42cb-b8b8-9ed40eb358b9
+url_path: courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007
 year: '2007'
 ---

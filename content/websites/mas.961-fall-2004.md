@@ -43,5 +43,6 @@ topics:
 - - Social Science
   - Psychology
 uid: 8b1ace59-993f-4de8-bd0a-db26e1a33322
+url_path: courses/mas-961-seminar-on-deep-engagement-fall-2004
 year: '2004'
 ---

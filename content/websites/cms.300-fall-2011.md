@@ -43,5 +43,6 @@ topics:
   - Media Studies
   - Digital Media
 uid: 3938fd26-c86c-410e-94cf-4e4f82cfc333
+url_path: courses/cms-300-introduction-to-videogame-studies-fall-2011
 year: '2011'
 ---

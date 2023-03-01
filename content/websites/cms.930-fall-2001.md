@@ -43,5 +43,6 @@ topics:
 - - Teaching and Education
   - Educational Technology
 uid: a1928d1d-d6cb-4fc6-8223-2150740b368c
+url_path: courses/cms-930-media-education-and-the-marketplace-fall-2001
 year: '2001'
 ---

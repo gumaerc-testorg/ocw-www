@@ -45,5 +45,6 @@ topics:
   - History
   - History of Science and Technology
 uid: e39a0bcf-63c8-4b62-ae4a-ede08fe9345e
+url_path: courses/sts-007-technology-in-history-fall-2010
 year: '2010'
 ---

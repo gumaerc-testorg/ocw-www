@@ -46,5 +46,6 @@ topics:
   - Philosophy
   - Political Philosophy
 uid: 73d45cfc-07f0-449f-a260-d7ff23f60147
+url_path: courses/cc-112-philosophy-of-love-spring-2013
 year: '2013'
 ---

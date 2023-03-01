@@ -41,5 +41,6 @@ topics:
   - Media Studies
   - Digital Media
 uid: 44beec56-f09a-4dfe-a47c-55431bd41232
+url_path: courses/cms-301-introduction-to-game-design-methods-spring-2016
 year: '2016'
 ---

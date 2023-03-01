@@ -41,5 +41,6 @@ topics:
 - - Fine Arts
   - Media Studies
 uid: 97c15b41-28a1-4bf7-87a3-83929b158da8
+url_path: courses/cms-610-media-industries-and-systems-spring-2006
 year: '2006'
 ---

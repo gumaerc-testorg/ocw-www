@@ -59,5 +59,6 @@ topics:
 - - Health and Medicine
   - Public Health
 uid: 0de4938b-35e9-455d-b9e7-f32ba22edcc1
+url_path: courses/ec-721-wheelchair-design-in-developing-countries-spring-2009
 year: '2009'
 ---

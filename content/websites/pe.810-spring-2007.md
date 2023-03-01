@@ -40,5 +40,6 @@ topics:
 - - Health and Medicine
   - Physical Education and Recreation
 uid: 889bb2e2-903b-4a36-ab2f-2861d28168cb
+url_path: courses/pe-810-sailing-spring-2007
 year: '2007'
 ---

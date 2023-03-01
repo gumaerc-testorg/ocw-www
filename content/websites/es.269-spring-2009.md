@@ -42,5 +42,6 @@ topics:
 - - Society
   - Women's Studies
 uid: 5a99bd2e-7435-4b92-97fa-e4e8138f20ee
+url_path: courses/es-269-passing-flexibility-in-race-and-gender-spring-2009
 year: '2009'
 ---

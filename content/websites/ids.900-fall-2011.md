@@ -42,5 +42,6 @@ topics:
 - - Engineering
   - Systems Engineering
 uid: 3076d83b-f4e1-4fbe-8ec2-38ea2f768504
+url_path: courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011
 year: '2011'
 ---

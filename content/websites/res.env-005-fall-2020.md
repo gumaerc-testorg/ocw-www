@@ -46,5 +46,6 @@ topics:
   - Earth Science
   - Sustainability
 uid: f246374a-badb-442d-bdc3-50968040998a
+url_path: courses/res-env-005-climate-science-risk-solutions-a-climate-primer-fall-2020
 year: '2020'
 ---

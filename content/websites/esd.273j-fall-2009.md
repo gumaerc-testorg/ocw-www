@@ -45,5 +45,6 @@ topics:
 - - Business
   - Operations Management
 uid: 129d2d10-d2ef-4733-850f-85f09635532f
+url_path: courses/esd-273j-logistics-and-supply-chain-management-fall-2009
 year: '2009'
 ---

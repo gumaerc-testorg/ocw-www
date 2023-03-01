@@ -55,5 +55,6 @@ topics:
 - - Social Science
   - Sociology
 uid: 406660ae-5d14-449d-b1d4-1be11866dd17
+url_path: courses/sts-350-social-study-of-science-and-technology-spring-2004
 year: '2004'
 ---

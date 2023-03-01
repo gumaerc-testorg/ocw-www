@@ -49,5 +49,6 @@ topics:
   - Public Administration
   - Social Welfare
 uid: 0befe385-6551-46ab-9b3f-ab151293272c
+url_path: courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016
 year: '2016'
 ---

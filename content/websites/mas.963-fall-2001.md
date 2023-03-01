@@ -61,5 +61,6 @@ topics:
   - Computer Science
   - Theory of Computation
 uid: 4cdc4193-d2c6-4df0-b7ed-958ba10979de
+url_path: courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001
 year: '2001'
 ---

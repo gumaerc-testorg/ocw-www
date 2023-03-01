@@ -45,5 +45,6 @@ topics:
 - - Engineering
   - Mechanical Engineering
 uid: f435d293-df28-49db-9a98-e2dc1b904c9a
+url_path: courses/pe-920-pe-for-me-spring-2005
 year: '2005'
 ---

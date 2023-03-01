@@ -55,5 +55,6 @@ topics:
 - - Health and Medicine
   - Anatomy and Physiology
 uid: c1281685-b55b-47f1-a0d2-4edbfe7281c1
+url_path: courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005
 year: '2005'
 ---

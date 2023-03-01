@@ -43,5 +43,6 @@ topics:
 - - Social Science
   - Communication
 uid: 3d115fdd-b3e3-49e6-9156-e0d477a0b4f1
+url_path: courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005
 year: '2005'
 ---

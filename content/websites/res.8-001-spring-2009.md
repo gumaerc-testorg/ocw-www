@@ -57,5 +57,6 @@ topics:
 - - Mathematics
   - Topology and Geometry
 uid: 3edf1fc7-baad-4342-83b8-2ccd4f8f99a3
+url_path: courses/res-8-001-applied-geometric-algebra-spring-2009
 year: '2009'
 ---

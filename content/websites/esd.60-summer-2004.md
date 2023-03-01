@@ -45,5 +45,6 @@ topics:
 - - Business
   - Project Management
 uid: 515b0ae1-1c81-4d29-bc85-89ff1322a38a
+url_path: courses/esd-60-lean-six-sigma-processes-summer-2004
 year: '2004'
 ---

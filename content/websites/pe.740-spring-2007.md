@@ -35,5 +35,6 @@ topics:
 - - Health and Medicine
   - Physical Education and Recreation
 uid: 9745950e-e759-45da-b1ec-add37ac91477
+url_path: courses/pe-740-fencing-spring-2007
 year: '2007'
 ---

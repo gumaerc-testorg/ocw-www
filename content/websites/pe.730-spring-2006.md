@@ -38,5 +38,6 @@ topics:
 - - Health and Medicine
   - Physical Education and Recreation
 uid: 5b631bec-500a-487d-b6b8-403ab88fca2c
+url_path: courses/pe-730-archery-spring-2006
 year: '2006'
 ---

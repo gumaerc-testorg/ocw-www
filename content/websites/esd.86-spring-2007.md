@@ -51,5 +51,6 @@ topics:
   - Computer Science
   - Data Mining
 uid: 54645ad3-2506-4545-9532-e3c3d2f7448b
+url_path: courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007
 year: '2007'
 ---

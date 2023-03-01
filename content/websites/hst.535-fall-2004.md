@@ -55,5 +55,6 @@ topics:
   - Biological Engineering
   - Biomaterials
 uid: 896ee029-26fd-4c0c-88aa-55298e5061c2
+url_path: courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004
 year: '2004'
 ---

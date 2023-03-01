@@ -67,5 +67,6 @@ topics:
 - - Business
   - Project Management
 uid: 2832127d-2b62-489e-a977-47a169231cab
+url_path: courses/res-16-001-lean-enterprise-en-espanol-january-iap-2012
 year: '2012'
 ---

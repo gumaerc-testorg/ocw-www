@@ -58,5 +58,6 @@ topics:
   - Biological Engineering
   - Biotechnology
 uid: e4c3b6c3-65c7-49cd-a927-f229c3e308b1
+url_path: courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010
 year: '2010'
 ---

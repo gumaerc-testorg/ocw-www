@@ -39,5 +39,6 @@ topics:
   - History
   - History of Science and Technology
 uid: c6d9ffde-8195-4eed-bc6e-3ccc3eda1ccf
+url_path: courses/sts-330-history-and-anthropology-of-medicine-and-biology-spring-2013
 year: '2013'
 ---

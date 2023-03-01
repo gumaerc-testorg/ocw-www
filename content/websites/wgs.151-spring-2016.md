@@ -45,5 +45,6 @@ topics:
 - - Society
   - Women's Studies
 uid: 1934e78b-9ff8-4b8a-b99c-f6610570277c
+url_path: courses/wgs-151-gender-health-and-society-spring-2016
 year: '2016'
 ---

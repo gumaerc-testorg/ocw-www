@@ -52,5 +52,6 @@ topics:
 - - Engineering
   - Systems Engineering
 uid: 21bcc632-3356-4046-bcae-edf4c53e3b5f
+url_path: courses/esd-260j-logistics-systems-fall-2006
 year: '2006'
 ---

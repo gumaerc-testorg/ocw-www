@@ -56,5 +56,6 @@ topics:
 - - Business
   - Health Care Management
 uid: 94babd32-5897-45d8-be36-ab101a134bec
+url_path: courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008
 year: '2008'
 ---

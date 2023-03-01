@@ -51,5 +51,6 @@ topics:
 - - Health and Medicine
   - Biomedical Enterprise
 uid: 6a7fe83b-a544-4628-bafc-0d7a1719cc7f
+url_path: courses/hst-930j-social-studies-of-bioscience-and-biotech-fall-2005
 year: '2005'
 ---

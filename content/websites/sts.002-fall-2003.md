@@ -39,5 +39,6 @@ topics:
   - History
   - History of Science and Technology
 uid: b506b310-f47a-4eea-b113-c269bcb0a437
+url_path: courses/sts-002-toward-the-scientific-revolution-fall-2003
 year: '2003'
 ---

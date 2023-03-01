@@ -52,5 +52,6 @@ topics:
 - - Engineering
   - Computer Science
 uid: 15bd5801-559d-42f8-a93e-306b153a09f0
+url_path: courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017
 year: '2017'
 ---

@@ -51,5 +51,6 @@ topics:
 - - Health and Medicine
   - Functional Genomics
 uid: d2471827-3ad5-441f-ada4-81c1808443fa
+url_path: courses/hst-510-genomics-computing-economics-and-society-fall-2005
 year: '2005'
 ---

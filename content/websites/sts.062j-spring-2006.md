@@ -48,5 +48,6 @@ topics:
 - - Social Science
   - Sociology
 uid: d3218179-0484-430e-b182-ee93125d352e
+url_path: courses/sts-062j-drugs-politics-and-culture-spring-2006
 year: '2006'
 ---

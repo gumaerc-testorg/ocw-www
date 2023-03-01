@@ -39,5 +39,6 @@ topics:
 - - Mathematics
   - Computation
 uid: 9636e904-1310-4970-8ce7-70f243475712
+url_path: courses/res-3-004-visualizing-materials-science-fall-2017
 year: '2017'
 ---

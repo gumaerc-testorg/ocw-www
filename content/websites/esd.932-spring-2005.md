@@ -42,5 +42,6 @@ topics:
 - - Business
   - Organizational Behavior
 uid: 4735bffe-b99c-41e8-8b6f-bdc60caf6baf
+url_path: courses/esd-932-technology-policy-organizations-spring-2005
 year: '2005'
 ---

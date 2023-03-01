@@ -46,5 +46,6 @@ topics:
   - Physics
   - Classical Mechanics
 uid: 8c16e93d-41a8-47ad-a4c8-e7fe0ebcad48
+url_path: courses/res-8-002-a-wikitextbook-for-introductory-mechanics-fall-2009
 year: '2009'
 ---

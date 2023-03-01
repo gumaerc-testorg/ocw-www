@@ -50,5 +50,6 @@ topics:
   - History
   - Modern History
 uid: d4dcfb96-574a-4d3f-81d2-76b1eb20eecb
+url_path: courses/sts-050-the-history-of-mit-spring-2011
 year: '2011'
 ---

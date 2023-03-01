@@ -52,5 +52,6 @@ topics:
   - Urban Studies
   - Urban Planning
 uid: 694a247e-d9c9-4b2c-8ab4-166a9066e7a4
+url_path: courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010
 year: '2010'
 ---

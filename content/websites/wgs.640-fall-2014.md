@@ -64,5 +64,6 @@ topics:
 - - Society
   - Women's Studies
 uid: eb27c66e-1e63-4baa-948b-054d940804d3
+url_path: courses/wgs-640-gender-race-and-the-construction-of-the-american-west-fall-2014
 year: '2014'
 ---

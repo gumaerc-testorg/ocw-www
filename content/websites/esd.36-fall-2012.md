@@ -48,5 +48,6 @@ topics:
 - - Business
   - Project Management
 uid: 6098a468-8968-4041-a84e-d517373c14e0
+url_path: courses/esd-36-system-project-management-fall-2012
 year: '2012'
 ---

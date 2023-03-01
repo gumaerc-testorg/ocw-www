@@ -45,5 +45,6 @@ topics:
 - - Engineering
   - Systems Engineering
 uid: 17e947a7-640d-4c77-8bb0-af8876bff4d1
+url_path: courses/esd-70j-engineering-economy-module-fall-2009
 year: '2009'
 ---

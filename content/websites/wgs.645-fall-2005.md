@@ -56,5 +56,6 @@ topics:
 - - Society
   - Gender Studies
 uid: 7dce3a60-96aa-45a7-ae35-4868cb7dedac
+url_path: courses/wgs-645-issues-of-representation-women-representation-and-music-in-selected-folk-traditions-of-the-british-isles-and-north-america-fall-2005
 year: '2005'
 ---

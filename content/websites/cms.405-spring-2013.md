@@ -43,5 +43,6 @@ topics:
   - Visual Arts
   - Graphic Design
 uid: 73b22aac-743a-4b9a-8748-036b61132136
+url_path: courses/cms-405-media-and-methods-seeing-and-expression-spring-2013
 year: '2013'
 ---

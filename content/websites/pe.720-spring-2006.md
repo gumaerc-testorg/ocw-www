@@ -38,5 +38,6 @@ topics:
 - - Health and Medicine
   - Physical Education and Recreation
 uid: 8c5d4c20-c906-40ac-9ca6-133a519978cd
+url_path: courses/pe-720-weight-training-spring-2006
 year: '2006'
 ---

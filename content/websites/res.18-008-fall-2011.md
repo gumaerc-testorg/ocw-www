@@ -54,5 +54,6 @@ topics:
 - - Mathematics
   - Linear Algebra
 uid: 6301ad90-9811-4404-8151-1b3e41d1b81f
+url_path: courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011
 year: '2011'
 ---

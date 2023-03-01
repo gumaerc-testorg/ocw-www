@@ -50,5 +50,6 @@ topics:
 - - Mathematics
   - Linear Algebra
 uid: 0c89e303-8f4a-4d2c-b56d-4f8cd6b17b8a
+url_path: courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015
 year: '2015'
 ---

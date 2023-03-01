@@ -58,5 +58,6 @@ topics:
 - - Teaching and Education
   - Higher Education
 uid: ca753202-ca78-4057-a8f3-d48818d6ee0c
+url_path: courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc
 year: '2021'
 ---

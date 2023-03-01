@@ -44,5 +44,6 @@ topics:
 - - Teaching and Education
   - Curriculum and Teaching
 uid: b79555ec-5762-4f7e-85e4-ae3f18aea770
+url_path: courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020
 year: '2020'
 ---

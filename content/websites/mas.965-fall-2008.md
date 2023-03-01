@@ -62,5 +62,6 @@ topics:
   - Media Studies
   - Digital Media
 uid: e1d3a3ad-2487-4646-8a62-20b499bd1867
+url_path: courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008
 year: '2008'
 ---

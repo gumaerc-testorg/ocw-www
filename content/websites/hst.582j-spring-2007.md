@@ -54,5 +54,6 @@ topics:
 - - Health and Medicine
   - Biomedical Instrumentation
 uid: 0585e9d3-a596-4da4-95bf-c9672d674566
+url_path: courses/hst-582j-biomedical-signal-and-image-processing-spring-2007
 year: '2007'
 ---

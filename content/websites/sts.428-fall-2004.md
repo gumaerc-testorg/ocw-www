@@ -49,5 +49,6 @@ topics:
   - Anthropology
   - Social Anthropology
 uid: 1cbddc22-40d2-4e7d-84f1-aadf348d925d
+url_path: courses/sts-428-technology-and-change-in-rural-america-fall-2004
 year: '2004'
 ---

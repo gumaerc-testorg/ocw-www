@@ -38,5 +38,6 @@ topics:
 - - Humanities
   - History
 uid: 91ca5656-4d11-424c-b110-b2288dc9aaf0
+url_path: courses/cms-801-media-in-transition-fall-2012
 year: '2012'
 ---

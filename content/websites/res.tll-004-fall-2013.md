@@ -50,5 +50,6 @@ topics:
 - - Social Science
   - Communication
 uid: 8d43ceec-19ce-472d-8064-499a4e11c95e
+url_path: courses/res-tll-004-stem-concept-videos-fall-2013
 year: '2013'
 ---

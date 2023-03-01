@@ -44,5 +44,6 @@ topics:
 - - Business
   - Organizational Behavior
 uid: a097d654-a67d-4472-b618-4e221009df58
+url_path: courses/esd-141-technology-policy-negotiations-spring-2006
 year: '2006'
 ---

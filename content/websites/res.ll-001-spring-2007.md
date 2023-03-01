@@ -46,5 +46,6 @@ topics:
   - Physics
   - Electromagnetism
 uid: 01c52130-8e15-44b8-ab6f-620628d09040
+url_path: courses/res-ll-001-introduction-to-radar-systems-spring-2007
 year: '2007'
 ---

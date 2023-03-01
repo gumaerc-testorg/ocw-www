@@ -41,5 +41,6 @@ topics:
 - - Science
   - Biology
 uid: c3f88dff-bda8-459b-892e-f0d4a8719f58
+url_path: courses/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019
 year: '2019'
 ---

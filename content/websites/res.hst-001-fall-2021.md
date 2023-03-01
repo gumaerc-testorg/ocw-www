@@ -54,5 +54,6 @@ topics:
   - Chemistry
   - Analytical Chemistry
 uid: 2b46716c-9dab-4c3c-9bf4-3209bd50aeb8
+url_path: courses/res-hst-001-mit-little-devices-lab-fall-2021
 year: '2021'
 ---

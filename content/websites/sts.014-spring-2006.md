@@ -39,5 +39,6 @@ topics:
 - - Fine Arts
   - Media Studies
 uid: ce96ddf1-e918-4c0f-8883-e8e8a14335ac
+url_path: courses/sts-014-principles-and-practice-of-science-communication-spring-2006
 year: '2006'
 ---

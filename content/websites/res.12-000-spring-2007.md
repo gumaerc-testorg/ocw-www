@@ -47,5 +47,6 @@ topics:
   - Earth Science
   - Oceanography
 uid: f5536c60-f421-4d4e-9e54-b14862834f86
+url_path: courses/res-12-000-evolution-of-physical-oceanography-spring-2007
 year: '2007'
 ---

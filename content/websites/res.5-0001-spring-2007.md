@@ -53,5 +53,6 @@ topics:
 - - Science
   - Chemistry
 uid: 0babb85a-e4e9-46da-83c6-565528e7904f
+url_path: courses/res-5-0001-digital-lab-techniques-manual-spring-2007
 year: '2007'
 ---

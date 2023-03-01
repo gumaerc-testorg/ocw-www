@@ -38,5 +38,6 @@ topics:
   - Physics
   - Atomic, Molecular, Optical Physics
 uid: e3bdaf5e-d73e-4b47-b663-29aa23fd5107
+url_path: courses/res-8-008-nuclear-weapons-education-project-spring-2022
 year: '2022'
 ---

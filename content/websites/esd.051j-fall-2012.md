@@ -52,5 +52,6 @@ topics:
 - - Business
   - Project Management
 uid: 78d7a4ba-c5a4-40eb-8df3-a5f5121ecf05
+url_path: courses/esd-051j-engineering-innovation-and-design-fall-2012
 year: '2012'
 ---

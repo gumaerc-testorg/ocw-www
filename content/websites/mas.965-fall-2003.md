@@ -40,5 +40,6 @@ topics:
   - Media Studies
   - Digital Media
 uid: b6ba2798-f72f-4ff9-8f4a-4ff30e00458f
+url_path: courses/mas-965-special-topics-in-media-technology-cooperative-machines-fall-2003
 year: '2003'
 ---

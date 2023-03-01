@@ -42,5 +42,6 @@ title: 'LL EduCATE: Introduction to Engineering Concepts'
 topics:
 - - Engineering
 uid: 27a2ac3b-64b8-49e7-ac8e-52d76ce0fffd
+url_path: courses/res.ll-004-ll-educate-introduction-to-engineering-concepts-spring-2022
 year: '2022'
 ---

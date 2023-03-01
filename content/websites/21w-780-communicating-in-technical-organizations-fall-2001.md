@@ -51,5 +51,6 @@ topics:
 - - Social Science
   - Communication
 uid: 08a0a8e3-8aa6-4240-8a65-745d9f69cbbc
+url_path: courses/21w-780-communicating-in-technical-organizations-fall-2001
 year: '2001'
 ---

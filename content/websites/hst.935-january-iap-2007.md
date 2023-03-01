@@ -46,5 +46,6 @@ topics:
   - Literature
 - - Health and Medicine
 uid: 54ab1c94-3baa-4e8a-8f10-2d147cb5f3fe
+url_path: courses/hst-935-narrative-ethics-literary-texts-and-moral-issues-in-medicine-january-iap-2007
 year: '2007'
 ---

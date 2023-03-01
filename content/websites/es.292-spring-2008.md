@@ -38,5 +38,6 @@ topics:
   - Literature
   - Creative Writing
 uid: 01351e54-fd91-4808-8574-ae8a9a8a2ded
+url_path: courses/es-292-writing-workshop-spring-2008
 year: '2008'
 ---

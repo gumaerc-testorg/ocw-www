@@ -37,5 +37,6 @@ topics:
 - - Teaching and Education
   - Curriculum and Teaching
 uid: 824bff56-3066-4ef1-9987-17d4be9844da
+url_path: courses/res-mas-001-raise-responsible-ai-for-social-empowerment-and-education-spring-2022
 year: '2022'
 ---

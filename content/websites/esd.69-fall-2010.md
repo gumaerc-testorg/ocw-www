@@ -46,5 +46,6 @@ topics:
 - - Business
   - Health Care Management
 uid: 21180aad-5952-4caa-a8dd-670348124838
+url_path: courses/esd-69-seminar-on-health-care-systems-innovation-fall-2010
 year: '2010'
 ---

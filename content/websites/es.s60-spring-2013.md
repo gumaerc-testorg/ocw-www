@@ -41,5 +41,6 @@ topics:
 - - Social Science
   - Psychology
 uid: f89cc573-1117-4fa4-996c-fea0204d5e84
+url_path: courses/es-s60-the-art-and-science-of-happiness-spring-2013
 year: '2013'
 ---

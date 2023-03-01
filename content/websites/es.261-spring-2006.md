@@ -45,5 +45,6 @@ topics:
   - Literature
   - Criticism
 uid: 88d608c5-97d0-49d1-9ed7-789f931743ca
+url_path: courses/es-261-poetry-in-translation-spring-2006
 year: '2006'
 ---

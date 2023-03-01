@@ -35,5 +35,6 @@ topics:
   - Language
   - Japanese
 uid: e1ac3c73-a5df-4719-87a7-0bd87bf7123c
+url_path: courses/res-21g-505-kanji-learning-any-time-any-place-for-japanese-v-spring-2022
 year: '2022'
 ---

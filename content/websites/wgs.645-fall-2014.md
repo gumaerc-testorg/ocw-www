@@ -59,5 +59,6 @@ topics:
 - - Society
   - Gender Studies
 uid: 5cdb0cc6-36b2-420e-9e60-ac88aa29ec55
+url_path: courses/wgs-645-gender-health-and-marginalization-through-a-critical-feminist-lens-fall-2014
 year: '2014'
 ---

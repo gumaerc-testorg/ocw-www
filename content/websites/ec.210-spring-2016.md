@@ -49,5 +49,6 @@ topics:
 - - Teaching and Education
   - Educational Technology
 uid: d8eea8d0-62a1-4400-9b27-a0ffb510a23e
+url_path: courses/ec-210-visualization-for-mathematics-science-and-technology-education-spring-2016
 year: '2016'
 ---

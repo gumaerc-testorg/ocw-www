@@ -60,5 +60,6 @@ topics:
 - - Science
   - Cognitive Science
 uid: b165b505-a406-4482-bc59-253b93c3f708
+url_path: courses/mas-450-holographic-imaging-spring-2003
 year: '2003'
 ---

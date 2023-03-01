@@ -50,5 +50,6 @@ topics:
   - Earth Science
   - Sustainability
 uid: e860f63d-198f-4ef4-bf1c-11ee931ae8c2
+url_path: courses/ec-719-d-lab-water-climate-change-and-health-spring-2019
 year: '2019'
 ---

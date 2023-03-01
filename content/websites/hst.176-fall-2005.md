@@ -49,5 +49,6 @@ topics:
 - - Health and Medicine
   - Immunology
 uid: eb78f9c1-368d-4fe8-8b8a-78d1870fb6bb
+url_path: courses/hst-176-cellular-and-molecular-immunology-fall-2005
 year: '2005'
 ---

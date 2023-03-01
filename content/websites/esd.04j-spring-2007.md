@@ -49,5 +49,6 @@ topics:
   - Systems Engineering
   - Systems Design
 uid: cb9d2c5e-253d-40e3-942a-d2b12246a8de
+url_path: courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007
 year: '2007'
 ---

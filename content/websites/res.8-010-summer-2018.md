@@ -48,5 +48,6 @@ topics:
   - Physics
   - Classical Mechanics
 uid: 3808a5a0-d3b7-4b9b-b776-5b2abf58962e
+url_path: courses/res-8-010-introduction-to-statistical-physics-summer-2018
 year: '2018'
 ---

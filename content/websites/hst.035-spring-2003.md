@@ -60,5 +60,6 @@ topics:
 - - Health and Medicine
   - Pathology and Pathophysiology
 uid: 7bb3783f-e9cb-4b39-af42-3ac6838d1a4d
+url_path: courses/hst-035-principle-and-practice-of-human-pathology-spring-2003
 year: '2003'
 ---

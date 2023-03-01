@@ -54,5 +54,6 @@ topics:
   - Biology
   - Neuroscience
 uid: 561be249-9b0d-4e09-8b8c-7e6f02511704
+url_path: courses/res-9-004-nancys-brain-talks-fall-2022
 year: '2022'
 ---

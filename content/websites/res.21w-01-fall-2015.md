@@ -67,5 +67,6 @@ topics:
 - - Social Science
   - Communication
 uid: afbc0185-aff3-4b35-8d9b-8983e9f1ed1d
+url_path: courses/res-21w-01-angles-fall-2015
 year: '2015'
 ---

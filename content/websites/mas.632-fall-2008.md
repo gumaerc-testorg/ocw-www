@@ -46,5 +46,6 @@ topics:
 - - Science
   - Cognitive Science
 uid: 6822afcf-261a-41f1-b8e0-9af0d5cc514d
+url_path: courses/mas-632-conversational-computer-systems-fall-2008
 year: '2008'
 ---

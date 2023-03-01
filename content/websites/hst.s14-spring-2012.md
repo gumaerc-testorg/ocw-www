@@ -60,5 +60,6 @@ topics:
 - - Business
   - Innovation
 uid: 76b0a461-efba-4ea2-87e6-a7d47db3461d
+url_path: courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012
 year: '2012'
 ---

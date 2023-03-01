@@ -50,5 +50,6 @@ topics:
   - Physics
   - Classical Mechanics
 uid: 1063f35e-3d31-4dea-b089-4cf1bcda8c93
+url_path: courses/res-12-001-topics-in-fluid-dynamics-spring-2010
 year: '2010'
 ---

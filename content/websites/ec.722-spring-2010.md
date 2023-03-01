@@ -55,5 +55,6 @@ topics:
 - - Society
   - The Developing World
 uid: d384da60-76ef-4891-9976-e16a73eb8e56
+url_path: courses/ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010
 year: '2010'
 ---

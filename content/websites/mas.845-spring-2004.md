@@ -45,5 +45,6 @@ topics:
   - Literature
   - Criticism
 uid: eeec14c0-77de-4010-812c-998b72b8dd29
+url_path: courses/mas-845-special-topics-in-cinematic-storytelling-spring-2004
 year: '2004'
 ---

@@ -46,5 +46,6 @@ topics:
 - - Fine Arts
   - Media Studies
 uid: d910cf99-ca4f-402c-948b-a03d1ff4288a
+url_path: courses/cms-608-game-design-spring-2008
 year: '2008'
 ---

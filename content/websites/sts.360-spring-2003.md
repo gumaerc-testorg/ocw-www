@@ -39,5 +39,6 @@ topics:
   - Anthropology
   - Ethnography
 uid: 67a61be5-107d-4479-b0d9-a29d713adfc2
+url_path: courses/sts-360-ethnography-spring-2003
 year: '2003'
 ---

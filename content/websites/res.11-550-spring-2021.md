@@ -47,5 +47,6 @@ topics:
   - Urban Studies
   - Transportation Planning
 uid: c4284b31-230f-42c3-91a8-6ae37c9bc833
+url_path: courses/res-11-550-leveraging-urban-mobility-disruptions-to-create-better-cities-spring-2021
 year: '2021'
 ---

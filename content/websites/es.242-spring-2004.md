@@ -42,5 +42,6 @@ topics:
 - - Society
   - Women's Studies
 uid: 987db683-2584-45b2-9583-99ccbc017f3d
+url_path: courses/es-242-gender-issues-in-academics-and-academia-spring-2004
 year: '2004'
 ---

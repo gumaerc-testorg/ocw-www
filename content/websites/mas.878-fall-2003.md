@@ -39,5 +39,6 @@ topics:
   - Media Studies
   - Digital Media
 uid: a8e6062d-ca5f-4b80-9682-c9a14c037ea1
+url_path: courses/mas-878-special-topics-in-multimedia-production-experiences-in-interactive-art-fall-2003
 year: '2003'
 ---

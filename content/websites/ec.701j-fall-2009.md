@@ -53,5 +53,6 @@ topics:
   - The Developing World
 - - Engineering
 uid: db7189df-15bc-42fc-bec1-75bbb6628cc0
+url_path: courses/ec-701j-d-lab-i-development-fall-2009
 year: '2009'
 ---

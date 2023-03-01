@@ -45,5 +45,6 @@ topics:
   - Electrical Engineering
   - Robotics and Control Systems
 uid: 8631fe40-9527-4e9e-a7b0-429f329f3f9a
+url_path: courses/mas-965-relational-machines-spring-2005
 year: '2005'
 ---

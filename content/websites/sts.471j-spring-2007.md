@@ -46,5 +46,6 @@ topics:
 - - Engineering
   - Systems Engineering
 uid: b7997bd7-10da-4751-879e-c70223925939
+url_path: courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007
 year: '2007'
 ---

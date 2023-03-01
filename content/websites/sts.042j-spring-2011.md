@@ -40,5 +40,6 @@ topics:
   - History
   - Intellectual History
 uid: aed132e3-47f0-4058-ac45-c5816cd26a9b
+url_path: courses/sts-042j-einstein-oppenheimer-feynman-physics-in-the-20th-century-spring-2011
 year: '2011'
 ---

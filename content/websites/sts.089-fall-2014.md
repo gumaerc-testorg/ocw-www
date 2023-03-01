@@ -50,5 +50,6 @@ topics:
 - - Society
   - The Developing World
 uid: 1d7607af-f0d3-4c93-9bcf-2a58a5d67055
+url_path: courses/sts-089-technology-and-innovation-in-africa-fall-2014
 year: '2014'
 ---

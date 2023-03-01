@@ -42,5 +42,6 @@ topics:
 - - Society
   - The Developing World
 uid: c55ee2b4-a27e-4d08-a697-b7c86f7bfce5
+url_path: courses/es-253-aids-and-poverty-in-africa-spring-2005
 year: '2005'
 ---

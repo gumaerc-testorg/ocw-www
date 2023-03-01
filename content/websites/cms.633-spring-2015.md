@@ -47,5 +47,6 @@ topics:
   - Media Studies
   - Digital Media
 uid: 477f6e89-4c9b-4996-8970-16fa42fc6a47
+url_path: courses/cms-633-digital-humanities-spring-2015
 year: '2015'
 ---

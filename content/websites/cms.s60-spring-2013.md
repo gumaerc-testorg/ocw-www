@@ -47,5 +47,6 @@ topics:
   - Media Studies
   - Digital Media
 uid: acbfa1dd-620f-4869-9e3c-8a9c087db226
+url_path: courses/cms-s60-technopanics-moral-panics-about-technology-spring-2013
 year: '2013'
 ---

@@ -57,5 +57,6 @@ topics:
   - Physics
   - Thermodynamics
 uid: 779ccd0d-95c2-422d-a6af-1dbb68277abe
+url_path: courses/res-2-008-thermodynamics-and-climate-change-summer-2020
 year: '2020'
 ---

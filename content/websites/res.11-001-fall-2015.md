@@ -40,5 +40,6 @@ topics:
   - Public Administration
   - Science and Technology Policy
 uid: 039c7db0-ee54-4fb7-83ef-227ddebc65ac
+url_path: courses/res-11-001-cite-reports-fall-2015
 year: '2015'
 ---

@@ -44,5 +44,6 @@ topics:
 - - Business
   - Organizational Behavior
 uid: 0ff0ee03-e89a-4983-af6c-318b676199bc
+url_path: courses/wgs-150-gender-power-leadership-and-the-workplace-spring-2015
 year: '2015'
 ---

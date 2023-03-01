@@ -49,5 +49,6 @@ topics:
 - - Mathematics
   - Applied Mathematics
 uid: b8cdccbf-c734-44df-9294-96d7e9cffcdf
+url_path: courses/res-18-002-introduction-to-matlab-spring-2008
 year: '2008'
 ---

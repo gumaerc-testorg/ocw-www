@@ -47,5 +47,6 @@ topics:
   - Computer Science
   - Data Mining
 uid: a04e629d-6cfb-40f0-82d1-9fd4b0449739
+url_path: courses/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012
 year: '2012'
 ---

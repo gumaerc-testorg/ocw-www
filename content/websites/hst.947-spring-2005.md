@@ -44,5 +44,6 @@ topics:
 - - Health and Medicine
   - Biomedicine
 uid: 3b858f9f-7a95-4a7d-be0f-65549982f071
+url_path: courses/hst-947-medical-artificial-intelligence-spring-2005
 year: '2005'
 ---

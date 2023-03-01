@@ -38,5 +38,6 @@ topics:
 - - Society
   - Women's Studies
 uid: 7c83a60f-ec31-4b4d-9178-2be51dc4717b
+url_path: courses/wgs-101-introduction-to-womens-and-gender-studies-spring-2021
 year: '2021'
 ---

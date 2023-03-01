@@ -48,5 +48,6 @@ topics:
   - Systems Engineering
   - Systems Design
 uid: 5483f63f-995b-4645-9107-656ecc3b7786
+url_path: courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009
 year: '2009'
 ---

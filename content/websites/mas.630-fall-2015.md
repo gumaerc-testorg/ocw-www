@@ -44,5 +44,6 @@ topics:
 - - Social Science
   - Psychology
 uid: 47b750a3-ca79-4255-8372-14adfaa38b7b
+url_path: courses/mas-630-affective-computing-fall-2015
 year: '2015'
 ---

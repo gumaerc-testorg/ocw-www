@@ -47,5 +47,6 @@ topics:
 - - Social Science
   - Game Theory
 uid: 566dc034-461a-422e-a15a-ca95ee218abe
+url_path: courses/es-268-the-mathematics-in-toys-and-games-spring-2010
 year: '2010'
 ---

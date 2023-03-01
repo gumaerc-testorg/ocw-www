@@ -39,5 +39,6 @@ topics:
 - - Teaching and Education
   - Educational Technology
 uid: e2f47077-f4ae-4c22-873b-e48bf2de3e53
+url_path: courses/mas-714j-technologies-for-creative-learning-fall-2009
 year: '2009'
 ---

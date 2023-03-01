@@ -56,5 +56,6 @@ topics:
 - - Business
   - Project Management
 uid: c1be8925-3295-4bad-9fde-2604ae0f8d6e
+url_path: courses/cms-611j-creating-video-games-fall-2014
 year: '2014'
 ---

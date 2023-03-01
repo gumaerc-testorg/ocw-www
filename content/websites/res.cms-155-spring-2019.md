@@ -51,5 +51,6 @@ topics:
 - - Teaching and Education
   - Educational Technology
 uid: 37dae937-564d-430a-af8d-deff0241e2d7
+url_path: courses/res-cms-155-design-thinking-for-leading-and-learning-spring-2019
 year: '2019'
 ---

@@ -47,5 +47,6 @@ topics:
 - - Society
   - Women's Studies
 uid: 78f79066-219e-449f-9a24-bb51106acbbd
+url_path: courses/wgs-s10-history-of-women-in-science-and-engineering-fall-2017
 year: '2017'
 ---

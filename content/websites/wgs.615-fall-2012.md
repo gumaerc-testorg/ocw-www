@@ -49,5 +49,6 @@ topics:
 - - Society
   - Gender Studies
 uid: 2aa18968-afa3-40d1-b293-1f1922e15a18
+url_path: courses/wgs-615-feminist-inquiry-strategies-for-effective-scholarship-fall-2012
 year: '2012'
 ---

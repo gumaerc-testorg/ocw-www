@@ -32,5 +32,6 @@ topics:
 - - Science
   - Physics
 uid: 07991feb-853f-4a38-83fd-28f47eb2ff57
+url_path: courses/res-8-003-physics-demonstration-videos-spring-2012
 year: '2012'
 ---

@@ -43,5 +43,6 @@ topics:
   - Computer Science
   - Software Design and Engineering
 uid: 38be0478-8685-4442-9762-b3da7e3c31b8
+url_path: courses/mas-961-numeric-photography-fall-1998
 year: '1998'
 ---

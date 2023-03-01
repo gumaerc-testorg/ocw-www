@@ -53,5 +53,6 @@ topics:
   - Sociology
   - Social Justice
 uid: e47e9332-23ae-4de5-a39d-fd9a2b45f4c4
+url_path: courses/sts-080-youth-political-participation-spring-2016
 year: '2016'
 ---

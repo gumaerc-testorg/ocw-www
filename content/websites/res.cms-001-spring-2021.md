@@ -60,5 +60,6 @@ topics:
   - Media Studies
 - - Teaching and Education
 uid: a2197934-b2a6-4ad4-a4e3-52626b658bb1
+url_path: courses/res-cms-001-media-literacy-in-the-age-of-deepfakes-spring-2021
 year: '2021'
 ---

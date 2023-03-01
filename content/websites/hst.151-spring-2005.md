@@ -43,5 +43,6 @@ topics:
 - - Health and Medicine
   - Pharmacology and Toxicology
 uid: 95893466-472a-4f49-ace7-36878714a98c
+url_path: courses/hst-151-principles-of-pharmacology-spring-2005
 year: '2005'
 ---

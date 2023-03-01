@@ -43,5 +43,6 @@ topics:
   - History
   - History of Science and Technology
 uid: 6fcebc5d-28cd-4edf-b82f-3a699f388853
+url_path: courses/sts-009-evolution-and-society-spring-2012
 year: '2012'
 ---

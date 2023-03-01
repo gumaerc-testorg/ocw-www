@@ -35,5 +35,6 @@ topics:
 - - Social Science
 - - Society
 uid: dc88e6c3-9eb6-4aed-95a1-03720814e394
+url_path: courses/res-es-001-mit-prison-education-initiative-discussion-about-incarceration-january-iap-2021
 year: '2021'
 ---

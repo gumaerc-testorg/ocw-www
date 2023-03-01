@@ -40,5 +40,6 @@ title: Lean Research Skills for Conducting Interviews
 topics:
 - - Social Science
 uid: 8df2ffe6-2702-4107-b288-a566e2fa7f0a
+url_path: courses/res-ec-002-lean-research-skills-for-conducting-interviews-spring-2021
 year: '2021'
 ---

@@ -55,5 +55,6 @@ topics:
   - Computer Science
   - Data Mining
 uid: 2f8db232-acdf-4f53-bb36-6098fb3edc53
+url_path: courses/hst-953-collaborative-data-science-for-healthcare-fall-2020
 year: '2020'
 ---

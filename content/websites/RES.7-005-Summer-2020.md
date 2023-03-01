@@ -37,5 +37,6 @@ topics:
 - - Teaching and Education
   - Curriculum and Teaching
 uid: efae4e07-6c66-42b6-bd43-5d7e77ebf9a3
+url_path: courses/res-7-005-biology-teaching-assistant-ta-training-summer-2020
 year: '2020'
 ---

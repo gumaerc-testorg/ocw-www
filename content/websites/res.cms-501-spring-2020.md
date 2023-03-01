@@ -56,5 +56,6 @@ topics:
 - - Teaching and Education
   - Curriculum and Teaching
 uid: 044b8814-b89e-4784-94f0-30eb2ca0f743
+url_path: courses/res-cms-501-envisioning-the-graduate-of-the-future-spring-2020
 year: '2020'
 ---

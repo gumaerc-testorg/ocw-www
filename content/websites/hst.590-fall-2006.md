@@ -41,5 +41,6 @@ topics:
   - Literature
   - Academic Writing
 uid: 6481b3e0-7d6e-4dc0-9967-0071844cb203
+url_path: courses/hst-590-biomedical-engineering-seminar-series-developing-professional-skills-fall-2006
 year: '2006'
 ---

@@ -42,5 +42,6 @@ topics:
 - - Social Science
   - Communication
 uid: 0fc35740-723b-4164-b9c8-95698b97104d
+url_path: courses/esd-933-technology-policy-negotiations-and-dispute-resolution-spring-2005
 year: '2005'
 ---

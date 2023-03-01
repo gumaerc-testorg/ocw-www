@@ -45,5 +45,6 @@ topics:
 - - Business
   - Management
 uid: 9a6e23f0-a51f-4b1a-b8c2-52a1219b38ae
+url_path: courses/res-15-005-healthcare-finance-spring-2019
 year: '2019'
 ---

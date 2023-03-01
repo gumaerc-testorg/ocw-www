@@ -40,5 +40,6 @@ topics:
 - - Teaching and Education
   - Educational Technology
 uid: ca0449c3-a355-4cdb-99b7-1e4503f9b0ff
+url_path: courses/cms-594-education-technology-studio-spring-2019
 year: '2019'
 ---

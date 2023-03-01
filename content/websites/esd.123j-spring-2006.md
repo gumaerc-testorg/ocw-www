@@ -51,5 +51,6 @@ topics:
   - Earth Science
   - Sustainability
 uid: 2e377437-96d5-452a-95ad-6edb6244b07b
+url_path: courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006
 year: '2006'
 ---

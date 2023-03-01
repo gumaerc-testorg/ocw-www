@@ -42,5 +42,6 @@ topics:
 - - Engineering
   - Systems Engineering
 uid: 2d0c80f8-ef1d-420d-91de-14c57dd837c1
+url_path: courses/esd-00-introduction-to-engineering-systems-spring-2011
 year: '2011'
 ---

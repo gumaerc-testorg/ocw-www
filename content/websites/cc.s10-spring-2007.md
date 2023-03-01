@@ -47,5 +47,6 @@ topics:
   - Philosophy
   - Political Philosophy
 uid: f4e6bba6-e9be-4dc8-8bd6-4b1a8a00b184
+url_path: courses/cc-s10-prohibition-and-permission-spring-2007
 year: '2007'
 ---

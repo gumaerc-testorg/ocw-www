@@ -45,5 +45,6 @@ topics:
 - - Social Science
   - Sociology
 uid: afa124d3-e7f0-4ab1-b767-695149ba4b54
+url_path: courses/sts-004-science-technology-world-fall-2013
 year: '2013'
 ---

@@ -50,5 +50,6 @@ topics:
 - - Health and Medicine
   - Biomedical Instrumentation
 uid: 0038a6a3-221d-4fae-9513-3c7881d8d09e
+url_path: courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006
 year: '2006'
 ---

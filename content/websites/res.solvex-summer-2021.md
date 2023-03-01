@@ -49,5 +49,6 @@ topics:
 - - Business
   - Management
 uid: be3b5a2e-9564-44b0-b06c-cee419acf817
+url_path: courses/res-solvex-business-and-impact-planning-for-social-enterprises-0-solvex-summer-2021
 year: '2021'
 ---

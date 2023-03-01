@@ -54,5 +54,6 @@ topics:
 - - Fine Arts
   - Media Studies
 uid: cb875684-5259-4c06-b048-1f9a94bc8305
+url_path: courses/cms-951-workshop-ii-qualitative-social-science-methods-for-media-studies-spring-2015
 year: '2015'
 ---

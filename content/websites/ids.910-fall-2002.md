@@ -38,5 +38,6 @@ topics:
 - - Business
   - Leadership
 uid: 76ed94b5-8cef-41e5-8f0a-012ea88a5ee0
+url_path: courses/ids-910-leadership-development-fall-2002
 year: '2002'
 ---

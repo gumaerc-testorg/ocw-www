@@ -57,5 +57,6 @@ topics:
 - - Society
   - Women's Studies
 uid: 8f4cf186-6e84-485a-998a-0219b313b26f
+url_path: courses/wgs-693-gender-race-and-the-complexities-of-science-and-technology-a-problem-based-learning-experiment-spring-2009
 year: '2009'
 ---

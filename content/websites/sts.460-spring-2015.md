@@ -46,5 +46,6 @@ topics:
 - - Social Science
   - Communication
 uid: 0c0ce2cd-1fbc-4d60-80a7-5b21faa8bd4c
+url_path: courses/sts-460-histories-of-information-communication-and-computing-technologies-spring-2015
 year: '2015'
 ---

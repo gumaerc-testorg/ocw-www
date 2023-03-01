@@ -45,5 +45,6 @@ topics:
 - - Health and Medicine
   - Physical Education and Recreation
 uid: ea237dfb-1861-4db3-8eba-521bf02eba14
+url_path: courses/es-010-chemistry-of-sports-spring-2013
 year: '2013'
 ---

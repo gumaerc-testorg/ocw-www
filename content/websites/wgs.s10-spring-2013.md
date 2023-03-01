@@ -40,5 +40,6 @@ topics:
 - - Society
   - Gender Studies
 uid: b9946486-3a60-4f72-bcab-7f3844b64b24
+url_path: courses/wgs-s10-reproductive-politics-in-the-united-states-spring-2013
 year: '2013'
 ---

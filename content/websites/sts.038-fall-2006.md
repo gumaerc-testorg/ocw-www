@@ -53,5 +53,6 @@ topics:
   - History
   - History of Science and Technology
 uid: 6a4a1ced-bc1f-4b33-a658-bdb61f3fe7fc
+url_path: courses/sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006
 year: '2006'
 ---

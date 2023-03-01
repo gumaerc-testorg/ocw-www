@@ -55,5 +55,6 @@ topics:
 - - Social Science
   - Communication
 uid: 115c8289-5e1b-429b-83b5-def778a2aaca
+url_path: courses/mas-961-special-topics-designing-sociable-media-spring-2008
 year: '2008'
 ---

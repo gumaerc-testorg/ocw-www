@@ -43,5 +43,6 @@ topics:
   - History
   - History of Science and Technology
 uid: a293bb15-67b9-48f1-8db3-31034d493da7
+url_path: courses/sts-001-technology-in-american-history-spring-2006
 year: '2006'
 ---

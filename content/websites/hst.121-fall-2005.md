@@ -43,5 +43,6 @@ topics:
 - - Health and Medicine
   - Anatomy and Physiology
 uid: dbc376d7-fab7-45a8-bb76-afdccc8ed46b
+url_path: courses/hst-121-gastroenterology-fall-2005
 year: '2005'
 ---

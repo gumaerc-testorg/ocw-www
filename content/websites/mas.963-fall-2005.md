@@ -44,5 +44,6 @@ topics:
 - - Teaching and Education
   - Curriculum and Teaching
 uid: b9cda4c4-8c7a-46e0-bc13-652a928486b2
+url_path: courses/mas-963-technological-tools-for-school-reform-fall-2005
 year: '2005'
 ---

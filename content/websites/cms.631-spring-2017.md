@@ -51,5 +51,6 @@ topics:
   - Anthropology
   - Ethnography
 uid: 0ab7d631-4c1a-456f-ad27-978287383f92
+url_path: courses/cms-631-data-storytelling-studio-climate-change-spring-2017
 year: '2017'
 ---

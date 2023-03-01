@@ -48,5 +48,6 @@ topics:
 - - Business
   - Globalization
 uid: a544023f-c54e-47ef-95a8-41889991a94f
+url_path: courses/sts-025j-making-the-modern-world-the-industrial-revolution-in-global-perspective-fall-2009
 year: '2009'
 ---

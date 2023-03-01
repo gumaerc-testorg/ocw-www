@@ -42,5 +42,6 @@ topics:
 - - Fine Arts
   - Media Studies
 uid: 0d9ded50-2e5e-46d5-9790-6286d2a5d193
+url_path: courses/sts-s28-godzilla-and-the-bullet-train-technology-and-culture-in-modern-japan-fall-2005
 year: '2005'
 ---

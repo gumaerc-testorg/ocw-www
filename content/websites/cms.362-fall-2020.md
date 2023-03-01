@@ -45,5 +45,6 @@ topics:
   - Public Administration
   - Social Welfare
 uid: 694803d6-7591-40f0-af45-03cbaa2f31ce
+url_path: courses/cms-362-civic-media-codesign-studio-fall-2020
 year: '2020'
 ---

@@ -45,5 +45,6 @@ topics:
 - - Society
   - Women's Studies
 uid: 1232b256-1636-4644-990c-f971156c65c3
+url_path: courses/wgs-160j-science-activism-gender-race-and-power-fall-2019
 year: '2019'
 ---

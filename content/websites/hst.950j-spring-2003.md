@@ -51,5 +51,6 @@ topics:
 - - Business
   - Information Technology
 uid: a185e405-735e-46e1-a631-39331cc92714
+url_path: courses/hst-950j-medical-computing-spring-2003
 year: '2003'
 ---

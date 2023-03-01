@@ -61,5 +61,6 @@ topics:
 - - Mathematics
   - Differential Equations
 uid: e908e60b-ff16-4100-8b05-e3ae9f18e2d5
+url_path: courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010
 year: '2010'
 ---

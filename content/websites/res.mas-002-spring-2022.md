@@ -44,5 +44,6 @@ topics:
 - - Teaching and Education
   - Curriculum and Teaching
 uid: 37add217-7db0-4013-bb15-bd44025bdae5
+url_path: courses/res-mas-002-day-of-ai-spring-2022
 year: '2022'
 ---

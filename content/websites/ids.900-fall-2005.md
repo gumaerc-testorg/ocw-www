@@ -43,5 +43,6 @@ topics:
 - - Engineering
   - Systems Engineering
 uid: 82b7caa8-fbc6-41ca-b093-c13a3a0a5b36
+url_path: courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005
 year: '2005'
 ---

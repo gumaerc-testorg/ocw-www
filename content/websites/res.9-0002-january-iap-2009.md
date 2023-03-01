@@ -44,5 +44,6 @@ topics:
 - - Mathematics
   - Probability and Statistics
 uid: 444a180e-ba73-4224-80fd-433ae8a2516b
+url_path: courses/res-9-0002-statistics-and-visualization-for-data-analysis-and-inference-january-iap-2009
 year: '2009'
 ---

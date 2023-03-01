@@ -42,5 +42,6 @@ topics:
 - - Engineering
   - Systems Engineering
 uid: 0a92d2de-6a07-46e9-93b6-6da364e8fba8
+url_path: courses/mas-863-how-to-make-almost-anything-fall-2002
 year: '2002'
 ---

@@ -72,5 +72,6 @@ topics:
   - Environmental Engineering
   - Hydrology and Water Resource Systems
 uid: 3806ca94-47ff-4f84-a32e-b3eb63abfa5d
+url_path: courses/res-tl-002-star-software-tools-for-academics-and-researchers-spring-2012
 year: '2012'
 ---

@@ -43,5 +43,6 @@ topics:
   - Philosophy
   - Ethics
 uid: 7c96f27e-b5ee-4871-bf28-4bbadfbb3f37
+url_path: courses/hst-590-biomedical-engineering-seminar-series-topics-in-medical-ethics-and-responsible-conduct-in-research-fall-2005-spring-2006
 year: '2005'
 ---

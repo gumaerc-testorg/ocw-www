@@ -53,5 +53,6 @@ topics:
   - History
   - Modern History
 uid: e08028d8-2de6-4c9c-8ac3-b5c75eda43a4
+url_path: courses/sts-050-the-history-of-mit-spring-2016
 year: '2016'
 ---

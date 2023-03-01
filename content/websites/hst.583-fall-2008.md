@@ -124,5 +124,6 @@ topics:
 - - Health and Medicine
   - Biomedical Instrumentation
 uid: ebe7d15f-7089-42b4-8393-c690f60b1bd3
+url_path: courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008
 year: '2008'
 ---

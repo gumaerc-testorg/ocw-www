@@ -42,5 +42,6 @@ topics:
   - Media Studies
   - Digital Media
 uid: 0ccd5dfe-0e48-41ed-8c40-6ee8059fb9ab
+url_path: courses/cms-615-games-for-social-change-fall-2013
 year: '2013'
 ---

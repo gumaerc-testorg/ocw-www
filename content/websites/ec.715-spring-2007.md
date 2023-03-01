@@ -50,5 +50,6 @@ topics:
 - - Society
   - The Developing World
 uid: bf16c14a-e04d-4241-a93b-44d0b61d4663
+url_path: courses/ec-715-d-lab-disseminating-innovations-for-the-common-good-spring-2007
 year: '2007'
 ---

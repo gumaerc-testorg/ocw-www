@@ -44,5 +44,6 @@ topics:
   - Biology
   - Biophysics
 uid: 421e8b7b-61f6-4b47-aa74-becc8afa6508
+url_path: courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006
 year: '2006'
 ---

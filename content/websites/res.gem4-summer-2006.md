@@ -113,5 +113,6 @@ topics:
   - Biology
   - Molecular Biology
 uid: a35f1897-9023-4901-87fa-fb7b959c9591
+url_path: courses/res-gem4-global-enterprise-for-micro-mechanics-and-molecular-medicine-gem4-summer-2006-summer-2007
 year: '2006'
 ---

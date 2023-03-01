@@ -39,5 +39,6 @@ topics:
   - Biology
   - Neuroscience
 uid: 5e26517e-b6a0-4cd4-86fb-592fc6b2f457
+url_path: courses/hst-131-introduction-to-neuroscience-fall-2005
 year: '2005'
 ---

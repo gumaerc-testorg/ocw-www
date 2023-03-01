@@ -43,5 +43,6 @@ topics:
 - - Society
   - Gender Studies
 uid: 4c1c88ab-1b8c-40e6-a800-cd8cd1dbef18
+url_path: courses/wgs-115-gender-and-technology-spring-2013
 year: '2013'
 ---

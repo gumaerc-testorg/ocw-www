@@ -47,5 +47,6 @@ topics:
 - - Health and Medicine
   - Mental Health
 uid: 14917a22-4c74-4b76-8ad9-103b63862825
+url_path: courses/mas-771-autism-theory-and-technology-spring-2011
 year: '2011'
 ---

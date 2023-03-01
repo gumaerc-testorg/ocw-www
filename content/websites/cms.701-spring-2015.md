@@ -55,5 +55,6 @@ topics:
 - - Social Science
   - Political Science
 uid: 985a99df-c07d-400a-aec8-1c281c848713
+url_path: courses/cms-701-current-debates-in-media-spring-2015
 year: '2015'
 ---

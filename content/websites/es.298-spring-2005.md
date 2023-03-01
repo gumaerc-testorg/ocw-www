@@ -35,5 +35,6 @@ topics:
 - - Fine Arts
   - Visual Arts
 uid: 1e6558da-9faf-4c80-98ce-e640002238ea
+url_path: courses/es-298-art-of-color-spring-2005
 year: '2005'
 ---

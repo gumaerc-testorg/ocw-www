@@ -45,5 +45,6 @@ topics:
 - - Mathematics
   - Probability and Statistics
 uid: 3512f035-1ede-43cc-9fc6-80b70e0eb848
+url_path: courses/mas-961-networks-complexity-and-its-applications-spring-2011
 year: '2011'
 ---

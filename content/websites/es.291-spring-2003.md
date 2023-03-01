@@ -33,5 +33,6 @@ title: 'Learning Seminar: Experiments in Education'
 topics:
 - - Teaching and Education
 uid: cd3c5ebd-4793-4525-8097-77c855c876b8
+url_path: courses/es-291-learning-seminar-experiments-in-education-spring-2003
 year: '2003'
 ---

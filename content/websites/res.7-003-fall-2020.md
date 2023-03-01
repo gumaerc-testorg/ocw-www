@@ -61,5 +61,6 @@ topics:
   - Public Administration
   - Science and Technology Policy
 uid: dd83f0e1-834b-4ecb-af5e-ad92a93ed66d
+url_path: courses/res-7-003-brave-new-planet-fall-2020
 year: '2020'
 ---

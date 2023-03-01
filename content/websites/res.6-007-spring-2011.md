@@ -58,5 +58,6 @@ topics:
   - Systems Engineering
   - Computational Modeling and Simulation
 uid: b281c8e4-3fda-42a4-9452-55dcbc87a351
+url_path: courses/res-6-007-signals-and-systems-spring-2011
 year: '2011'
 ---

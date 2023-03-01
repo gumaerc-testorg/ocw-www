@@ -43,5 +43,6 @@ topics:
   - History
   - Intellectual History
 uid: 1766984f-fb74-4ce6-ae63-f04015c3443c
+url_path: courses/sts-310-history-of-science-fall-2015
 year: '2015'
 ---

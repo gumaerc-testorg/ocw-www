@@ -49,5 +49,6 @@ topics:
   - Systems Engineering
   - Numerical Simulation
 uid: 356c1ce0-9da3-4e09-a171-d4461057888b
+url_path: courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010
 year: '2010'
 ---

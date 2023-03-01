@@ -47,5 +47,6 @@ topics:
 - - Society
   - African American Studies
 uid: 2195b519-6b6c-4b8e-b8fc-2f57c1306ded
+url_path: courses/wgs-181-queer-cinema-and-visual-culture-fall-2017
 year: '2017'
 ---

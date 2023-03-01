@@ -57,5 +57,6 @@ topics:
   - Sustainability
 - - Energy
 uid: 26e16bd5-6df4-4395-acbb-fa5b51bc02b0
+url_path: courses/ec-711-d-lab-energy-spring-2011
 year: '2011'
 ---

@@ -40,5 +40,6 @@ topics:
   - Literature
   - Criticism
 uid: bcf3f0f0-7be2-45d3-b085-8473ad590001
+url_path: courses/cms-s61-special-subject-the-rise-of-film-noir-january-iap-2012
 year: '2012'
 ---

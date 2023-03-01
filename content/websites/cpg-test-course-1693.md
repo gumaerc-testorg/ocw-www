@@ -25,5 +25,6 @@ term: ''
 title: cpg-test-course-1693
 topics: []
 uid: aebeca6a-b812-4fc0-b546-1bf8b3141b19
+url_path: courses/cpg-test-course-1693
 year: ''
 ---

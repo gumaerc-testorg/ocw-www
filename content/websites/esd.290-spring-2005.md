@@ -49,5 +49,6 @@ topics:
 - - Business
   - Operations Management
 uid: 40d675f8-4d54-4017-8754-b78a42c0433e
+url_path: courses/esd-290-special-topics-in-supply-chain-management-spring-2005
 year: '2005'
 ---

@@ -45,5 +45,6 @@ topics:
   - Philosophy
   - Ethics
 uid: 5f3f5462-6178-47da-ac00-8bcebfaae000
+url_path: courses/es-114-non-violence-as-a-way-of-life-fall-2018
 year: '2018'
 ---

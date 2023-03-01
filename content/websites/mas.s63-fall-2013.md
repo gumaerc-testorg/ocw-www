@@ -44,5 +44,6 @@ topics:
 - - Health and Medicine
   - Biomedical Signal and Image Processing
 uid: b316218f-261e-4b31-9ae1-b913b9a0a6e9
+url_path: courses/mas-s63-engineering-health-towards-the-tricorder-fall-2013
 year: '2013'
 ---

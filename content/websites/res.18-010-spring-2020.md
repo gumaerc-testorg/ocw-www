@@ -46,5 +46,6 @@ topics:
 - - Mathematics
   - Linear Algebra
 uid: 26140b55-ed83-4ac9-b3bb-0f65a5697942
+url_path: courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020
 year: '2020'
 ---

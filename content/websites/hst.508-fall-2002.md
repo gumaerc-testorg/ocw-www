@@ -51,5 +51,6 @@ topics:
   - Biology
   - Computation and Systems Biology
 uid: b4650578-28ce-4992-9557-6103f1c81ba9
+url_path: courses/hst-508-genomics-and-computational-biology-fall-2002
 year: '2002'
 ---

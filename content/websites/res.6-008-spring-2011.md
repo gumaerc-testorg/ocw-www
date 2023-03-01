@@ -56,5 +56,6 @@ topics:
   - Electrical Engineering
   - Digital Systems
 uid: 0fcabbfd-4a0e-4080-95f3-9297ad09f76e
+url_path: courses/res-6-008-digital-signal-processing-spring-2011
 year: '2011'
 ---

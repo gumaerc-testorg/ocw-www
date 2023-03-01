@@ -53,5 +53,6 @@ term: Spring
 title: Designing Your Life
 topics: []
 uid: f78e6d6f-e4d8-47c2-a93e-abb4cf16cf27
+url_path: courses/pe-550-designing-your-life-spring-2009
 year: '2009'
 ---

@@ -39,5 +39,6 @@ topics:
 - - Social Science
   - Communication
 uid: 3ffbda9b-48aa-4eca-a805-cdfc397ae38a
+url_path: courses/cms-360-introduction-to-civic-media-fall-2012
 year: '2012'
 ---

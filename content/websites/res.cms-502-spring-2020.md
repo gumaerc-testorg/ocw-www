@@ -43,5 +43,6 @@ title: 'Competency-Based Education: The Why, What, and How'
 topics:
 - - Teaching and Education
 uid: 8926d908-c6c9-478f-a3f4-400e6e456a77
+url_path: courses/res-cms-502-competency-based-education-the-why-what-and-how-spring-2020
 year: '2020'
 ---

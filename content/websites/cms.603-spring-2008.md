@@ -43,5 +43,6 @@ topics:
 - - Fine Arts
   - Media Studies
 uid: 2abe046e-6d32-4923-92cc-2f2624eaabbc
+url_path: courses/cms-603-american-soap-operas-spring-2008
 year: '2008'
 ---

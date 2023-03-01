@@ -52,5 +52,6 @@ topics:
 - - Fine Arts
   - Media Studies
 uid: f8b77436-f5a9-4320-b7ef-cc2f5cc77dfa
+url_path: courses/cms-361-networked-social-movements-media-mobilization-spring-2014
 year: '2014'
 ---

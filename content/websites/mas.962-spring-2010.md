@@ -55,5 +55,6 @@ topics:
   - Media Studies
   - Digital Media
 uid: 29a507ab-9351-4d4d-a65a-b5af52150933
+url_path: courses/mas-962-special-topics-new-textiles-spring-2010
 year: '2010'
 ---

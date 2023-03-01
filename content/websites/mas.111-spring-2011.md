@@ -38,5 +38,6 @@ topics:
   - Media Studies
   - Digital Media
 uid: 327f4d59-ae9a-4417-b60a-558c70c7b2bb
+url_path: courses/mas-111-introduction-to-doing-research-in-media-arts-and-sciences-spring-2011
 year: '2011'
 ---

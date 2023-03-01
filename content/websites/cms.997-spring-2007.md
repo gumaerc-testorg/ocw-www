@@ -47,5 +47,6 @@ topics:
 - - Fine Arts
   - Performance Arts
 uid: 9a69db3a-607d-4f08-9b0a-32d4b727eb18
+url_path: courses/cms-997-topics-in-comparative-media-american-pro-wrestling-spring-2007
 year: '2007'
 ---

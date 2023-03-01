@@ -44,5 +44,6 @@ topics:
   - Economics
   - International Development
 uid: 6556eda7-09dd-4195-9f02-7b006f11bcb1
+url_path: courses/mas-666-developmental-entrepreneurship-fall-2003
 year: '2003'
 ---

@@ -48,5 +48,6 @@ topics:
 - - Business
   - Finance
 uid: 1efe4528-d247-4e9a-ae53-484a85b86cec
+url_path: courses/sts-002-finance-and-society-spring-2016
 year: '2016'
 ---

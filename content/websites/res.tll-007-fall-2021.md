@@ -48,5 +48,6 @@ topics:
 - - Teaching and Education
   - Curriculum and Teaching
 uid: f022d78f-b054-4cd9-86ff-53c9695de3e7
+url_path: courses/res-tll-007-case-studies-in-social-and-ethical-responsibilities-of-computing-fall-2021
 year: '2021'
 ---

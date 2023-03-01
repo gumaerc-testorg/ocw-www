@@ -44,5 +44,6 @@ topics:
 - - Teaching and Education
   - Higher Education
 uid: 5fdd2a54-5f9d-4867-bb45-9b3cc566313e
+url_path: courses/res-cd-001-leadership-and-empowerment-resources-from-graduate-women-at-mit-gwamit-spring-2012
 year: '2012'
 ---

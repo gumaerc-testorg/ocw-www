@@ -52,5 +52,6 @@ topics:
 - - Business
   - Operations Management
 uid: c7d22aef-e170-49d0-bb26-6cfef1569d88
+url_path: courses/res-15-001-mit-sloan-learningedge-fall-2008
 year: '2008'
 ---

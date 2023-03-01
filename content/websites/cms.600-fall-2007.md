@@ -45,5 +45,6 @@ topics:
   - Media Studies
   - Digital Media
 uid: 43691d80-ed93-4497-978d-6f264c67b310
+url_path: courses/cms-600-videogame-theory-and-analysis-fall-2007
 year: '2007'
 ---

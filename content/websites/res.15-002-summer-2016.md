@@ -48,5 +48,6 @@ topics:
   - Public Administration
   - Public Policy
 uid: afd02423-90f1-4681-99ca-2c5d2f110bef
+url_path: courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016
 year: '2016'
 ---

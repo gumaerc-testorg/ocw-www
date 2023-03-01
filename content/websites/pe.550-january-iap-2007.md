@@ -53,5 +53,6 @@ term: January IAP
 title: Designing Your Life
 topics: []
 uid: 91934665-6b88-4b63-948e-fb051895c41a
+url_path: courses/pe-550-designing-your-life-january-iap-2007
 year: '2007'
 ---

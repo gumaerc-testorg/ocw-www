@@ -47,5 +47,6 @@ topics:
   - Political Science
   - American Politics
 uid: 4ad53209-1207-4931-8878-5728b6ff1156
+url_path: courses/res-17-001-mit-election-data-science-lab-fall-2020
 year: '2020'
 ---

@@ -39,5 +39,6 @@ topics:
 - - Business
   - Organizational Behavior
 uid: 17a74010-5437-49b7-a849-0addceffefa1
+url_path: courses/res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020
 year: '2020'
 ---

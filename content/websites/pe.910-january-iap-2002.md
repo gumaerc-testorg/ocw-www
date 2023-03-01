@@ -44,5 +44,6 @@ topics:
 - - Science
   - Cognitive Science
 uid: ecfcc954-9ea7-4bf2-a671-f10ba3f9b475
+url_path: courses/pe-910-physical-intelligence-january-iap-2002
 year: '2002'
 ---

@@ -47,5 +47,6 @@ topics:
   - History
   - Modern History
 uid: bf13a1ea-afd0-4546-8ded-1f01cf6055b5
+url_path: courses/res-21h-001-visualizing-the-birth-of-modern-tokyo-spring-2021
 year: '2021'
 ---

@@ -43,5 +43,6 @@ topics:
   - Electrical Engineering
   - Electronics
 uid: 5109260d-37c7-432f-ad92-fea09d312a51
+url_path: courses/ec-s06-practical-electronics-fall-2004
 year: '2004'
 ---

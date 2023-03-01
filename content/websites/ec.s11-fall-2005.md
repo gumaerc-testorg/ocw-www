@@ -56,5 +56,6 @@ topics:
 - - Business
   - Health Care Management
 uid: e35e7dc0-7ac2-4afc-8d16-5a10c757b3f0
+url_path: courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005
 year: '2005'
 ---

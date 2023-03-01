@@ -41,5 +41,6 @@ topics:
 - - Fine Arts
   - Media Studies
 uid: 260e0021-16ab-4e98-9450-7ec015fa168d
+url_path: courses/cms-608-game-design-spring-2014
 year: '2014'
 ---

@@ -42,5 +42,6 @@ topics:
   - Philosophy
   - Political Philosophy
 uid: c505a661-b9f0-4933-934a-2c133a63cb61
+url_path: courses/cc-111-modern-conceptions-of-freedom-spring-2013
 year: '2013'
 ---

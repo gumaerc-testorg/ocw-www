@@ -42,5 +42,6 @@ topics:
 - - Society
 - - Teaching and Education
 uid: e132d3bc-058d-4a4c-aefa-6d636994f576
+url_path: courses/res-ec-003-d-lab-student-showcases-spring-2022
 year: '2022'
 ---

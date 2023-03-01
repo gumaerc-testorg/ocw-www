@@ -45,5 +45,6 @@ topics:
   - Earth Science
   - Environmental Science
 uid: bd330a22-71ce-49dc-b0d0-ae8927cc90d0
+url_path: courses/res-env-003-earthdnas-climate-101-fall-2019
 year: '2019'
 ---

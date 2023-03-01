@@ -49,5 +49,6 @@ topics:
 - - Teaching and Education
   - Higher Education
 uid: f1394607-c5c6-49c0-99ac-ae2813f565d4
+url_path: courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009
 year: '2009'
 ---

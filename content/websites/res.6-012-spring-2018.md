@@ -45,5 +45,6 @@ topics:
 - - Mathematics
   - Probability and Statistics
 uid: fae7eff7-8dfa-4b3e-b5fb-00a98caa5e33
+url_path: courses/res-6-012-introduction-to-probability-spring-2018
 year: '2018'
 ---

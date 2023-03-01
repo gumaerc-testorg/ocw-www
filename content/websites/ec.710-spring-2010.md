@@ -44,5 +44,6 @@ topics:
 - - Society
   - The Developing World
 uid: 232ba934-29ee-47b0-921b-d1f46793880b
+url_path: courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010
 year: '2010'
 ---

@@ -43,5 +43,6 @@ topics:
   - Literature
   - Creative Writing
 uid: 40c6cebf-413e-473c-893e-05464e4fd149
+url_path: courses/es-258-goedel-escher-bach-spring-2007
 year: '2007'
 ---

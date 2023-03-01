@@ -42,5 +42,6 @@ topics:
 - - Health and Medicine
   - Anatomy and Physiology
 uid: 1304626a-80d1-4193-a8b8-5aeac0501c72
+url_path: courses/hst-021-musculoskeletal-pathophysiology-january-iap-2006
 year: '2006'
 ---

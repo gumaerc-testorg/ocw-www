@@ -60,5 +60,6 @@ topics:
   - Public Administration
   - Environmental Policy
 uid: 5c13ebbc-7c84-4617-8615-4583f64e5c5d
+url_path: courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017
 year: '2017'
 ---

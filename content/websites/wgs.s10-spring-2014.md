@@ -54,5 +54,6 @@ topics:
 - - Society
   - Women's Studies
 uid: 75674d3c-bb32-4efe-9ff5-fc16dffc8b62
+url_path: courses/wgs-s10-gender-power-leadership-and-the-workplace-spring-2014
 year: '2014'
 ---

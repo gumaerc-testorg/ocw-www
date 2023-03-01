@@ -40,5 +40,6 @@ topics:
   - History
   - Modern History
 uid: ca4278bc-1c59-41f4-a9ae-13df2157b6e8
+url_path: courses/es-256-the-coming-years-spring-2008
 year: '2008'
 ---

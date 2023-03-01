@@ -43,5 +43,6 @@ topics:
   - Public Administration
   - Science and Technology Policy
 uid: a47451b0-8cc4-4e0f-9f0f-e7b346afb6ff
+url_path: courses/res-env-004-mit-climate-portal-fall-2020
 year: '2020'
 ---

@@ -43,5 +43,6 @@ topics:
 - - Fine Arts
   - Music
 uid: 9ebb3aec-4b04-4c45-a383-8679228948d4
+url_path: courses/cms-407-media-and-methods-sound-fall-2012
 year: '2012'
 ---

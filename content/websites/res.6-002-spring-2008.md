@@ -47,5 +47,6 @@ topics:
   - Physics
   - Electromagnetism
 uid: 638e07a8-1fba-4bed-b0c0-dd3077db419c
+url_path: courses/res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008
 year: '2008'
 ---

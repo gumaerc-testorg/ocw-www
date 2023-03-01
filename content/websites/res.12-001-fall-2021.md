@@ -59,5 +59,6 @@ topics:
   - Physics
   - Classical Mechanics
 uid: 79dc71d6-6d54-46ec-b207-bea1b2338dfd
+url_path: courses/res-12-001-topics-in-fluid-dynamics-spring-2022
 year: '2022'
 ---

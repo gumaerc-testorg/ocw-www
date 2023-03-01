@@ -41,5 +41,6 @@ topics:
 - - Science
   - Physics
 uid: f5abead8-2423-44f5-a3d9-d5aa0e98eea2
+url_path: courses/es-255-physics-of-rock-climbing-spring-2006
 year: '2006'
 ---
