@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "Today many people assume that technological change is the major\
   \ factor in historical change and that it tends to lead to historical progress.\

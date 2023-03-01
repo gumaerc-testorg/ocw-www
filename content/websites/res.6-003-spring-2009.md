@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'First published in 1968 by John Wiley and Sons, Inc., _Electromechanical
   Dynamics_ discusses the interaction of electromagnetic fields with media in motion.

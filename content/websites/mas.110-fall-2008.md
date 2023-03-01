@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This class covers the history of 20th century art and design
   from the perspective of the technologist. Methods for visual analysis, oral critique,

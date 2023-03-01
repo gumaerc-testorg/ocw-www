@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This is a discussion-based interactive seminar on the two major
   issues that affect Sub-Saharan Africa: HIV/AIDS and Poverty. AIDS and Poverty, seemingly

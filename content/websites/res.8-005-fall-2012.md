@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: '[_8.03 Physics III: Vibrations and Waves_](/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/)
   is the third course in the core physics curriculum at MIT, following _8.01 Physics

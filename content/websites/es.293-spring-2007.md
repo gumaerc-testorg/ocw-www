@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "LEGO\xAE robotics uses LEGO\xAEs as a fun tool to explore robotics,\
   \ mechanical systems, electronics, and programming. This seminar is primarily a\

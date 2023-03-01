@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Subject focuses on management principles, methods, and tools
   to effectively plan and implement successful system and product development projects.

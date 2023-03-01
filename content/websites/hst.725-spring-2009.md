@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course is a survey of perceptual and cognitive aspects of
   the psychology of music, with special emphasis on underlying neuronal and neurocomputational

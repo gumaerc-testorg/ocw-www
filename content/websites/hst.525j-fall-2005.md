@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "Tumor pathophysiology plays a central role in the growth, invasion,\
   \ metastasis and treatment of solid tumors. This class applies principles of transport\

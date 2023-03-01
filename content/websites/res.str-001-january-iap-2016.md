@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The MIT GIS Services Group at the MIT Libraries hosts a number
   of tutorial workshops throughout the year. This resource gathers together some of

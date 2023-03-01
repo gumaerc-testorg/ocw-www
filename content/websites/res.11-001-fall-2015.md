@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Created in 2012 at the Massachusetts Institute of Technology,
   the Comprehensive Initiative on Technology Evaluation ([CITE](http://cite.mit.edu/))

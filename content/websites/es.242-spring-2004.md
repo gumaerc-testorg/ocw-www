@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Does it matter in education whether or not you''ve got a Y chromosome?
   You bet it does. In this discussion-based seminar, we will explore why males vastly

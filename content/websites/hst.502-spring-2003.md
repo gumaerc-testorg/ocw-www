@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This course is designed to provide graduate students and postdoctoral\
   \ associates with techniques that enhance both validity and responsible conduct\

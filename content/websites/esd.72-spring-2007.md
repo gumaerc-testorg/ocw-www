@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'ERBA (ESD.72) emphasizes three methodologies - reliability and
   probabilistic risk assessment (RPRA), decision analysis (DA), and cost-benefit analysis

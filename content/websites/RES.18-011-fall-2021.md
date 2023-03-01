@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "Algebra I is the first semester of a year-long introduction to\
   \ modern algebra. Algebra is a fundamental subject, used in many advanced math courses\

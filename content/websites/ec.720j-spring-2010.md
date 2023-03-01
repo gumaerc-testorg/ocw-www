@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'D-Lab: Design addresses problems faced by undeserved communities
   with a focus on design, experimentation, and prototyping processes. Particular attention

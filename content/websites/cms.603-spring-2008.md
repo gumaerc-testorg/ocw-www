@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The television landscape has changed drastically in the past
   few years; nowhere is this more prevalent than in the American daytime serial drama,

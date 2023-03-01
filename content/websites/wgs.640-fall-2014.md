@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course explores how gender shaped the historical experiences
   and cultural productions in the North American West during the time it was being

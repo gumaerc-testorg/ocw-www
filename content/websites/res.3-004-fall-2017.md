@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This resource is a collection of student tutorial videos that
   explore various materials science and engineering topics using visualizations in

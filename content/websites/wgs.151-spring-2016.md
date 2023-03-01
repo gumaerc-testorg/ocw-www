@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course draws on different disciplines, conceptual frameworks,
   and methodological approaches to examine gender in relation to health, including

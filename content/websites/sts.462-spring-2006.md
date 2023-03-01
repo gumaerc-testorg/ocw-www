@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course is a graduate reading seminar, in which historical
   and contemporary studies are used to explore the interaction of technology with

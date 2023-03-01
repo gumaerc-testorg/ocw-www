@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'In this class, students use data and systems knowledge to build
   models of complex socio-technical systems for improved system design and decision-making.

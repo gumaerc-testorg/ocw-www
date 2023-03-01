@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "Patrick Winston's _How to Speak_ talk has been an MIT tradition\
   \ for over 40 years. Offered every January during the\_Independent Activities Period\

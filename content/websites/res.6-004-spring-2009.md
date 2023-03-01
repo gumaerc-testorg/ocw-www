@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: '*Principles of Computer System Design: An Introduction* is published
   in two parts. Part I, containing chapters 1-6, is a traditional printed textbook

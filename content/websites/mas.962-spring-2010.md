@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This project-based course will explore the future of textiles,
   focusing particularly on blending rich crafting traditions with new technologies.

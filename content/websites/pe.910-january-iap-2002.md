@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'For all of the bodies attached to the many great minds that walk
   the Institute''s halls, in the work that goes on at MIT the body is present as an

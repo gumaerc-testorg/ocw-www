@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course provides a foundation for understanding the relationship
   between molecular biology, developmental biology, genetics, genomics, bioinformatics,

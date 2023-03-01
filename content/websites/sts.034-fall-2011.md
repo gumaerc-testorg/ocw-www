@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This class develops the abilities of students to communicate
   science effectively in a variety of real-world contexts. It covers strategies for

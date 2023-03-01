@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This seminar looks at current theories on happiness and positive
   psychology as well as practical implications of those theories for our own lives.

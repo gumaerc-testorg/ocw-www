@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This class addresses important, current debates in media with
   in-depth discussion of popular perceptions and policy implications. Students will

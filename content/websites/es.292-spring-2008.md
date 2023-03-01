@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'MIT students are challenged daily to solve for x, to complete
   four problem sets, two papers, and prepare for an exam worth 30% of their grade...

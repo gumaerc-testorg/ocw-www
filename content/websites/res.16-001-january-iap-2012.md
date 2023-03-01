@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "Este curso contiene un subconjunto de material en espa\xF1ol\
   \ del curso 16.660J (en Ingl\xE9s). Para la versi\xF3n en Ingl\xE9s, por favor vea\

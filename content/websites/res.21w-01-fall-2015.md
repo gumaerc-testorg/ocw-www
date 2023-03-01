@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: '_Angles_ is an annual online magazine of exemplary writing by
   MIT students. All of the works published in _Angles_ since its first edition in

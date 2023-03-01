@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course centers on the changing relationships between men,
   women, and technology in American history. Topics include theories of gender, technologies

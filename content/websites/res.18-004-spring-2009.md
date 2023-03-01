@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "\u201C_Getting an education at MIT is like trying to drink from\
   \ a firehose._\u201D\n\n\u2014 folk saying\n\n_The Torch or The Firehose: A Guide\

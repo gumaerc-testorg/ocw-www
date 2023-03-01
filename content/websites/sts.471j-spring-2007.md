@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course is a detailed technical and historical exploration
   of the Apollo project to "fly humans to the moon and return them safely to earth"

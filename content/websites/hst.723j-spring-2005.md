@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course focuses on neural structures and mechanisms mediating
   the detection, localization and recognition of sounds. Discussions cover how acoustic

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This course will provide students with an analytic framework\
   \ to understand the roles that gender, race, and class play in defining and determining\

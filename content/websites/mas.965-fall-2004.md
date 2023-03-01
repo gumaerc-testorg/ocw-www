@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Millions of people are on-line today and the number is rapidly
   growing - yet this virtual crowd is often invisible. In this course we will examine

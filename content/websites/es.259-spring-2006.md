@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This is a discussion-based, interactive seminar on the development
   of information and communication technology in Sub-Saharan Africa. The students

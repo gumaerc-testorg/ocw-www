@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "_[Guidelines on Teaching @ MIT and Beyond](https://tll-archive.mit.edu/guidelines/guidelines-teaching-mit-and-beyond)\\\
   *_ is a web-based resource describing evidence-based practices for the design, delivery,\

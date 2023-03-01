@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "BioNook is Whitehead Institute's online biology resource, offering\
   \ exciting learning enrichment for students, parents and teachers. Find videos,\

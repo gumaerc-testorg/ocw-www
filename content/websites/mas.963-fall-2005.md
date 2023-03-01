@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course explores the potential impact of modern technologies
   on the school reforms debate. The first part of the course provides an overview

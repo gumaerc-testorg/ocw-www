@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Communities have always wrestled with the multiple purposes of
   education: to train young people for careers, vocations, and college; to prepare

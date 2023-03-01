@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Analyzes computational needs of clinical medicine reviews systems
   and approaches that have been used to support those needs, and the relationship

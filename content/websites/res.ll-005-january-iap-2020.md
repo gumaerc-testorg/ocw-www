@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course introduces the Dynamic Distributed Dimensional Data
   Model (D4M), a breakthrough in computer programming that combines graph theory,

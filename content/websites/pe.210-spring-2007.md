@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course will thoroughly educate the successful student with
   the knowledge and skills necessary to be a certified beginning SCUBA diver. The

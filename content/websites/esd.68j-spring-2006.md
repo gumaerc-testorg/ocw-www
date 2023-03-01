@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course provides an introduction to the technology and policy
   context of public communications networks, through critical discussion of current

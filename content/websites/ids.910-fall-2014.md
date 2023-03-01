@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Students work in a seminar environment to enhance their leadership
   capabilities. An initial Leadership Laboratory Outward Bound experience builds trust,

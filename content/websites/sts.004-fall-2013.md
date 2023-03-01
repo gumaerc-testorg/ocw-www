@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This class is an introduction to studies in science, technology,
   and society (STS), through examining a series of issues, events, conflicts, and

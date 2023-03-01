@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "How are math, art, music, and language intertwined? How does\
   \ intelligent behavior arise from its component parts? Can computers think? Can\

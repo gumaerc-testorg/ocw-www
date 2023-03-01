@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "The Technical Services Group at MIT's Department of Physics provides\
   \ technical and teaching support for undergraduate courses at MIT. These brief videos\

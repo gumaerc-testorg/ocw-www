@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "In this Public Service Design Seminar (PSDS), we will design\
   \ and build products with developmentally disabled students at the Protestant Guild\

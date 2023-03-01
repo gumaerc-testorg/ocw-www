@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This class introduces studies in the algorithmic manipulation\
   \ of type as word, symbol, and form. Problems covered will include semantic filtering,\

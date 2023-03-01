@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course examines the modern definition of freedom, and the
   obligations that people accept in honoring it. It investigates how these obligations

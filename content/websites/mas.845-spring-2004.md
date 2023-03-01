@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This seminar explores approaches to representation for distributed
   cinematic storytelling. The relationship between story creation and story appreciation

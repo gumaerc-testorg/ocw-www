@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "Explore where the prohibitions and permissions that occur in\
   \ every day life come from, why they exist, and what gives them force. For example:\

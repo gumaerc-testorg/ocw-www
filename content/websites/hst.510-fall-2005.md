@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course will focus on understanding aspects of modern technology
   displaying exponential growth curves and the impact on global quality of life through

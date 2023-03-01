@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'MAS.450 is a laboratory course about holography and holographic
   imaging.

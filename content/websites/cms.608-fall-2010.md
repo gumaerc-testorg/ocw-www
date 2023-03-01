@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This course provides practical instruction in the design and\
   \ analysis of non-digital games. Students cover the texts, tools, references and\

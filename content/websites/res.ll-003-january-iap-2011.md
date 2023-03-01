@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "Are you interested in building and testing your own imaging radar\
   \ system? MIT Lincoln Laboratory offers this 3-week course in the design, fabrication,\

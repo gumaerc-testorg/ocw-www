@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'How can we harness the emerging forms of interactive media to
   enhance the learning process? Professor Miyagawa and prominent guest speakers will

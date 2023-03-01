@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'History of Media and Technology addresses the mutually influential
   histories of communications media and technological development, focusing on the

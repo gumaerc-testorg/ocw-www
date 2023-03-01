@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Increasingly, we are realizing that to make computer systems
   more intelligent and responsive to users, we will have to make them more sensitive

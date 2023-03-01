@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Production of Educational Videos is an introduction to technical
   communication that is situated in the production of educational videos; the assignments

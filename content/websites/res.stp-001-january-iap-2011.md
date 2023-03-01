@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The careers of MIT scientists and engineers are significantly
   determined by public policy decisions made in Washington by the government. However,

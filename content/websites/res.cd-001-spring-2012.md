@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: '[Graduate Women at MIT](https://gsc.mit.edu/gwamit/) (GWAMIT)
   is an institute-wide, student-led group founded in 2009. Its mission is to promote

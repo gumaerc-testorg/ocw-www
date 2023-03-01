@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'How do words get their meanings? How can word meanings be represented
   and used by machines? We will explore three families of approaches to these questions

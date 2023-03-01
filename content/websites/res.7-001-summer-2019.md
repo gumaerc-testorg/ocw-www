@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This self-paced course was originally designed to help prepare\
   \ incoming MIT students for their first Introductory Biology Course (known at MIT\

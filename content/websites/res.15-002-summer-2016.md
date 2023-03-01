@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Federal credit programs involve a unique set of challenges and
   opportunities. This practical training course for executive and legislative branch

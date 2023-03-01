@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course focuses on disseminating Water, Sanitation and Hygiene
   (WASH) or water/environment innovations in developing countries and underserved

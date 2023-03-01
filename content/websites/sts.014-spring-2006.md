@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course helps in developing skills as science communicators
   through projects and analysis of theoretical principles. Case studies explore the

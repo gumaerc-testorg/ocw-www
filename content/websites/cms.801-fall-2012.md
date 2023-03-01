@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course centers on historical eras in which the form and
   function of media technologies were radically transformed. It includes consideration

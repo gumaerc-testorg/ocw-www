@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'In the course we will use a feminist interdisciplinary lens and
   invite students to look critically at how practices like privatization, shrinking

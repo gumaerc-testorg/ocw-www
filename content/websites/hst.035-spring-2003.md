@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course provides a comprehensive overview of human pathology
   with emphasis on mechanisms of disease and diagnostic medicine. Topics include:

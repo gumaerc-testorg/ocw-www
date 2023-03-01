@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: '### GEM{{< sup "4" >}} Vision
 

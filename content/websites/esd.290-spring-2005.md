@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This subject presents a range of advanced topics in integrated
   logistics and supply chain management. The course was conducted in a lecture-discussion

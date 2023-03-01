@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course provides an exciting, eye-opening, and thoroughly
   useful inquiry into what it takes to live an extraordinary life, on your own terms.

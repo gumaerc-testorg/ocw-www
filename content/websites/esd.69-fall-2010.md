@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This seminar applies a systems perspective to understand health\
   \ care delivery today, its stakeholders and problems as well as opportunities. Students\

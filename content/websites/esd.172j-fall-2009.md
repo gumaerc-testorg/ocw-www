@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'In 2004, the Ansari X PRIZE for suborbital spaceflight captured
   the public''s imagination and revolutionized an industry, leveraging a $10M prize

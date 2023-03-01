@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This class teaches the fundamentals of signals and information
   theory with emphasis on modeling audio/visual messages and physiologically derived

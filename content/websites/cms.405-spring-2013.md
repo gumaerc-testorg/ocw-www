@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'In this course students create digital visual images and analyze
   designs from historical and theoretical perspectives with an emphasis on art and

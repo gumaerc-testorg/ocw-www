@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course explores the ways in which humans experience the
   realm of sound and how perceptions and technologies of sound emerge from cultural,

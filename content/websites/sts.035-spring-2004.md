@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This course focuses on one particular aspect of the history of\
   \ computing: the use of the computer as a scientific instrument. The electronic\

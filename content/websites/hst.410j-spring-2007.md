@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course is a project-based introduction to manipulating and
   characterizing cells and biological molecules using microfabricated tools. It is

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course surveys operations research models and techniques
   developed for a variety of problems arising in logistical planning of multi-echelon

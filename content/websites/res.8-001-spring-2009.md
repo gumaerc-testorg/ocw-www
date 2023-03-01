@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "L\xE1szl\xF3 Tisza was [Professor of Physics Emeritus at MIT](http://web.mit.edu/newsoffice/2009/obit-tisza-0416.html),\
   \ where he began teaching in 1941. This online publication is a reproduction the\

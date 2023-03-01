@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'There is need for a rigorous, quantitative multidisciplinary
   design methodology that works with the non-quantitative and creative side of the

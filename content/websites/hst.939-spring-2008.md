@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Innovation in global health practice requires leaders who are
   trained to think and act like entrepreneurs. Whether at a hospital bedside or in

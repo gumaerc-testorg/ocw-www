@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The goal of this seminar is to have open discussions of controversial
   political and social issues and raise awareness of current world events in an informal

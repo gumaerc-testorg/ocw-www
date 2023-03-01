@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course explores the theory and practice of scientific modeling
   in the context of auditory and speech biophysics. Based on seminar-style discussions

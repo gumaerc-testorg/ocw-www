@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "Hacking and trolling; mass murders and bullying. What do these\
   \ have in common? One theory holds that these are all \"deviant\" social behaviors,\

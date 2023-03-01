@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'D-Lab Health provides a multidisciplinary approach to global
   health technology design via guest lectures and a major project based on fieldwork.

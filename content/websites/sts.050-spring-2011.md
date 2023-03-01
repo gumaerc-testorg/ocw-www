@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course examines the history of MIT through the lens of the
   broader history of science and technology, and vice versa. The course covers the

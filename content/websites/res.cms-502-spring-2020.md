@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This course will help you develop an understanding of the characteristic\
   \ elements of competency-based education (CBE) and how schools are implementing\

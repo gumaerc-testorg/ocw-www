@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This course introduces effective techniques for conducting interviews\
   \ and is designed to help you develop and strengthen your skills as an interviewer.\

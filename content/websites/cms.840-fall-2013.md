@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This course focuses on novels and films from the last twenty-five\
   \ years (nominally 1985\u20132010) marked by their relationship to extreme violence\

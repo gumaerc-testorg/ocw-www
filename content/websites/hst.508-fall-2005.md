@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course provides a foundation in the following four areas:
   evolutionary and population genetics; comparative genomics; structural genomics

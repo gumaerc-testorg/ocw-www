@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: The course addresses a fundamental issue in system design and
   management, the need for engineering leaders to recognize uncertainty in the performance

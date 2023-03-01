@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This introductory course will provide you with a multidisciplinary
   approach to managing waste in low- and middle-income countries, with strategies

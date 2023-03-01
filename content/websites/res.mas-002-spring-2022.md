@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This resource is to support teachers and educators to run Day
   of AI activities in their classrooms through curriculum packages and teacher training,

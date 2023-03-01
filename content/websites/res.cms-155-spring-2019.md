@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'How do we prepare K-12 students and learning communities to be
   as successful as possible? If future jobs require creativity, problem-solving, and

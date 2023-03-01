@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The course presents an in-depth interdisciplinary perspective
   of electric power systems, with regulation providing the link among the engineering,

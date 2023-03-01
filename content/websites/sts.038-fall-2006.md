@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'A survey of how America has become the world''s largest consumer
   of energy. Explores American history from the perspective of energy and its relationship

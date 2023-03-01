@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course covers how to leverage major technology advances
   to significantly transform a business in the marketplace. There is a focus on major

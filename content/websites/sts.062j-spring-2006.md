@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This class examines the relationship between a number of mind-altering\
   \ substances and cultural processes. We look at the relationship between drugs and\

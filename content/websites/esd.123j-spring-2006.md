@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course examines quantitative techniques for life cycle analysis
   of the impacts of materials extraction, processing use, and recycling; and economic

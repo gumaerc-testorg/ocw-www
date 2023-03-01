@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Run as a workshop, students collaborate in teams to design and
   prototype games for social change and civic engagement. Through readings, discussion,

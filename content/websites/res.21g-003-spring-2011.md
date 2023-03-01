@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This online textbook represents materials that were used in the
   first four semesters (two years) of the Mandarin program at MIT. They eventually

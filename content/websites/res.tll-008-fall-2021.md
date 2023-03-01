@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "[Social and Ethical Responsibilities of Computing (SERC)](https://computing.mit.edu/cross-cutting/social-and-ethical-responsibilities-of-computing/),\
   \ a cross-cutting initiative of the [MIT Schwarzman College of Computing](https://computing.mit.edu/),\

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course analyzes mainstream, popular films produced in the
   post-World War II 20th century U.S. as cultural texts that shed light on ongoing

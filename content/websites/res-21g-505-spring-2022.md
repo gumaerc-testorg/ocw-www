@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This resource aims to enhance students\u2019 learning of kanji\
   \ by providing a series of video lectures that cover the kanji characters in [Tobira](https://tobiraweb.9640.jp/)\

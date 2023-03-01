@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: This resource is a collection of videos taught using a LightBoard,
   a specialized glass that creates a transparent white board. It teaches scientific

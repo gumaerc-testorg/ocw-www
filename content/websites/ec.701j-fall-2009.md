@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "D-Lab Development addresses issues of technological improvements\
   \ at the micro level for developing countries\u2014in particular, how the quality\

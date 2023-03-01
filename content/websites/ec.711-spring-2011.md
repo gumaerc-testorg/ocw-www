@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "D-Lab: Energy offers a hands-on, project-based approach that\
   \ engages students in understanding and addressing the applications of small-scale,\

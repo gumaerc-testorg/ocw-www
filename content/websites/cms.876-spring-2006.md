@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This course looks at the history of avant-garde and electronic\
   \ music from the early twentieth century to the present. The class is organized\

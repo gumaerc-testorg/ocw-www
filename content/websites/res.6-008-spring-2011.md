@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course was developed in 1987 by the MIT Center for Advanced
   Engineering Studies. It was designed as a distance-education course for engineers

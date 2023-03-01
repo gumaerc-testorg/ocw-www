@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Media Literacy in the Age of Deepfakes aims to equip students
   with the critical skills to better understand the past and contemporary threat of

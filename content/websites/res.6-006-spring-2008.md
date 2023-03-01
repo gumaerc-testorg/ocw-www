@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This resource contains demonstrations used to illustrate the
   theory and applications of lasers and optics. A detailed listing of the topics can

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course is intended to provide students with the fundamentals
   of fencing, including footwork, bladework, bouting and refereeing. It will allow

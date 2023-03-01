@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Students will learn to fabricate, remix, and design detection
   and monitoring devices for health following the core focus of the Tricorder: a portable,

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The course will focus primarily on contemporary discourses concerning
   gender inequality. Most of the readings assigned will be recent articles published

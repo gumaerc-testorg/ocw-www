@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course considers the historical dimensions of rural production
   from subsistence to industrialization, both in America and in an international context,

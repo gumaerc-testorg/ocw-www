@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This subject introduces the history of science from antiquity
   to the present. Students consider the impact of philosophy, art, magic, social structure,

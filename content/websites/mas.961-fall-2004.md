@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "Innovation in expression, as realized in media, tangible objects,\
   \ performance and more, \_generates new questions and new potentials for human engagement.\

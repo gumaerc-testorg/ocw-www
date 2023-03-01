@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'During the fall of 2017, art educator B. Stephen Carpenter II
   began a residency at the [MIT Center for Art, Science & Technology](https://arts.mit.edu/cast/)

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This one-day workshop provides a brief overview of system dynamics
   and a hands-on simulation experience. It also serves as a preview of the more in-depth

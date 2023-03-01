@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course consists of a series of seminars focused on the development
   of professional skills. Each semester focuses on a different topic, resulting in

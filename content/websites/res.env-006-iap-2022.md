@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Solving the interconnected complex problems that pervade our
   social, environmental, economic, and health systems requires concerted change. To

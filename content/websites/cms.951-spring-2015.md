@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course focuses on a number of qualitative social science
   methods that can be productively used in media studies research including interviewing,

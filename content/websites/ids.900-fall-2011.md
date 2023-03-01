@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "IDS.900 _Doctoral Seminar in Engineering Systems_ examines the\
   \ core theory and contextual applications of the emerging field of Engineering Systems.\

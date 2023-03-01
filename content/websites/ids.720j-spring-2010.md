@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This course is an introduction to the analytical tools that support\
   \ design and decision-making in real estate and infrastructure development. There\

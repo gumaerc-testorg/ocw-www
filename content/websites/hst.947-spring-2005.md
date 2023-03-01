@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course provides an intensive introduction to artificial
   intelligence and its applications to problems of medical diagnosis, therapy selection,

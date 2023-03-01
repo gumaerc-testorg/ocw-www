@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course will assess the relationships among sequence, structure,
   and function in complex biological networks as well as progress in realistic modeling

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course offers an introduction to the history of gender,
   sex, and sexuality in the modern United States, from the end of the nineteenth century

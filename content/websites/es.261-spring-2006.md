@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This seminar addresses the inherent challenges of translating
   poetry from different languages, cultures, and eras. Students do some translation

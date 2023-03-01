@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "Student projects in [D-Lab classes](https://d-lab.mit.edu/academics/classes)\
   \ are defined by community partners and social ventures around the world. We don't\

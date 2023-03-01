@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This course offers an introduction to Women\u2019s and Gender\
   \ Studies, an interdisciplinary academic field that explores critical questions\

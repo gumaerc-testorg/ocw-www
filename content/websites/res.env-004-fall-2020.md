@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "To inform and empower the public on the complex issue of climate\
   \ change, the Massachusetts Institute of Technology has created a Climate Portal,\

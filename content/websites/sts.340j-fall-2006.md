@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course is an introduction to the consideration of technology
   as the outcome of particular technical, historical, cultural, and political efforts,

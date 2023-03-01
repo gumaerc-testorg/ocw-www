@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: '_Evolution of Physical Oceanography_ was created to mark the
   career of Henry M. Stommel, the leading physical oceanographer of the 20th Century

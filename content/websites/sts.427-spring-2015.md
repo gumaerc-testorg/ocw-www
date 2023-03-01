@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "Using the American Civil War as a baseline, the course considers\
   \ what it means to become \"modern\" by exploring the war's material and manpower\

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The MIT Libraries Data Management Group hosts a set of workshops
   during IAP ![](/images/educator/icon-question-iap.png) and throughout the year to

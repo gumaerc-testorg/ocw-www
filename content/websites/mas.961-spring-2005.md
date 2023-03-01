@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course will provide an overview of a new vision for Human-Computer
   Interaction (HCI) in which people are surrounded by intelligent and intuitive interfaces

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'SLaM (Systems Leadership and Management) Praxis is a course is
   designed to introduce students to the dynamics of strategic decision making in corporate

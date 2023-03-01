@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course examines representations of race, class, gender,
   and sexual identity in the media, with a particular focus on new media and how digital

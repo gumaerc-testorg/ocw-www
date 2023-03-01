@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The principles and practice of tissue engineering (and regenerative
   medicine) are taught by faculty of the Harvard-MIT Division of Health Sciences and

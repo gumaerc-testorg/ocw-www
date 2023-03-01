@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "Black feminist health science studies is a critical intervention\
   \ into a number of intersecting arenas of scholarship and activism, including feminist\

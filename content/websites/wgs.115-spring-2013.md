@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course considers a wide range of issues related to the contemporary
   and historical use of technology, the development of new technologies, and the cultural

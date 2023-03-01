@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "Algebra II is the second semester of a year-long introduction\
   \ to modern algebra. The course focuses on group representations, rings, ideals,\

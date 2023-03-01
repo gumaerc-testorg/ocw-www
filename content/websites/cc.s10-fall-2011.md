@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course focuses on an in-depth reading of _Principia Mathematica
   Philosophiae Naturalis_ by Isaac Newton, as well as several related commentaries

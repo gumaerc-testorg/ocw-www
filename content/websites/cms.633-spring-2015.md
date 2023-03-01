@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course examines the theory and practice of using computational
   methods in the emerging field of digital humanities. It develops an understanding

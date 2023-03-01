@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This class investigates cognitive science and technology as it\
   \ is applied to the industrial design process. The class introduces prototyping\

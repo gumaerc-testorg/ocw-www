@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Learn to produce great designs, be a more effective engineer,
   and communicate with high emotional and intellectual impact. This project based

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course is intended for students pursuing research projects
   at the Media Laboratory. Topics include Media Lab research areas, documenting research

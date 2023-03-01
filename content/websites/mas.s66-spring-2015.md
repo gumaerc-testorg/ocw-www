@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'With a focus on the creation of functional prototypes and practicing
   real magical crafts, this class combines theatrical illusion, game design, sleight

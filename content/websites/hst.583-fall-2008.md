@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This team-taught multidisciplinary course provides information
   relevant to the conduct and interpretation of human brain mapping studies. It begins

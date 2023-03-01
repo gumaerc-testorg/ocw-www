@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: The MIT Nuclear Weapons Education Project aims to teach individuals,
   particularly those who grew up after the end of the Cold War, about what nuclear

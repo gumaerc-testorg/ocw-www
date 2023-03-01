@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The histories of information, communication, and computing technologies
   have attracted attention from scholars across a variety of disciplines. This course

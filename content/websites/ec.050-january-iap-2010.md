@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: '2010 marks the 400th anniversary of Galileo''s astonishing sightings
   of features on the moon, stars, and moons around Jupiter that no one had seen before.

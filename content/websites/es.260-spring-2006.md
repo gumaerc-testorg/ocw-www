@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This pass/fail seminar should be a fun setting where we can all\
   \ enjoy a love of good books together. Students will read approximately one novel\

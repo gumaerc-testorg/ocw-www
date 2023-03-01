@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The half-semester graduate course in Green Supply Chain Management
   will focus on the fundamental strategies, tools and techniques required to analyze

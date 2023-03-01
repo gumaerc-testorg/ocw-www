@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The course will span modern neuroscience from molecular neurobiology
   to perception and cognition, including the following major topics: anatomy and development

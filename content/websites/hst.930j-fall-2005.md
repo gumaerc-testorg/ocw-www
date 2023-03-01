@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'In this course, social, ethical and clinical issues associated
   with the development of new biotechnologies and their integration into clinical

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "In this course you will learn the basics of photography and gain\
   \ an intriguing new perspective into the visual world. We will begin with a gentle\

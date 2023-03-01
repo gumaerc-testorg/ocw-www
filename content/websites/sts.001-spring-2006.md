@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course will consider the ways in which technology, broadly
   defined, has contributed to the building of American society from colonial times

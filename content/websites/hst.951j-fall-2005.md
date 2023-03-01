@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This course presents the main concepts of decision analysis,\
   \ artificial intelligence, and predictive model construction and evaluation in the\

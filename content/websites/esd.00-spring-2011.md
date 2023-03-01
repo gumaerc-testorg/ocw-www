@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Students in ESD.00 work on projects to address large, complex
   and seemingly intractable real-world problems, such as energy supply, environmental

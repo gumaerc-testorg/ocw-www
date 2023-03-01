@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course covers cells and tissues of the immune system, lymphocyte
   development, the structure and function of antigen receptors, the cell biology of

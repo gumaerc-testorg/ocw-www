@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The seminar is designed to look at the science of triathlons
   and sports from a molecular/chemical biological point of view. We will be able to

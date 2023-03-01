@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This class is divided into a series of sections or \"modules\"\
   , each of which concentrates on a particular large technology-related topic in a\

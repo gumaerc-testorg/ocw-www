@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The purpose of this class is to offer students a new perspective
   on the importance of our bodily experience to our cognitive and social lives. The

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Bitcoin and other cryptographic currencies have gained attention
   over the years as the systems continue to evolve. This course looks at the design

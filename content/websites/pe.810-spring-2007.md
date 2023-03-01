@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The purpose of this class is to tell you something about our
   Tech Dinghy and how to sail it. This OCW site is arranged as a series of skills,

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Sloan''s [Teaching Resources Library](https://mitsloan.mit.edu/teaching-resources-library/about-teaching-resources-library)
   provides open access to case studies and management simulations for management educators

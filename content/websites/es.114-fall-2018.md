@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course addresses the philosophical question of what a non-violent
   life entails. It investigates its ethical dimensions and challenges, and considers

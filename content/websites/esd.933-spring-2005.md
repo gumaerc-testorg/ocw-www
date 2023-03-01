@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "Technology Policy Negotiations and its prequel, ESD.932, Technology\
   \ Policy Organizations, form a sequence on Organizational Processes in Technology\

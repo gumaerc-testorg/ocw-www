@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This subject traces the evolution of ideas about nature, and
   how best to study and explain natural phenomena, beginning in ancient times and

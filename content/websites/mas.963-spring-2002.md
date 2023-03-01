@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The nature of human identity - how we think of ourselves, how
   we perceive others - is a mutable concept, changing with the rise and fall of religious

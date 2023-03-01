@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course introduces the theory and the practice of engineering
   ethics using a multi-disciplinary and cross-cultural approach. Theory includes ethics

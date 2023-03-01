@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This seminar examines the history and legacy of the Cold War
   on American science. It explores scientist''s new political roles after World War

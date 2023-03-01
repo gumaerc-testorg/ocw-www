@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "In this course you will learn the three laws of thermodynamics,\
   \ explore concepts like entropy and enthalpy, and investigate the causes and effects\

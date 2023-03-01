@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "Every great teacher and every great school constantly work towards\
   \ creating better learning conditions for students. Just as we hope our students\

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Feedback control is an important technique that is used in many
   modern electronic and electromechanical systems. The successful inclusion of this

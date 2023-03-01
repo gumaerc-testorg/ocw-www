@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'An historical examination and analysis of the evolution and development
   of games and game mechanics. Topics include a large breadth of genres and types

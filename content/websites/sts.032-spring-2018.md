@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'With increasing public awareness of the multiple effects of global
   environmental change, the terms water, energy, and food crisis have become widely

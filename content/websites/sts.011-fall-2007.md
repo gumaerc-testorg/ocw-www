@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'We will explore the changing political choices and ethical dilemmas
   of American scientists from the atomic scientists of World War II to biologists

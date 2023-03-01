@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: MICRO is the *Materials Initiative for Comprehensive Research
   Opportunity* created to provide a remote research and education experience to undergraduate

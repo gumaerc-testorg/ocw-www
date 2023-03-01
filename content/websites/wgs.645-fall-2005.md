@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This subject investigates the special relation of women to several
   musical folk traditions in the British Isles and North America. Throughout, we will

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course explores the social relevance of neuroscience, considering
   how emerging areas of brain research at once reflect and reshape social attitudes

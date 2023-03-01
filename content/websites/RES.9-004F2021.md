@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Professor Nancy Kanwisher uses a brain imaging method called
   fMRI to study the human brain. Her website, *Nancy''s Brain Talks,* is a collection

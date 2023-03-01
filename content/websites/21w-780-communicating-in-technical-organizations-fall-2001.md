@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course focuses on an exploration of the role that communication
   plays in the work of the contemporary engineering and science professional. Emphasis

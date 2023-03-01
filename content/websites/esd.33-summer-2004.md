@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Systems engineering is an interdisciplinary approach and means
   to enable the realization of successful systems. It focuses on defining customer

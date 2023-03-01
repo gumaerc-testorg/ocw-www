@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This class is a multidisciplinary introduction to pharmacology,\
   \ neurotransmitters, drug mechanisms, and brain diseases from addiction to schizophrenia.\n\

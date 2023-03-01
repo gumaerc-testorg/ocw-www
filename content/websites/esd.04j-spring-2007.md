@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This class provides an introduction to quantitative models and
   qualitative frameworks for studying complex engineering systems. Also taught is

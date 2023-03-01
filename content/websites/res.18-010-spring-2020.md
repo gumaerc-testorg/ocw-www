@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "These brief videos, recorded in 2020, contain ideas and suggestions\
   \ from Professor Strang about the recommended order of topics in teaching and learning\

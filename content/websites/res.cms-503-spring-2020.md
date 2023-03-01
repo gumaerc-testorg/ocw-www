@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "Every day, teachers make thousands of decisions: what content\
   \ to teach, what activities to assign, who to call on, how to respond to a student\

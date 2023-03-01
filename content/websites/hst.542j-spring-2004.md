@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course elaborates on the application of the principles of
   energy and mass flow to major human organ systems. It discusses mechanisms of regulation

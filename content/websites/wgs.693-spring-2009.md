@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "What can we learn about science and technology\u2013and what\
   \ can we do with that knowledge? Who are \"we\" in these questions?\u2013whose knowledge\

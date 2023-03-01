@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'An introductory course in the molecular biology of the auditory
   system. First half focuses on human genetics and molecular biology, covering fundamentals

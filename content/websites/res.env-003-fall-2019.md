@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "The Climate 101 presentation was developed by Brandon Leshchinskiy\
   \ in collaboration with Professor Dava Newman, MIT Portugal, and EarthDNA in an\

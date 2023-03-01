@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Is marriage a patriarchal institution? Much feminist scholarship
   has characterized it that way, but now in the context of the recent Massachusetts

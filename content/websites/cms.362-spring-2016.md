@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course is a service-learning, project-based studio course
   that focuses on collaborative design of civic media. Students will work in diverse

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'In this interdisciplinary seminar, we explore a variety of visual
   and written tools for self exploration and self expression. Through discussion,

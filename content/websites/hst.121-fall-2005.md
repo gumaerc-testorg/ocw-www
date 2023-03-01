@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The most recent knowledge of the anatomy, physiology, biochemistry,
   biophysics, and bioengineering of the gastrointestinal tract and the associated

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'In this book, Sanjoy Mahajan shows us that the way to master
   complexity is through insight rather than precision. Precision can overwhelm us

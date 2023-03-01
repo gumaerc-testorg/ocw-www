@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: Learn how to read and interpret maps and data and use basic cartography
   principles to create maps that can be used in reports and presentations. After learning

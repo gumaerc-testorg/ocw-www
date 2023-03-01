@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course provides a critical analysis of mass media in our
   culture. Various types of media such as books, films, video games, and online interactions

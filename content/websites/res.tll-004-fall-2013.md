@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "The STEM Concept Videos are designed to help students learn a\
   \ pivotal concept in science, technology, engineering, and/or mathematics (STEM).\

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'First published in 1981 by MIT Press, _Continuum Electromechanics_,
   courtesy of MIT Press and used with permission, provides a solid foundation in electromagnetics,

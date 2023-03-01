@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'SP.255 is a lecture, discussion, and project based seminar about
   the physics of rock climbing. Participants are first exposed to the unsolved problems

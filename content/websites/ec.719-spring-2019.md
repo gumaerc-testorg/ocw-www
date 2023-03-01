@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "D-Lab: Water, Climate Change, and Health is a project-based,\
   \ experiential, and transdisciplinary course. Together with peers and experts, we\

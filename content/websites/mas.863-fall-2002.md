@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course provides a hands-on introduction to the resources
   for designing and fabricating smart systems, including CAD/CAM/CAE; NC machining,

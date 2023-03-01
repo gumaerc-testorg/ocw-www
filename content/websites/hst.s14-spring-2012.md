@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course is a collaborative offering of [Sana](http://sana.mit.edu/),
   [Partners in Health](http://www.pih.org/), and the [Institute for Healthcare Improvement](http://www.ihi.org/Pages/default.aspx)

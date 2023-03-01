@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course introduces abstraction as an important mechanism
   for problem decomposition and solution formulation in the biomedical domain, and

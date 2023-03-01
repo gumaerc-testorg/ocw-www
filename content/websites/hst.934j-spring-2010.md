@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This class provides a space for medical students and MD/PhD students,
   as well as HASTS (History, Anthropology, Science, Technology, and Society) PhD students

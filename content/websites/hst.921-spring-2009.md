@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This innovative, trans-faculty subject teaches how information
   technologies (IT) are reshaping and redefining the health care marketplace through

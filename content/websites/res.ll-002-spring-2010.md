@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The 16 lectures in this course cover the topics of adaptive antennas
   and phased arrays. Both theory and experiments are covered in the lectures. Part

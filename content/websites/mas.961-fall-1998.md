@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "The aim of the students from the Numeric Photography class at\
   \ the MIT Media Laboratory was to present an exhibition of digital artworks which\

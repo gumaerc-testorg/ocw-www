@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course examines the social, cultural, economic, and political
   aspects of digital games. Topics include the socio-technical aspects of digital

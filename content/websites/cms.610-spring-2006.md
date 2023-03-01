@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course examines the interplay of art, science, and commerce
   shaping the production, marketing, distribution, and consumption of contemporary

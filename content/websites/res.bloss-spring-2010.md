@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'BLOSSOMS stands for Blended Learning Science or Math Studies.
   It is a project sponsored by MIT LINC (Learning International Networks Consortium)

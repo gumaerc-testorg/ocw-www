@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course will explore the state of the art in common sense
   knowledge, and class projects will design and build interfaces that can exploit

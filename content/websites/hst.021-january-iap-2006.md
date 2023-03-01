@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: This course covers the growth, development and structure of normal
   bone and joints, the biomechanics of bone connective tissues, and their response

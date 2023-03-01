@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The [MIT Election Data and Science Lab](https://electionlab.mit.edu/)
   (MEDSL) supports advances in election science by collecting, analyzing, and sharing

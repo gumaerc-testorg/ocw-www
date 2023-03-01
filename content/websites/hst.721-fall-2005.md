@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'In this course, experimental approaches to the study of hearing
   and deafness are presented through lectures, laboratory exercises and discussions

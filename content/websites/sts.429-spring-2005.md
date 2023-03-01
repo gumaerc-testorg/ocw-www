@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "In this class, food serves as both the subject and the object\
   \ of historical analysis. As a subject, food has been transformed over the last\

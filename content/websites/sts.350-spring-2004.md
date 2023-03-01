@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course surveys canonical and recent theories and methods
   in science studies. We will organize our discussions around the concept of "reproduction,"

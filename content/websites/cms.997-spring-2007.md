@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This class will explore the cultural history and media industry
   surrounding the masculine drama of professional wrestling. Beginning with wrestling''s

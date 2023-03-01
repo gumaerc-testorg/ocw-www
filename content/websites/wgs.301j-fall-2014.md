@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course analyzes theories of gender and politics, especially
   ideologies of gender and their construction. Also discussed are definitions of public

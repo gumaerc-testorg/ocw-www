@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This course places contemporary youth activities in perspective\
   \ by surveying young American's political participation over the past 200 years.\

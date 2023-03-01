@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course is an introduction to the interdisciplinary study
   of commercial videogames as texts, examining their cultural, educational, and social

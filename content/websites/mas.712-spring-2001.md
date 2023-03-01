@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'As the digital revolution brings with it radical changes in how
   and what we learn, people must continue to learn all the time. New technologies

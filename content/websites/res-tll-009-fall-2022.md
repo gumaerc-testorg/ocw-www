@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "The Joint Entrance Examination\u2014Advanced\\* is a prestigious\
   \ exam for high school students in India, as successful candidates go onto pursue\

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course examines civic media in comparative, transnational
   and historical perspectives through the use of various theoretical tools, research

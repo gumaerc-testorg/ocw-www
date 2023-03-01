@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This class explores interaction with mobile computing systems
   and telephones by voice, including speech synthesis, recognition, digital recording,

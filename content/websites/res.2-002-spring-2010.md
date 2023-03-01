@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Finite element analysis is now widely used for solving complex
   static and dynamic problems encountered in engineering and the sciences. In these

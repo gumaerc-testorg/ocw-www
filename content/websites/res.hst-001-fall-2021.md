@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "The MIT Little Devices Lab collaborates with healthcare professionals\
   \ in developing countries to create affordable health and medical technologies.\

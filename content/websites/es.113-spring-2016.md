@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course explores the relationship between ancient Greek philosophy
   and mathematics. We investigate how ideas of definition, reason, argument and proof,

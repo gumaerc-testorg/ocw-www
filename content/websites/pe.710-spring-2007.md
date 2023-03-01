@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The goals of this instructional course are to get you started
   in this wonderful sport and to give you a working knowledge of tennis. It should

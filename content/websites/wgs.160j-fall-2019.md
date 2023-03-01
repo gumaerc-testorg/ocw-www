@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This subject examines the role scientists have played as activists\
   \ in social movements in the U.S. following World War II. Themes include scientific\

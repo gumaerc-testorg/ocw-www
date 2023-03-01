@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The Civic Media Codesign Studio is a project-based studio course
   in collaborative design of civic media. Students work with a range of organizations

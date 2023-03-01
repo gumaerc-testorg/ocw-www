@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The Girls Who Build: Make Your Own Wearables workshop for high
   school girls is an introduction to computer science, electrical and mechanical engineering

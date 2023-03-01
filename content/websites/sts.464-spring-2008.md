@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "Our linked subjects are (1) the historical process by which the\
   \ meaning of _technology_ has been constructed, and (2) the concurrent transformation\

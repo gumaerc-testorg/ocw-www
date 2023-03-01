@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This course provides an introductory survey of data science tools\
   \ in healthcare.\_It was created by members of [MIT Critical Data](https://criticaldata.mit.edu/),\

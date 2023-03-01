@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course illuminates current theories about autism together
   with challenges faced by people on the autism spectrum. Theories in communicating,

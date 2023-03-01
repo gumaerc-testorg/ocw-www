@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Networks are a ubiquitous way to represent complex systems, including
   those in the social and economic sciences. The goal of the course is to equip students

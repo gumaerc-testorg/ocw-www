@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course, organized as a series of lectures, aims to provide
   an interdisciplinary view of the history and current climate of nuclear weapons

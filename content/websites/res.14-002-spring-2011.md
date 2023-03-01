@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This five-day program on evaluating social programs will provide\
   \ a thorough understanding of randomized evaluations and pragmatic step-by-step\

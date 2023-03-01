@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Technology Policy Organizations and its sequel, ESD.933, Technology
   Policy Negotiations and Dispute Resolution, form a sequence on Organizational Processes

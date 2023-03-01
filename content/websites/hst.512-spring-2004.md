@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course reviews the key genomic technologies and computational
   approaches that are driving advances in prognostics, diagnostics, and treatment.

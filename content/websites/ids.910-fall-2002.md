@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Students work in a team environment to develop five core leadership
   capabilities: Visioning, Analyzing, Relating, Inventing and Enabling. In addition,

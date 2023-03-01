@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This class will study the behavior of photovoltaic solar energy
   systems, focusing on the behavior of "stand-alone" systems. The design of stand-alone

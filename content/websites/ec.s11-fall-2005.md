@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This multidisciplinary seminar addresses fundamental issues in
   global health faced by community-based healthcare programs in developing countries.

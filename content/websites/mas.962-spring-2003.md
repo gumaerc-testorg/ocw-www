@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course examines the philosophical and theoretical foundations
   of constructionism as a paradigm for formulating and evaluating new theories for

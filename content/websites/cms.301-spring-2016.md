@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course is an introduction to the theory and practice of
   the process of designing games and playful experiences. Students are familiarized

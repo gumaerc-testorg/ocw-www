@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course examines the issues, principles, and challenges toward
   building relational machines through a combination of studio-style design and critique

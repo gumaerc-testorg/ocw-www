@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "The subject of this course is the historical process by which\
   \ the meaning of \"technology\" has been constructed. Although the word itself is\

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course will serve as an introduction to the interdisciplinary
   academic study of videogames, examining their cultural, educational, and social

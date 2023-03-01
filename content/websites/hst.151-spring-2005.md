@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The object of the course is to teach students an approach to
   the study of pharmacologic agents. It is not intended to be a review of the pharmacopoeia.

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "Welcome to \u201CIntroduction to Engineering Concepts,\" a lesson\
   \ that will introduce you to several STEM fields and help you build core skills\

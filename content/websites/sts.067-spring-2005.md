@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This subject exposes students to a variety of visualization techniques
   so that they learn to understand the work involved in producing them and to critically

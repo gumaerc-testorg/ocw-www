@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This 12 session course is designed for the beginning or novice
   weight lifter, or for those who have experience lifting but lack proper instruction.

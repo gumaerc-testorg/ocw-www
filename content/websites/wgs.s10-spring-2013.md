@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'In this seminar, we will explore the significance of struggles
   over reproductive rights in the United States. Throughout the course, we will ask

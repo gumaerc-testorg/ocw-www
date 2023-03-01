@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course considers how the visual and material world of "nature"
   has been reshaped by industrial practices, ideologies, and institutions, particularly

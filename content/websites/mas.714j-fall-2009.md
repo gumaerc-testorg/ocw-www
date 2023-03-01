@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This course explores the design of innovative educational technologies\
   \ and creative learning environments, drawing on specific case studies such as the\

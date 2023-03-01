@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "A whirl-wind tour of the statistics used in behavioral science\
   \ research, covering topics including: data visualization, building your own null-hypothesis\

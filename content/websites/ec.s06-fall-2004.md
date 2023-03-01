@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'You can build a wide range of practical electronic devices if
   you understand a few basic electronics concepts and follow some simple rules. These

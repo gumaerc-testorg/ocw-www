@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "With educators from around the world and faculty from MIT and\
   \ Stanford University, you will learn quick and effective practices for evaluating\

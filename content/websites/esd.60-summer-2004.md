@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Students of this course will develop a broad understanding of
   Lean/Six Sigma principles and practices, build capability to implement Lean/Six

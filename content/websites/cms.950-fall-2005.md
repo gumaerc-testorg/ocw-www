@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course fulfills the first half of the Comparative Media
   Studies workshop sequence requirement for entering graduate students. The workshop

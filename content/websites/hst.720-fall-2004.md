@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "Topics for this course are based primarily on reading and discussions\
   \ of original research literature that cover the analysis as well as the underlying\

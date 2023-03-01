@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This set of 10 lectures (about 11+ hours in duration) was excerpted
   from a three-day course developed at MIT Lincoln Laboratory to provide an understanding

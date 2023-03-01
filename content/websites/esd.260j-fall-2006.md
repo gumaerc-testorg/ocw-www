@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This subject is a survey of the fundamental analytic tools, approaches,
   and techniques which are useful in the design and operation of logistics systems

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'D-Lab World Prosthetics is a collaboration between the Massachusetts
   Institute of Technology and the Jaipur Foot Organization to improve the design,

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The [MIT Prison Education Initiative (PEI)](http://pei.mit.edu/)
   hosted this non-credit January IAP course to give the MIT community an opportunity

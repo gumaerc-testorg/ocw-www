@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "A computational camera attempts to digitally capture the essence\
   \ of visual information by exploiting the synergistic combination of task-specific\

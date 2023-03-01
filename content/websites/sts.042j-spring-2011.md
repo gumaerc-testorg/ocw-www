@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course covers the role of physics and physicists during
   the 20th century, focusing on Einstein, Oppenheimer, and Feynman. Beyond just covering

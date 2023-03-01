@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This course is built around practical instruction in the design\
   \ and analysis of non-\xADdigital games. It provides students the texts, tools,\

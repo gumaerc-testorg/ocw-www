@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Aim is to analyze important current events for what they reveal
   about the nature and working of our technological world. Starting point is connection

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This class is a global survey of the great transformation in
   history known as the "Industrial Revolution." Topics include origins of mechanized

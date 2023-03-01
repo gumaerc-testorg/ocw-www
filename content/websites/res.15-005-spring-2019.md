@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Healthcare Finance (15.482x) provides students with the background,
   resources, and framework to influence the healthcare industry. Topics include applying

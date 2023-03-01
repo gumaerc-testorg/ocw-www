@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This is a 9-day hands-on workshop about designing, building,
   and publishing simple educational videogames. No previous experience with computer

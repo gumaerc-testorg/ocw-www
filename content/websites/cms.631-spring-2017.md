@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course explores visualization methodologies to conceive
   and represent systems and data, e.g., financial, media, economic, political, etc.,

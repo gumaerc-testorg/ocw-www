@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This project-based course explores new design strategies for
   social interaction in the computer mediated world. Through weekly readings and design

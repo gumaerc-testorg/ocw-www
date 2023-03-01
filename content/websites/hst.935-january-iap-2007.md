@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This eight-session course, designed for a mixed group of first,
   second, third and fourth-year medical students, uses literary narratives and poetry

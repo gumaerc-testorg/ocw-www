@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course explores recent historical and anthropological approaches
   to the study of medicine and biology. Topics might include interaction of disease

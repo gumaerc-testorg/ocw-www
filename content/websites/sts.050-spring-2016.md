@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'To study MIT is to study the modern world. In 2016, MIT celebrated
   the 100{{< sup "th" >}} anniversary of the move from Boston to Cambridge; therefore,

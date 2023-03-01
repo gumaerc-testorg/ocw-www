@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course instructs students on how to develop technologies
   that help people measure and communicate emotion, that respectfully read and that

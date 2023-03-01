@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This course focuses on science and technology policy\u2014it\
   \ will examine the science and technology innovation system, including case studies\

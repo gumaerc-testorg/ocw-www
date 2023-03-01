@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "Digital Anthropology is a Spring 2003 applied social science\
   \ and media arts seminar, surveying the blossoming arena of digital-artifact enabled\

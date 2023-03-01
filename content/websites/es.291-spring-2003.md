@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This seminar explores experiments in education and discusses\
   \ how education and learning might be done, through reading and discussion. This\

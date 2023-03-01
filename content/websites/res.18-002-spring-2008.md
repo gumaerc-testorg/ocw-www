@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This course was offered as a non-credit program during the [Independent\
   \ Activities Period (IAP)](http://web.mit.edu/iap/about/index.html), January 2008.\

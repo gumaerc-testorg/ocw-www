@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Calculus Revisited is a series of videos and related resources
   that covers the materials normally found in a freshman-level introductory calculus

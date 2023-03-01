@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course offers an introduction to the history and historiography
   of science from ancient Greece to the present. It is designed to serve as an introduction

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The focus of the course is on medical science and practice in
   the age of automation and the genome, both present and future.

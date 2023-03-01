@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'According to the [United States Agency for International Development](http://www.usaid.gov/),
   20 million people in developing countries require wheelchairs, and the [United Nations

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This collection of three essays was developed from the author's\
   \ experience teaching the course *Fluid Dynamics of the Atmosphere and Ocean*, offered\

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This class deals with the fundamentals of characterizing and
   recognizing patterns and features of interest in numerical data. We discuss the

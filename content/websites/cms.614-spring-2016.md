@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course focuses on the social and cultural aspects of networked
   life through internet-related technologies (including computers, mobile devices,

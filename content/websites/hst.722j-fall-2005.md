@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'An advanced course covering anatomical, physiological, behavioral,
   and computational studies of the central nervous system relevant to speech and hearing.

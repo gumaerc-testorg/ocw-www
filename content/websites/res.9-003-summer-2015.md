@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This course explores the problem of intelligence\u2014its nature,\
   \ how it is produced by the brain and how it could be replicated in machines\u2014\

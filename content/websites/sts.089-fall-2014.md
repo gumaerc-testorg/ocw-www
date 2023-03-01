@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'What do technology and innovation mean from Africa? This is the
   central question of this course, which tackles a double absence: Of the meanings

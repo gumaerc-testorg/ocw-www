@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course investigates theories and practices of feminist inquiry
   across a range of disciplines. Feminist research involves rethinking disciplinary

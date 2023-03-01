@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "Learning hiragana and katakana is an important part of reading\
   \ and speaking Japanese. The following pages contain:\n\n[Hiragana](/courses/res-21g-01-kana-spring-2010/pages/hiragana/_index)\_\

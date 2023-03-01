@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Engineering systems design must have the flexibility to take
   advantage of new opportunities while avoiding disasters. This subject develops "real

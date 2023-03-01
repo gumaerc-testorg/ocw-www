@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This class deals with interactive art. Visiting artists will
   discuss their work from a theoretical and practical perspective. Discussions of

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course provides students with a broad historical and social-scientific
   introduction to a central aspect of modern economic life: Finance. By drawing upon

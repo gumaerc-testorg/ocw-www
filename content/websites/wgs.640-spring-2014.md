@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Using film and related popular media as our texts, this course
   will examine how screen "embodiments" of the woman visualize ideologies of discipline

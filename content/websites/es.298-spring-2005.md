@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This seminar introduces, through studio projects, the basic principles
   regarding the use of color in the visual arts. Students explore a range of topics,

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This course explores how citizen science can support community\
   \ actions to combat climate change. Participants will learn about framing problems,\

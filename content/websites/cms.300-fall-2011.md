@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course offers an introduction to the interdisciplinary study
   of videogames as texts through an examination of their cultural, educational, and

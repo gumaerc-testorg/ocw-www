@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This seminar is designed to be an experimental and hands-on approach
   to applied chemistry (as seen in cooking). Cooking may be the oldest and most widespread

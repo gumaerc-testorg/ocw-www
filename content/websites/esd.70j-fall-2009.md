@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This intensive micro-subject provides the necessary skills in\
   \ Microsoft\xAE Excel spreadsheet modeling for ESD.71 _Engineering Systems Analysis\

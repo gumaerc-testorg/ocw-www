@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "In this course, we explore how new mobility systems can be leveraged\
   \ to promote equity, improve health outcomes, and increase accessibility. Lectures\

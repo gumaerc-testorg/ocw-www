@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This class does intensive close study and analysis of historically
   significant media "texts" that have been considered landmarks or have sustained

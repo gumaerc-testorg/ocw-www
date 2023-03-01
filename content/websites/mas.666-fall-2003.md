@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This class surveys developmental entrepreneurship via case examples
   of both successful and failed businesses and generally grapples with deploying and

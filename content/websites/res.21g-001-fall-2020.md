@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "The User-friendly Classroom video training series was created\
   \ specifically for teaching assistants for whom English is a second language and\

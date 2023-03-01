@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This is an advanced graduate course on quantum computation and
   quantum information, for which prior knowledge of quantum mechanics is required.

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: The MIT Biology Department supports TAs' teaching by providing
   a specialized Teaching Assistant (TA) training program in Biology Pedagogy, for

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'We will explore the mathematical strategies behind popular games,
   toys, and puzzles. Topics covered will combine basic fundamentals of game theory,

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course is a practicum-style seminar in anthropological methods
   of ethnographic fieldwork and writing. Depending on student experience in ethnographic

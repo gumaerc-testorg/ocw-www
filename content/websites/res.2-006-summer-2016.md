@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The Girls Who Build Cameras workshop for high school girls is
   a one-day, hands-on introduction to camera physics and technology (i.e. how Instagram

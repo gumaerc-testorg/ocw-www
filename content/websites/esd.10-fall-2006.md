@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course explores perspectives in the policy process - agenda
   setting, problem definition, framing the terms of debate, formulation and analysis

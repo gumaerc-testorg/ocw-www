@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This 12 session course is designed for the beginning or novice
   archer and uses recurve indoor target bows and equipment. The purpose of the course

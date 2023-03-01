@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This text is an introductory treatment on the junior level for
   a two-semester electrical engineering course starting from the Coulomb-Lorentz force

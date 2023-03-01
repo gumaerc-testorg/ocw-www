@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This team-taught subject is for doctoral students working on
   emerging technologies at the interface of technology, policy and societal issues.

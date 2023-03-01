@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Everything around us is made from different chemical elements:
   carbon, silicon, iron, and all the other elements from the Periodic Table. The lighter

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Students explore augmented reality audio through the design and
   evaluation of prototypes. Participants will probe design space and illuminate creative

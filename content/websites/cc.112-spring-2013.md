@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course explores the nature of love through works of philosophy,
   literature, film, poetry, and individual experience. It investigates the distinction

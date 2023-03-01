@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Published in 1989 by Prentice-Hall, this book is a useful resource
   for educators and self-learners alike. The text is aimed at those who have seen

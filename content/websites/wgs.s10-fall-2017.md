@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course provides a basic overview of the history of women
   in science, technology, engineering, and mathematics (STEM). Students will learn

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The tools of probability theory, and of the related field of
   statistical inference, are the keys for being able to analyze and make sense of

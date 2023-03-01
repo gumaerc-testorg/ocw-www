@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "RAISE\_(Responsible AI for Social Empowerment and Education)\
   \ is a new MIT-wide initiative headquartered in the\_[MIT Media Lab](https://www.media.mit.edu/)\_\

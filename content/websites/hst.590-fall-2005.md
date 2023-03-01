@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This seminar based course explores techniques for recognizing,
   analyzing, and resolving ethical dilemmas facing healthcare professionals and biomedical

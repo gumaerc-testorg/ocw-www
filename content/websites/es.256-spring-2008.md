@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Explore the future through modeling, reading, and discussion
   in an open-ended seminar! Our fields of interest will include changes in science

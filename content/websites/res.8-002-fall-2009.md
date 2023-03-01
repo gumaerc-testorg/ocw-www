@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This e-Book is a first step toward a shift in the role of the
   printed textbook from authoritative serial repository to modular, customizable,

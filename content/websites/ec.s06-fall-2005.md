@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'For students and teams who have started a sustainable-development
   project in D-Lab (EC.701J or EC.720J), Product Engineering Processes (2.009), or

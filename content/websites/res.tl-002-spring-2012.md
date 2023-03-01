@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The Software Tools for Academics and Researchers (STAR) program
   at MIT seeks to bridge the divide between scientific research and the classroom.

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'Humanitarian Demining is the process of detecting, removing and
   disposing of landmines. Millions of landmines are buried in more than 80 countries

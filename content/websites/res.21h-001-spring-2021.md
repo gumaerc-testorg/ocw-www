@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This course shows the emergence of modern Tokyo through artist\
   \ renderings of its neighborhoods, daily life and nightlife, nested between its\

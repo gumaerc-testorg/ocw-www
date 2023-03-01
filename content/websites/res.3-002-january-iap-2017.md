@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This is a 9-day hands-on workshop about collaboration, design,
   and electronics prototyping. No previous experience with computer programming or

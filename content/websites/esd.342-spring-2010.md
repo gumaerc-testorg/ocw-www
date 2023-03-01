@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course provides a deep understanding of engineering systems
   at a level intended for research on complex engineering systems. It provides a review

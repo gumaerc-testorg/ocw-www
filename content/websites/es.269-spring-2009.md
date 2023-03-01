@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course is primarily a literature seminar. We will use American
   literature as a lens through which to examine different passing tropes. It will

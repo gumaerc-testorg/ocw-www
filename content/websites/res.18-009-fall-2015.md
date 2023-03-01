@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "_Learn Differential Equations: Up Close with_ __Gilbert Strang_\
   \ and_ _Cleve Moler_ is an in-depth series of videos about differential equations\

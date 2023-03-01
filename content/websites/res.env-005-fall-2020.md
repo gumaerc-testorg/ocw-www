@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The goal of the Climate Primer website is to summarize the most
   important lines of evidence for human-caused climate change. It confronts the stickier

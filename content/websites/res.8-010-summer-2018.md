@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "*Introduction to Statistical Physics* introduces the concepts\
   \ and formalism at the foundations of statistical physics. By the end of the course,\

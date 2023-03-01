@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This course will explore innovations in information systems for\
   \ health care delivery in developing countries, and focus not only on the importance\

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The goal of this course is to explore and develop plans of action
   for improving the job and career opportunities for today and tomorrow''s workforce.

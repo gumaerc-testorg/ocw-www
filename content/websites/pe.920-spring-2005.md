@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'The sensing, thinking, moving body is the basis of our experience
   in the world; it is the very foundation on which cognitive intelligence is built.

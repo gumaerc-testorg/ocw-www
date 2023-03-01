@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This course is based on the work of the MIT-African Internet\
   \ Technology Initiative (MIT-AITI). MIT-AITI is an innovative approach by MIT students\

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course features a core framework for an interest-based,
   problem-solving approach to technology, logistics and other systems-oriented negotiations.

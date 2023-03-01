@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "*Introduction to Oscillations and Waves* covers the basic mathematics\
   \ and physics of oscillatory and wave phenomena. By the end of the course, students\

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'This course explores how and why Japan, a late-comer to modernization,
   emerged as an industrial power and the world''s second-richest nation, notwithstanding

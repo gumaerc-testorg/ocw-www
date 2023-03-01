@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: "This class explores the development of Hollywood Film Noir. There\
   \ will be a focus on \xE9migr\xE9 directors who moved to Hollywood when the Nazis\

@@ -1,4 +1,7 @@
 ---
+_build:
+  list: false
+  render: false
 content_type: website
 course_description: 'STS.467 examines the intellectual foundations of archaeology
   in the deep sea. The course explores the current convergence of oceanography, archaeology,
