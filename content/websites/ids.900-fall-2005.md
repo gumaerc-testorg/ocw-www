@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: 'This team-taught subject is for doctoral students working on

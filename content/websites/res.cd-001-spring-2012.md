@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: '[Graduate Women at MIT](https://gsc.mit.edu/gwamit/) (GWAMIT)

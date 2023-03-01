@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: 'The object of the course is to teach students an approach to

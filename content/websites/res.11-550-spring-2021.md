@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: "In this course, we explore how new mobility systems can be leveraged\

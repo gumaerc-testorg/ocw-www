@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: "A whirl-wind tour of the statistics used in behavioral science\

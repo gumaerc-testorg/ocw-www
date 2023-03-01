@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: 'SLaM (Systems Leadership and Management) Praxis is a course is

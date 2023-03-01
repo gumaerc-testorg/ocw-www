@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: "The Joint Entrance Examination\u2014Advanced\\* is a prestigious\

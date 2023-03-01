@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: 'Published in 1989 by Prentice-Hall, this book is a useful resource

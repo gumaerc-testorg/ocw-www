@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: "_[Guidelines on Teaching @ MIT and Beyond](https://tll-archive.mit.edu/guidelines/guidelines-teaching-mit-and-beyond)\\\

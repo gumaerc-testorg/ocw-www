@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: '_Angles_ is an annual online magazine of exemplary writing by

@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: "[Social and Ethical Responsibilities of Computing (SERC)](https://computing.mit.edu/cross-cutting/social-and-ethical-responsibilities-of-computing/),\

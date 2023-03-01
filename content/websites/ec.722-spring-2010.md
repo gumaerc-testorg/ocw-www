@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: 'D-Lab World Prosthetics is a collaboration between the Massachusetts

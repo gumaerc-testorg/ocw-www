@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: "_Learn Differential Equations: Up Close with_ __Gilbert Strang_\

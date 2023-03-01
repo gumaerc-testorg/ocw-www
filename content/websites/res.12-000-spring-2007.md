@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: '_Evolution of Physical Oceanography_ was created to mark the

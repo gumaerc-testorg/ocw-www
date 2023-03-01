@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: 'This set of 10 lectures (about 11+ hours in duration) was excerpted

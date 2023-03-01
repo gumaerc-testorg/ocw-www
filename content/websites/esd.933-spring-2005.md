@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: "Technology Policy Negotiations and its prequel, ESD.932, Technology\

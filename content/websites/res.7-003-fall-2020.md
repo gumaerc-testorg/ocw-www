@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: "Utopia or dystopia? It\u2019s up to us.\n\nIn the 21st century,\

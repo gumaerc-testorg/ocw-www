@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: 'CMS.611J / 6.073 Creating Video Games is a class that introduces

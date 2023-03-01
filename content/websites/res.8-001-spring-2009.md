@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: "L\xE1szl\xF3 Tisza was [Professor of Physics Emeritus at MIT](http://web.mit.edu/newsoffice/2009/obit-tisza-0416.html),\

@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: "LEGO\xAE robotics uses LEGO\xAEs as a fun tool to explore robotics,\

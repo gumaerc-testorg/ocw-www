@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: 'First published in 1981 by MIT Press, _Continuum Electromechanics_,

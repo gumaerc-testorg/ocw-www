@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: "These brief videos, recorded in 2020, contain ideas and suggestions\

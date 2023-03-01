@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: "\u201C_Getting an education at MIT is like trying to drink from\

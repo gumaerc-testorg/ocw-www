@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: "Este curso contiene un subconjunto de material en espa\xF1ol\

@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: 'During the fall of 2017, art educator B. Stephen Carpenter II

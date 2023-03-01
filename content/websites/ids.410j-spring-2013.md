@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: '_IDS.410J Modeling and Assessment for Policy_ explores how scientific

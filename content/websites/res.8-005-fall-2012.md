@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: '[_8.03 Physics III: Vibrations and Waves_](/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/)

@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: 'Sloan''s [Teaching Resources Library](https://mitsloan.mit.edu/teaching-resources-library/about-teaching-resources-library)

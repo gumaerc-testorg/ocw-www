@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: '2010 marks the 400th anniversary of Galileo''s astonishing sightings

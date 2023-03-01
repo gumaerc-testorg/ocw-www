@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: "Welcome to \u201CIntroduction to Engineering Concepts,\" a lesson\

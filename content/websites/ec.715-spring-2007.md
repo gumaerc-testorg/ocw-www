@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: "In the trilogy of D-Lab courses, D-Lab: Dissemination focuses\

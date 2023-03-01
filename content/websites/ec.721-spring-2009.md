@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: 'According to the [United States Agency for International Development](http://www.usaid.gov/),

@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: 'In 2004, the Ansari X PRIZE for suborbital spaceflight captured

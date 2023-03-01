@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: "The MIT Case Studies in Social and Ethical Responsibilities of\

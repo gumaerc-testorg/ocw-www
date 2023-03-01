@@ -1,6 +1,6 @@
 ---
 _build:
-  list: false
+  list: true
   render: false
 content_type: website
 course_description: "Patrick Winston's _How to Speak_ talk has been an MIT tradition\
