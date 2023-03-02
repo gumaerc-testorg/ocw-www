@@ -22,6 +22,7 @@ course_image_thumbnail:
 course_title: Signals, Systems and Information for Media Technology
 department_numbers:
 - MAS
+draft: false
 extra_course_numbers: MAS.510,MAS.511
 instructors:
   content:

@@ -26,6 +26,7 @@ course_image_thumbnail:
 course_title: Engineering Capacity in Community-Based Healthcare
 department_numbers:
 - EC
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

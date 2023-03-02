@@ -39,6 +39,7 @@ course_title: 'At the Limit: Violence in Contemporary Representation'
 department_numbers:
 - CMS-W
 - 21L
+draft: false
 extra_course_numbers: 21L.435
 instructors:
   content:

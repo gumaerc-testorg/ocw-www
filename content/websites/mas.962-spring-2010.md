@@ -30,6 +30,7 @@ course_image_thumbnail:
 course_title: 'Special Topics: New Textiles'
 department_numbers:
 - MAS
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

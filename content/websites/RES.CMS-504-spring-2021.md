@@ -25,6 +25,7 @@ course_image_thumbnail:
 course_title: 'Sorting Truth From Fiction: Civic Online Reasoning'
 department_numbers:
 - RES
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

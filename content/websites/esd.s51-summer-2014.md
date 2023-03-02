@@ -21,6 +21,7 @@ course_image_thumbnail:
 course_title: Systems Leadership and Management Praxis
 department_numbers:
 - ESD
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

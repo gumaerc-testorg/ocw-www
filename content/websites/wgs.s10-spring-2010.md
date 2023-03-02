@@ -22,6 +22,7 @@ course_image_thumbnail:
 course_title: 'Special Topics in Women & Gender Studies Seminar: Latina Women''s Voices'
 department_numbers:
 - WGS
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

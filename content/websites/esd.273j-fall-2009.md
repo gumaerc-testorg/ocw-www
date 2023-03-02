@@ -23,6 +23,7 @@ course_title: Logistics and Supply Chain Management
 department_numbers:
 - ESD
 - '1'
+draft: false
 extra_course_numbers: 1.270J
 instructors:
   content:

@@ -21,6 +21,7 @@ course_title: Magnetic Resonance Analytic, Biochemical, and Imaging Techniques
 department_numbers:
 - HST
 - '22'
+draft: false
 extra_course_numbers: 22.561J
 instructors:
   content:

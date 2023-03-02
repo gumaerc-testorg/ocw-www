@@ -25,6 +25,7 @@ course_title: 'Learn Differential Equations: Up Close with Gilbert Strang and Cl
   Moler'
 department_numbers:
 - RES
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

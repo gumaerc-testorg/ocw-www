@@ -24,6 +24,7 @@ course_title: Communications and Information Policy
 department_numbers:
 - ESD
 - '6'
+draft: false
 extra_course_numbers: 6.978J
 instructors:
   content:

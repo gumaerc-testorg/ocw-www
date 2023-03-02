@@ -23,6 +23,7 @@ course_title: 'Recreate Experiments from History: Inform the Future from the Pas
   Galileo'
 department_numbers:
 - EC
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

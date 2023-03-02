@@ -19,6 +19,7 @@ course_image_thumbnail:
 course_title: Reproductive Politics in the United States
 department_numbers:
 - WGS
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

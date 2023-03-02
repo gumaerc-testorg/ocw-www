@@ -20,6 +20,7 @@ course_image_thumbnail:
 course_title: 'D-Lab: Disseminating Innovations for the Common Good'
 department_numbers:
 - EC
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

@@ -17,6 +17,7 @@ course_image_thumbnail:
 course_title: 'Learning Seminar: Experiments in Education'
 department_numbers:
 - ES
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

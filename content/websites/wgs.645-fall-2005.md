@@ -29,6 +29,7 @@ course_title: 'Issues of Representation: Women, Representation, and Music in Sel
   Folk Traditions of the British Isles and North America'
 department_numbers:
 - WGS
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

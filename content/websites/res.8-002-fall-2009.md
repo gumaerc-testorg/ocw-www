@@ -26,6 +26,7 @@ course_image_thumbnail:
 course_title: A WikiTextBook for Introductory Mechanics
 department_numbers:
 - RES
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

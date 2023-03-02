@@ -24,6 +24,7 @@ course_image_thumbnail:
 course_title: Current Events and Social Issues
 department_numbers:
 - ES
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

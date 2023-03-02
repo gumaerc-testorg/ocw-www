@@ -25,6 +25,7 @@ course_title: 'X PRIZE Workshop: Grand Challenges in Energy'
 department_numbers:
 - ESD
 - EC
+draft: false
 extra_course_numbers: EC.421J
 instructors:
   content:

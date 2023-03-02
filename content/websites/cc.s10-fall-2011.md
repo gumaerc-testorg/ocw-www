@@ -17,6 +17,7 @@ course_image_thumbnail:
 course_title: 'History and Philosophy of Mechanics: Newton''s Principia Mathematica'
 department_numbers:
 - CC
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

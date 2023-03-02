@@ -23,6 +23,7 @@ course_image_thumbnail:
 course_title: Technological Tools for School Reform
 department_numbers:
 - MAS
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

@@ -33,6 +33,7 @@ course_image_thumbnail:
 course_title: Social Study of Science and Technology
 department_numbers:
 - STS
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

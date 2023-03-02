@@ -21,6 +21,7 @@ course_image_thumbnail:
 course_title: Gastroenterology
 department_numbers:
 - HST
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

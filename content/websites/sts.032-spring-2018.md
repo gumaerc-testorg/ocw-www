@@ -23,6 +23,7 @@ course_title: 'Energy, Environment, and Society: Global Politics, Technologies, 
   Ecologies of the Water-Energy-Food Crises'
 department_numbers:
 - STS
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

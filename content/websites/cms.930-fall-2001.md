@@ -24,6 +24,7 @@ course_title: Media, Education, and the Marketplace
 department_numbers:
 - CMS-W
 - 21G
+draft: true
 extra_course_numbers: 21G.034
 instructors:
   content:

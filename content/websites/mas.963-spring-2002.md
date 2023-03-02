@@ -23,6 +23,7 @@ course_image_thumbnail:
 course_title: 'Techno-identity: Who we are and how we perceive ourselves and others'
 department_numbers:
 - MAS
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

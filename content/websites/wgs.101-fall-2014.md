@@ -25,6 +25,7 @@ course_image_thumbnail:
 course_title: Introduction to Women's and Gender Studies
 department_numbers:
 - WGS
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

@@ -20,6 +20,7 @@ course_image_thumbnail:
 course_title: Lean/Six Sigma Processes
 department_numbers:
 - ESD
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

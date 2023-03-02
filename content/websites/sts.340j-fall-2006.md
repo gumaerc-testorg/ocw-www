@@ -21,6 +21,7 @@ course_title: Introduction to the History of Technology
 department_numbers:
 - STS
 - ESD
+draft: false
 extra_course_numbers: ESD.52J
 instructors:
   content:

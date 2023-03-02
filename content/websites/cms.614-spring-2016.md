@@ -17,6 +17,7 @@ course_image_thumbnail:
 course_title: Network Cultures
 department_numbers:
 - CMS-W
+draft: true
 extra_course_numbers: 21W.791,CMS.867
 instructors:
   content:

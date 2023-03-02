@@ -21,6 +21,7 @@ course_title: Digital Anthropology
 department_numbers:
 - MAS
 - '15'
+draft: false
 extra_course_numbers: '15.970'
 instructors:
   content:

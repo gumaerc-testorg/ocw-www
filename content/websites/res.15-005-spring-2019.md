@@ -25,6 +25,7 @@ course_image_thumbnail:
 course_title: Healthcare Finance (15.482x)
 department_numbers:
 - RES
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

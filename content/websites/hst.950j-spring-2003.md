@@ -22,6 +22,7 @@ course_title: Medical Computing
 department_numbers:
 - HST
 - '6'
+draft: false
 extra_course_numbers: 6.872J
 instructors:
   content:

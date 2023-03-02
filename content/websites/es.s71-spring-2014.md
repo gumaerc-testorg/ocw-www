@@ -19,6 +19,7 @@ course_image_thumbnail:
 course_title: Increasing Your Physical Intelligence, Enhancing Your Social Smarts
 department_numbers:
 - ES
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

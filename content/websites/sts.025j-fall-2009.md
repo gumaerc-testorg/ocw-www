@@ -22,6 +22,7 @@ course_title: 'Making the Modern World: The Industrial Revolution in Global Pers
 department_numbers:
 - STS
 - 21H
+draft: false
 extra_course_numbers: 21H.913J
 instructors:
   content:

@@ -17,6 +17,7 @@ course_image_thumbnail:
 course_title: Visualizing Materials Science
 department_numbers:
 - RES
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

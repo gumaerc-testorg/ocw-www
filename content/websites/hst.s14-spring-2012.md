@@ -28,6 +28,7 @@ course_title: Health Information Systems to Improve Quality of Care in Resource-
   Settings
 department_numbers:
 - HST
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

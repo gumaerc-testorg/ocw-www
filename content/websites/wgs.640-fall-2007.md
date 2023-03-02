@@ -24,6 +24,7 @@ course_title: 'Studies in Women''s Life Narratives: Interrogating Marriage: Case
   in American Law and Culture'
 department_numbers:
 - WGS
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

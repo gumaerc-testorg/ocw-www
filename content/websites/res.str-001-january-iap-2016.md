@@ -20,6 +20,7 @@ course_image_thumbnail:
 course_title: Geographic Information System (GIS) Tutorial
 department_numbers:
 - RES
+draft: true
 extra_course_numbers: ''
 instructors:
   content:

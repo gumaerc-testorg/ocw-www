@@ -20,6 +20,7 @@ course_image_thumbnail:
 course_title: 'Mission & Metrics: Finance Training for Federal Credit Program Professionals'
 department_numbers:
 - RES
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

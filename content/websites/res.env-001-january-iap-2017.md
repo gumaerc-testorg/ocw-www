@@ -23,6 +23,7 @@ course_title: 'Climate Action Hands-On: Harnessing Science with Communities to C
   Carbon'
 department_numbers:
 - RES
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

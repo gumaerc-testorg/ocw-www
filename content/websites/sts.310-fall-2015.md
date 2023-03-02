@@ -22,6 +22,7 @@ course_image_thumbnail:
 course_title: History of Science
 department_numbers:
 - STS
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

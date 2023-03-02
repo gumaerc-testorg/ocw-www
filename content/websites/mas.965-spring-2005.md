@@ -20,6 +20,7 @@ course_image_thumbnail:
 course_title: Relational Machines
 department_numbers:
 - MAS
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

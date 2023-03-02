@@ -29,6 +29,7 @@ course_image_thumbnail:
 course_title: 'Technopanics: Moral Panics about Technology'
 department_numbers:
 - CMS-W
+draft: true
 extra_course_numbers: CMS.S96
 instructors:
   content:

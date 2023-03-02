@@ -23,6 +23,7 @@ course_title: 'Biomedical Engineering Seminar Series: Topics in Medical Ethics a
   Responsible Conduct in Research'
 department_numbers:
 - HST
+draft: false
 extra_course_numbers: HST.502
 instructors:
   content:

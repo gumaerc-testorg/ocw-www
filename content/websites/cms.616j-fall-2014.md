@@ -20,6 +20,7 @@ course_title: Games and Culture
 department_numbers:
 - CMS-W
 - WGS
+draft: true
 extra_course_numbers: 21W.768,WGS.125,CMS.868
 instructors:
   content:

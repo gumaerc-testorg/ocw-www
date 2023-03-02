@@ -23,6 +23,7 @@ course_image_thumbnail:
 course_title: Special Topics in Supply Chain Management
 department_numbers:
 - ESD
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

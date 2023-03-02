@@ -22,6 +22,7 @@ course_image_thumbnail:
 course_title: Genomics and Computational Biology
 department_numbers:
 - HST
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

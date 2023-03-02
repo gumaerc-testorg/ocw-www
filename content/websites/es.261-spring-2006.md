@@ -18,6 +18,7 @@ course_image_thumbnail:
 course_title: Poetry in Translation
 department_numbers:
 - ES
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

@@ -22,6 +22,7 @@ course_image_thumbnail:
 course_title: History of Media and Technology
 department_numbers:
 - CMS-W
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

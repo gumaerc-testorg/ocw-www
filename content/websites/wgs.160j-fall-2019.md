@@ -23,6 +23,7 @@ course_title: 'Science Activism: Gender, Race, and Power'
 department_numbers:
 - WGS
 - STS
+draft: false
 extra_course_numbers: STS.021J
 instructors:
   content:

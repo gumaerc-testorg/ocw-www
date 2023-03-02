@@ -24,6 +24,7 @@ department_numbers:
 - IDS
 - '17'
 - STS
+draft: false
 extra_course_numbers: 17.312J,STS.461J,IDS.900 (formerly ESD.85J)
 instructors:
   content:

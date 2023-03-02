@@ -23,6 +23,7 @@ course_title: Brain Mechanisms for Hearing and Speech
 department_numbers:
 - HST
 - '9'
+draft: false
 extra_course_numbers: 9.044J
 instructors:
   content:

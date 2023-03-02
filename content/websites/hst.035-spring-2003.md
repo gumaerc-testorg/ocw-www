@@ -42,6 +42,7 @@ course_image_thumbnail:
 course_title: Principle and Practice of Human Pathology
 department_numbers:
 - HST
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

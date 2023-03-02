@@ -22,6 +22,7 @@ course_image_thumbnail:
 course_title: 'Industrial Design Intelligence: A Cognitive Approach to Engineering'
 department_numbers:
 - MAS
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

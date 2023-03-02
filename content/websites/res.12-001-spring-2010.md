@@ -24,6 +24,7 @@ course_image_thumbnail:
 course_title: Topics in Fluid Dynamics
 department_numbers:
 - RES
+draft: true
 extra_course_numbers: ''
 instructors:
   content:

@@ -24,6 +24,7 @@ department_numbers:
 - STS
 - '16'
 - ESD
+draft: false
 extra_course_numbers: 16.895J,ESD.30J
 instructors:
   content:

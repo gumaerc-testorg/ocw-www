@@ -30,6 +30,7 @@ course_title: 'Calculus Revisited: Complex Variables, Differential Equations, an
   Linear Algebra'
 department_numbers:
 - RES
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

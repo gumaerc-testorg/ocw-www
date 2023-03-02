@@ -23,6 +23,7 @@ course_image_thumbnail:
 course_title: Philosophy of Love
 department_numbers:
 - CC
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

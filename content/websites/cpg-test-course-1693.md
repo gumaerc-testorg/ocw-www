@@ -13,6 +13,7 @@ course_image_thumbnail:
 course_title: cpg-test-course-1693
 department_numbers:
 - '1'
+draft: false
 extra_course_numbers: ''
 instructors:
   content: []

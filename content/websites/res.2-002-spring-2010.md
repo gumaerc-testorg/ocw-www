@@ -25,6 +25,7 @@ course_image_thumbnail:
 course_title: Finite Element Procedures for Solids and Structures
 department_numbers:
 - '2'
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

@@ -30,6 +30,7 @@ course_image_thumbnail:
 course_title: 'The Torch or The Firehose: A Guide to Section Teaching'
 department_numbers:
 - RES
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

@@ -26,6 +26,7 @@ course_title: 'Abdul Latif Jameel Poverty Action Lab Executive Training: Evaluat
   Social Programs 2011'
 department_numbers:
 - RES
+draft: true
 extra_course_numbers: ''
 instructors:
   content:

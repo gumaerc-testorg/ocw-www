@@ -23,6 +23,7 @@ course_image_thumbnail:
 course_title: Producing Educational Videos
 department_numbers:
 - ES
+draft: false
 extra_course_numbers: CMS.333
 instructors:
   content:

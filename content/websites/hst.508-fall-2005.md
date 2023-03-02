@@ -17,6 +17,7 @@ course_image_thumbnail:
 course_title: Quantitative Genomics
 department_numbers:
 - HST
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

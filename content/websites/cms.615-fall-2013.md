@@ -20,6 +20,7 @@ course_image_thumbnail:
 course_title: Games for Social Change
 department_numbers:
 - CMS-W
+draft: false
 extra_course_numbers: CMS.815
 instructors:
   content:

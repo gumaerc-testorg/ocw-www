@@ -20,6 +20,7 @@ course_title: 'Special Topics in Multimedia Production: Experiences in Interacti
   Art'
 department_numbers:
 - MAS
+draft: false
 extra_course_numbers: MAS.478
 instructors:
   content:

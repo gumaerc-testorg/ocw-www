@@ -19,6 +19,7 @@ course_title: 'Gendering U.S. Immigration Policy: Sociopolitical, Theological an
   Feminist Perspectives '
 department_numbers:
 - WGS
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

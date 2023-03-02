@@ -22,6 +22,7 @@ course_image_thumbnail:
 course_title: Black Feminist Health Science Studies
 department_numbers:
 - WGS
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

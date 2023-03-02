@@ -31,6 +31,7 @@ course_image_thumbnail:
 course_title: 'Special Topics: Designing Sociable Media'
 department_numbers:
 - MAS
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

@@ -22,6 +22,7 @@ course_image_thumbnail:
 course_title: Civic Media Codesign Studio
 department_numbers:
 - CMS-W
+draft: false
 extra_course_numbers: CMS.862
 instructors:
   content:

@@ -23,6 +23,7 @@ course_title: 'Data Storytelling Studio: Climate Change'
 department_numbers:
 - MAS
 - CMS-W
+draft: false
 extra_course_numbers: CMS.831,MAS.784
 instructors:
   content:

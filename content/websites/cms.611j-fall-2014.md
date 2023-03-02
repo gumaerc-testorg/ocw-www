@@ -24,6 +24,7 @@ course_title: Creating Video Games
 department_numbers:
 - '6'
 - CMS-W
+draft: false
 extra_course_numbers: '6.073'
 instructors:
   content:

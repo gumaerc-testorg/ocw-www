@@ -26,6 +26,7 @@ course_image_thumbnail:
 course_title: Case Studies in Social and Ethical Responsibilities of Computing
 department_numbers:
 - RES
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

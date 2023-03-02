@@ -23,6 +23,7 @@ course_image_thumbnail:
 course_title: Technology and the Literary Imagination
 department_numbers:
 - STS
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

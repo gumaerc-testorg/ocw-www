@@ -21,6 +21,7 @@ course_title: D-Lab Student Showcases
 department_numbers:
 - RES
 - EC
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

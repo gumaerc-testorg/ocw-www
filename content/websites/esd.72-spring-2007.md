@@ -27,6 +27,7 @@ department_numbers:
 - '10'
 - '16'
 - '22'
+draft: false
 extra_course_numbers: 1.155,2.963,3.577,6.938,10.816,16.862,22.82
 instructors:
   content:

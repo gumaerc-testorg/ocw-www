@@ -19,6 +19,7 @@ course_image_thumbnail:
 course_title: Photovoltaic Solar Energy Systems
 department_numbers:
 - EC
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

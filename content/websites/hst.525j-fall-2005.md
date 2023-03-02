@@ -21,6 +21,7 @@ course_title: Tumor Pathophysiology and Transport Phenomena
 department_numbers:
 - HST
 - '10'
+draft: false
 extra_course_numbers: 10.548J
 instructors:
   content:

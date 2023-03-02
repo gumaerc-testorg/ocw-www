@@ -27,6 +27,7 @@ course_image_thumbnail:
 course_title: Technology in History
 department_numbers:
 - STS
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

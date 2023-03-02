@@ -29,6 +29,7 @@ department_numbers:
 - ESD
 - '1'
 - '15'
+draft: false
 extra_course_numbers: 1.260J,15.770J
 instructors:
   content:

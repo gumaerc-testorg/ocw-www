@@ -35,6 +35,7 @@ course_title: 'Making Science and Engineering Pictures: A Practical Guide to Pre
   Your Work'
 department_numbers:
 - RES
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

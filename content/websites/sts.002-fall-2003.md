@@ -19,6 +19,7 @@ course_image_thumbnail:
 course_title: Toward the Scientific Revolution
 department_numbers:
 - STS
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

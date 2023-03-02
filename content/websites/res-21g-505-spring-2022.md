@@ -16,6 +16,7 @@ course_image_thumbnail:
 course_title: RES.21G-505 Kanji Learning Any Time, Any Place for Japanese V S22
 department_numbers:
 - RES
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

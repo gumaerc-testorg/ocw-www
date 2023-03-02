@@ -21,6 +21,7 @@ course_title: Engineering Economy Module
 department_numbers:
 - ESD
 - '1'
+draft: false
 extra_course_numbers: 1.145J
 instructors:
   content:

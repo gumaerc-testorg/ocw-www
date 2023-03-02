@@ -25,6 +25,7 @@ course_image_thumbnail:
 course_title: Girls Who Build Cameras
 department_numbers:
 - '2'
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

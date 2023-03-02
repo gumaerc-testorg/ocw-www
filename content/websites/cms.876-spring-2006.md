@@ -24,6 +24,7 @@ course_title: 'History of Media and Technology: Sound, the Minority Report -- Ra
   Music of the Past 100 Years'
 department_numbers:
 - CMS-W
+draft: true
 extra_course_numbers: ''
 instructors:
   content:

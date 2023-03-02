@@ -27,6 +27,7 @@ course_image_thumbnail:
 course_title: 'Networked Social Movements: Media & Mobilization'
 department_numbers:
 - CMS-W
+draft: false
 extra_course_numbers: CMS.861
 instructors:
   content:

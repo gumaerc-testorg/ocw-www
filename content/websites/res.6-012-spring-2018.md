@@ -24,6 +24,7 @@ course_image_thumbnail:
 course_title: Introduction to Probability
 department_numbers:
 - RES
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

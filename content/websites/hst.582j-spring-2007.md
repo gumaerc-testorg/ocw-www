@@ -24,6 +24,7 @@ department_numbers:
 - HST
 - '6'
 - '16'
+draft: false
 extra_course_numbers: 6.555J,16.456J
 instructors:
   content:

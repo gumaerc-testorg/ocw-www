@@ -22,6 +22,7 @@ course_image_thumbnail:
 course_title: Practical Electronics
 department_numbers:
 - EC
+draft: false
 extra_course_numbers: EC.S11
 instructors:
   content:

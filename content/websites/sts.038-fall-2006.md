@@ -21,6 +21,7 @@ course_image_thumbnail:
 course_title: 'Energy and Environment in American History: 1705-2005'
 department_numbers:
 - STS
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

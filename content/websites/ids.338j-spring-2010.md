@@ -25,6 +25,7 @@ course_title: Multidisciplinary System Design Optimization
 department_numbers:
 - IDS
 - '16'
+draft: false
 extra_course_numbers: 16.888,IDS.338J (formerly ESD.77)
 instructors:
   content:

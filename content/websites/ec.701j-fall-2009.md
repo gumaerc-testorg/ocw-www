@@ -24,6 +24,7 @@ course_title: 'D-Lab I: Development'
 department_numbers:
 - EC
 - '11'
+draft: false
 extra_course_numbers: 11.025J,11.472J
 instructors:
   content:

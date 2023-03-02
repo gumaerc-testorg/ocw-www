@@ -25,6 +25,7 @@ course_image_thumbnail:
 course_title: Introduction to Technology and Policy
 department_numbers:
 - ESD
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

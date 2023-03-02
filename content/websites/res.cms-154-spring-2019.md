@@ -32,6 +32,7 @@ course_image_thumbnail:
 course_title: Launching Innovation in Schools
 department_numbers:
 - RES
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

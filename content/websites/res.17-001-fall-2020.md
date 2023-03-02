@@ -30,6 +30,7 @@ course_image_thumbnail:
 course_title: MIT Election Data + Science Lab
 department_numbers:
 - RES
+draft: false
 extra_course_numbers: ''
 instructors:
   content:

@@ -31,6 +31,7 @@ course_title: 'Introduction to Global Medicine: Bioscience, Technologies, Dispar
 department_numbers:
 - HST
 - STS
+draft: false
 extra_course_numbers: STS.449J
 instructors:
   content:
