@@ -2,12 +2,12 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/ocw-promo_june_303x1822.png
+file: /ocw-www/24hc-ocw-promo-carousel-2023.png
 metadata:
   caption: ''
   credit: ''
   image_alt: ''
 resourcetype: Image
-title: OCW promo_June_303x182.png
-uid: 8fa15fc6-abfa-43dd-8ba1-1719ece7c74b
+title: 24HC OCW Promo Carousel 2023.png
+uid: 59d133f2-90d9-468e-a1d9-9e6b28f31bb3
 ---

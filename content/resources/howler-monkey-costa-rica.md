@@ -2,12 +2,12 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/ocw-promo_june_303x1822.png
+file: /ocw-www/howler-monkey-costa-rica.jpg
 metadata:
   caption: ''
   credit: ''
   image_alt: ''
 resourcetype: Image
-title: OCW promo_June_303x182.png
-uid: 8fa15fc6-abfa-43dd-8ba1-1719ece7c74b
+title: howler-monkey-Costa-Rica.jpg
+uid: 26e41293-90b1-4c6f-837e-d937b61a8585
 ---

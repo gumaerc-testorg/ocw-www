@@ -2,12 +2,12 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/video.mp4
+file: /ocw-www/mit_seal.png
 metadata:
   caption: ''
   credit: ''
   image_alt: ''
-resourcetype: Other
-title: video.mp4
-uid: 9b235bbd-8806-4127-b873-6d8a4fcad9c1
+resourcetype: Image
+title: MIT_Seal.png
+uid: 26a96c19-af6b-4c8a-adb3-489ad9470c17
 ---

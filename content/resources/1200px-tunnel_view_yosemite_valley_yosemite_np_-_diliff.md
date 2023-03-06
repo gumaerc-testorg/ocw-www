@@ -9,5 +9,5 @@ metadata:
   image_alt: ''
 resourcetype: Image
 title: 1200px-Tunnel_View,_Yosemite_Valley,_Yosemite_NP_-_Diliff.jpg
-uid: 58e3a54b-ffa6-4470-abec-ec2f3bf3f0dd
+uid: d5382a6e-1eb2-40f9-8c62-5769526c0f10
 ---

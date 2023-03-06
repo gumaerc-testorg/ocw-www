@@ -2,12 +2,12 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/ocw-promo_june_303x1822.png
+file: /ocw-www/dhp_energy-courses2.jpg
 metadata:
   caption: ''
   credit: ''
   image_alt: ''
 resourcetype: Image
-title: OCW promo_June_303x182.png
-uid: 8fa15fc6-abfa-43dd-8ba1-1719ece7c74b
+title: dhp_energy-courses.jpg
+uid: 515a5073-ff2b-4db7-8d3c-7e9e7d4a4fc9
 ---
