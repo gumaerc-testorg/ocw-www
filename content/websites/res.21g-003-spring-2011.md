@@ -25,7 +25,6 @@ course_title: "Learning Chinese: A Foundation Course in Mandarin (\u6C49\u8BED\u
   \u7840\u6559\u6750)"
 department_numbers:
 - RES
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

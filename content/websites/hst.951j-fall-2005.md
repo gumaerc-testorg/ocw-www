@@ -21,7 +21,6 @@ course_title: Medical Decision Support
 department_numbers:
 - HST
 - '6'
-draft: false
 extra_course_numbers: 6.873J
 instructors:
   content:

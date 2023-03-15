@@ -22,7 +22,6 @@ course_image_thumbnail:
 course_title: 'The Art of Insight in Science and Engineering: Mastering Complexity'
 department_numbers:
 - RES
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

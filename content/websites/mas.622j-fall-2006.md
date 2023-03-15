@@ -23,7 +23,6 @@ course_title: Pattern Recognition and Analysis
 department_numbers:
 - MAS
 - '1'
-draft: false
 extra_course_numbers: 1.126J
 instructors:
   content:

@@ -23,7 +23,6 @@ course_image_thumbnail:
 course_title: STEM Concept Videos
 department_numbers:
 - RES
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

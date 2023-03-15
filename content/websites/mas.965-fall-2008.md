@@ -33,7 +33,6 @@ department_numbers:
 - MAS
 - '6'
 - EC
-draft: false
 extra_course_numbers: 6.976,EC.S06
 instructors:
   content:

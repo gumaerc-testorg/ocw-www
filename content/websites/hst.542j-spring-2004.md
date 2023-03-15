@@ -23,7 +23,6 @@ department_numbers:
 - '2'
 - '20'
 - '6'
-draft: false
 extra_course_numbers: 2.792J,20.371J,6.022J
 instructors:
   content:

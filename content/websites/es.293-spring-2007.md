@@ -17,7 +17,6 @@ course_image_thumbnail:
 course_title: Lego Robotics
 department_numbers:
 - ES
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

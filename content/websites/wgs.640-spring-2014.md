@@ -36,7 +36,6 @@ course_image_thumbnail:
 course_title: 'Screen Women: Body Narratives in Popular American Film'
 department_numbers:
 - WGS
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

@@ -20,7 +20,6 @@ course_title: Seminar on Health Care Systems Innovation
 department_numbers:
 - ESD
 - HST
-draft: false
 extra_course_numbers: HST.926J
 instructors:
   content:

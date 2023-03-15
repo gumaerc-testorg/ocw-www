@@ -23,7 +23,6 @@ course_image_thumbnail:
 course_title: 'Special Topics in Media Technology: Computational Semantics'
 department_numbers:
 - MAS
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

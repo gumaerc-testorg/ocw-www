@@ -38,7 +38,6 @@ course_image_thumbnail:
 course_title: 'Becoming a More Equitable Educator: Mindsets and Practices'
 department_numbers:
 - RES
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

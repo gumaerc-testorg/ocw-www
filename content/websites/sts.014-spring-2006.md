@@ -20,7 +20,6 @@ course_image_thumbnail:
 course_title: Principles and Practice of Science Communication
 department_numbers:
 - STS
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

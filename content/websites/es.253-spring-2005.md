@@ -20,7 +20,6 @@ course_image_thumbnail:
 course_title: AIDS and Poverty in Africa
 department_numbers:
 - ES
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

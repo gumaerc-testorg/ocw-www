@@ -23,7 +23,6 @@ course_title: Developmental Entrepreneurship
 department_numbers:
 - MAS
 - '15'
-draft: false
 extra_course_numbers: '15.971'
 instructors:
   content:

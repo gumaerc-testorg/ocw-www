@@ -23,7 +23,6 @@ course_title: 'D-Lab II: Design'
 department_numbers:
 - EC
 - '2'
-draft: false
 extra_course_numbers: 2.722J
 instructors:
   content:

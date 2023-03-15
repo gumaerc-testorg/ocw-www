@@ -23,7 +23,6 @@ course_title: Youth Political Participation
 department_numbers:
 - STS
 - '11'
-draft: false
 extra_course_numbers: '11.151'
 instructors:
   content:

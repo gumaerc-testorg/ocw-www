@@ -33,7 +33,6 @@ course_title: 'Gender, Race, and the Complexities of Science and Technology: A P
   Learning Experiment'
 department_numbers:
 - WGS
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

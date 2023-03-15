@@ -20,7 +20,7 @@ course_image_thumbnail:
 course_title: Algebra II Student Notes
 department_numbers:
 - '18'
-draft: false
+draft: true
 extra_course_numbers: ''
 instructors:
   content: []

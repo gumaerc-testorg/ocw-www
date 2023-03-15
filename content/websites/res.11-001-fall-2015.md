@@ -21,7 +21,6 @@ course_image_thumbnail:
 course_title: CITE Reports
 department_numbers:
 - RES
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

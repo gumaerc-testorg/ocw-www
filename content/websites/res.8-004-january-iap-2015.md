@@ -21,7 +21,6 @@ course_image_thumbnail:
 course_title: Reducing the Danger of Nuclear Weapons and Proliferation
 department_numbers:
 - RES
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

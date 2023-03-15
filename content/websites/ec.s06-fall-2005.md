@@ -22,7 +22,6 @@ course_image_thumbnail:
 course_title: Prototypes to Products
 department_numbers:
 - EC
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

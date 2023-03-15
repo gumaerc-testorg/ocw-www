@@ -31,7 +31,6 @@ course_image_thumbnail:
 course_title: 'Feminist Inquiry: Strategies for Effective Scholarship'
 department_numbers:
 - WGS
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

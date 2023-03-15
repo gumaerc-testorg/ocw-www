@@ -21,7 +21,6 @@ course_image_thumbnail:
 course_title: Gender Issues in Academics and Academia
 department_numbers:
 - ES
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

@@ -27,7 +27,6 @@ course_image_thumbnail:
 course_title: Special Topics at Edgerton Center:Developing World Prosthetics
 department_numbers:
 - EC
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

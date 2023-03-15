@@ -20,7 +20,6 @@ course_image_thumbnail:
 course_title: Gender, Health, and Society
 department_numbers:
 - WGS
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

@@ -19,7 +19,6 @@ course_image_thumbnail:
 course_title: "G\xF6del, Escher, Bach"
 department_numbers:
 - ES
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

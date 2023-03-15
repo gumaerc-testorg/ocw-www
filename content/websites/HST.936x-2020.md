@@ -27,7 +27,6 @@ course_image_thumbnail:
 course_title: Global Health Informatics to Improve Quality of Care
 department_numbers:
 - HST
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

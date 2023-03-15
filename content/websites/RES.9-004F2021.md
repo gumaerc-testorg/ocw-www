@@ -34,7 +34,6 @@ course_image_thumbnail:
 course_title: Nancy's Brain Talks
 department_numbers:
 - '9'
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

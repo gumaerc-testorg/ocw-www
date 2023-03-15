@@ -24,7 +24,6 @@ course_title: Projects in Microscale Engineering for the Life Sciences
 department_numbers:
 - HST
 - '6'
-draft: false
 extra_course_numbers: 6.07J
 instructors:
   content:

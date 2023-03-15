@@ -19,7 +19,6 @@ course_image_thumbnail:
 course_title: 'Special Topics in Media Technology: Cooperative Machines'
 department_numbers:
 - MAS
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

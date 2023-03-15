@@ -22,7 +22,6 @@ course_title: Neural Coding and Perception of Sound
 department_numbers:
 - HST
 - '9'
-draft: false
 extra_course_numbers: 9.285J
 instructors:
   content:

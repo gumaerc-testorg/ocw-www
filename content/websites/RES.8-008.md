@@ -16,7 +16,6 @@ course_image_thumbnail:
 course_title: Nuclear Weapons Education Project
 department_numbers:
 - '8'
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

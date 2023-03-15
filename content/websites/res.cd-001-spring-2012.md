@@ -23,7 +23,6 @@ course_image_thumbnail:
 course_title: 'Leadership and Empowerment: Resources from Graduate Women at MIT (GWAMIT)'
 department_numbers:
 - RES
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

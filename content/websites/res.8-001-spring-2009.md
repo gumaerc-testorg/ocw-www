@@ -33,7 +33,6 @@ course_image_thumbnail:
 course_title: Applied Geometric Algebra
 department_numbers:
 - RES
-draft: false
 extra_course_numbers: ''
 instructors:
   content:
