@@ -21,7 +21,6 @@ course_title: 'D-Lab: Water, Sanitation, and Hygiene'
 department_numbers:
 - EC
 - '11'
-draft: false
 extra_course_numbers: '11.474'
 instructors:
   content:

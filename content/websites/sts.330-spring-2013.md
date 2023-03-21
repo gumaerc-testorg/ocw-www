@@ -20,7 +20,6 @@ course_title: History and Anthropology of Medicine and Biology
 department_numbers:
 - STS
 - 21A
-draft: false
 extra_course_numbers: 21A.319
 instructors:
   content:

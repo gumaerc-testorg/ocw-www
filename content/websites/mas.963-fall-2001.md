@@ -36,7 +36,6 @@ course_title: 'Out of Context: A Course on Computer Systems That Adapt To, and L
   From, Context'
 department_numbers:
 - MAS
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

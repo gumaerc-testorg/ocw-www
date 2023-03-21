@@ -23,7 +23,6 @@ course_title: Physics of COVID-19 Transmission
 department_numbers:
 - RES
 - '10'
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

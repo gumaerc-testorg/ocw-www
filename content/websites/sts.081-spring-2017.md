@@ -18,7 +18,6 @@ course_title: Innovation Systems for Science, Technology, Energy, Manufacturing,
 department_numbers:
 - STS
 - '17'
-draft: false
 extra_course_numbers: 17.395J
 instructors:
   content:

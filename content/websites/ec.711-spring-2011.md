@@ -26,7 +26,6 @@ course_image_thumbnail:
 course_title: 'D-Lab: Energy'
 department_numbers:
 - EC
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

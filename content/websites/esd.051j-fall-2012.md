@@ -25,7 +25,6 @@ course_title: Engineering Innovation and Design
 department_numbers:
 - ESD
 - '6'
-draft: false
 extra_course_numbers: 6.902J
 instructors:
   content:

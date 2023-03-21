@@ -20,7 +20,6 @@ course_image_thumbnail:
 course_title: 'D-Lab: Water, Climate Change, and Health'
 department_numbers:
 - EC
-draft: false
 extra_course_numbers: EC.789
 instructors:
   content:

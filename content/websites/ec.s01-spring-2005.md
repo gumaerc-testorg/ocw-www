@@ -28,7 +28,6 @@ course_image_thumbnail:
 course_title: Internet Technology in Local and Global Communities
 department_numbers:
 - EC
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

@@ -23,7 +23,6 @@ course_title: Sexual and Gender Identities
 department_numbers:
 - WGS
 - 21H
-draft: false
 extra_course_numbers: 21H.108J
 instructors:
   content:

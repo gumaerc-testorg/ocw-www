@@ -25,7 +25,6 @@ course_image_thumbnail:
 course_title: Modern Conceptions of Freedom
 department_numbers:
 - CC
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

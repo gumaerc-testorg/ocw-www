@@ -24,7 +24,6 @@ course_image_thumbnail:
 course_title: 'Survival Skills for Researchers: The Responsible Conduct of Research'
 department_numbers:
 - HST
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

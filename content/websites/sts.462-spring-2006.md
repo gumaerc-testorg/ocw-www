@@ -20,7 +20,6 @@ course_image_thumbnail:
 course_title: Social and Political Implications of Technology
 department_numbers:
 - STS
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

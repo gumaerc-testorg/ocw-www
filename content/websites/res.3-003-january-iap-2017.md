@@ -27,7 +27,6 @@ course_title: Learn to Build Your Own Videogame with the Unity Game Engine and M
   Kinect
 department_numbers:
 - RES
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

@@ -30,7 +30,6 @@ course_image_thumbnail:
 course_title: Business and Impact Planning for Social Enterprises (0.SolveX)
 department_numbers:
 - RES
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

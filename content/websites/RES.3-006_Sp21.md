@@ -16,7 +16,6 @@ course_image_thumbnail:
 course_title: MICRO Mentoring Resources and Materials Science Curriculum
 department_numbers:
 - '3'
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

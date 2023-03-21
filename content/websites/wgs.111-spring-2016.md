@@ -20,7 +20,6 @@ course_image_thumbnail:
 course_title: 'Gender & Media: Collaborations in Feminism and Technology'
 department_numbers:
 - WGS
-draft: false
 extra_course_numbers: CMS.619
 instructors:
   content:

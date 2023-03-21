@@ -22,7 +22,6 @@ course_image_thumbnail:
 course_title: Common Sense Reasoning for Interactive Applications
 department_numbers:
 - MAS
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

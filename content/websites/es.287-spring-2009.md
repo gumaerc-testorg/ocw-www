@@ -20,7 +20,6 @@ course_title: Kitchen Chemistry
 department_numbers:
 - ES
 - '5'
-draft: false
 extra_course_numbers: 5.S15
 instructors:
   content:

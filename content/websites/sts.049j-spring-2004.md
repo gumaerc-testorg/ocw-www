@@ -19,7 +19,6 @@ course_image_thumbnail:
 course_title: Technology and Gender in American History
 department_numbers:
 - STS
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

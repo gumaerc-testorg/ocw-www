@@ -24,7 +24,6 @@ course_image_thumbnail:
 course_title: Non-violence as a Way of Life
 department_numbers:
 - ES
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

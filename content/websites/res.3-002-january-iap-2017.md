@@ -26,7 +26,6 @@ course_image_thumbnail:
 course_title: Collaborative Design and Creative Expression with Arduino Microcontrollers
 department_numbers:
 - RES
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

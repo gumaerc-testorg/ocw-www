@@ -18,7 +18,6 @@ course_image_thumbnail:
 course_title: 'Composing Your Life: Exploration of Self through Visual Arts and Writing'
 department_numbers:
 - ES
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

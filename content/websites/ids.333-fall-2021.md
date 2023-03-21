@@ -19,7 +19,6 @@ course_image_thumbnail:
 course_title: IDS.333 Risk and Decision Analysis
 department_numbers:
 - IDS
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

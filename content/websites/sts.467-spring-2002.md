@@ -23,7 +23,6 @@ course_image_thumbnail:
 course_title: Research Seminar in Deep Sea Archaeology
 department_numbers:
 - STS
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

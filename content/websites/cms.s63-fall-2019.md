@@ -21,7 +21,6 @@ course_image_thumbnail:
 course_title: Playful Augmented Reality Audio Design Exploration
 department_numbers:
 - CMS-W
-draft: false
 extra_course_numbers: CMS.S99
 instructors:
   content:

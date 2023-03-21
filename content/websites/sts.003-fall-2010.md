@@ -22,7 +22,6 @@ course_image_thumbnail:
 course_title: The Rise of Modern Science
 department_numbers:
 - STS
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

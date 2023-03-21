@@ -26,7 +26,6 @@ course_title: Drugs, Politics, and Culture
 department_numbers:
 - STS
 - 21A
-draft: false
 extra_course_numbers: 21A.344J
 instructors:
   content:

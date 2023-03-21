@@ -23,7 +23,6 @@ course_title: Frameworks and Models in Engineering Systems / Engineering System 
 department_numbers:
 - ESD
 - '1'
-draft: false
 extra_course_numbers: 1.041J,ESD.01J
 instructors:
   content:

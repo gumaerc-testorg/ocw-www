@@ -30,7 +30,6 @@ course_image_thumbnail:
 course_title: Gender, Race, and the Construction of the American West
 department_numbers:
 - WGS
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

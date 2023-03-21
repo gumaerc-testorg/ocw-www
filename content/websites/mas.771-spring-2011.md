@@ -21,7 +21,6 @@ course_image_thumbnail:
 course_title: Autism Theory and Technology
 department_numbers:
 - MAS
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

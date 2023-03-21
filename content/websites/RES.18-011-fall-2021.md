@@ -21,7 +21,6 @@ course_image_thumbnail:
 course_title: Algebra I Student Notes
 department_numbers:
 - RES
-draft: false
 extra_course_numbers: ''
 instructors:
   content: []
