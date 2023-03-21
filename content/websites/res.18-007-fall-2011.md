@@ -42,7 +42,6 @@ course_image_thumbnail:
 course_title: 'Calculus Revisited: Multivariable Calculus'
 department_numbers:
 - RES
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

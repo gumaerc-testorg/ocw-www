@@ -19,7 +19,6 @@ course_title: Technologies for Creative Learning
 department_numbers:
 - MAS
 - STS
-draft: false
 extra_course_numbers: STS.445J
 instructors:
   content:

@@ -30,7 +30,6 @@ course_image_thumbnail:
 course_title: Gender, Health and Marginalization Through a Critical Feminist Lens
 department_numbers:
 - WGS
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

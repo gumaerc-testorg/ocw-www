@@ -39,7 +39,6 @@ course_image_thumbnail:
 course_title: Media Literacy in the Age of Deepfakes
 department_numbers:
 - RES
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

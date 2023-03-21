@@ -23,7 +23,6 @@ course_image_thumbnail:
 course_title: 'Media and Methods: Seeing and Expression'
 department_numbers:
 - CMS-W
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

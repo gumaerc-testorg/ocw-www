@@ -18,7 +18,6 @@ course_image_thumbnail:
 course_title: Indistinguishable From... Magic as Interface, Technology, and Tradition
 department_numbers:
 - MAS
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

@@ -30,7 +30,6 @@ course_title: Build a Small Radar System Capable of Sensing Range, Doppler, and 
   Aperture Radar Imaging
 department_numbers:
 - RES
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

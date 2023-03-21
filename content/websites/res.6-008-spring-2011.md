@@ -33,7 +33,6 @@ course_image_thumbnail:
 course_title: Digital Signal Processing
 department_numbers:
 - RES
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

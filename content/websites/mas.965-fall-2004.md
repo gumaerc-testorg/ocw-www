@@ -21,7 +21,6 @@ course_image_thumbnail:
 course_title: Social Visualization
 department_numbers:
 - MAS
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

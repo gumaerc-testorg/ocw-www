@@ -18,7 +18,6 @@ course_image_thumbnail:
 course_title: Education Technology Studio
 department_numbers:
 - CMS-W
-draft: false
 extra_course_numbers: CMS.894
 instructors:
   content:

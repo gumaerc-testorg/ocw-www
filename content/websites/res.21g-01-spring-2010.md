@@ -33,7 +33,6 @@ course_image_thumbnail:
 course_title: Kana
 department_numbers:
 - RES
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

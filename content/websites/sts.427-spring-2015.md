@@ -21,7 +21,6 @@ course_title: The Civil War and the Emergence of Modern America, 1861-1890
 department_numbers:
 - STS
 - 21H
-draft: false
 extra_course_numbers: 21H.205,STS.027
 instructors:
   content:

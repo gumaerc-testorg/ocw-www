@@ -19,7 +19,6 @@ course_image_thumbnail:
 course_title: Disease and Society in America
 department_numbers:
 - STS
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

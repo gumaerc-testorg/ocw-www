@@ -21,7 +21,6 @@ course_image_thumbnail:
 course_title: Digital Humanities
 department_numbers:
 - CMS-W
-draft: false
 extra_course_numbers: CMS.833
 instructors:
   content:

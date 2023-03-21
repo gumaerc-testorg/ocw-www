@@ -23,7 +23,6 @@ course_image_thumbnail:
 course_title: 'Introduction to Oscillations and Waves '
 department_numbers:
 - '8'
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

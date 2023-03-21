@@ -19,7 +19,6 @@ course_title: 'Einstein, Oppenheimer, Feynman: Physics in the 20th Century'
 department_numbers:
 - STS
 - '8'
-draft: false
 extra_course_numbers: 8.225J
 instructors:
   content:

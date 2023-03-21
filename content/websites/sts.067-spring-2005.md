@@ -21,7 +21,6 @@ course_image_thumbnail:
 course_title: 'Scientific Visualization across Disciplines: A Critical Introduction'
 department_numbers:
 - STS
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

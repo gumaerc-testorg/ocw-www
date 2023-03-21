@@ -28,7 +28,6 @@ course_image_thumbnail:
 course_title: A 2020 Vision of Linear Algebra
 department_numbers:
 - RES
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

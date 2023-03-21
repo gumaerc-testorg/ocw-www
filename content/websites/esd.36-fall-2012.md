@@ -25,7 +25,6 @@ course_image_thumbnail:
 course_title: System Project Management
 department_numbers:
 - ESD
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

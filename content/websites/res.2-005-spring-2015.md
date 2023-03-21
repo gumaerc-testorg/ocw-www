@@ -19,7 +19,6 @@ course_image_thumbnail:
 course_title: 'Girls Who Build: Make Your Own Wearables Workshop'
 department_numbers:
 - '2'
-draft: false
 extra_course_numbers: ''
 instructors:
   content:

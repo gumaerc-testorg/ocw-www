@@ -24,7 +24,6 @@ course_title: Modeling and Assessment for Policy
 department_numbers:
 - IDS
 - '12'
-draft: false
 extra_course_numbers: 12.844J,IDS.410J (formerly ESD.864)
 instructors:
   content:

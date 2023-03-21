@@ -24,7 +24,6 @@ department_numbers:
 - WGS
 - '17'
 - '24'
-draft: false
 extra_course_numbers: 17.007J,24.237J,17.006
 instructors:
   content:

@@ -21,7 +21,6 @@ department_numbers:
 - MAS
 - '6'
 - '8'
-draft: false
 extra_course_numbers: 6.443J,8.371J
 instructors:
   content:

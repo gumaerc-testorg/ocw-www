@@ -23,7 +23,6 @@ course_image_thumbnail:
 course_title: 'Pre-7.01: Getting up to Speed in Biology'
 department_numbers:
 - RES
-draft: false
 extra_course_numbers: ''
 instructors:
   content:
