@@ -25,6 +25,12 @@ courses:
   title: Linear Algebra
 - id: courses/2-003sc-engineering-dynamics-fall-2011
   title: Engineering Dynamics
+- id: courses/8-01sc-classical-mechanics-fall-2016
+  title: Classical Mechanics
+- id: courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016
+  title: 'Physics III: Vibrations and Waves'
+- id: courses/5-111sc-principles-of-chemical-science-fall-2014
+  title: Principles of Chemical Science
 description: OCW Scholar courses are designed for independent learners who have few
   additional resources available to them. The courses are substantially more complete
   than typical OCW courses and include new custom-created content as well as materials
