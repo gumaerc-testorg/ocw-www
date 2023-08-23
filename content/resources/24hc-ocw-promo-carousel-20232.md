@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: true
-file: /ocw-www/24hc-ocw-promo-carousel-2023.png
+file: /ocw-www/24hc-ocw-promo-carousel-20232.png
 metadata:
   caption: ''
   credit: ''
@@ -11,5 +11,5 @@ metadata:
     on the bottom left corner. Red background.
 resourcetype: Image
 title: 24HC OCW Promo Carousel 2023.png
-uid: 4405e590-e2c7-4a94-9aa5-0af402ab729c
+uid: 176c690a-013b-47dc-973a-f1baeacf5206
 ---
