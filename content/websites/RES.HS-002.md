@@ -30,7 +30,6 @@ course_image_thumbnail:
 course_title: 'Chemistry Behind the Magic: Chemical Demonstrations for the Classroom'
 department_numbers:
 - RES
-draft: true
 extra_course_numbers: ''
 instructors:
   content:
