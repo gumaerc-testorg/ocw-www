@@ -51,7 +51,7 @@ topics:
 - - Fine Arts
   - Media Studies
   - Digital Media
-uid: 36bed886-c704-4b6c-8eb3-b0d331974569
+uid: ec9fbb47-9a0b-42ea-bcff-02f0820f77e5
 url_path: courses/es-272-culture-tech-spring-2003
 year: '2003'
 ---

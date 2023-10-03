@@ -45,7 +45,7 @@ topics:
 - - Humanities
   - Philosophy
   - Political Philosophy
-uid: a1e54a1b-94e5-41c5-9acc-47f5ab9fcb1c
+uid: 3f221bb7-3651-4d7e-b42c-5dc1d363675e
 url_path: courses/cc-112-philosophy-of-love-spring-2013
 year: '2013'
 ---

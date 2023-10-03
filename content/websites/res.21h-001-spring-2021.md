@@ -26,6 +26,7 @@ course_title: Visualizing the Birth of Modern Tokyo
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - 3ccc00a4-4a5a-8131-447b-f67c5d7e81f1
@@ -46,7 +47,7 @@ topics:
 - - Humanities
   - History
   - Modern History
-uid: 364e472b-0dda-4ce7-80aa-a6f4aa7c8005
+uid: c51c773b-8b5f-4617-86a9-d6a9a9ba8f13
 url_path: courses/res-21h-001-visualizing-the-birth-of-modern-tokyo-spring-2021
 year: '2021'
 ---

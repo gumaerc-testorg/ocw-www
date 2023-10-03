@@ -48,7 +48,7 @@ topics:
 - - Humanities
   - History
   - Modern History
-uid: 125b584c-a54b-4add-a8f4-0054bdb792c3
+uid: 082a8706-ef32-409c-8fc6-dd7714e9c0eb
 url_path: courses/sts-035-the-history-of-computing-spring-2004
 year: '2004'
 ---

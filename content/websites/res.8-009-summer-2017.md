@@ -23,6 +23,7 @@ course_image_thumbnail:
 course_title: 'Introduction to Oscillations and Waves '
 department_numbers:
 - '8'
+- RES
 extra_course_numbers: ''
 instructors:
   content:
@@ -49,7 +50,7 @@ topics:
 - - Science
   - Physics
   - Electromagnetism
-uid: 32c6fba2-d29b-46f0-8be1-9dcc7d17ef33
+uid: d49d71cb-ad53-4b13-b2d2-f85432f55039
 url_path: courses/res-8-009-introduction-to-oscillations-and-waves-summer-2017
 year: '2017'
 ---

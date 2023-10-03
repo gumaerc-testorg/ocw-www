@@ -40,7 +40,7 @@ topics:
   - Mental Health
 - - Health and Medicine
   - Physical Education and Recreation
-uid: f053d872-bbc3-49ee-9608-aa8174d61bc6
+uid: 55e809f5-b46e-453c-9e1f-43b4e7cdebb3
 url_path: courses/es-s71-increasing-your-physical-intelligence-enhancing-your-social-smarts-spring-2014
 year: '2014'
 ---

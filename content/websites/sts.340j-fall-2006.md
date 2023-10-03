@@ -41,7 +41,7 @@ topics:
 - - Humanities
   - History
   - History of Science and Technology
-uid: c65f77a4-6525-4cfe-9334-caa57aa8dd3f
+uid: 403676ab-8d1d-4f2f-af67-eee8c5cc2afb
 url_path: courses/sts-340j-introduction-to-the-history-of-technology-fall-2006
 year: '2006'
 ---

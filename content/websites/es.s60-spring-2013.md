@@ -40,7 +40,7 @@ title: The Art and Science of Happiness
 topics:
 - - Social Science
   - Psychology
-uid: 7f6986f6-db17-4f17-afd7-043556bc6659
+uid: 1611c68a-7ad3-4528-9001-ac2942db3e30
 url_path: courses/es-s60-the-art-and-science-of-happiness-spring-2013
 year: '2013'
 ---

@@ -43,7 +43,7 @@ topics:
   - Artificial Intelligence
 - - Teaching and Education
   - Curriculum and Teaching
-uid: a2541757-f6af-4133-b68e-bd8ebfb37e70
+uid: ae84cfb6-05a4-4a73-9d9c-b667b4717541
 url_path: courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020
 year: '2020'
 ---

@@ -44,7 +44,7 @@ topics:
 - - Society
 - - Teaching and Education
   - Curriculum and Teaching
-uid: 74025a93-9a8f-4ed3-9550-c9852eb33a7a
+uid: 7d4ff1e5-9ad4-4a3b-8417-36cf3d1a0357
 url_path: courses/res-21g-001-the-user-friendly-classroom-fall-2020
 year: '2020'
 ---

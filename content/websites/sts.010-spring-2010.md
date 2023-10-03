@@ -41,7 +41,7 @@ topics:
   - Neuroscience
 - - Social Science
   - Sociology
-uid: 8d4d85fa-0ef7-4817-acd4-7cc5d9915a58
+uid: 5b6c995c-4c3a-4a19-9982-3e5a059a8780
 url_path: courses/sts-010-neuroscience-and-society-spring-2010
 year: '2010'
 ---

@@ -49,7 +49,7 @@ topics:
   - Telecommunications
 - - Fine Arts
   - Media Studies
-uid: ac8015bc-59d4-4707-9705-5029011c7647
+uid: 4f5984ee-b77c-4cae-b835-55e09d567da6
 url_path: courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007
 year: '2007'
 ---

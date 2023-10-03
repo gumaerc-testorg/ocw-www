@@ -50,7 +50,7 @@ topics:
 - - Social Science
   - Public Administration
   - Science and Technology Policy
-uid: fa507a3a-d3a0-4309-bdd7-6c62236113e6
+uid: 31dd6c16-92d7-4a26-8a45-688eb6f323f8
 url_path: courses/res-stp-001-science-policy-bootcamp-january-iap-2011
 year: '2011'
 ---

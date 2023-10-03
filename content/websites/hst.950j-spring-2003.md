@@ -50,7 +50,7 @@ topics:
   - Data Mining
 - - Business
   - Information Technology
-uid: a535b73b-1220-47d8-bb01-7401a9bf269b
+uid: 8fd396cd-a43c-47ce-af47-b1d867cbb773
 url_path: courses/hst-950j-medical-computing-spring-2003
 year: '2003'
 ---

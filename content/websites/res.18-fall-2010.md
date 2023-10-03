@@ -60,7 +60,7 @@ topics:
   - Calculus
 - - Mathematics
   - Differential Equations
-uid: 4808cf36-8ebf-413e-8ba7-48663abb5e8f
+uid: 1a05ef7a-0941-40c7-a404-9f7f4adb9762
 url_path: courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010
 year: '2010'
 ---

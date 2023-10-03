@@ -59,7 +59,7 @@ topics:
   - Atomic, Molecular, Optical Physics
 - - Science
   - Cognitive Science
-uid: 0174c339-1bf9-4b02-82b3-6294d2e51683
+uid: 010688c4-51d8-4afc-bce8-4165d36dea03
 url_path: courses/mas-450-holographic-imaging-spring-2003
 year: '2003'
 ---

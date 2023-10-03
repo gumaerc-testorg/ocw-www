@@ -56,7 +56,7 @@ topics:
   - Earth Science
   - Sustainability
 - - Energy
-uid: c71b3adc-1f11-48de-979a-fd762efd0c7b
+uid: f0458ac6-d8b4-4ce8-8929-cc408a8f27ab
 url_path: courses/ec-711-d-lab-energy-spring-2011
 year: '2011'
 ---

@@ -41,7 +41,7 @@ title: Doctoral Seminar in Engineering Systems
 topics:
 - - Engineering
   - Systems Engineering
-uid: 13117a62-2265-4d6c-b7c3-bba82e3e1a2c
+uid: 2a0e4910-26ed-4eb1-81b1-7059f3a2fd1a
 url_path: courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011
 year: '2011'
 ---

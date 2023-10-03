@@ -51,7 +51,7 @@ topics:
   - Supply Chain Management
 - - Engineering
   - Systems Engineering
-uid: 4d84e866-ec2f-45a8-9438-1a8e325fc0f1
+uid: 7c4563e0-5f6b-4d80-870e-5b168807b03b
 url_path: courses/esd-260j-logistics-systems-fall-2006
 year: '2006'
 ---

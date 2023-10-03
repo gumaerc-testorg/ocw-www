@@ -42,7 +42,7 @@ topics:
 - - Humanities
   - History
   - History of Science and Technology
-uid: 5ca8f78d-60c8-458f-893f-ea5a18221058
+uid: f1ab46f9-363a-49d9-a258-93440e81df38
 url_path: courses/sts-001-technology-in-american-history-spring-2006
 year: '2006'
 ---

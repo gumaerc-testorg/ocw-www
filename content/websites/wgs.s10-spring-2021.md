@@ -45,7 +45,7 @@ topics:
   - Gender Studies
 - - Society
   - Women's Studies
-uid: 3aab2144-4462-45ee-8036-bc723e658355
+uid: 1592cffb-10ff-424d-982d-1f39c5b1edfc
 url_path: courses/wgs-s10-black-feminist-health-science-studies-spring-2021
 year: '2021'
 ---

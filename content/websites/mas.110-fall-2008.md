@@ -46,7 +46,7 @@ topics:
 - - Fine Arts
   - Visual Arts
   - Graphic Design
-uid: e25eb22f-365d-4342-98fc-a5b8a2be8f0e
+uid: 76b6c873-574b-4a38-be8d-fc9d4049571c
 url_path: courses/mas-110-fundamentals-of-computational-media-design-fall-2008
 year: '2008'
 ---

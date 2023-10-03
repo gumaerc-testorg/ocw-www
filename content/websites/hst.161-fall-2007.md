@@ -52,7 +52,7 @@ topics:
   - Biomedicine
 - - Health and Medicine
   - Functional Genomics
-uid: 5c93bad0-95c4-40bb-8c25-a2c1083693f5
+uid: 1794a648-0b4f-4cbf-850c-86a498f864de
 url_path: courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007
 year: '2007'
 ---

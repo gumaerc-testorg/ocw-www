@@ -54,7 +54,7 @@ topics:
   - Philosophy
 - - Social Science
   - Political Science
-uid: 419241e0-cb30-4c55-b4c6-ccd3283c58a4
+uid: abade2f8-ae11-4e93-97b3-5a2bec2b9382
 url_path: courses/cms-701-current-debates-in-media-spring-2015
 year: '2015'
 ---

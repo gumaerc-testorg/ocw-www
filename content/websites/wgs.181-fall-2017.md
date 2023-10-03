@@ -46,7 +46,7 @@ topics:
   - Gender Studies
 - - Society
   - African American Studies
-uid: 19263397-7f69-42ea-9752-a10e1bc87a0c
+uid: f93096e8-b02e-4fdb-9b1e-bd6e13cb3dcb
 url_path: courses/wgs-181-queer-cinema-and-visual-culture-fall-2017
 year: '2017'
 ---

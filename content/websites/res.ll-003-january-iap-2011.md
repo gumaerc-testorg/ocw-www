@@ -56,7 +56,7 @@ topics:
 - - Engineering
   - Electrical Engineering
   - Signal Processing
-uid: bdee897b-b28e-4722-a860-127bd3bb583a
+uid: 8a0010a2-00d6-418c-925b-e491c2f7fddd
 url_path: courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011
 year: '2011'
 ---

@@ -47,7 +47,7 @@ topics:
 - - Fine Arts
   - Media Studies
   - Digital Media
-uid: e0d091a9-223d-4f1b-a606-3032728b5039
+uid: d442a9a5-1fc2-4422-9036-0c092eb9c6f4
 url_path: courses/cms-s60-technopanics-moral-panics-about-technology-spring-2013
 year: '2013'
 ---

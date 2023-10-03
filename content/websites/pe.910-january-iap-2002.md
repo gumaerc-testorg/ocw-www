@@ -43,7 +43,7 @@ topics:
   - Physical Education and Recreation
 - - Science
   - Cognitive Science
-uid: ad8f5ee2-3557-4115-aeaa-439615cc37f9
+uid: e58f67ce-4988-4374-a0d1-987da2af9e78
 url_path: courses/pe-910-physical-intelligence-january-iap-2002
 year: '2002'
 ---

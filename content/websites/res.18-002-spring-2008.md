@@ -48,7 +48,7 @@ topics:
   - Computational Modeling and Simulation
 - - Mathematics
   - Applied Mathematics
-uid: afe74f18-4b44-4cf3-82fd-410b9a8a2e1f
+uid: 3b61259a-6b37-48fd-b580-50e9b9f66b32
 url_path: courses/res-18-002-introduction-to-matlab-spring-2008
 year: '2008'
 ---

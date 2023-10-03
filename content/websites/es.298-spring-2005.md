@@ -34,7 +34,7 @@ title: Art of Color
 topics:
 - - Fine Arts
   - Visual Arts
-uid: c0bbfedf-bb6f-45d8-9602-256ed167ad23
+uid: 7bbfdf5f-6779-431b-973c-edd3d1d7f613
 url_path: courses/es-298-art-of-color-spring-2005
 year: '2005'
 ---

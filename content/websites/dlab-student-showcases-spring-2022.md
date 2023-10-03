@@ -22,6 +22,7 @@ department_numbers:
 - RES
 - EC
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - 49e4a4b9-ad4a-4eff-902d-c1bf22bb17a6
@@ -41,7 +42,7 @@ topics:
 - - Social Science
 - - Society
 - - Teaching and Education
-uid: 8ebf931b-0232-4786-9c11-06aa34743939
+uid: b89c369b-ab28-4bc4-b869-dd748f32865b
 url_path: courses/res-ec-003-d-lab-student-showcases-spring-2022
 year: '2022'
 ---

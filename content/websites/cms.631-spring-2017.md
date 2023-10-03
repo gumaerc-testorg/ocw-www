@@ -50,7 +50,7 @@ topics:
 - - Social Science
   - Anthropology
   - Ethnography
-uid: 5cdb3905-0763-407d-9e41-18a60338d677
+uid: aacb7690-87ef-4939-9079-4ce804317ed8
 url_path: courses/cms-631-data-storytelling-studio-climate-change-spring-2017
 year: '2017'
 ---

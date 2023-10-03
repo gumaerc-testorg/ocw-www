@@ -60,7 +60,7 @@ topics:
 - - Engineering
   - Computer Science
   - Theory of Computation
-uid: 319e8c1b-a763-4ea5-8952-ecfb093278d4
+uid: 1feee588-729b-474c-b497-cba999aad1e0
 url_path: courses/mas-963-out-of-context-a-course-on-computer-systems-that-adapt-to-and-learn-from-context-fall-2001
 year: '2001'
 ---

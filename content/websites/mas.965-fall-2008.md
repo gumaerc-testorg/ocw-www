@@ -61,7 +61,7 @@ topics:
 - - Fine Arts
   - Media Studies
   - Digital Media
-uid: 8eb5c640-a02b-4981-a948-7e2ecd4f24cd
+uid: 310c3141-7014-4eb4-a240-719d39b40e47
 url_path: courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008
 year: '2008'
 ---

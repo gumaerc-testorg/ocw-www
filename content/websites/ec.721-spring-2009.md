@@ -58,7 +58,7 @@ topics:
   - The Developing World
 - - Health and Medicine
   - Public Health
-uid: 5e0e8ef7-71a1-4a0e-bbce-9cd26a5ef545
+uid: e42e540c-a7fc-4fd5-9529-b7408668e749
 url_path: courses/ec-721-wheelchair-design-in-developing-countries-spring-2009
 year: '2009'
 ---

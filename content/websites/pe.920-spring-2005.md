@@ -44,7 +44,7 @@ topics:
   - Physical Education and Recreation
 - - Engineering
   - Mechanical Engineering
-uid: 9b2ddd20-aa81-452c-bb51-1cde9de5761e
+uid: c1fdb0a8-461f-4eb4-9952-fffe8e46ad17
 url_path: courses/pe-920-pe-for-me-spring-2005
 year: '2005'
 ---

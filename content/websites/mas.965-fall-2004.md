@@ -43,7 +43,7 @@ topics:
 - - Social Science
   - Anthropology
   - Social Anthropology
-uid: fc8fc0af-822c-4ed0-8914-1f5733678bd1
+uid: 7b68b2be-0e2a-4e97-bdd9-cacbca5f3892
 url_path: courses/mas-965-social-visualization-fall-2004
 year: '2004'
 ---

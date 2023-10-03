@@ -40,7 +40,7 @@ topics:
 - - Engineering
   - Electrical Engineering
   - Electronics
-uid: cc08ad61-fa42-4d54-82b9-3005d772139e
+uid: a10ef50b-95d4-48db-a1b7-57ef895b5eda
 url_path: courses/res-6-010-electronic-feedback-systems-spring-2013
 year: '2013'
 ---

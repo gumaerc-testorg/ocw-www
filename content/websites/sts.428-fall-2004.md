@@ -48,7 +48,7 @@ topics:
 - - Social Science
   - Anthropology
   - Social Anthropology
-uid: 9aa90d53-4548-46ad-88a5-32bf03cd0c11
+uid: 92329757-c282-41be-8297-3a6e17a63c6a
 url_path: courses/sts-428-technology-and-change-in-rural-america-fall-2004
 year: '2004'
 ---

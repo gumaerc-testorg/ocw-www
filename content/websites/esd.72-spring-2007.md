@@ -49,7 +49,7 @@ topics:
 - - Engineering
   - Systems Engineering
   - Computational Modeling and Simulation
-uid: 09091a53-d5a2-47e8-8fc7-0b365ffc8617
+uid: 68c6c22e-0b52-4860-9f14-750b37f3bb3f
 url_path: courses/esd-72-engineering-risk-benefit-analysis-spring-2007
 year: '2007'
 ---

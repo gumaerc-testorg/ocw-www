@@ -39,7 +39,7 @@ title: Education Technology Studio
 topics:
 - - Teaching and Education
   - Educational Technology
-uid: 5fd5341c-560f-412b-8aff-487b388d93d2
+uid: 1f737b66-41ff-4d68-a284-0a37b0578560
 url_path: courses/cms-594-education-technology-studio-spring-2019
 year: '2019'
 ---

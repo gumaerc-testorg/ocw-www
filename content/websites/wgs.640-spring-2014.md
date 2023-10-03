@@ -63,7 +63,7 @@ topics:
   - Gender Studies
 - - Society
   - Women's Studies
-uid: 6653bd58-1305-48d3-85ad-cec6f21b0f80
+uid: 53b258ae-1768-40e0-acce-e6751cfe975a
 url_path: courses/wgs-640-screen-women-body-narratives-in-popular-american-film-spring-2014
 year: '2014'
 ---

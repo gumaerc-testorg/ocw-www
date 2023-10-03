@@ -55,7 +55,7 @@ topics:
   - The Developing World
 - - Business
   - Health Care Management
-uid: a20456c5-0b9f-4f61-ba4d-ff50103dedb3
+uid: 4a6df778-b9ff-4fe6-9e25-01a6faaadbac
 url_path: courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005
 year: '2005'
 ---

@@ -55,7 +55,7 @@ topics:
   - Cultural Anthropology
 - - Society
   - Gender Studies
-uid: 87a3995c-a1a2-4849-a7ce-12c3cccee997
+uid: 3b771d81-57e5-497c-9330-e5b0646c1561
 url_path: courses/wgs-645-issues-of-representation-women-representation-and-music-in-selected-folk-traditions-of-the-british-isles-and-north-america-fall-2005
 year: '2005'
 ---

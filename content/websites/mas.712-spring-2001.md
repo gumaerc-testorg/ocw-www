@@ -40,7 +40,7 @@ title: How to Learn (Almost) Anything
 topics:
 - - Teaching and Education
   - Curriculum and Teaching
-uid: ef29c186-a657-4365-9390-3e22ef8a8c2f
+uid: 371998f5-f06c-45d5-8bd5-11a8e19870bf
 url_path: courses/mas-712-how-to-learn-almost-anything-spring-2001
 year: '2001'
 ---

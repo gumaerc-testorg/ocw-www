@@ -39,7 +39,7 @@ title: Sailing
 topics:
 - - Health and Medicine
   - Physical Education and Recreation
-uid: adbcaa73-2d92-468e-9d58-64feeaf8f23f
+uid: a5947e3a-ea10-499e-a3f4-d4d587e69efb
 url_path: courses/pe-810-sailing-spring-2007
 year: '2007'
 ---

@@ -39,7 +39,7 @@ topics:
 - - Engineering
   - Systems Engineering
   - Systems Design
-uid: 284e2e6d-2285-462b-878b-23bdac9986bf
+uid: ed18a2f1-aee1-4ab1-939b-9bb1afb37026
 url_path: courses/esd-34-system-architecture-january-iap-2007
 year: '2007'
 ---

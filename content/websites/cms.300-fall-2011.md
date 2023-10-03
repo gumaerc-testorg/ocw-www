@@ -42,7 +42,7 @@ topics:
 - - Fine Arts
   - Media Studies
   - Digital Media
-uid: 047cce40-8799-430d-81d2-bb5c2906c8b1
+uid: 51ac5230-55ae-4fb2-b809-708d3c2280f5
 url_path: courses/cms-300-introduction-to-videogame-studies-fall-2011
 year: '2011'
 ---

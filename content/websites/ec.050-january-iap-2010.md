@@ -44,7 +44,7 @@ topics:
 - - Humanities
   - History
   - Intellectual History
-uid: d57889c9-f9ea-4a83-8d09-1ac969895729
+uid: 9cfe36e9-5483-4585-9e8c-42c6c2971eed
 url_path: courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010
 year: '2010'
 ---

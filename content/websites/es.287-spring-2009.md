@@ -37,7 +37,7 @@ title: Kitchen Chemistry
 topics:
 - - Science
   - Chemistry
-uid: 9ca6caa4-67c5-481b-b17c-fd16bf2605a6
+uid: f903d1c6-b98a-489a-80d4-2a90786c6a6b
 url_path: courses/es-287-kitchen-chemistry-spring-2009
 year: '2009'
 ---

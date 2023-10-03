@@ -25,6 +25,7 @@ course_title: Adaptive Antennas and Phased Arrays
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - 435326d1-6389-d6a4-0f39-c487f9c7ad33
@@ -46,7 +47,7 @@ topics:
 - - Science
   - Physics
   - Electromagnetism
-uid: 1f3a269b-2a6c-4fb7-b800-d575e90b4bdf
+uid: 76d7d607-772a-4987-98e0-adfa0ea2ebb9
 url_path: courses/res-ll-002-adaptive-antennas-and-phased-arrays-spring-2010
 year: '2010'
 ---

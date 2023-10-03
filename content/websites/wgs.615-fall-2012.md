@@ -48,7 +48,7 @@ title: 'Feminist Inquiry: Strategies for Effective Scholarship'
 topics:
 - - Society
   - Gender Studies
-uid: 746428b9-46bf-4591-81e6-b256f6e43357
+uid: 5ff953b5-8be3-4cef-b7a4-e61c360bafe5
 url_path: courses/wgs-615-feminist-inquiry-strategies-for-effective-scholarship-fall-2012
 year: '2012'
 ---

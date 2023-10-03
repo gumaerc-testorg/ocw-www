@@ -45,7 +45,7 @@ topics:
 - - Engineering
   - Systems Engineering
   - Systems Design
-uid: a7c38d68-70af-4ee1-9e99-2607cd3c69d9
+uid: 49753e65-922a-46e7-9406-f2936249b4a0
 url_path: courses/esd-342-advanced-system-architecture-spring-2006
 year: '2006'
 ---

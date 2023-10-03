@@ -54,7 +54,7 @@ topics:
 - - Fine Arts
   - Media Studies
   - Digital Media
-uid: ea30422a-45cc-4189-a51c-67aac6a1253f
+uid: 1240d23a-14ac-4df9-a50b-4d621b81bd34
 url_path: courses/mas-962-special-topics-new-textiles-spring-2010
 year: '2010'
 ---

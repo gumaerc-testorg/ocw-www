@@ -43,7 +43,7 @@ topics:
 - - Humanities
   - Language
   - Chinese
-uid: fee20da2-c662-4744-bacf-e45890ec825a
+uid: e14d34fb-d866-49d7-94f0-e5635149a1eb
 url_path: courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011
 year: '2011'
 ---

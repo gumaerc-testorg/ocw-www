@@ -48,7 +48,7 @@ topics:
 - - Social Science
   - Political Science
   - American Politics
-uid: e5ea59dc-46e7-4b03-ab99-03ff35f1eab3
+uid: 55ba618b-852b-4512-bb99-9e1beea5ed19
 url_path: courses/wgs-645-gendering-u-s-immigration-policy-sociopolitical-theological-and-feminist-perspectives-spring-2019
 year: '2019'
 ---
