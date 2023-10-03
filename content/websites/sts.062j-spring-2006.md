@@ -47,7 +47,7 @@ topics:
   - Public Health
 - - Social Science
   - Sociology
-uid: 9bd84fe3-69ab-45ce-a316-869148db3a9d
+uid: 881e8f83-61f9-407a-9b51-e26187efff2e
 url_path: courses/sts-062j-drugs-politics-and-culture-spring-2006
 year: '2006'
 ---

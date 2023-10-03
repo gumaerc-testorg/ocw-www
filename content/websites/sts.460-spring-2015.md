@@ -45,7 +45,7 @@ topics:
   - History of Science and Technology
 - - Social Science
   - Communication
-uid: 7e73e778-9fdc-4e1b-8b7c-b662b303f89b
+uid: 0ea93443-7aa4-45d6-959e-085f5337363f
 url_path: courses/sts-460-histories-of-information-communication-and-computing-technologies-spring-2015
 year: '2015'
 ---

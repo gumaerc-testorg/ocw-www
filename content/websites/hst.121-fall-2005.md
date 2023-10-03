@@ -42,7 +42,7 @@ topics:
   - Pathology and Pathophysiology
 - - Health and Medicine
   - Anatomy and Physiology
-uid: d2d5f1a2-59e3-4a04-a66b-09d7d7eb6fca
+uid: 9a96c96e-8e0e-4dc4-b3db-8068de7e65a2
 url_path: courses/hst-121-gastroenterology-fall-2005
 year: '2005'
 ---

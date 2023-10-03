@@ -49,7 +49,7 @@ topics:
   - Innovation
 - - Society
   - The Developing World
-uid: 183a3e81-bdd9-4dba-9d32-946102fc74e8
+uid: a3e8094e-ffe9-41c0-b24f-f9e3f466f8dd
 url_path: courses/sts-089-technology-and-innovation-in-africa-fall-2014
 year: '2014'
 ---

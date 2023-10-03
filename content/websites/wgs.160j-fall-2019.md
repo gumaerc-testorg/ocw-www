@@ -44,7 +44,7 @@ topics:
   - Gender Studies
 - - Society
   - Women's Studies
-uid: 2ef7a233-b219-4288-90d8-cd24c24fad55
+uid: 1cd9dd97-3e1e-44c2-8beb-9a2945bb9bef
 url_path: courses/wgs-160j-science-activism-gender-race-and-power-fall-2019
 year: '2019'
 ---

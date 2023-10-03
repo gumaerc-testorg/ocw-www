@@ -46,7 +46,7 @@ topics:
   - Gender Studies
 - - Society
   - Women's Studies
-uid: f568a83b-9642-47cd-885e-fef942647979
+uid: 6898579d-ba06-4348-b6aa-f4ba26d3b27f
 url_path: courses/wgs-s10-history-of-women-in-science-and-engineering-fall-2017
 year: '2017'
 ---

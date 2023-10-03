@@ -54,7 +54,7 @@ topics:
   - Philosophy
 - - Social Science
   - Sociology
-uid: 6323e26b-ec94-4794-b52d-7f7e8ec57e59
+uid: 059b3b75-c70e-4037-a6ca-21190b171345
 url_path: courses/sts-350-social-study-of-science-and-technology-spring-2004
 year: '2004'
 ---

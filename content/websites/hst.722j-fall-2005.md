@@ -54,7 +54,7 @@ topics:
   - Sensory-Neural Systems
 - - Health and Medicine
   - Anatomy and Physiology
-uid: cabd4d5f-e3f5-45a9-815b-dffe94f80e44
+uid: f5355b72-fd8f-4aad-b9a5-6533fc8e77a9
 url_path: courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005
 year: '2005'
 ---

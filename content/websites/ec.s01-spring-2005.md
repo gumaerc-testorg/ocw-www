@@ -54,7 +54,7 @@ topics:
   - Telecommunications
 - - Business
   - Entrepreneurship
-uid: 5c3aa49f-de57-413a-9533-89f7ef5eca40
+uid: 00ea57ad-c0a3-473b-ad6a-6d93e2a3e1fd
 url_path: courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005
 year: '2005'
 ---

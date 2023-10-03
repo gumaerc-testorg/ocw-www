@@ -50,7 +50,7 @@ topics:
 - - Social Science
   - Public Administration
   - Science and Technology Policy
-uid: dd35fa19-85ff-4f33-a2e0-ac188302fb4a
+uid: 343d4690-f77e-4987-9bb7-0254d55bc786
 url_path: courses/esd-68j-communications-and-information-policy-spring-2006
 year: '2006'
 ---

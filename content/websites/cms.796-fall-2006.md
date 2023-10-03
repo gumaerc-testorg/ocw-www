@@ -42,7 +42,7 @@ topics:
 - - Humanities
   - Literature
   - Criticism
-uid: 4aa981de-d738-4d69-a928-413604f8f6ec
+uid: 945e62af-a6ea-4721-8466-7bf7e2cff3da
 url_path: courses/cms-796-major-media-texts-fall-2006
 year: '2006'
 ---

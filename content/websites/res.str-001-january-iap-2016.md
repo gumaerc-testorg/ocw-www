@@ -37,7 +37,7 @@ title: Geographic Information System (GIS) Tutorial
 topics:
 - - Social Science
   - Geography
-uid: e676f414-fd6f-426b-802a-281d656832ba
+uid: 34940ef8-9c73-41b3-9939-89e7c6c3c3ee
 url_path: courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2016
 year: '2016'
 ---

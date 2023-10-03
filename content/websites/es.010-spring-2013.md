@@ -44,7 +44,7 @@ topics:
   - Health and Exercise Science
 - - Health and Medicine
   - Physical Education and Recreation
-uid: c159694c-1fc6-4c46-9994-38efa706b307
+uid: 1e13b511-9fb0-4bc0-b780-5d4c3688577a
 url_path: courses/es-010-chemistry-of-sports-spring-2013
 year: '2013'
 ---

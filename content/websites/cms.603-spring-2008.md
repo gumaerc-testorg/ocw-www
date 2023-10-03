@@ -43,7 +43,7 @@ topics:
   - Film and Video
 - - Fine Arts
   - Media Studies
-uid: 229e396c-cfde-43ac-b857-76045b4bcfdb
+uid: 6e8a2e0f-7577-4fe3-90da-9188d7136fb4
 url_path: courses/cms-603-american-soap-operas-spring-2008
 year: '2008'
 ---

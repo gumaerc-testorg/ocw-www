@@ -40,7 +40,7 @@ topics:
   - Curriculum and Teaching
 - - Teaching and Education
   - Higher Education
-uid: 32c96311-bc9b-4b6f-8cc6-3f052c609638
+uid: d2266835-0a69-4149-95b6-e7e81a1cf307
 url_path: courses/res-tll-01-guidelines-for-teaching-mit-and-beyond-spring-2016
 year: '2016'
 ---

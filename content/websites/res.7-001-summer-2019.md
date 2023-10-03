@@ -23,7 +23,9 @@ course_image_thumbnail:
 course_title: 'Pre-7.01: Getting up to Speed in Biology'
 department_numbers:
 - RES
+- '7'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 278bc492-0e57-1368-8510-500ffe508e8d
@@ -40,7 +42,7 @@ title: 'Pre-7.01: Getting up to Speed in Biology'
 topics:
 - - Science
   - Biology
-uid: cb4f3fa2-9cbf-4ed4-ae22-217b95c870f2
+uid: d4ea68dd-c101-4184-bb2b-20503d1acb5b
 url_path: courses/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019
 year: '2019'
 ---

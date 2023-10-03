@@ -42,7 +42,7 @@ topics:
 - - Humanities
   - History
   - History of Science and Technology
-uid: 17675793-3c43-4c87-a0bd-9db3f4ad433e
+uid: b892cc9e-9654-47fb-abc2-120ce48cf7ae
 url_path: courses/sts-009-evolution-and-society-spring-2012
 year: '2012'
 ---

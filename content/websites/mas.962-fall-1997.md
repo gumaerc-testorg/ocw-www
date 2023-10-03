@@ -39,7 +39,7 @@ topics:
 - - Humanities
   - Linguistics
   - Semantics
-uid: 0e6f92e9-ff46-4552-af3e-3307bebbcfa1
+uid: 5a6a6c9c-5e8a-4bcc-ac73-a7bc097dbf01
 url_path: courses/mas-962-digital-typography-fall-1997
 year: '1997'
 ---

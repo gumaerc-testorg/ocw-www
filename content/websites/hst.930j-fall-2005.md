@@ -50,7 +50,7 @@ topics:
   - Business Ethics
 - - Health and Medicine
   - Biomedical Enterprise
-uid: 7c41803d-4f2b-4dac-8658-cc77e9dcf72f
+uid: c0a574ae-ba94-4f34-a491-fcd3921c3778
 url_path: courses/hst-930j-social-studies-of-bioscience-and-biotech-fall-2005
 year: '2005'
 ---

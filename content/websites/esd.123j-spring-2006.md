@@ -50,7 +50,7 @@ topics:
 - - Science
   - Earth Science
   - Sustainability
-uid: 76935fa8-059e-4f7d-87db-d433b021a2f4
+uid: 73275f31-6b07-4884-8e54-adee5d87ee08
 url_path: courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006
 year: '2006'
 ---

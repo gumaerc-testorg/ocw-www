@@ -58,7 +58,7 @@ topics:
   - Social Medicine
 - - Society
   - Gender Studies
-uid: dd874f89-a8a0-4dde-99af-2bb20cf70e99
+uid: d2738254-cb52-4c2c-9420-a0ff33126423
 url_path: courses/wgs-645-gender-health-and-marginalization-through-a-critical-feminist-lens-fall-2014
 year: '2014'
 ---

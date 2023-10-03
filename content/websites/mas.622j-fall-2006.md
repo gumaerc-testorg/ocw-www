@@ -49,7 +49,7 @@ topics:
 - - Engineering
   - Electrical Engineering
   - Signal Processing
-uid: d9cc05c2-47fb-4d2a-99f2-79362b2ccc1e
+uid: 0d7c3fd7-1ba1-4e59-b807-529b188c3c7e
 url_path: courses/mas-622j-pattern-recognition-and-analysis-fall-2006
 year: '2006'
 ---

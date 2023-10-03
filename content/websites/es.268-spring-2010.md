@@ -46,7 +46,7 @@ topics:
   - Game Design
 - - Social Science
   - Game Theory
-uid: 307bd841-b865-4b27-9581-4fa2c4a5d5b2
+uid: eff6a6c5-3b2c-4a09-a660-1e23a4fd2378
 url_path: courses/es-268-the-mathematics-in-toys-and-games-spring-2010
 year: '2010'
 ---

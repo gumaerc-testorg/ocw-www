@@ -25,6 +25,7 @@ course_title: Lean Research Skills for Conducting Interviews
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - dc8f9327-8ba1-9045-ea5b-67f50f6bdb61
@@ -39,7 +40,7 @@ term: Spring
 title: Lean Research Skills for Conducting Interviews
 topics:
 - - Social Science
-uid: ae167d38-be93-4dfe-a155-acdfabc08a31
+uid: 3e1d628a-3ffc-4f5d-ba65-93fc5e42b59b
 url_path: courses/res-ec-002-lean-research-skills-for-conducting-interviews-spring-2021
 year: '2021'
 ---

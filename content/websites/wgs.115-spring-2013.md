@@ -42,7 +42,7 @@ topics:
   - History of Science and Technology
 - - Society
   - Gender Studies
-uid: 3a22cb18-0537-46bb-8407-a3d9d2d1d184
+uid: 64facf97-c33d-446b-840d-0b70e544af63
 url_path: courses/wgs-115-gender-and-technology-spring-2013
 year: '2013'
 ---

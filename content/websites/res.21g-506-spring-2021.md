@@ -34,7 +34,7 @@ topics:
 - - Humanities
   - Language
   - Japanese
-uid: d8a6d248-e1bc-43c5-bc90-949db34fa5cb
+uid: 6d95efdf-02d9-4b90-98cc-477b5e4667a0
 url_path: courses/res-21g-506-kanji-learning-any-time-any-place-for-japanese-vi-spring-2021
 year: '2021'
 ---

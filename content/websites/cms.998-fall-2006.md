@@ -21,6 +21,7 @@ course_image_thumbnail:
 course_title: Videogame Theory and Analysis
 department_numbers:
 - CMS-W
+draft: true
 extra_course_numbers: CMS.600
 instructors:
   content:
@@ -42,7 +43,7 @@ topics:
   - Game Theory
 - - Fine Arts
   - Media Studies
-uid: 1ccaef91-e315-446b-8ade-56e4c81b5b89
+uid: dc5cc9e9-75da-4f23-9fba-53590a75c0b3
 url_path: courses/cms-998-videogame-theory-and-analysis-fall-2006
 year: '2006'
 ---

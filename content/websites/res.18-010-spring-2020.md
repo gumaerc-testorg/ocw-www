@@ -45,7 +45,7 @@ title: A 2020 Vision of Linear Algebra
 topics:
 - - Mathematics
   - Linear Algebra
-uid: 31204d93-fc1d-42b8-aa09-33f7d8559608
+uid: 95f982d7-877f-43a9-ab02-8cb27e65330d
 url_path: courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020
 year: '2020'
 ---

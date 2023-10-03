@@ -52,7 +52,7 @@ topics:
 - - Humanities
   - History
   - Modern History
-uid: 0d5d395a-46d5-4108-92f1-8926db6658b6
+uid: 31272ff2-b315-432d-9f63-62bbddae82dd
 url_path: courses/sts-050-the-history-of-mit-spring-2016
 year: '2016'
 ---

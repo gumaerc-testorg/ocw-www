@@ -54,7 +54,7 @@ topics:
 - - Humanities
   - Language
   - Japanese
-uid: 8e9098f3-5655-4e05-97a4-6d3c959e64d4
+uid: 24c18cd0-21a5-4fd7-897b-29fb29ceced1
 url_path: courses/res-21g-01-kana-spring-2010
 year: '2010'
 ---

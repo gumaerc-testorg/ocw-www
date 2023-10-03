@@ -42,7 +42,7 @@ topics:
   - Graphics and Visualization
 - - Social Science
   - Communication
-uid: 4f4ac3fe-b1e1-4d23-abc3-3b9a2c672a61
+uid: eefbcfba-005e-4443-810a-f5a9590a34fe
 url_path: courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005
 year: '2005'
 ---

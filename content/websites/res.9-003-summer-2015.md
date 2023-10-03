@@ -60,7 +60,7 @@ topics:
   - Neuroscience
 - - Social Science
   - Psychology
-uid: d25e3425-52cb-4195-b721-a304a0846def
+uid: 9b1a7c7a-2a88-4df0-85c4-0b12b14fc8fa
 url_path: courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015
 year: '2015'
 ---

@@ -44,7 +44,7 @@ topics:
   - Systems Engineering
 - - Mathematics
   - Probability and Statistics
-uid: 5da548ba-fb19-491b-a468-94b679030e59
+uid: 69578d63-3d13-4a0c-8e60-3ac3327d07b3
 url_path: courses/res-6-012-introduction-to-probability-spring-2018
 year: '2018'
 ---

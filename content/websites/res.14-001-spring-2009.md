@@ -59,7 +59,7 @@ topics:
   - Global Poverty
 - - Society
   - The Developing World
-uid: d35aa91c-197c-487c-9fd5-f11c6102b514
+uid: ad634039-318e-494f-8606-7e3524c39678
 url_path: courses/res-14-001-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2009-spring-2009
 year: '2009'
 ---

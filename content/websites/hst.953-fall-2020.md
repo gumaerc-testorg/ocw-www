@@ -30,6 +30,7 @@ course_title: Collaborative Data Science for Healthcare
 department_numbers:
 - HST
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - d1f991df-5344-505d-ef5a-138bd54d10ef
@@ -54,7 +55,7 @@ topics:
 - - Engineering
   - Computer Science
   - Data Mining
-uid: 8a892087-6d47-41e5-a6aa-e5f90e6c1a36
+uid: 48439f6d-14bd-40ab-8396-de1b564eceff
 url_path: courses/hst-953-collaborative-data-science-for-healthcare-fall-2020
 year: '2020'
 ---

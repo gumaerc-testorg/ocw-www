@@ -42,7 +42,7 @@ topics:
 - - Engineering
   - Chemical Engineering
   - Transport Processes
-uid: 65a8f0bb-4f2a-4581-81bb-35014f2ce7a2
+uid: 8325d224-f219-4b0a-bb3a-52dd3960a660
 url_path: courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005
 year: '2005'
 ---

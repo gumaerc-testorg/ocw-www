@@ -41,7 +41,7 @@ topics:
 - - Engineering
   - Systems Engineering
   - Systems Design
-uid: 106a5785-6b30-47dc-9fc1-b22cd7e75d6a
+uid: 0b1972b1-4227-4813-b89e-ab0216af4cd9
 url_path: courses/ids-333-risk-and-decision-analysis-fall-2021
 year: '2021'
 ---

@@ -47,7 +47,7 @@ topics:
 - - Social Science
   - Anthropology
   - Social Anthropology
-uid: d735e433-197c-49ae-b6ad-b073af2b1ee0
+uid: d7bc37b8-e76f-4173-be78-c99baa9e9e72
 url_path: courses/sts-049j-technology-and-gender-in-american-history-spring-2004
 year: '2004'
 ---

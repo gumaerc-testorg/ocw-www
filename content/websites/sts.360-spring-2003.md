@@ -38,7 +38,7 @@ topics:
 - - Social Science
   - Anthropology
   - Ethnography
-uid: a0447425-b798-415a-bfe1-a1402aaf53e0
+uid: 17fbe8f4-942e-440f-a90a-b032aa7b72f5
 url_path: courses/sts-360-ethnography-spring-2003
 year: '2003'
 ---

@@ -13,6 +13,7 @@ course_image_thumbnail:
 course_title: test-site
 department_numbers:
 - '1'
+draft: true
 extra_course_numbers: ''
 instructors:
   content: []
@@ -21,11 +22,10 @@ learning_resource_types: []
 legacy_uid: ''
 level: []
 primary_course_number: '1'
-site_short_id: test-site
 term: ''
 title: test-site
 topics: []
-uid: 609a5ef9-7c37-466a-9adc-0114de0467a5
+uid: 11f73bde-c3b8-4889-bc70-b56b2884d6d2
 url_path: courses/test-site
 year: ''
 ---

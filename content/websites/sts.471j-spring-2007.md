@@ -45,7 +45,7 @@ topics:
   - Aerospace Engineering
 - - Engineering
   - Systems Engineering
-uid: 28fe83ce-2959-4dfc-9cb9-a9c68cf36268
+uid: e397b56a-c6db-4b56-8a6b-3f47babbbeec
 url_path: courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007
 year: '2007'
 ---

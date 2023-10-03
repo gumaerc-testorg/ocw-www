@@ -26,6 +26,7 @@ course_image_thumbnail:
 course_title: Introduction to Statistical Physics
 department_numbers:
 - '8'
+- RES
 extra_course_numbers: ''
 instructors:
   content:
@@ -47,7 +48,7 @@ topics:
 - - Science
   - Physics
   - Classical Mechanics
-uid: 64607876-f4fa-4344-a9be-7b0853ab621f
+uid: 98249aca-cef0-4522-83dc-12e91c4c9dcf
 url_path: courses/res-8-010-introduction-to-statistical-physics-summer-2018
 year: '2018'
 ---

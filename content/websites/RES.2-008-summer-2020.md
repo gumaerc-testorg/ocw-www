@@ -10,7 +10,7 @@ course_description: "In this course you will learn the three laws of thermodynam
   \ for example heat pumps, hydrogen fuel cells, metal-air batteries, artificial photosynthesis,\
   \ molten salt storage, and concentrated solar power.\_\n\nThis course was offered\
   \ as part of [MITES Semester](https://mites.mit.edu/discover-mites/mites-semester/)\
-  \ (formerly MOSTEC) in Summer 2020. MITES Semester is a 6-month online program for\
+  \ (formerly MOSTEC) in Summer 2022. MITES Semester is a 6-month online program for\
   \ rising high-school seniors. The program offers students an opportunity to learn\
   \ about diverse science and engineering fields, strengthen their academic STEM foundation,\
   \ build 21st-century skills in networking, interviewing, collaboration and presentation\
@@ -56,7 +56,7 @@ topics:
 - - Science
   - Physics
   - Thermodynamics
-uid: 7bb74442-979d-4fc7-8d0e-36ae32108062
+uid: 6eb881eb-12d6-48ba-9d91-9a1dcd9ce547
 url_path: courses/res-2-008-thermodynamics-and-climate-change-summer-2020
-year: '2020'
+year: '2022'
 ---

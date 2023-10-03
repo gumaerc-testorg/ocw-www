@@ -41,7 +41,7 @@ topics:
   - Digital Systems
 - - Engineering
   - Systems Engineering
-uid: edf12da3-b975-4fea-b089-8fcc452a5f01
+uid: 0468065d-24d2-428e-a2be-600e469d45dd
 url_path: courses/mas-863-how-to-make-almost-anything-fall-2002
 year: '2002'
 ---

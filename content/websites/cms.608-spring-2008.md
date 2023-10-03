@@ -45,7 +45,7 @@ topics:
   - Game Design
 - - Fine Arts
   - Media Studies
-uid: b5b3d348-7f24-483a-95bf-dab787596499
+uid: f1e6aff0-a868-4471-954c-d893d9ce29a5
 url_path: courses/cms-608-game-design-spring-2008
 year: '2008'
 ---

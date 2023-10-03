@@ -51,7 +51,7 @@ topics:
   - Robotics and Control Systems
 - - Engineering
   - Computer Science
-uid: 7830ff77-928c-4d35-a07a-602c0b0449d6
+uid: 0b68e71c-9888-4a6f-9c0f-a47d3292a3fa
 url_path: courses/res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017
 year: '2017'
 ---
