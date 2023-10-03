@@ -45,7 +45,7 @@ topics:
 - - Science
   - Biology
   - Neuroscience
-uid: d07048d1-4195-4637-84f2-4cf92f3e46d9
+uid: 36a955dd-2cc3-4307-bc8d-88a041b2f5d8
 url_path: courses/hst-720-physiology-of-the-ear-fall-2004
 year: '2004'
 ---

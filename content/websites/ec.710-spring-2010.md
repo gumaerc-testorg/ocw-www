@@ -43,7 +43,7 @@ topics:
   - Public Health
 - - Society
   - The Developing World
-uid: b481fc4f-3940-40c8-9d3f-ccb63d9a2feb
+uid: 6d699ee0-8f3c-4346-bc68-222255ba3f87
 url_path: courses/ec-710-d-lab-medical-technologies-for-the-developing-world-spring-2010
 year: '2010'
 ---

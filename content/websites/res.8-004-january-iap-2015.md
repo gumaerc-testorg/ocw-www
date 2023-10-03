@@ -55,7 +55,7 @@ topics:
 - - Humanities
   - History
   - Military History
-uid: 8be548d9-9b53-4c2d-b957-793a3c5c283b
+uid: 40c5fcd8-71bb-46a6-a528-927df53749b9
 url_path: courses/res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015
 year: '2015'
 ---

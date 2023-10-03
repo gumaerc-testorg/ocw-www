@@ -39,7 +39,7 @@ topics:
   - Creative Writing
 - - Fine Arts
   - Visual Arts
-uid: ec32bb6f-3d81-44ac-a45f-af2b13365b1a
+uid: ca333b29-d284-44e9-b5e3-18953c19922d
 url_path: courses/es-240-composing-your-life-exploration-of-self-through-visual-arts-and-writing-spring-2006
 year: '2006'
 ---

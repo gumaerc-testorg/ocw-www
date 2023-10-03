@@ -47,7 +47,7 @@ topics:
   - World History
 - - Business
   - Globalization
-uid: f2add73d-b4af-461a-b714-9fa8d36d2be6
+uid: 7f741aa3-2ded-4713-b025-10f3c1a34346
 url_path: courses/sts-025j-making-the-modern-world-the-industrial-revolution-in-global-perspective-fall-2009
 year: '2009'
 ---

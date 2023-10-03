@@ -72,7 +72,7 @@ topics:
 - - Science
   - Earth Science
   - Environmental Science
-uid: 4b9253aa-e1db-4810-b0f3-60fcf2dbd04e
+uid: 64acd15b-b35a-4064-9782-86bf345b5fc3
 url_path: courses/ids-410j-modeling-and-assessment-for-policy-spring-2013
 year: '2013'
 ---

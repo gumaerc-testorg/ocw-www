@@ -44,7 +44,7 @@ topics:
 - - Humanities
   - History
   - Military History
-uid: f03f3d0b-6c89-421e-b05c-4347568d494a
+uid: 4f116dde-0fd8-4ed9-b7c8-445aeef8324b
 url_path: courses/sts-436-cold-war-science-fall-2008
 year: '2008'
 ---

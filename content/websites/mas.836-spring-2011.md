@@ -47,7 +47,7 @@ topics:
 - - Engineering
   - Electrical Engineering
   - Signal Processing
-uid: 4a6e2278-5bde-4946-8d2f-d40ead23edf1
+uid: 35acc779-46bc-4805-abdc-fdf2e76cd7f4
 url_path: courses/mas-836-sensor-technologies-for-interactive-environments-spring-2011
 year: '2011'
 ---

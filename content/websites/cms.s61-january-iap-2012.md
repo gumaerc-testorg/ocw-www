@@ -40,7 +40,7 @@ topics:
 - - Humanities
   - Literature
   - Criticism
-uid: b82ab8fc-e2bb-454d-bb94-9d86f4f79c1d
+uid: 386b2720-1d41-4fa3-bdb2-6d9e56bfdf05
 url_path: courses/cms-s61-special-subject-the-rise-of-film-noir-january-iap-2012
 year: '2012'
 ---

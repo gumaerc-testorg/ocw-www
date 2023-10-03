@@ -45,7 +45,7 @@ topics:
 - - Engineering
   - Ocean Engineering
   - Ocean Exploration
-uid: 63538e9c-8485-4d86-97cd-681f472b3a09
+uid: e942aef0-11b9-42bf-ba46-cbfadb78919a
 url_path: courses/sts-467-research-seminar-in-deep-sea-archaeology-spring-2002
 year: '2002'
 ---

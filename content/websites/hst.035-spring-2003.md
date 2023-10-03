@@ -59,7 +59,7 @@ title: Principle and Practice of Human Pathology
 topics:
 - - Health and Medicine
   - Pathology and Pathophysiology
-uid: 93370b21-3d26-4882-98f6-2ae16b26a95a
+uid: cf34a43c-7500-4b05-b288-58d9ca1d555c
 url_path: courses/hst-035-principle-and-practice-of-human-pathology-spring-2003
 year: '2003'
 ---

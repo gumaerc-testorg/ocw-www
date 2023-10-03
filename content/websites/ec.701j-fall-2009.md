@@ -52,7 +52,7 @@ topics:
 - - Society
   - The Developing World
 - - Engineering
-uid: 41f6dbf8-90f4-4edb-8e65-e4179868411f
+uid: c46a8b66-edce-4876-860f-2bdc4a0e076f
 url_path: courses/ec-701j-d-lab-i-development-fall-2009
 year: '2009'
 ---

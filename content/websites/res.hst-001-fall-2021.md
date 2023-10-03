@@ -30,6 +30,7 @@ course_title: MIT Little Devices Lab
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - ed134986-b322-073a-adfa-83a85fbe4f4d
@@ -53,7 +54,7 @@ topics:
 - - Science
   - Chemistry
   - Analytical Chemistry
-uid: dad392a5-cc64-44f3-89e2-872e71cbc777
+uid: 9aa9aa1e-d00b-4f1e-87da-4a989dc17f8b
 url_path: courses/res-hst-001-mit-little-devices-lab-fall-2021
 year: '2021'
 ---

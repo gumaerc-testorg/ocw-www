@@ -58,7 +58,7 @@ topics:
 - - Fine Arts
   - Visual Arts
   - Photography
-uid: 3d992897-d360-4dc6-ae77-dd016ba0903a
+uid: f08a23ac-8917-483f-afd0-9a9385dfca8b
 url_path: courses/mas-531-computational-camera-and-photography-fall-2009
 year: '2009'
 ---

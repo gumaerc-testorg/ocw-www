@@ -43,7 +43,7 @@ topics:
 - - Social Science
   - Public Administration
   - Science and Technology Policy
-uid: 403b6bfe-a1b0-4d6c-9ce5-f518e6851737
+uid: 47cd89a4-1ee2-499d-9cfa-e4d8f541189b
 url_path: courses/sts-003-the-rise-of-modern-science-fall-2010
 year: '2010'
 ---

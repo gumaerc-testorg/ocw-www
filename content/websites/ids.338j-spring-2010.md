@@ -52,7 +52,7 @@ topics:
   - Systems Optimization
 - - Business
   - Project Management
-uid: f6c870a0-e9bf-405f-9557-a0f7e6f8d288
+uid: de58f1e4-df00-47d5-9dab-8d65376caa61
 url_path: courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010
 year: '2010'
 ---

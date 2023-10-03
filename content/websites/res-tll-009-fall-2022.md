@@ -39,7 +39,7 @@ term: Fall
 title: 'IIT Joint Entrance Exam Preparation '
 topics:
 - - Teaching and Education
-uid: c3268c31-0efe-4d90-b89f-d8bba9c92eed
+uid: 13edcdaa-1b7a-44f0-95c6-feb71688479d
 url_path: courses/res-tll-009-iit-joint-entrance-exam-preparation-fall-2022
 year: '2022'
 ---

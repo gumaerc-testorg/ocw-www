@@ -40,7 +40,7 @@ topics:
 - - Fine Arts
   - Media Studies
   - Digital Media
-uid: 0df1c89f-37c7-4bed-a203-cca698974427
+uid: 18e0fea2-0de1-44f2-8d3f-b35385e1c292
 url_path: courses/cms-301-introduction-to-game-design-methods-spring-2016
 year: '2016'
 ---

@@ -46,7 +46,7 @@ topics:
   - Modern History
 - - Social Science
   - Anthropology
-uid: 28bf381e-d85b-486e-9aac-ea6ee521c915
+uid: f31b36d7-9953-4663-a23a-ffac83abefb3
 url_path: courses/sts-464-technology-and-the-literary-imagination-spring-2008
 year: '2008'
 ---

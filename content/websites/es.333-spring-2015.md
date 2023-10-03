@@ -46,7 +46,7 @@ topics:
 - - Teaching and Education
 - - Teaching and Education
   - Educational Technology
-uid: 98aa9a81-cfea-445f-ac4a-6249083e542c
+uid: 2fbf9249-3b6a-4057-96de-dcfb6bb3e28a
 url_path: courses/es-333-producing-educational-videos-spring-2015
 year: '2015'
 ---

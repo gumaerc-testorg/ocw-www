@@ -44,7 +44,7 @@ topics:
 - - Humanities
   - Philosophy
   - Ethics
-uid: d98fbf56-9cb8-4696-aa34-bbcb0bb8c948
+uid: f8933582-1f2b-44d4-af84-d26588325a14
 url_path: courses/es-114-non-violence-as-a-way-of-life-fall-2018
 year: '2018'
 ---

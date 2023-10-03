@@ -52,7 +52,7 @@ primary_course_number: PE.550
 term: Spring
 title: Designing Your Life
 topics: []
-uid: 24779b75-428a-4f74-8bc5-a79ba06dd3c0
+uid: 81c6d419-5f9e-45e5-a766-6599e318b449
 url_path: courses/pe-550-designing-your-life-spring-2009
 year: '2009'
 ---

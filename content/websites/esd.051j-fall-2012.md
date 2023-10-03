@@ -51,7 +51,7 @@ topics:
   - Systems Design
 - - Business
   - Project Management
-uid: 7c6ab42d-cae0-4e66-a034-bc3ec49105be
+uid: a54f064c-e617-4b1a-a800-98d19d30242e
 url_path: courses/esd-051j-engineering-innovation-and-design-fall-2012
 year: '2012'
 ---

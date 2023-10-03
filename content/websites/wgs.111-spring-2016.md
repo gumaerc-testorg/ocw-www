@@ -41,7 +41,7 @@ topics:
   - Gender Studies
 - - Society
   - Women's Studies
-uid: 9f925f78-a00f-41b5-a2cd-7b46887bd690
+uid: e0ae7d7d-278c-494a-a46e-4205fce6862b
 url_path: courses/wgs-111-gender-media-collaborations-in-feminism-and-technology-spring-2016
 year: '2016'
 ---

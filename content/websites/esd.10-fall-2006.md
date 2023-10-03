@@ -51,7 +51,7 @@ topics:
   - Operations Management
 - - Business
   - Leadership
-uid: 79391f46-8142-46de-8ab4-f4348cae49a9
+uid: 262b0749-2503-44da-9c89-ffe7bd714ae2
 url_path: courses/esd-10-introduction-to-technology-and-policy-fall-2006
 year: '2006'
 ---

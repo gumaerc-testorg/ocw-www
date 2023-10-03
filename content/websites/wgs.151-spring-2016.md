@@ -44,7 +44,7 @@ topics:
   - Mental Health
 - - Society
   - Women's Studies
-uid: 1388f347-2a81-43da-89b7-add1457948ef
+uid: f6de480b-9d8a-473f-a853-9acd97154268
 url_path: courses/wgs-151-gender-health-and-society-spring-2016
 year: '2016'
 ---

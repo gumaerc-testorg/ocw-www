@@ -39,7 +39,7 @@ topics:
   - Information Technology
 - - Business
   - Project Management
-uid: fc325b11-4dfc-423b-8b30-a2bdf120e9c2
+uid: 0736047c-098a-41b2-a1bf-bb022c8ffa52
 url_path: courses/res-str-002-data-management-spring-2016
 year: '2016'
 ---

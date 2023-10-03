@@ -54,7 +54,7 @@ topics:
   - Urban Planning
 - - Society
   - The Developing World
-uid: c81ef403-da68-486c-89e6-a853b9b6de85
+uid: 5b95b0db-e932-4c84-a116-c99566e96111
 url_path: courses/ec-716-d-lab-waste-fall-2015
 year: '2015'
 ---

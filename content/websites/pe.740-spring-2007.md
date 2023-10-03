@@ -34,7 +34,7 @@ title: Fencing
 topics:
 - - Health and Medicine
   - Physical Education and Recreation
-uid: 3a5dca88-e792-489d-b62d-b63bec003feb
+uid: 20c1d254-aafc-4192-94df-25e9c2240a24
 url_path: courses/pe-740-fencing-spring-2007
 year: '2007'
 ---

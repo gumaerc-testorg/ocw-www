@@ -44,7 +44,7 @@ topics:
   - Calculus
 - - Mathematics
   - Differential Equations
-uid: 225d6508-e04b-4260-855d-d487165416c4
+uid: 1ec9a7ca-ceef-466b-8f47-c288e8627532
 url_path: courses/res-18-005-highlights-of-calculus-spring-2010
 year: '2010'
 ---

@@ -41,7 +41,7 @@ topics:
 - - Fine Arts
   - Media Studies
   - Digital Media
-uid: c9ed8975-2eb5-44d4-9d92-f1cc7ba34f26
+uid: 7b6c2848-5aa9-4a32-9d62-0b9541876b1b
 url_path: courses/mas-966-digital-anthropology-spring-2003
 year: '2003'
 ---

@@ -41,7 +41,7 @@ topics:
   - Film and Video
 - - Fine Arts
   - Media Studies
-uid: c7f55c29-da7f-4fde-85f3-303f3b290c91
+uid: c93e5eba-25a7-4031-9730-b46280c8a67e
 url_path: courses/cms-100-introduction-to-media-studies-fall-2014
 year: '2014'
 ---

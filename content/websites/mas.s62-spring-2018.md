@@ -44,7 +44,7 @@ topics:
 - - Engineering
   - Computer Science
   - Software Design and Engineering
-uid: 72f22e41-501c-4695-930c-c0e4bebe80b9
+uid: bdf35bdd-79ff-4943-bd4b-2aa278ae6a29
 url_path: courses/mas-s62-cryptocurrency-engineering-and-design-spring-2018
 year: '2018'
 ---

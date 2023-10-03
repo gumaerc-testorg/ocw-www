@@ -36,7 +36,7 @@ title: Algebra I Student Notes
 topics:
 - - Mathematics
   - Algebra and Number Theory
-uid: 01bfb1df-b09e-4f11-86b9-47176afe0eb3
+uid: 899af9ec-f2aa-46eb-bac2-2b9c7403960d
 url_path: courses/res-18-011-algebra-i-student-notes-fall-2021
 year: '2021'
 ---

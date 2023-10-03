@@ -31,6 +31,7 @@ course_title: Design Thinking for Leading and Learning
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - 89666a17-6a2a-c8a6-7d92-867266505def
@@ -50,7 +51,7 @@ topics:
   - Education Policy
 - - Teaching and Education
   - Educational Technology
-uid: 95e358b7-6012-4c18-bdb2-53bd5e792286
+uid: df4f2e54-3f8e-4748-8e47-cb4580551ab3
 url_path: courses/res-cms-155-design-thinking-for-leading-and-learning-spring-2019
 year: '2019'
 ---

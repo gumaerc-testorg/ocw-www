@@ -44,7 +44,7 @@ topics:
 - - Social Science
   - Public Administration
   - Social Welfare
-uid: 7bf47c51-515b-455a-ba80-1352a2076bd9
+uid: 66defbd3-f4d1-4d2c-9ca4-29f08aeeda07
 url_path: courses/cms-362-civic-media-codesign-studio-fall-2020
 year: '2020'
 ---

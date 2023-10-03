@@ -54,7 +54,7 @@ topics:
   - Public Health
 - - Society
   - The Developing World
-uid: 1f6bea63-309d-48ce-95bb-d471dcfadf5d
+uid: 88cf0610-fcea-448b-86f2-efa7f3640799
 url_path: courses/ec-722-special-topics-at-edgerton-center-developing-world-prosthetics-spring-2010
 year: '2010'
 ---

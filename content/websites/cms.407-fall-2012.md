@@ -42,7 +42,7 @@ topics:
   - Media Studies
 - - Fine Arts
   - Music
-uid: 81b5fea4-9041-4bea-8d41-eaff005b7b22
+uid: 60cea032-df9b-4f7f-be87-d64e57ad9b5c
 url_path: courses/cms-407-media-and-methods-sound-fall-2012
 year: '2012'
 ---

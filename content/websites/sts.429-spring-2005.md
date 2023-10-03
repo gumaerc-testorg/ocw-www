@@ -50,7 +50,7 @@ topics:
 - - Humanities
   - History
   - Modern History
-uid: ee48f122-60c6-47e1-8e97-6f0a42909c10
+uid: a196ef0c-4f16-4439-bf3f-5bf6f0ae53a4
 url_path: courses/sts-429-food-and-power-in-the-twentieth-century-spring-2005
 year: '2005'
 ---

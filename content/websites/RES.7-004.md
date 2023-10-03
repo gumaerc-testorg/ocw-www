@@ -21,6 +21,7 @@ course_title: BioNook Online Biology Resources
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - 671f7012-8459-4272-801a-5bc9809313a2
@@ -48,7 +49,7 @@ topics:
 - - Science
   - Biology
   - Molecular Biology
-uid: bb76afcb-6e03-448b-8076-f8b9cd846cf5
+uid: 08118ebe-f40c-4c3a-8b9d-83a3016f0e5b
 url_path: courses/res-7-004-bionook-online-biology-resources-spring-2021
 year: '2021'
 ---

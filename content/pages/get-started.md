@@ -38,6 +38,7 @@ Some popular destinations include:
 
 - [Courses with Video or Audio Lectures](https://ocw.mit.edu/search/?f=Lecture%20Videos&s=-runs.best_start_date)
 - [Most Popular Courses](https://ocw.mit.edu/course-lists/most-popular-courses/)
+- [OCW Scholar Courses](https://ocw.mit.edu/course-lists/scholar-courses/)
 
 For more inspiration, read [OCW Stories](https://ocw.mit.edu/stories/) from students and self-learners.
 

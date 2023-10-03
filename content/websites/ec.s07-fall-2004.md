@@ -51,7 +51,7 @@ topics:
 - - Science
   - Physics
   - Atomic, Molecular, Optical Physics
-uid: 531c1e6b-7c9e-425c-a5c4-251b787b460d
+uid: 809ab2ba-d2ee-4e13-a0b1-efb8802a6dfa
 url_path: courses/ec-s07-photovoltaic-solar-energy-systems-fall-2004
 year: '2004'
 ---

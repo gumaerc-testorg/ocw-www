@@ -40,6 +40,7 @@ course_title: Media Literacy in the Age of Deepfakes
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 78a34add-0c42-6ed5-b931-18f94a550dbf
@@ -59,7 +60,7 @@ topics:
 - - Fine Arts
   - Media Studies
 - - Teaching and Education
-uid: d8303b11-0d59-4b69-8aeb-70218441d22b
+uid: a5816ebc-34df-4ade-a1c5-e539ffacc015
 url_path: courses/res-cms-001-media-literacy-in-the-age-of-deepfakes-spring-2021
 year: '2021'
 ---

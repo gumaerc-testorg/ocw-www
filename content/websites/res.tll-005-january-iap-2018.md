@@ -45,7 +45,7 @@ topics:
   - Curriculum and Teaching
 - - Teaching and Education
   - Educational Technology
-uid: 092b3c4e-2da8-4cea-b184-97f4f06134e6
+uid: 5f5fca62-9e08-4963-aa9f-26303522f581
 url_path: courses/res-tll-005-how-to-speak-january-iap-2018
 year: '2018'
 ---

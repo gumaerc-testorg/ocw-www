@@ -42,7 +42,7 @@ title: Integrating Doctoral Seminar on Emerging Technologies
 topics:
 - - Engineering
   - Systems Engineering
-uid: 631a3b54-570f-4487-98a5-eeff72f24cdc
+uid: 40eb31e2-87aa-46be-b308-5fc609af15b8
 url_path: courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005
 year: '2005'
 ---

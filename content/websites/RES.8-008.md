@@ -17,6 +17,7 @@ course_title: Nuclear Weapons Education Project
 department_numbers:
 - '8'
 extra_course_numbers: ''
+hide_download: true
 instructors:
   content:
   - e644ca69-12cf-42db-a499-5e3970aed2b7
@@ -37,7 +38,7 @@ topics:
 - - Science
   - Physics
   - Atomic, Molecular, Optical Physics
-uid: a72bbbfc-112a-407b-8cf4-260b71515ec8
+uid: 02d62618-f373-43ad-baa6-38d8a090098d
 url_path: courses/res-8-008-nuclear-weapons-education-project-spring-2022
 year: '2022'
 ---

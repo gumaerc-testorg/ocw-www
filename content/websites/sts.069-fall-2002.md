@@ -48,7 +48,7 @@ topics:
 - - Social Science
   - Public Administration
   - Science and Technology Policy
-uid: 45e19f8d-83b0-4646-b3b2-a1a1878dc220
+uid: cb1ecbc5-cc51-4651-9088-15358675220c
 url_path: courses/sts-069-technology-in-a-dangerous-world-fall-2002
 year: '2002'
 ---
