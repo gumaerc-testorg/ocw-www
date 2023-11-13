@@ -11,10 +11,10 @@ course_description: "This is a test course for use in CI pipelines. This course 
   \ to your local.\n- When developing on `ocw-hugo-themes`, make edits in Studio as\
   \ needed for the tests you want to write. Pull to local, and copy the files to `ocw-hugo-themes/test-sites/ocw-ci-test-course`."
 course_image:
-  content: 4ff6cec7-9ef3-40e2-869a-313350053b32
+  content: 5388b0c3-c599-4c42-8a3c-f89beed7c154
   website: ocw-ci-test-course
 course_image_thumbnail:
-  content: 4ff6cec7-9ef3-40e2-869a-313350053b32
+  content: 5388b0c3-c599-4c42-8a3c-f89beed7c154
   website: ocw-ci-test-course
 course_title: OCW CI Test Course
 department_numbers:
@@ -38,7 +38,7 @@ level:
 - Undergraduate
 primary_course_number: '123'
 term: Fall
-title: ocw-ci-test-course
+title: OCW CI Test Course
 topics:
 - - Engineering
   - Computer Science
