@@ -37,6 +37,7 @@ level:
 - Graduate
 - Undergraduate
 primary_course_number: '123'
+site_short_id: ocw-ci-test-course
 term: Fall
 title: OCW CI Test Course
 topics:
