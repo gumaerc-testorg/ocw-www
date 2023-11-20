@@ -48,6 +48,6 @@ topics:
   - Physics
   - Quantum Mechanics
 uid: 1815bda3-6b6e-46bb-afeb-d22f974bb3c4
-url_path: courses/ocw-ci-test-course
+url_path: courses/123-ocw-ci-test-course-fall-2022
 year: '2022'
 ---
