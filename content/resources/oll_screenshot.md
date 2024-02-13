@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /ocw-www/oll_screenshot.jpeg
+file_size: 45233
 metadata:
   caption: ''
   credit: ''

@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /ocw-www/enersa.jpg
+file_size: 13389
 metadata:
   caption: ''
   credit: ''

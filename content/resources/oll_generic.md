@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /ocw-www/oll_generic.png
+file_size: 171961
 metadata:
   caption: ''
   credit: ''

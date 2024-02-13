@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /ocw-www/brizuela.jpg
+file_size: 38780
 metadata:
   caption: ''
   credit: ''

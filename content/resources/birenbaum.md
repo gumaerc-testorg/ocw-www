@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /ocw-www/birenbaum.jpg
+file_size: 15147
 metadata:
   caption: ''
   credit: ''

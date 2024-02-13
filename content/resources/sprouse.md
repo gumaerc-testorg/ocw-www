@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /ocw-www/sprouse.jpg
+file_size: 14476
 metadata:
   caption: ''
   credit: ''

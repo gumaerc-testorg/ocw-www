@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: false
 file: /ocw-www/20_years_of_ocw_impactv2.pdf
+file_size: 14066373
 metadata:
   caption: ''
   credit: ''

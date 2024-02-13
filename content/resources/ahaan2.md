@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /ocw-www/ahaan2.jpeg
+file_size: 105033
 metadata:
   caption: ''
   credit: ''
