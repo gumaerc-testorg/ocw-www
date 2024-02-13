@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /ocw-www/2a2b6e3209bb4bbcb38eef04acb29388_social-response-crisis.jpg
+file_size: 102940
 metadata:
   caption: ''
   credit: ''
