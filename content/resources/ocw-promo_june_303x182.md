@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /ocw-www/ocw-promo_june_303x182.png
+file_size: 109140
 metadata:
   caption: ''
   credit: ''

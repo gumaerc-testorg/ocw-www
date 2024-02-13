@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /ocw-www/michael-pil-small.jpg
+file_size: 58233
 metadata:
   caption: ''
   credit: ''

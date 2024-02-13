@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /ocw-www/kianwahliew.jpg
+file_size: 17936
 metadata:
   caption: ''
   credit: ''

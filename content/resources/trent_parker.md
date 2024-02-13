@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /ocw-www/trent_parker.jpg
+file_size: 13378
 metadata:
   caption: ''
   credit: ''

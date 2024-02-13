@@ -19,7 +19,6 @@ department_numbers:
 - WGS
 - 21A
 - STS
-draft: true
 extra_course_numbers: STS.046J, 21A.242J
 hide_download: false
 instructors:

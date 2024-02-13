@@ -23,7 +23,6 @@ course_title: '7.InT: Inclusive Teaching Module'
 department_numbers:
 - '7'
 - RES
-draft: true
 extra_course_numbers: ''
 hide_download: false
 instructors:

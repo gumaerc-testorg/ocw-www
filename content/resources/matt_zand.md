@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /ocw-www/matt_zand.jpg
+file_size: 39014
 metadata:
   caption: ''
   credit: ''

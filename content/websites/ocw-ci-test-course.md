@@ -47,7 +47,7 @@ topics:
 - - Science
   - Physics
   - Quantum Mechanics
-uid: 1815bda3-6b6e-46bb-afeb-d22f974bb3c4
+uid: d7f6c035-b65a-4cc5-af31-2671c79a99f3
 url_path: courses/ocw-ci-test-course
 year: '2022'
 ---

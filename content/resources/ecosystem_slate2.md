@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /ocw-www/ecosystem_slate2.png
+file_size: 17901
 metadata:
   caption: ''
   credit: ''

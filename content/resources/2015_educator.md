@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /ocw-www/2015_educator.png
+file_size: 137295
 metadata:
   caption: ''
   credit: ''

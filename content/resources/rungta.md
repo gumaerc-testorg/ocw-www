@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /ocw-www/rungta.jpg
+file_size: 76591
 metadata:
   caption: ''
   credit: ''

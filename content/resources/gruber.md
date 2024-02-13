@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /ocw-www/gruber.jpg
+file_size: 10413
 metadata:
   caption: ''
   credit: ''

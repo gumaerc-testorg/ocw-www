@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /ocw-www/siddiqui.jpg
+file_size: 39231
 metadata:
   caption: ''
   credit: ''

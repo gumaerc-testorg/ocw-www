@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /ocw-www/akwir_alain.jpg
+file_size: 10639
 metadata:
   caption: ''
   credit: ''
