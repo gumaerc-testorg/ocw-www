@@ -25,6 +25,7 @@ description: "Whether you are new to climate change, an experienced advocate, or
   \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
 draft: true
 file: /ocw-www/learn-climate-with-open-mit-resources-final_360p_16_9.mp4
+file_size: 91711989
 metadata:
   caption: ''
   credit: ''

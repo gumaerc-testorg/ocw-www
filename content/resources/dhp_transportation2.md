@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /ocw-www/dhp_transportation.jpg
+file_size: 60085
 metadata:
   caption: ''
   credit: ''

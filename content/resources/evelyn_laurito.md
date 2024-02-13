@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /ocw-www/evelyn_laurito.jpg
+file_size: 46666
 metadata:
   caption: ''
   credit: ''

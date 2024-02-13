@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /ocw-www/etekkatho.jpg
+file_size: 42143
 metadata:
   caption: ''
   credit: ''

@@ -25,7 +25,7 @@ department_numbers:
 - RES
 - '7'
 extra_course_numbers: ''
-hide_download: false
+hide_download: true
 instructors:
   content:
   - 278bc492-0e57-1368-8510-500ffe508e8d
@@ -35,7 +35,7 @@ learning_resource_types:
 - Instructor Insights
 legacy_uid: d780edc0-de99-857b-d915-6ff2f9b0465f
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.7-001
 term: Summer
 title: 'Pre-7.01: Getting up to Speed in Biology'

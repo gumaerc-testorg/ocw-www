@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /ocw-www/bio_related.png
+file_size: 12260
 metadata:
   caption: ''
   credit: ''

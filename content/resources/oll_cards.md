@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /ocw-www/oll_cards.png
+file_size: 253181
 metadata:
   caption: ''
   credit: ''

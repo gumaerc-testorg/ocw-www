@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /ocw-www/youtube_views.png
+file_size: 5521
 metadata:
   caption: ''
   credit: ''

@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /ocw-www/kyle_lee.jpg
+file_size: 150821
 metadata:
   caption: ''
   credit: ''

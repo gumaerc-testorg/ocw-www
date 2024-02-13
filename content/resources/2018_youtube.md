@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /ocw-www/2018_youtube.png
+file_size: 76510
 metadata:
   caption: ''
   credit: ''

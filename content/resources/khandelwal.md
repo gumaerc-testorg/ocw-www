@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /ocw-www/khandelwal.jpg
+file_size: 57003
 metadata:
   caption: ''
   credit: ''

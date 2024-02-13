@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /ocw-www/collingwood.jpg
+file_size: 115107
 metadata:
   caption: ''
   credit: ''
