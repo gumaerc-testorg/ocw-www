@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: false
 file: /ocw-www/serc_sitehome.jpeg
+file_size: 106237
 metadata:
   caption: ''
   credit: 'Courtesy of University of Saskatchewan (usask) on Flickr. License: CC BY-NC-SA.'

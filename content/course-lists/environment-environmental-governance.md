@@ -64,6 +64,10 @@ courses:
   title: 'Climate Action Hands-On: Harnessing Science with Communities to Cut Carbon'
 - id: courses/res-env-003-earthdnas-climate-101-fall-2019
   title: EarthDNA's Climate 101
+- id: courses/res-11-003-climate-justice-instructional-toolkit-fall-2023
+  title: Climate Justice Instructional Toolkit
+- id: courses/res-ec-004-energy-needs-assessment-toolkit
+  title: Energy Needs Assessment Toolkit
 description: ''
 draft: false
 title: 'Environment & Sustainability: Governance'

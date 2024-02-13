@@ -15,8 +15,8 @@ courses:
   title: Fundamentals of Advanced Energy Conversion
 - id: courses/11-382-water-diplomacy-spring-2021
   title: Water Diplomacy
-- id: courses/11-368-environmental-justice-law-and-policy-fall-2019
-  title: Environmental Justice Law and Policy
+- id: courses/res-11-003-climate-justice-instructional-toolkit-fall-2023
+  title: Climate Justice Instructional Toolkit
 - id: courses/res-env-005-climate-science-risk-solutions-a-climate-primer-fall-2020
   title: 'Climate Science, Risk & Solutions: A Climate Primer'
 - id: courses/1-74-land-water-food-and-climate-fall-2020
