@@ -39,7 +39,7 @@ learning_resource_types:
 - Other Video
 legacy_uid: ''
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.21G-601
 term: Fall
 title: "\u0422\u0435\u043B\u0435\u043C\u043E\u0441\u0442\u044B (Telebridges) Russian\
