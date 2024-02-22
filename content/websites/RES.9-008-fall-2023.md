@@ -40,7 +40,7 @@ learning_resource_types:
 - Tutorial Videos
 legacy_uid: ''
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.9-008
 term: Fall
 title: Brain and Cognitive Sciences Computational Tutorial Series
