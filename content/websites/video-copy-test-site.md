@@ -3,7 +3,7 @@ _build:
   list: true
   render: false
 content_type: website
-course_description: https://github.com/mitodl/ocw-studio/pull/2120
+course_description: '[https://github.com/mitodl/ocw-studio/pull/2120](https://github.com/mitodl/ocw-studio/pull/2120)'
 course_image:
   content: ''
   website: video-copy-test-site
