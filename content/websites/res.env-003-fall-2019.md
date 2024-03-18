@@ -33,7 +33,7 @@ learning_resource_types:
 - Instructor Insights
 legacy_uid: 5d41085c-e5be-8506-8975-f25968439995
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.ENV-003
 term: Fall
 title: EarthDNA's Climate 101

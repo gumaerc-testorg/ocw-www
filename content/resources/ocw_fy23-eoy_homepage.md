@@ -4,6 +4,7 @@ description: 'Various classroom images in hexagon shapes. Copy: Help unleash kno
   Make your gift to OCW before the year ends.'
 draft: false
 file: /ocw-www/ocw_fy23-eoy_homepage.png
+file_size: 112258
 metadata:
   caption: ''
   credit: ''

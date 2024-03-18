@@ -39,7 +39,7 @@ learning_resource_types:
 - Lecture Videos
 legacy_uid: ''
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.9-006
 term: Spring
 title: AFNI Training Bootcamp

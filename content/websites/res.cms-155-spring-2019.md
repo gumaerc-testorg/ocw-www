@@ -41,7 +41,7 @@ instructors:
 learning_resource_types: []
 legacy_uid: e11e6763-d158-d3ce-4068-f6148a2224ba
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.CMS-155
 term: Spring
 title: Design Thinking for Leading and Learning
