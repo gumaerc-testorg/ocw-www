@@ -44,3 +44,4 @@ draft: false
 title: Energy Minor Elective Courses
 uid: 51bbeec7-d736-4756-a246-664f03b45d83
 ---
+Energy Minor elective courses allow students to tailor their program to their particular interests.
