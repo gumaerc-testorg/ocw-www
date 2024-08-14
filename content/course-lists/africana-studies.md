@@ -19,6 +19,8 @@ courses:
   title: 'Vocal Repertoire and Performance: African American Composers'
 - id: courses/21m-293-music-of-africa-fall-2005
   title: Music of Africa
+- id: courses/21m-342-composing-for-jazz-orchestra-fall-2008
+  title: Composing for Jazz Orchestra
 - id: courses/sts-089-technology-and-innovation-in-africa-fall-2014
   title: Technology and Innovation in Africa
 - id: courses/21h-165-modern-african-history-spring-2019

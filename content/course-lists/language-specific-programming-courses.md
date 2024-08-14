@@ -17,3 +17,4 @@ draft: false
 title: Language Specific Programming Courses
 uid: 8b182df2-d2f7-4ce4-8f61-5f85269631ad
 ---
+Beyond the introductions above which use Python, here are several introductions to other programming languages: Julia, MATLAB, Java, and C/C++. Many are taught during MIT’s four-week Independent Activities Period (IAP) between the fall and spring semesters.

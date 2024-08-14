@@ -100,3 +100,4 @@ draft: false
 title: Entrepreneurship Supplementary Courses
 uid: 3a6636bd-6e0f-4b0e-80cd-5224358a3ac1
 ---
+The following courses represent a selection of the "supplementary" entrepreneurship courses offered at MIT.
