@@ -1,6 +1,6 @@
 ---
 content_type: promos
-draft: false
+draft: true
 image:
   content: 4b9140df-f89a-4eca-a51c-b350f163bbe3
   website: ocw-www

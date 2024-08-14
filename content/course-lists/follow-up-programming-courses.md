@@ -13,3 +13,4 @@ draft: false
 title: Follow-up Programming Courses
 uid: 29f07bcd-4f4b-446e-aa2a-89691f9f5fc9
 ---
+Once you’ve worked through some introductory material, you may be interested in trying more advanced courses such as these.

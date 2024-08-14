@@ -16,3 +16,4 @@ draft: false
 title: Energy Featured
 uid: 817983ee-5846-4125-9a45-24b06cc8c88f
 ---
+Courses featured in the Energy & Sustainability collection.

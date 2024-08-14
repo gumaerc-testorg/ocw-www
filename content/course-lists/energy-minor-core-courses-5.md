@@ -25,3 +25,4 @@ draft: false
 title: Energy Minor Core Courses
 uid: 6d1bd1a8-7f02-455d-ba52-da7fa99981de
 ---
+The Energy Studies Minor is built on a core of foundational subjects in energy science, economics, social science, and technology/engineering.

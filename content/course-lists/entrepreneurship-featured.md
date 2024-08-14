@@ -14,3 +14,4 @@ draft: false
 title: Entrepreneurship Featured
 uid: 172f0495-728d-44a8-bae5-1fdc7ff3e042
 ---
+Courses featured as part of the Entrepreneurship collection.
