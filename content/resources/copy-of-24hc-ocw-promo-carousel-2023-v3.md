@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: true
-file: /ocw-www/copy-of-24hc-ocw-promo-carousel-2023-v3.png
+file: /ol-ocw-studio-app/ocw-www/copy-of-24hc-ocw-promo-carousel-2023-v3.png
 file_size: 82427
 metadata:
   caption: ''
