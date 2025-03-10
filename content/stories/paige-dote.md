@@ -6,7 +6,6 @@ image:
   website: ocw-www
 leadquote: Student and Educator
 location: United States
-name: Paige Dote
 occupation: Student
 title: Paige Dote
 uid: 7d857bf3-3368-4778-82e8-3e81c6a80d77
