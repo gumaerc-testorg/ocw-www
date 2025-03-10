@@ -31,8 +31,9 @@ course_image_thumbnail:
   website: res-21g-01-kana-spring-2010
 course_title: Kana
 department_numbers:
-- RES
+- 21G
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - fe43b84c-d16e-9e7e-532a-521e3865ef5b

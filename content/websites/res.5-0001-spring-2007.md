@@ -32,8 +32,9 @@ course_image_thumbnail:
   website: res-5-0001-digital-lab-techniques-manual-spring-2007
 course_title: Digital Lab Techniques Manual
 department_numbers:
-- RES
+- '5'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 64cde08e-416f-44e7-f350-b9a64e1b2d50

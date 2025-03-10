@@ -25,8 +25,9 @@ course_image_thumbnail:
   website: res-3-002-collaborative-design-and-creative-expression-with-arduino-microcontrollers-january-iap-2017
 course_title: Collaborative Design and Creative Expression with Arduino Microcontrollers
 department_numbers:
-- RES
+- '3'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 58b26586-6c5e-77dd-a1b4-9efaa2f5bb86
@@ -39,7 +40,7 @@ learning_resource_types:
 - Instructor Insights
 legacy_uid: c70432e9-2a50-13df-e7a8-dbd97553f56b
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.3-002
 term: January IAP
 title: Collaborative Design and Creative Expression with Arduino Microcontrollers

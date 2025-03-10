@@ -25,7 +25,7 @@ course_image_thumbnail:
   website: res-8-002-a-wikitextbook-for-introductory-mechanics-fall-2009
 course_title: A WikiTextBook for Introductory Mechanics
 department_numbers:
-- RES
+- '8'
 extra_course_numbers: ''
 hide_download: true
 instructors:

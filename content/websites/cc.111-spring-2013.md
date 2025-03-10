@@ -12,10 +12,7 @@ course_description: 'This course examines the modern definition of freedom, and 
   documents and arguments of the founding of the United States.
 
 
-  This course is part of the [Concourse](http://web.mit.edu/concourse/www/) program
-  at MIT.
-
-  '
+  This course is part of the [Concourse](https://concourse.mit.edu/) program at MIT.'
 course_image:
   content: 570145f2-dc25-3554-4c89-aebc302e4fc5
   website: cc-111-modern-conceptions-of-freedom-spring-2013
@@ -26,6 +23,7 @@ course_title: Modern Conceptions of Freedom
 department_numbers:
 - CC
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - a274523d-757e-6410-3989-e7aa4ee6da65
@@ -34,6 +32,7 @@ learning_resource_types: []
 legacy_uid: 541fcd90-1287-5320-b8f2-cfcc2ed978b7
 level:
 - Undergraduate
+mit_learn_topics: []
 primary_course_number: CC.111
 term: Spring
 title: Modern Conceptions of Freedom

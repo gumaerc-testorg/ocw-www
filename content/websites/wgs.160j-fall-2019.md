@@ -11,8 +11,8 @@ course_description: "This subject examines the role scientists have played as ac
   \ and the nuclear freeze campaign, climate science and environmental justice, the\
   \ civil rights movement, Vietnam War protests, the March 4 movement at MIT, concerns\
   \ about genetic engineering, gender equality, intersectional feminism, and student\
-  \ activism at MIT.\n\nRead a profile of the class \"[Scientists as Engaged Citizens](https://shass.mit.edu/news/news-2020-class-profile-science-activism-wgs-sts)\"\
-  \ by the MIT School of Humanities, Arts, and Social Sciences.\n"
+  \ activism at MIT.\n\nRead a profile of the class \"[Scientists as Engaged Citizens](https://news.mit.edu/2021/scientists-as-engaged-citizens-0203)\"\
+  \ by the MIT School of Humanities, Arts, and Social Sciences."
 course_image:
   content: 617943f2-6aa7-e9b9-45f1-db07e427effd
   website: wgs-160j-science-activism-gender-race-and-power-fall-2019
@@ -24,6 +24,7 @@ department_numbers:
 - WGS
 - STS
 extra_course_numbers: STS.021J
+hide_download: false
 instructors:
   content:
   - 253fdff8-1905-f6d8-1080-55f134512920
@@ -33,6 +34,7 @@ learning_resource_types:
 legacy_uid: 6c158bbe-4d6d-1043-5d01-22b3a6f82f5a
 level:
 - Undergraduate
+mit_learn_topics: []
 primary_course_number: WGS.160J
 term: Fall
 title: 'Science Activism: Gender, Race, and Power'

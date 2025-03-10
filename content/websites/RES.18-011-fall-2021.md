@@ -20,8 +20,9 @@ course_image_thumbnail:
   website: algebra-i-student-notes
 course_title: Algebra I Student Notes
 department_numbers:
-- RES
+- '18'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content: []
   website: ocw-www
@@ -29,7 +30,7 @@ learning_resource_types:
 - Lecture Notes
 legacy_uid: ''
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.18-011
 term: Fall
 title: Algebra I Student Notes

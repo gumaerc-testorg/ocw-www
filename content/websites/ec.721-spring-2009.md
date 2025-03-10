@@ -20,10 +20,9 @@ course_description: 'According to the [United States Agency for International De
 
   This class is made possible by an [MIT Alumni Sponsored Funding Opportunities](http://web.mit.edu/alumnifunds/index.html)
   grant with additional support from the [National Collegiate Inventors and Innovators
-  Alliance](http://nciia.org/), the [MIT Public Service Center](http://web.mit.edu/mitpsc/),
-  and the [MIT Edgerton Center](http://web.mit.edu/Edgerton/); special thanks to [CustomInk.com](http://www.customink.com/).
-
-  '
+  Alliance (now VentureWell)](https://venturewell.org/history/), the [MIT Public Service
+  Center](https://pkgcenter.mit.edu/), and the [MIT Edgerton Center](http://web.mit.edu/Edgerton/);
+  special thanks to [CustomInk.com](http://www.customink.com/).'
 course_image:
   content: 55fff775-4f6f-0eee-9d0b-fd757a9b32ff
   website: ec-721-wheelchair-design-in-developing-countries-spring-2009
@@ -34,6 +33,7 @@ course_title: Wheelchair Design in Developing Countries
 department_numbers:
 - EC
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 3a7335a3-2473-488c-42af-5b2db94689f6
@@ -48,6 +48,7 @@ legacy_uid: 6be3bf58-d970-03e5-cc3f-1b9e75b807e6
 level:
 - Undergraduate
 primary_course_number: EC.721
+site_short_id: ec.721-spring-2009
 term: Spring
 title: Wheelchair Design in Developing Countries
 topics:

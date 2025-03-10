@@ -6,6 +6,7 @@ image:
   website: ocw-www
 leadquote: MIT has been my middle school, my high school, my entire education.
 location: United States
+name: Ahaan Rungta
 occupation: Student
 title: Ahaan Rungta
 uid: fe6336a3-afec-4f86-a75f-f0d11e7e5743

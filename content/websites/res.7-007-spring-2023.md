@@ -44,7 +44,7 @@ learning_resource_types:
 - Problem Sets with Solutions
 legacy_uid: ''
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.7-007
 term: Spring
 title: 7.06x Cell Biology

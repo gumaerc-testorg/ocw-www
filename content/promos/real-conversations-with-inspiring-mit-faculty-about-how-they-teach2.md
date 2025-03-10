@@ -6,7 +6,7 @@ image:
   website: ocw-www
 link_title: Listen now
 link_url: https://chalk-radio.simplecast.com/episodes/living-poetry-with-prof-joshua-bennett
-subtitle: 'Latest episode: Living Poetry with Prof. Joshua Bennett'
+subtitle: 'In case you missed it: Living Poetry with Prof. Joshua Bennett'
 title: 'Chalk Radio: a podcast about inspired teaching at MIT'
 uid: d23639c6-7223-4ce6-9903-bc6ef6027803
 ---

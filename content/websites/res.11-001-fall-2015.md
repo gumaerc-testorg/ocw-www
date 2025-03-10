@@ -20,7 +20,7 @@ course_image_thumbnail:
   website: res-11-001-cite-reports-fall-2015
 course_title: CITE Reports
 department_numbers:
-- RES
+- '11'
 extra_course_numbers: ''
 hide_download: true
 instructors:
@@ -30,7 +30,7 @@ instructors:
 learning_resource_types: []
 legacy_uid: adcadb4d-c8ee-4669-6069-27db3d67281f
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.11-001
 term: Fall
 title: CITE Reports

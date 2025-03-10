@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /ol-ocw-studio-app/ocw-www/serc_sitehome.jpeg
+file: /ocw-www/serc_sitehome.jpeg
 file_size: 106237
 metadata:
   caption: ''

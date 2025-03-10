@@ -20,8 +20,9 @@ course_image_thumbnail:
   website: res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015
 course_title: Reducing the Danger of Nuclear Weapons and Proliferation
 department_numbers:
-- RES
+- '8'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - e41ffe76-cbab-05d1-65a7-2bd474cdef72

@@ -21,8 +21,9 @@ course_image_thumbnail:
   website: res-12-000-evolution-of-physical-oceanography-spring-2007
 course_title: Evolution of Physical Oceanography
 department_numbers:
-- RES
+- '12'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - e1964cd1-ec2f-1173-8db4-d8e32c1feab7

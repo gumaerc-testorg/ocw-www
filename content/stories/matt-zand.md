@@ -7,6 +7,7 @@ image:
 leadquote: 'When I saw and reviewed the course structure and materials of MIT OpenCourseWare,
   I knew I found what I was looking for. '
 location: United States
+name: Matt Zand
 occupation: Educator
 title: Matt Zand
 uid: 2473582d-3e5a-40ee-bb36-6cf3b632dde8

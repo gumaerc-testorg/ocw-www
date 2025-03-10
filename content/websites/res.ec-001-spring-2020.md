@@ -19,8 +19,9 @@ course_image_thumbnail:
   website: res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020
 course_title: Exploring Fairness in Machine Learning for International Development
 department_numbers:
-- RES
+- EC
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - c9db1340-f58c-e074-cab0-75dd52ab737c
@@ -33,7 +34,7 @@ learning_resource_types:
 - Lecture Videos
 legacy_uid: 7afcb28c-4374-ffed-8caa-3700d01f0bda
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.EC-001
 term: Spring
 title: Exploring Fairness in Machine Learning for International Development

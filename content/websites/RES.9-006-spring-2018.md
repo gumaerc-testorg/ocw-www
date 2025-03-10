@@ -25,7 +25,6 @@ course_image_thumbnail:
 course_title: AFNI Training Bootcamp
 department_numbers:
 - '9'
-- RES
 extra_course_numbers: ''
 hide_download: true
 instructors:

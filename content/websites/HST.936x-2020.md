@@ -39,7 +39,8 @@ learning_resource_types:
 - Course Introduction
 - Lecture Videos
 legacy_uid: ''
-level: []
+level:
+- Graduate
 primary_course_number: HST.936x
 term: Spring
 title: Global Health Informatics to Improve Quality of Care

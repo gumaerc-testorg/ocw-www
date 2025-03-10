@@ -23,7 +23,7 @@ course_image_thumbnail:
   website: res-15-001-mit-sloan-learningedge-fall-2008
 course_title: MIT Sloan Teaching Resources Library
 department_numbers:
-- RES
+- '15'
 extra_course_numbers: ''
 hide_download: true
 instructors:
@@ -33,7 +33,7 @@ instructors:
 learning_resource_types: []
 legacy_uid: d622bd1c-bae3-713c-60db-c83bb744df9d
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.15-001
 term: Fall
 title: MIT Sloan Teaching Resources Library

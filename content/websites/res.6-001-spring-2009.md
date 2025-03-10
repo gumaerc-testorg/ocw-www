@@ -30,8 +30,9 @@ course_image_thumbnail:
   website: res-6-001-continuum-electromechanics-spring-2009
 course_title: Continuum Electromechanics
 department_numbers:
-- RES
+- '6'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 281bb786-462c-d33d-fa7a-1142ca92c151

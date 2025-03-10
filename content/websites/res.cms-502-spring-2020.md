@@ -24,7 +24,7 @@ course_image_thumbnail:
   website: res-cms-502-competency-based-education-the-why-what-and-how-spring-2020
 course_title: 'Competency-Based Education: The Why, What, and How'
 department_numbers:
-- RES
+- CMS-W
 extra_course_numbers: ''
 hide_download: true
 instructors:
@@ -37,7 +37,7 @@ learning_resource_types:
 - Activity Assignments
 legacy_uid: ecf2bea0-cbca-5ea5-52f8-fe8067f0fc26
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.CMS-502
 term: Spring
 title: 'Competency-Based Education: The Why, What, and How'

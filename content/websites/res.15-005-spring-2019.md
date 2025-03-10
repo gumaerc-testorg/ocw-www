@@ -32,7 +32,9 @@ instructors:
   content:
   - 744a26f3-c3cf-9dd6-bd52-a8d351dbfc8e
   website: ocw-www
-learning_resource_types: []
+learning_resource_types:
+- Lecture Videos
+- Lecture Notes
 legacy_uid: f6ee2224-7c14-1fe8-9d0e-7b12c1bbda15
 level:
 - Graduate

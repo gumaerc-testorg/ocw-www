@@ -31,7 +31,7 @@ course_image_thumbnail:
   website: res-cms-154-launching-innovation-in-schools-spring-2019
 course_title: Launching Innovation in Schools
 department_numbers:
-- RES
+- CMS-W
 extra_course_numbers: ''
 hide_download: true
 instructors:
@@ -42,7 +42,7 @@ instructors:
 learning_resource_types: []
 legacy_uid: c0b987ab-1fb7-c74d-ffcc-9dcc377e5d4a
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.CMS-154
 term: Spring
 title: Launching Innovation in Schools

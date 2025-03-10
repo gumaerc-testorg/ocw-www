@@ -29,7 +29,7 @@ course_image_thumbnail:
   website: res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009
 course_title: 'The Torch or The Firehose: A Guide to Section Teaching'
 department_numbers:
-- RES
+- '18'
 extra_course_numbers: ''
 hide_download: false
 instructors:

@@ -51,8 +51,9 @@ course_image_thumbnail:
   website: res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008
 course_title: Video Demonstrations in Lasers and Optics
 department_numbers:
-- RES
+- '6'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 2d094e0f-57f5-e0ee-46da-3da67faad7c8

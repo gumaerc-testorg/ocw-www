@@ -21,6 +21,7 @@ course_title: Algebra II Student Notes
 department_numbers:
 - '18'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content: []
   website: algebra-ii-student-notes
@@ -29,7 +30,7 @@ learning_resource_types:
 legacy_uid: ''
 level:
 - Undergraduate
-primary_course_number: RES-18.012
+primary_course_number: RES.18-012
 term: Spring
 title: Algebra II Student Notes
 topics:

@@ -24,7 +24,7 @@ course_image_thumbnail:
   website: sorting-truth-from-fiction-civic-online-reasoning
 course_title: 'Sorting Truth From Fiction: Civic Online Reasoning'
 department_numbers:
-- RES
+- CMS-W
 extra_course_numbers: ''
 hide_download: true
 instructors:
@@ -35,7 +35,7 @@ instructors:
 learning_resource_types: []
 legacy_uid: ''
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.CMS-504
 term: Spring
 title: 'Sorting Truth From Fiction: Civic Online Reasoning'

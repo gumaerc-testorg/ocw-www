@@ -44,7 +44,7 @@ learning_resource_types:
 - Videos
 legacy_uid: ''
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.9-004
 term: Fall
 title: Nancy's Brain Talks

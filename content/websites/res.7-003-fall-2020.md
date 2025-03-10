@@ -27,7 +27,7 @@ course_image_thumbnail:
   website: res-7-003-brave-new-planet-fall-2020
 course_title: Brave New Planet
 department_numbers:
-- RES
+- '7'
 extra_course_numbers: ''
 hide_download: true
 instructors:
@@ -37,7 +37,7 @@ instructors:
 learning_resource_types: []
 legacy_uid: 9d4d9264-d522-2321-1a86-1e2966466e8f
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.7-003
 term: Fall
 title: Brave New Planet

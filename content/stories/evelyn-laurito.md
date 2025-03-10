@@ -8,6 +8,7 @@ leadquote: I imagine that if I had this when I was a student years ago, it would
   been so much fun learning not only from the teacher, but discovering more which,
   probably, the teachers themselves did not know.
 location: Phillippines
+name: Evelyn Laurito
 occupation: Educator
 title: Evelyn Laurito
 uid: ef5c7f19-4e44-4ced-99c4-df61501c7365

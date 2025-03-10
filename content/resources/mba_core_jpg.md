@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /ol-ocw-studio-app/ocw-www/mba_core.jpg
+file: /ocw-www/mba_core.jpg
 file_size: 197640
 metadata:
   caption: ''

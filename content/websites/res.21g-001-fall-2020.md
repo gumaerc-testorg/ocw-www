@@ -24,8 +24,9 @@ course_image_thumbnail:
   website: res-21g-001-the-user-friendly-classroom-fall-2020
 course_title: The User-friendly Classroom
 department_numbers:
-- RES
+- 21G
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - f4237123-fcb2-35e9-d1d7-e339c17636b7

@@ -32,8 +32,9 @@ course_image_thumbnail:
   website: res-8-001-applied-geometric-algebra-spring-2009
 course_title: Applied Geometric Algebra
 department_numbers:
-- RES
+- '8'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 625c91cc-cb6f-eed0-ad56-981ef7f1ade4

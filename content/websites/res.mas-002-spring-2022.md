@@ -9,13 +9,11 @@ course_description: 'This resource is to support teachers and educators to run D
 
 
   Developed by leading faculty and educators from [MIT RAISE](https://raise.mit.edu/),
-  [the curriculum](https://www.dayofai.org/activities) features up to four hours of
+  [the curriculum](https://www.dayofai.org/curriculum) features up to four hours of
   hands-on activities that engage kids in creative discovery, discussion, and play
   as they learn the fundamentals of AI, investigate the societal impact of these technologies,
   and bring artificial intelligence to life through lessons and activities that are
-  accessible to all, even those with no computer science or technical background.
-
-  '
+  accessible to all, even those with no computer science or technical background.'
 course_image:
   content: c9452c8c-2ee3-102b-d624-de89178e0c3a
   website: res-mas-002-day-of-ai-spring-2022
@@ -24,7 +22,7 @@ course_image_thumbnail:
   website: res-mas-002-day-of-ai-spring-2022
 course_title: Day of AI
 department_numbers:
-- RES
+- MAS
 extra_course_numbers: ''
 hide_download: false
 instructors:

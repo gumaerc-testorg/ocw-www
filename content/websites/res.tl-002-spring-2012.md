@@ -30,8 +30,7 @@ course_image_thumbnail:
   content: 3a9a88f9-833b-f51a-6cde-7d0e3c4814ad
   website: res-tl-002-star-software-tools-for-academics-and-researchers-spring-2012
 course_title: 'STAR: Software Tools for Academics and Researchers'
-department_numbers:
-- RES
+department_numbers: []
 extra_course_numbers: ''
 hide_download: true
 instructors:
@@ -41,8 +40,8 @@ instructors:
 learning_resource_types: []
 legacy_uid: 6af0a769-dc16-f07c-3ea1-3359c1c04242
 level:
-- Non Credit
-primary_course_number: RES.TL-002
+- Non-Credit
+primary_course_number: RES.TLL-002
 term: Spring
 title: 'STAR: Software Tools for Academics and Researchers'
 topics:
@@ -72,7 +71,7 @@ topics:
 - - Engineering
   - Environmental Engineering
   - Hydrology and Water Resource Systems
-uid: 216a009f-6ab0-4615-b005-6f2473b6e0ed
+uid: 4668e42f-9ca3-43cf-a774-2caa7f89dafa
 url_path: courses/res-tl-002-star-software-tools-for-academics-and-researchers-spring-2012
 year: '2012'
 ---

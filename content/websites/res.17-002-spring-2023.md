@@ -36,7 +36,7 @@ instructors:
 learning_resource_types: []
 legacy_uid: ''
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.17-002
 term: Spring
 title: MIT Governance Lab

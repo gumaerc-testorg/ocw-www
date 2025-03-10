@@ -85,8 +85,9 @@ course_image_thumbnail:
   website: res-gem4-global-enterprise-for-micro-mechanics-and-molecular-medicine-gem4-summer-2006-summer-2007
 course_title: Global Enterprise for Micro-Mechanics and Molecular Medicine (GEM4)
 department_numbers:
-- RES
+- '20'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 89528313-0bf4-67f5-fc6d-42acc30a78f8

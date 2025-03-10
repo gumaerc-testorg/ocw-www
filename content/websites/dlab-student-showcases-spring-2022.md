@@ -31,7 +31,7 @@ learning_resource_types:
 - Projects with Examples
 legacy_uid: ''
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.EC-003
 term: Spring
 title: D-Lab Student Showcases

@@ -23,7 +23,7 @@ course_image_thumbnail:
   website: res-11-550-leveraging-urban-mobility-disruptions-to-create-better-cities-spring-2021
 course_title: Leveraging Urban Mobility Disruptions to Create Better Cities
 department_numbers:
-- RES
+- '11'
 extra_course_numbers: ''
 hide_download: true
 instructors:
@@ -35,7 +35,7 @@ instructors:
 learning_resource_types: []
 legacy_uid: ec63f9ac-a1bc-3ca1-db8d-125bb01697ce
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.11-550
 term: Spring
 title: Leveraging Urban Mobility Disruptions to Create Better Cities

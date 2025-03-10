@@ -29,13 +29,12 @@ course_image_thumbnail:
   content: b86111d8-d6bb-24c2-ec32-b796d0304008
   website: res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021
 course_title: Social and Ethical Responsibilities of Computing (SERC)
-department_numbers:
-- RES
+department_numbers: []
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
-  - e73fc091-38c7-d0e7-0666-4595e6a22978
-  - a82bdf46-94f8-6a7a-7a3c-39dccc6b5001
+  - aa8b3a99-12e3-4dbb-9a42-3cfe670d40cb
   website: ocw-www
 learning_resource_types:
 - Lecture Notes
@@ -43,7 +42,8 @@ learning_resource_types:
 - Multiple Assignment Types
 legacy_uid: 4b630d24-af1d-39ef-ed88-f533aa11e4a0
 level:
-- Non Credit
+- Non-Credit
+mit_learn_topics: []
 primary_course_number: RES.TLL-008
 term: Spring
 title: Social and Ethical Responsibilities of Computing (SERC)
@@ -59,5 +59,5 @@ topics:
   - Higher Education
 uid: 9b47070f-1c73-46df-9cfd-b5dd1e443714
 url_path: courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc
-year: '2023'
+year: '2025'
 ---

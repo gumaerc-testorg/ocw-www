@@ -21,8 +21,9 @@ course_image_thumbnail:
   website: res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014
 course_title: 'The Art of Insight in Science and Engineering: Mastering Complexity'
 department_numbers:
-- RES
+- '6'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 3069cc28-b31e-9000-e3ac-1f88d33c39de
