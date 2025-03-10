@@ -7,7 +7,6 @@ image:
 leadquote: MIT OCW helps students to learn not only the subject materials but also
   how to give presentations.
 location: Myanmar
-name: Tekkatho Foundation
 occupation: Education
 title: eTekkatho
 uid: 0ff7cb3d-6b3e-4595-8472-fd15b0d51c9e
