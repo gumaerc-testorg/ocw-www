@@ -15,8 +15,9 @@ course_image_thumbnail:
   website: res-21g-506-kanji-learning-any-time-any-place-for-japanese-vi-spring-2021
 course_title: Kanji Learning Any Time, Any Place for Japanese VI
 department_numbers:
-- RES
+- 21G
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - a5691d44-4ed0-67fc-77c2-ba2830da98b3

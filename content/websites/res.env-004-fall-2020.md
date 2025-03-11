@@ -31,7 +31,7 @@ instructors:
 learning_resource_types: []
 legacy_uid: b5351059-b080-2c0b-f7dd-d605f2830fb1
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.ENV-004
 term: Fall
 title: MIT Climate Portal

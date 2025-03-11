@@ -26,6 +26,7 @@ course_image_thumbnail:
   website: terrascope
 course_title: Terrascope
 department_numbers:
+- '12'
 - RES
 extra_course_numbers: ''
 hide_download: true

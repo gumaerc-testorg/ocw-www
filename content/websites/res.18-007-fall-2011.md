@@ -41,8 +41,9 @@ course_image_thumbnail:
   website: res-18-007-calculus-revisited-multivariable-calculus-fall-2011
 course_title: 'Calculus Revisited: Multivariable Calculus'
 department_numbers:
-- RES
+- '18'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 494bb006-f78f-88aa-d3b3-e60a0fdbffe7

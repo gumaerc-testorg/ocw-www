@@ -26,8 +26,9 @@ course_image_thumbnail:
 course_title: Learn to Build Your Own Videogame with the Unity Game Engine and Microsoft
   Kinect
 department_numbers:
-- RES
+- '3'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 58b26586-6c5e-77dd-a1b4-9efaa2f5bb86

@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Course-Lists on MIT OpenCourseWare</title>
+    <link>//localhost:3000/course-lists/</link>
+    <description>Recent content in Course-Lists on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:3000/course-lists/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Africana Studies</title>
+      <link>//localhost:3000/course-lists/africana-studies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/africana-studies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Africana Studies Featured</title>
+      <link>//localhost:3000/course-lists/africana-studies-featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/africana-studies-featured/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Africana-contextualized STEM</title>
+      <link>//localhost:3000/course-lists/africana-contextualized-stem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/africana-contextualized-stem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contexts of Race and Social Justice</title>
+      <link>//localhost:3000/course-lists/contexts-of-race-and-social-justice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/contexts-of-race-and-social-justice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Energy Featured</title>
+      <link>//localhost:3000/course-lists/energy-featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/energy-featured/</guid>
+      <description>&lt;p&gt;Courses featured in the Energy &amp;amp; Sustainability collection.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Energy Minor Core Courses</title>
+      <link>//localhost:3000/course-lists/energy-minor-core-courses-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/energy-minor-core-courses-5/</guid>
+      <description>&lt;p&gt;The Energy Studies Minor is built on a core of foundational subjects in energy science, economics, social science, and technology/engineering.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Energy Minor Elective Courses</title>
+      <link>//localhost:3000/course-lists/energy-minor-elective-courses-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/energy-minor-elective-courses-5/</guid>
+      <description>&lt;p&gt;Energy Minor elective courses allow students to tailor their program to their particular interests.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Entrepreneurship Core Courses</title>
+      <link>//localhost:3000/course-lists/entrepreneurship-core-courses-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/entrepreneurship-core-courses-5/</guid>
+      <description>&lt;p&gt;The following courses represent a selection of &amp;ldquo;core&amp;rdquo; entrepreneurship-related courses offered at MIT.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Entrepreneurship Featured</title>
+      <link>//localhost:3000/course-lists/entrepreneurship-featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/entrepreneurship-featured/</guid>
+      <description>&lt;p&gt;Courses featured as part of the Entrepreneurship collection.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Entrepreneurship Supplementary Courses</title>
+      <link>//localhost:3000/course-lists/entrepreneurship-supplementary-courses-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/entrepreneurship-supplementary-courses-5/</guid>
+      <description>&lt;p&gt;The following courses represent a selection of the &amp;ldquo;supplementary&amp;rdquo; entrepreneurship courses offered at MIT.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Environment &amp; Sustainability Featured</title>
+      <link>//localhost:3000/course-lists/environment-sustainability-featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/environment-sustainability-featured/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Environment &amp; Sustainability: Earth Systems and Climate Science</title>
+      <link>//localhost:3000/course-lists/environment-earth-systems-and-climate-science-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/environment-earth-systems-and-climate-science-5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Environment &amp; Sustainability: Engineering</title>
+      <link>//localhost:3000/course-lists/environment-engineering-for-sustainability-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/environment-engineering-for-sustainability-5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Environment &amp; Sustainability: Governance</title>
+      <link>//localhost:3000/course-lists/environment-environmental-governance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/environment-environmental-governance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Environment &amp; Sustainability: Histories and Cultures</title>
+      <link>//localhost:3000/course-lists/environment-environmental-histories-and-cultures-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/environment-environmental-histories-and-cultures-5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>featured-courses-homepage</title>
+      <link>//localhost:3000/course-lists/featured-courses-homepage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/featured-courses-homepage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First-Semester MBA Core: Elective Courses</title>
+      <link>//localhost:3000/course-lists/first-semester-mba-core-elective-courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/first-semester-mba-core-elective-courses/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First-Semester MBA Core: Required Courses</title>
+      <link>//localhost:3000/course-lists/first-semester-mba-core-required-courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/first-semester-mba-core-required-courses/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Follow-up Programming Courses</title>
+      <link>//localhost:3000/course-lists/follow-up-programming-courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/follow-up-programming-courses/</guid>
+      <description>&lt;p&gt;Once you’ve worked through some introductory material, you may be interested in trying more advanced courses such as these.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>General Introductions to Programming</title>
+      <link>//localhost:3000/course-lists/general-introductions-to-programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/general-introductions-to-programming/</guid>
+      <description>&lt;p&gt;These courses introduce principles of computer science and begin to develop programming skills, specifically in the Python language. Learn more about these courses’ learning goals, history and student experience in this &lt;a href=&#34;https://news.mit.edu/2018/class-computer-science-programming-python-0504&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT news article&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Inclusive Teaching and Education</title>
+      <link>//localhost:3000/course-lists/inclusive-teaching-and-education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/inclusive-teaching-and-education/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Language Specific Programming Courses</title>
+      <link>//localhost:3000/course-lists/language-specific-programming-courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/language-specific-programming-courses/</guid>
+      <description>&lt;p&gt;Beyond the introductions above which use Python, here are several introductions to other programming languages: Julia, MATLAB, Java, and C/C++. Many are taught during MIT’s four-week Independent Activities Period (IAP) between the fall and spring semesters.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MIT Open Learning Library</title>
+      <link>//localhost:3000/course-lists/open-learning-library/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/open-learning-library/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT Open Learning Library Featured</title>
+      <link>//localhost:3000/course-lists/open-learning-library-featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/open-learning-library-featured/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Most Popular Courses</title>
+      <link>//localhost:3000/course-lists/most-popular-courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/most-popular-courses/</guid>
+      <description>&lt;p&gt;These are the 20 most visited courses on OCW over the past month.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OCW Scholar Courses</title>
+      <link>//localhost:3000/course-lists/scholar-courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/scholar-courses/</guid>
+      <description>&lt;p&gt;OCW Scholar courses are designed for independent learners who have few additional resources available to them. The courses are substantially more complete than typical OCW courses and include new custom-created content as well as materials repurposed from MIT classrooms. The materials are also arranged in logical sequences and include multimedia such as video and simulations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Other Energy Courses</title>
+      <link>//localhost:3000/course-lists/other-energy-courses-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/other-energy-courses-5/</guid>
+      <description>&lt;p&gt;These energy courses on OCW are not officially part of the Energy Minor program, but may be of interest.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Transportation Featured</title>
+      <link>//localhost:3000/course-lists/transportation-featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/transportation-featured/</guid>
+      <description>&lt;p&gt;Courses featured as part of the Transportation collection.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Transportation: Airline Industry</title>
+      <link>//localhost:3000/course-lists/transportation-airline-industry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/transportation-airline-industry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transportation: Automation and Safety</title>
+      <link>//localhost:3000/course-lists/transportation-automation-and-safety/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/transportation-automation-and-safety/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transportation: Behavior and Economics</title>
+      <link>//localhost:3000/course-lists/transportation-behavior-and-economics-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/transportation-behavior-and-economics-5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transportation: Energy Sources</title>
+      <link>//localhost:3000/course-lists/transportation-energy-sources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/transportation-energy-sources/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transportation: Environmental Impacts</title>
+      <link>//localhost:3000/course-lists/transportation-environmental-impacts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/transportation-environmental-impacts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transportation: IT and Communications</title>
+      <link>//localhost:3000/course-lists/transportation-it-and-communications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/transportation-it-and-communications/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transportation: Logistics and Supply Chains</title>
+      <link>//localhost:3000/course-lists/transportation-logistics-and-supply-chains/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/transportation-logistics-and-supply-chains/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transportation: Optimization and Control</title>
+      <link>//localhost:3000/course-lists/transportation-optimization-and-control/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/transportation-optimization-and-control/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transportation: Propulsion</title>
+      <link>//localhost:3000/course-lists/transportation-propulsion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/transportation-propulsion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transportation: Urban Challenges</title>
+      <link>//localhost:3000/course-lists/transportation-urban-challenges/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/transportation-urban-challenges/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transportation: Vehicles</title>
+      <link>//localhost:3000/course-lists/transportation-vehicles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/course-lists/transportation-vehicles/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

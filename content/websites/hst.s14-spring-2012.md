@@ -4,7 +4,7 @@ _build:
   render: false
 content_type: website
 course_description: 'This course is a collaborative offering of [Sana](http://sana.mit.edu/),
-  [Partners in Health](http://www.pih.org/), and the [Institute for Healthcare Improvement](http://www.ihi.org/Pages/default.aspx)
+  [Partners in Health](http://www.pih.org/), and the [Institute for Healthcare Improvement](https://www.ihi.org/)
   (IHI). The goal of this course is the development of innovations in information
   systems for developing countries that will (1) translate into improvement in health
   outcomes, (2) strengthen the existing organizational infrastructure, and (3) create
@@ -15,9 +15,7 @@ course_description: 'This course is a collaborative offering of [Sana](http://sa
 
 
   This OCW site combines resources from the initial Spring 2011 offering of the course
-  (numbered HST.184) and the Spring 2012 offering (numbered HST.S14).
-
-  '
+  (numbered HST.184) and the Spring 2012 offering (numbered HST.S14).'
 course_image:
   content: b377f0dc-a384-373d-ca6f-4baefd462e9b
   website: hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012
@@ -29,6 +27,7 @@ course_title: Health Information Systems to Improve Quality of Care in Resource-
 department_numbers:
 - HST
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - d1f991df-5344-505d-ef5a-138bd54d10ef

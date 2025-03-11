@@ -39,7 +39,7 @@ instructors:
 learning_resource_types: []
 legacy_uid: 074c4c0b-8b96-72c2-6340-6129298b24fa
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.SolveX
 term: Summer
 title: Business and Impact Planning for Social Enterprises (0.SolveX)

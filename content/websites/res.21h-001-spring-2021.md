@@ -24,7 +24,7 @@ course_image_thumbnail:
   website: res-21h-001-visualizing-the-birth-of-modern-tokyo-spring-2021
 course_title: Visualizing the Birth of Modern Tokyo
 department_numbers:
-- RES
+- 21H
 extra_course_numbers: ''
 hide_download: true
 instructors:

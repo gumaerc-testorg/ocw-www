@@ -32,8 +32,9 @@ course_image_thumbnail:
   website: res-6-008-digital-signal-processing-spring-2011
 course_title: Digital Signal Processing
 department_numbers:
-- RES
+- '6'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - e375d565-270c-0d19-9532-fa4b28cf4b5c

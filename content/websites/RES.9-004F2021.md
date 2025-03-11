@@ -24,7 +24,7 @@ course_description: 'Professor Nancy Kanwisher uses a brain imaging method calle
 
   The site also includes lecture videos from Prof. Kanwisher''s undergraduate MIT
   course *9.13 The Human Brain*. You can find [a complete version of this course here
-  on MIT OpenCourseWare](https://ocw.mit.edu/courses/9-13-the-human-brain-spring-2019/).'
+  on MIT OpenCourseWare](https://ocw.c4103.com/courses/9-13-the-human-brain-spring-2019/).'
 course_image:
   content: 3c7511a6-d389-4120-81e4-5e983e8af64f
   website: nancys-brain-talks
@@ -44,7 +44,7 @@ learning_resource_types:
 - Videos
 legacy_uid: ''
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.9-004
 term: Fall
 title: Nancy's Brain Talks

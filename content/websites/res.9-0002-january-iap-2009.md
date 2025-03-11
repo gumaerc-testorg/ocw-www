@@ -19,8 +19,9 @@ course_image_thumbnail:
   website: res-9-0002-statistics-and-visualization-for-data-analysis-and-inference-january-iap-2009
 course_title: Statistics and Visualization for Data Analysis and Inference
 department_numbers:
-- RES
+- '9'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 53535cce-8a8c-02d1-9553-cb78d5eae6c5

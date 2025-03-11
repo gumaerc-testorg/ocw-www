@@ -15,7 +15,7 @@ course_image_thumbnail:
   website: res-8-003-physics-demonstration-videos-spring-2012
 course_title: Physics Demonstration Videos
 department_numbers:
-- RES
+- '8'
 extra_course_numbers: ''
 hide_download: true
 instructors:

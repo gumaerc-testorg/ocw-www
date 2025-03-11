@@ -37,6 +37,7 @@ course_title: Designing Your Life
 department_numbers:
 - PE
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 8cabf819-533f-6464-e7ad-5d2aa2e63561
@@ -51,7 +52,9 @@ level:
 primary_course_number: PE.550
 term: January IAP
 title: Designing Your Life
-topics: []
+topics:
+- - Health and Medicine
+  - Mental Health
 uid: f1d8bbd1-5e83-4557-aec2-ad1c9ad96360
 url_path: courses/pe-550-designing-your-life-january-iap-2007
 year: '2007'

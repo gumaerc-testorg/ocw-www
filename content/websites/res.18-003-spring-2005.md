@@ -18,7 +18,7 @@ course_image_thumbnail:
   website: res-18-003-calculus-for-beginners-and-artists-spring-2005
 course_title: Calculus for Beginners and Artists
 department_numbers:
-- RES
+- '18'
 extra_course_numbers: ''
 hide_download: true
 instructors:

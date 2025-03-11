@@ -29,7 +29,7 @@ course_image_thumbnail:
   website: res-cms-155-design-thinking-for-leading-and-learning-spring-2019
 course_title: Design Thinking for Leading and Learning
 department_numbers:
-- RES
+- CMS-W
 extra_course_numbers: ''
 hide_download: true
 instructors:

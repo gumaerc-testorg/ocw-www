@@ -34,7 +34,7 @@ course_image_thumbnail:
 course_title: 'Making Science and Engineering Pictures: A Practical Guide to Presenting
   Your Work'
 department_numbers:
-- RES
+- '10'
 extra_course_numbers: ''
 hide_download: false
 instructors:
@@ -46,6 +46,7 @@ learning_resource_types:
 - Lecture Videos
 - Activity Assignments with Examples
 - Instructor Insights
+- Lecture Audio
 legacy_uid: 34515860-53cf-8d37-4caf-02b996543947
 level:
 - Undergraduate

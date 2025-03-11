@@ -16,8 +16,9 @@ course_image_thumbnail:
   website: res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020
 course_title: 'System Dynamics: Systems Thinking and Modeling for a Complex World'
 department_numbers:
-- RES
+- '15'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 48f81f4e-b370-e483-eb2a-feb19a355969

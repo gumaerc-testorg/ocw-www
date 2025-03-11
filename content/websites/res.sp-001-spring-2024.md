@@ -3,9 +3,9 @@ _build:
   list: true
   render: false
 content_type: website
-course_description: "This course introduces the D.I.S. method to solve real-world\
-  \ problems. The D.I.S., which stands for \u201CDescribe, Ideate, State\u2019, is\
-  \ a domain-agnostic method for structuring (or defining) ill-structured problems."
+course_description: "This course introduces the D.I.S. method to structure and define\
+  \ real-world problems. The D.I.S., which stands for \u201CDescribe, Inquire, State,\"\
+  \ is a domain-agnostic method for structuring (or defining) ill-structured problems."
 course_image:
   content: 3cc4fefa-af95-4322-b0ed-cb363140a146
   website: defining-real-world-problems-with-the-dis-method-describe-inquire-state
@@ -30,7 +30,7 @@ term: Spring
 title: 'Defining Real-World Problems With the D.I.S. Method: Describe, Inquire, State'
 topics:
 - - Engineering
-uid: bc0b6665-e2a6-4ad2-8c36-dec90046ad06
+uid: 360738b1-147e-45b6-85a9-219dbf253880
 url_path: courses/res-sp-001-defining-real-world-problems-with-the-d-i-s-method-describe-inquire-state-spring-2024
 year: '2024'
 ---

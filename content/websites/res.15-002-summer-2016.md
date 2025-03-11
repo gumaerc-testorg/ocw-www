@@ -19,8 +19,9 @@ course_image_thumbnail:
   website: res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016
 course_title: 'Mission & Metrics: Finance Training for Federal Credit Program Professionals'
 department_numbers:
-- RES
+- '15'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 5cf435dd-276d-b867-9792-182623713ec9

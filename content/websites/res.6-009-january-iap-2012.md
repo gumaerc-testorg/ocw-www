@@ -22,8 +22,9 @@ course_image_thumbnail:
   website: res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012
 course_title: How to Process, Analyze and Visualize Data
 department_numbers:
-- RES
+- '6'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - b749cd83-84ec-4a63-4693-8bd34258372c
@@ -35,7 +36,7 @@ learning_resource_types:
 - Programming Assignments
 legacy_uid: ee09e500-a35e-b032-0b63-43be23e73608
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.6-009
 term: January IAP
 title: How to Process, Analyze and Visualize Data

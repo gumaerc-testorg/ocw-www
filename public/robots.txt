@@ -1,0 +1,5 @@
+Sitemap: https://ocw.c4103.com/sitemap.xml
+
+User-agent: *
+
+Disallow: /

@@ -37,8 +37,9 @@ course_image_thumbnail:
   website: res-cms-503-becoming-a-more-equitable-educator-mindsets-and-practices-spring-2020
 course_title: 'Becoming a More Equitable Educator: Mindsets and Practices'
 department_numbers:
-- RES
+- CMS-W
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 89666a17-6a2a-c8a6-7d92-867266505def
@@ -47,7 +48,7 @@ instructors:
 learning_resource_types: []
 legacy_uid: ace93fdc-3a3f-fe4e-cf67-501d2ebef2c4
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.CMS-503
 term: Spring
 title: 'Becoming a More Equitable Educator: Mindsets and Practices'

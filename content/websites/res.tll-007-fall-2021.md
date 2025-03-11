@@ -36,7 +36,7 @@ instructors:
 learning_resource_types: []
 legacy_uid: bb650f38-41d3-d5e7-d117-e0051ddfcb31
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.TLL-007
 term: Fall
 title: Case Studies in Social and Ethical Responsibilities of Computing

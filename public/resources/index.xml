@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on MIT OpenCourseWare</title>
+    <link>//localhost:3000/resources/</link>
+    <description>Recent content in Resources on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:3000/resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>151k.png</title>
+      <link>//localhost:3000/resources/151k/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/151k/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>20 Year Anniversary Book of Impact</title>
+      <link>//localhost:3000/resources/20_years_of_ocw_impactv2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/20_years_of_ocw_impactv2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2001_ChuckVest.png</title>
+      <link>//localhost:3000/resources/2001_chuckvest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/2001_chuckvest/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2007_1800_OCWsite.png</title>
+      <link>//localhost:3000/resources/2007_1800_ocwsite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/2007_1800_ocwsite/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2015_Educator.png</title>
+      <link>//localhost:3000/resources/2015_educator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/2015_educator/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2018_YouTube.png</title>
+      <link>//localhost:3000/resources/2018_youtube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/2018_youtube/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2020 OCW Impact Report</title>
+      <link>//localhost:3000/resources/2020-19_ocw_impact_report/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/2020-19_ocw_impact_report/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2021_NextGen_phone.png</title>
+      <link>//localhost:3000/resources/2021_nextgen_phone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/2021_nextgen_phone/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>24HC OCW 2023.png</title>
+      <link>//localhost:3000/resources/24hc-ocw-2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/24hc-ocw-2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5-111_2008chp.png</title>
+      <link>//localhost:3000/resources/5-111_2008chp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/5-111_2008chp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Glimpse Into the Biology GIR</title>
+      <link>//localhost:3000/resources/a-glimpse-into-the-biology-gir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/a-glimpse-into-the-biology-gir/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>abhayparekh2-crop.jpg</title>
+      <link>//localhost:3000/resources/abhayparekh2-crop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/abhayparekh2-crop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AbhayParekh2.jpeg</title>
+      <link>//localhost:3000/resources/abhayparekh2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/abhayparekh2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ahaan.jpeg</title>
+      <link>//localhost:3000/resources/ahaan2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/ahaan2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ahenshall_photo_by_lillie_paquette-small.jpg</title>
+      <link>//localhost:3000/resources/ahenshall_photo_by_lillie_paquette-small_jpg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/ahenshall_photo_by_lillie_paquette-small_jpg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>akwir_alain.jpg</title>
+      <link>//localhost:3000/resources/akwir_alain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/akwir_alain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>behind_scenes.png</title>
+      <link>//localhost:3000/resources/behind_scenes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/behind_scenes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>berger.jpg</title>
+      <link>//localhost:3000/resources/berger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/berger/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>bernardo picao.jpeg</title>
+      <link>//localhost:3000/resources/bernardo-picao_jpeg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/bernardo-picao_jpeg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>bio_related.png</title>
+      <link>//localhost:3000/resources/bio_related/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/bio_related/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>birenbaum.jpg</title>
+      <link>//localhost:3000/resources/birenbaum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/birenbaum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>brizuela.jpg</title>
+      <link>//localhost:3000/resources/brizuela/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/brizuela/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>cardone.jpg</title>
+      <link>//localhost:3000/resources/cardone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/cardone/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>chalk-radio2024.png</title>
+      <link>//localhost:3000/resources/chalk-radio2024_png/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/chalk-radio2024_png/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chansa_20230113.HEIC</title>
+      <link>//localhost:3000/resources/chansa_20230113/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/chansa_20230113/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chansa_20230113.HEIC</title>
+      <link>//localhost:3000/resources/chansa_202301133/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/chansa_202301133/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chansa_20230113.jpg</title>
+      <link>//localhost:3000/resources/chansa_202301132/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/chansa_202301132/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chemistry GIR</title>
+      <link>//localhost:3000/resources/chemistry-gir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/chemistry-gir/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>class_of_09.jpg</title>
+      <link>//localhost:3000/resources/class_of_09/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/class_of_09/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clinton Blackburn</title>
+      <link>//localhost:3000/resources/412264223fc744c8baa7e3f74755f489_blackburn_th/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/412264223fc744c8baa7e3f74755f489_blackburn_th/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>collingwood.jpg</title>
+      <link>//localhost:3000/resources/collingwood/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/collingwood/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>crissy.jpg</title>
+      <link>//localhost:3000/resources/crissy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/crissy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>david g stock photo.png</title>
+      <link>//localhost:3000/resources/david-g-stock-photo_png/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/david-g-stock-photo_png/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>dhp_energy-courses.jpg</title>
+      <link>//localhost:3000/resources/dhp_energy-courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/dhp_energy-courses/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>dhp_entrepreneurship.jpg</title>
+      <link>//localhost:3000/resources/dhp_entrepreneurship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/dhp_entrepreneurship/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>dhp_environment.jpg</title>
+      <link>//localhost:3000/resources/dhp_environment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/dhp_environment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>dhp_transportation.jpg</title>
+      <link>//localhost:3000/resources/dhp_transportation2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/dhp_transportation2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Disease, Climate Shocks, and Wellbeing: a Long History of Social Response to Crisis</title>
+      <link>//localhost:3000/resources/2a2b6e3209bb4bbcb38eef04acb29388_social-response-crisis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/2a2b6e3209bb4bbcb38eef04acb29388_social-response-crisis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ecosystem_slate2.png</title>
+      <link>//localhost:3000/resources/ecosystem_slate2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/ecosystem_slate2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Emmanuel Kasigazi headshot.png</title>
+      <link>//localhost:3000/resources/emmanuel-kasigazi-headshot_png/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/emmanuel-kasigazi-headshot_png/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>emmanuel-kasi-small.jpg</title>
+      <link>//localhost:3000/resources/emmanuel-kasi-small_jpg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/emmanuel-kasi-small_jpg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>enersa.jpg</title>
+      <link>//localhost:3000/resources/enersa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/enersa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EOY 2022 Homepage v2.png</title>
+      <link>//localhost:3000/resources/eoy-2022-homepage-v2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/eoy-2022-homepage-v2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>eralp.jpg</title>
+      <link>//localhost:3000/resources/eralp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/eralp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>eTekkatho.jpg</title>
+      <link>//localhost:3000/resources/etekkatho2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/etekkatho2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>evelyn_laurito.jpg</title>
+      <link>//localhost:3000/resources/evelyn_laurito/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/evelyn_laurito/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gene_stark.jpg</title>
+      <link>//localhost:3000/resources/gene_stark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/gene_stark/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>gruber.jpg</title>
+      <link>//localhost:3000/resources/gruber/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/gruber/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>harjoko.jpg</title>
+      <link>//localhost:3000/resources/harjoko/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/harjoko/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>harrell.jpg</title>
+      <link>//localhost:3000/resources/harrell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/harrell/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>intro_sci_math.jpg</title>
+      <link>//localhost:3000/resources/intro_sci_math_jpg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/intro_sci_math_jpg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>June-Odongo-Senga-MIT-00.png</title>
+      <link>//localhost:3000/resources/june-odongo-senga-mit-00_png/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/june-odongo-senga-mit-00_png/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>khandelwal.jpg</title>
+      <link>//localhost:3000/resources/khandelwal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/khandelwal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>kianwahliew.jpg</title>
+      <link>//localhost:3000/resources/kianwahliew/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/kianwahliew/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>klug.jpg</title>
+      <link>//localhost:3000/resources/klug/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/klug/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kunle Adejumo</title>
+      <link>//localhost:3000/resources/b58280066cdf4f7281c13d3c7c85bb3f_kunle_th/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/b58280066cdf4f7281c13d3c7c85bb3f_kunle_th/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>kyle_lee.jpg</title>
+      <link>//localhost:3000/resources/kyle_lee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/kyle_lee/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Like Peanut Butter &amp; Jelly?</title>
+      <link>//localhost:3000/resources/49add2a2a8f640c886f9d90a690abbc9_peanut-butter-jelly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/49add2a2a8f640c886f9d90a690abbc9_peanut-butter-jelly/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Maria Karamitsou</title>
+      <link>//localhost:3000/resources/01fe9dba79f649438a18ebcd8ce159b5_karamitsou_th/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/01fe9dba79f649438a18ebcd8ce159b5_karamitsou_th/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>matt_zand.jpg</title>
+      <link>//localhost:3000/resources/matt_zand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/matt_zand/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>mba_core.jpg</title>
+      <link>//localhost:3000/resources/mba_core_jpg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/mba_core_jpg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MDemisse.jpg</title>
+      <link>//localhost:3000/resources/mdemisse_jpg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/mdemisse_jpg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>michael-pil-small.jpg</title>
+      <link>//localhost:3000/resources/michael-pil-small_jpg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/michael-pil-small_jpg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT Department of Mathematics and the General Institute Requirement</title>
+      <link>//localhost:3000/resources/mit-department-of-mathematics-and-the-general-institute-requirement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/mit-department-of-mathematics-and-the-general-institute-requirement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OCW Book FINAL_digital_high_res.pdf</title>
+      <link>//localhost:3000/resources/ocw-book-final_digital_high_res/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/ocw-book-final_digital_high_res/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ocw homepage ad day of.jpg</title>
+      <link>//localhost:3000/resources/ocw-homepage-ad-day-of_jpg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/ocw-homepage-ad-day-of_jpg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ocw homepage ad.jpg</title>
+      <link>//localhost:3000/resources/ocw-homepage-ad_jpg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/ocw-homepage-ad_jpg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OCW promo_June_303x182.png</title>
+      <link>//localhost:3000/resources/ocw-promo_june_303x182/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/ocw-promo_june_303x182/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OCW Spring 2024 Promo Carousel.png</title>
+      <link>//localhost:3000/resources/ocw-spring-2024-promo-carousel_png/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/ocw-spring-2024-promo-carousel_png/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OCW_FY23 EOY_homepage.png</title>
+      <link>//localhost:3000/resources/ocw_fy23-eoy_homepage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/ocw_fy23-eoy_homepage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OCW_FY23 EOY_promo_303×182_v1.png</title>
+      <link>//localhost:3000/resources/ocw_fy23-eoy_promo_303182_v1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/ocw_fy23-eoy_promo_303182_v1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OCW-Book-of-Impact_online_FINAL.pdf</title>
+      <link>//localhost:3000/resources/ocw-book-of-impact_online_final/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/ocw-book-of-impact_online_final/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>oll_cards.png</title>
+      <link>//localhost:3000/resources/oll_cards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/oll_cards/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>oll_generic.png</title>
+      <link>//localhost:3000/resources/oll_generic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/oll_generic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OLL_screenshot.jpeg</title>
+      <link>//localhost:3000/resources/oll_screenshot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/oll_screenshot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>oll-course-list-2900x858-8bit.png</title>
+      <link>//localhost:3000/resources/oll-course-list-2900x858-8bit_png/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/oll-course-list-2900x858-8bit_png/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>oll-cover.jpg</title>
+      <link>//localhost:3000/resources/oll-cover_jpg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/oll-cover_jpg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>pdote.jpg</title>
+      <link>//localhost:3000/resources/pdote_jpg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/pdote_jpg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Physics 8.01/8.02</title>
+      <link>//localhost:3000/resources/physics-8-01-8-02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/physics-8-01-8-02/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>promo_2023_video.png</title>
+      <link>//localhost:3000/resources/promo_2023_video_png/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/promo_2023_video_png/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Real conversations with inspiring MIT faculty about how they teach.</title>
+      <link>//localhost:3000/resources/b2c1e39b133349be99332b11c5640078_chalk-radio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/b2c1e39b133349be99332b11c5640078_chalk-radio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>rungta.jpg</title>
+      <link>//localhost:3000/resources/rungta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/rungta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SERC_sitehome</title>
+      <link>//localhost:3000/resources/serc_sitehome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/serc_sitehome/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>siddiqui.jpg</title>
+      <link>//localhost:3000/resources/siddiqui/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/siddiqui/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>sprouse.jpg</title>
+      <link>//localhost:3000/resources/sprouse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/sprouse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>talbert.jpg</title>
+      <link>//localhost:3000/resources/talbert/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/talbert/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>trent_parker.jpg</title>
+      <link>//localhost:3000/resources/trent_parker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/trent_parker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>tucker-foltz.jpg</title>
+      <link>//localhost:3000/resources/tucker-foltz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/tucker-foltz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tuhin Bagi</title>
+      <link>//localhost:3000/resources/86dcd75885f745d9b4e42dad1b449d8c_tuhin-bagi2-th/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/86dcd75885f745d9b4e42dad1b449d8c_tuhin-bagi2-th/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>tzevelekos_th.png</title>
+      <link>//localhost:3000/resources/tzevelekos_th/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/tzevelekos_th/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>youtube_views.png</title>
+      <link>//localhost:3000/resources/youtube_views/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/resources/youtube_views/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

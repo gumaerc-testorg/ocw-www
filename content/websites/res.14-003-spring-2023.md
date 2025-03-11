@@ -15,7 +15,6 @@ course_image_thumbnail:
   website: the-roosevelt-project
 course_title: The Roosevelt Project
 department_numbers:
-- RES
 - '14'
 extra_course_numbers: ''
 hide_download: true
@@ -26,8 +25,8 @@ instructors:
 learning_resource_types: []
 legacy_uid: ''
 level:
-- Non Credit
-primary_course_number: res.14-003
+- Non-Credit
+primary_course_number: RES.14-003
 term: Spring
 title: The Roosevelt Project
 topics:
@@ -41,7 +40,7 @@ topics:
 - - Social Science
   - Public Administration
   - Public Policy
-uid: fd5f3f34-f1dc-4c4e-85c1-aab0af2ce689
+uid: 41e84738-85a7-47c5-84e4-98fcb5ddcbb8
 url_path: courses/res-14-003-the-roosevelt-project-spring-2023
 year: '2023'
 ---

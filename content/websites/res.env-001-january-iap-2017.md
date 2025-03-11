@@ -21,9 +21,9 @@ course_image_thumbnail:
   website: res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017
 course_title: 'Climate Action Hands-On: Harnessing Science with Communities to Cut
   Carbon'
-department_numbers:
-- RES
+department_numbers: []
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 5751a0fc-f84e-1760-382c-dd30ecd58bdf
@@ -44,7 +44,7 @@ learning_resource_types:
 - Lecture Notes
 legacy_uid: b7f650e9-5cca-febf-3b33-43920b354823
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.ENV-001
 term: January IAP
 title: 'Climate Action Hands-On: Harnessing Science with Communities to Cut Carbon'

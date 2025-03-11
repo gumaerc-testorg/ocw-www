@@ -38,7 +38,7 @@ course_image_thumbnail:
   website: res-cms-001-media-literacy-in-the-age-of-deepfakes-spring-2021
 course_title: Media Literacy in the Age of Deepfakes
 department_numbers:
-- RES
+- CMS-W
 extra_course_numbers: ''
 hide_download: false
 instructors:
@@ -49,7 +49,7 @@ instructors:
 learning_resource_types: []
 legacy_uid: 5add8071-81dd-a657-cf2d-a245b8f76e0a
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.CMS-001
 term: Spring
 title: Media Literacy in the Age of Deepfakes

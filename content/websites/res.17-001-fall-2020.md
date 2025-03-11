@@ -27,7 +27,7 @@ course_image_thumbnail:
   website: res-17-001-mit-election-data-science-lab-fall-2020
 course_title: MIT Election Data + Science Lab
 department_numbers:
-- RES
+- '17'
 extra_course_numbers: ''
 hide_download: true
 instructors:
@@ -37,7 +37,7 @@ instructors:
 learning_resource_types: []
 legacy_uid: 468688ca-d662-7ab1-b796-ff0347ca8a18
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.17-001
 term: Fall
 title: MIT Election Data + Science Lab

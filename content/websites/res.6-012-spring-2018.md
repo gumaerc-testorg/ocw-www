@@ -23,8 +23,9 @@ course_image_thumbnail:
   website: res-6-012-introduction-to-probability-spring-2018
 course_title: Introduction to Probability
 department_numbers:
-- RES
+- '6'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 67510421-f963-0cd2-3854-bfc58720f2b4

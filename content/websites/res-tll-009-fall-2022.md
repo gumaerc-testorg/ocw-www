@@ -22,9 +22,9 @@ course_image_thumbnail:
   content: 734ed95f-60b9-4431-94a4-d90ddda7b492
   website: iit-joint-entrance-exam-preparation
 course_title: 'IIT Joint Entrance Exam Preparation '
-department_numbers:
-- RES
+department_numbers: []
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - e341d426-7d42-4419-aa40-f1164e17fe0e
@@ -34,12 +34,12 @@ learning_resource_types:
 legacy_uid: ''
 level:
 - High School
-primary_course_number: RES-TLL-009
+primary_course_number: RES.TLL-009
 term: Fall
 title: 'IIT Joint Entrance Exam Preparation '
 topics:
 - - Teaching and Education
-uid: 13edcdaa-1b7a-44f0-95c6-feb71688479d
+uid: f768741f-238c-4481-b4e3-93be7797bc04
 url_path: courses/res-tll-009-iit-joint-entrance-exam-preparation-fall-2022
 year: '2022'
 ---
