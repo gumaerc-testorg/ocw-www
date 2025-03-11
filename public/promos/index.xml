@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Promos on MIT OpenCourseWare</title>
+    <link>//localhost:3000/promos/</link>
+    <description>Recent content in Promos on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:3000/promos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another year of great growth and learning</title>
+      <link>//localhost:3000/promos/another-year-of-great-growth-and-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/promos/another-year-of-great-growth-and-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chalk Radio: a podcast about inspired teaching at MIT</title>
+      <link>//localhost:3000/promos/real-conversations-with-inspiring-mit-faculty-about-how-they-teach2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/promos/real-conversations-with-inspiring-mit-faculty-about-how-they-teach2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT 24-Hour Challenge begins this Thursday</title>
+      <link>//localhost:3000/promos/mit-24-hour-challenge-begins-this-thursday/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/promos/mit-24-hour-challenge-begins-this-thursday/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT Open Learning Library</title>
+      <link>//localhost:3000/promos/mit-open-learning-library/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/promos/mit-open-learning-library/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -20,8 +20,9 @@ course_image_thumbnail:
   website: res-11-002-intentional-public-disruptions-art-responsibility-and-pedagogy-fall-2017
 course_title: 'Intentional Public Disruptions: Art, Responsibility, and Pedagogy'
 department_numbers:
-- RES
+- '11'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 5974e097-a52d-7ddc-0396-0882524db092

@@ -20,10 +20,9 @@ course_image:
 course_image_thumbnail:
   content: ''
   website: reshs-001-chandra-astrophysics-institute
-course_title: RES.HS-001 Chandra Astrophysics Institute
+course_title: Chandra Astrophysics Institute
 department_numbers:
 - RES
-draft: true
 extra_course_numbers: ''
 hide_download: false
 instructors:
@@ -35,21 +34,20 @@ instructors:
   - 045d2e41-704c-4bca-8cb3-3eb4ade6009b
   website: ocw-www
 learning_resource_types:
-- Image Gallery
 - Activity Assignments
-- Tools
 - Lecture Videos
+- Tools
 legacy_uid: ''
 level:
 - High School
 primary_course_number: RES.HS-001
 site_short_id: RES.HS-001
 term: ''
-title: RES.HS-001 Chandra Astrophysics Institute
+title: Chandra Astrophysics Institute
 topics:
 - - Science
   - Physics
 uid: 79293a1a-d543-4072-a5a3-2c2778caddbe
-url_path: courses/res-hs-001-res-hs-001-chandra-astrophysics-institute
+url_path: courses/res-hs-001-chandra-astrophysics-institute
 year: ''
 ---

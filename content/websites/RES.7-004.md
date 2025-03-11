@@ -19,7 +19,7 @@ course_image_thumbnail:
   website: bionook
 course_title: BioNook Online Biology Resources
 department_numbers:
-- RES
+- '7'
 extra_course_numbers: ''
 hide_download: true
 instructors:
@@ -30,7 +30,7 @@ learning_resource_types:
 - Other Video
 legacy_uid: ''
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.7-004
 term: Spring
 title: BioNook Online Biology Resources

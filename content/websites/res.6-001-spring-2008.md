@@ -43,8 +43,9 @@ course_image_thumbnail:
   website: res-6-001-electromagnetic-fields-and-energy-spring-2008
 course_title: Electromagnetic Fields and Energy
 department_numbers:
-- RES
+- '6'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - cc6d813a-ef80-def3-fd07-90720066e417
@@ -57,7 +58,8 @@ learning_resource_types:
 - Lecture Videos
 - Problem Sets with Solutions
 legacy_uid: a12d367b-7ec6-32cf-a454-375b0e0a66f5
-level: []
+level:
+- Undergraduate
 primary_course_number: RES.6-001
 term: Spring
 title: Electromagnetic Fields and Energy

@@ -12,7 +12,7 @@ course_description: 'First published in 1968 by John Wiley and Sons, Inc., _Elec
   of biological systems, and magnetoelasticity.
 
 
-  An accompanying [solutions manual](/resources/res-6-003-electromechanical-dynamics-spring-2009/solutions-manual)
+  An accompanying [solutions manual](/courses/res-6-003-electromechanical-dynamics-spring-2009/pages/solutions-manual)
   for the problems in the text is provided.
 
   '
@@ -24,8 +24,9 @@ course_image_thumbnail:
   website: res-6-003-electromechanical-dynamics-spring-2009
 course_title: Electromechanical Dynamics
 department_numbers:
-- RES
+- '6'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 02f06cbf-8e91-f6bd-e3a6-5852b886276c

@@ -40,7 +40,7 @@ learning_resource_types:
 - Lecture Videos
 legacy_uid: ''
 level:
-- Non-Credit
+- Non Credit
 primary_course_number: RES.9-007
 term: Spring
 title: MEG Workshop

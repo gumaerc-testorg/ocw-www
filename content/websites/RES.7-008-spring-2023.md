@@ -23,7 +23,6 @@ course_image_thumbnail:
 course_title: 7.28x Molecular Biology
 department_numbers:
 - '7'
-- RES
 extra_course_numbers: '7.58'
 hide_download: true
 instructors:

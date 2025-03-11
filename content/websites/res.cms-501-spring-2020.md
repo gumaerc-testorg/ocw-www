@@ -35,7 +35,7 @@ course_image_thumbnail:
   website: res-cms-501-envisioning-the-graduate-of-the-future-spring-2020
 course_title: Envisioning the Graduate of the Future
 department_numbers:
-- RES
+- CMS-W
 extra_course_numbers: ''
 hide_download: true
 instructors:
@@ -48,7 +48,7 @@ learning_resource_types:
 - Instructor Insights
 legacy_uid: b65781a7-5775-89f5-d06a-bbc842cbaa88
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.CMS-501
 term: Spring
 title: Envisioning the Graduate of the Future

@@ -18,7 +18,6 @@ course_image_thumbnail:
 course_title: Calculus Online Textbook
 department_numbers:
 - '18'
-- RES
 extra_course_numbers: ''
 hide_download: false
 instructors:

@@ -18,8 +18,9 @@ course_image_thumbnail:
   website: res-es-001-mit-prison-education-initiative-discussion-about-incarceration-january-iap-2021
 course_title: MIT Prison Education Initiative Discussion About Incarceration
 department_numbers:
-- RES
+- ES
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 95b526c2-4ddf-cfdd-68e4-7b25fa85c26f

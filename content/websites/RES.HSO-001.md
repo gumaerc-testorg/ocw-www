@@ -29,14 +29,15 @@ course_image_thumbnail:
 course_title: "MIT Haystack Observatory K\u201312 STEM Lesson Plans "
 department_numbers:
 - RES
-draft: true
 extra_course_numbers: ''
-hide_download: false
+hide_download: true
 instructors:
   content: []
   website: k-12-stem-lesson-plans
 learning_resource_types:
 - Lecture Notes
+- Activity Assignments
+- Projects
 legacy_uid: ''
 level:
 - High School

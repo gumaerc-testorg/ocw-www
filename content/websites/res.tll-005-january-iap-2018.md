@@ -36,7 +36,7 @@ learning_resource_types:
 - Lecture Videos
 legacy_uid: 336d0a58-15ff-0adb-bf45-bf87888ff7a2
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.TLL-005
 term: January IAP
 title: How to Speak

@@ -35,8 +35,9 @@ course_image_thumbnail:
   website: res-21w-01-angles-fall-2015
 course_title: Angles
 department_numbers:
-- RES
+- CMS-W
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - f4b9f8da-acb8-ed71-c553-106b6a963ea3
@@ -50,7 +51,7 @@ instructors:
 learning_resource_types: []
 legacy_uid: a0650c40-ba09-f16d-412d-b7c2c8430c06
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.21W-01
 term: Fall
 title: Angles

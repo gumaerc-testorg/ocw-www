@@ -1,0 +1,1 @@
+packages = ["https://duckdb.github.io/duckdb-pyodide/wheels/duckdb-0.10.2-cp311-cp311-emscripten_3_1_46_wasm32.whl"]

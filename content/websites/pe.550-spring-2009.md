@@ -37,6 +37,7 @@ course_title: Designing Your Life
 department_numbers:
 - PE
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 8cabf819-533f-6464-e7ad-5d2aa2e63561
@@ -51,7 +52,9 @@ level:
 primary_course_number: PE.550
 term: Spring
 title: Designing Your Life
-topics: []
+topics:
+- - Health and Medicine
+  - Mental Health
 uid: 81c6d419-5f9e-45e5-a766-6599e318b449
 url_path: courses/pe-550-designing-your-life-spring-2009
 year: '2009'

@@ -28,7 +28,7 @@ course_image_thumbnail:
   website: res-hst-001-mit-little-devices-lab-fall-2021
 course_title: MIT Little Devices Lab
 department_numbers:
-- RES
+- HST
 extra_course_numbers: ''
 hide_download: true
 instructors:
@@ -39,7 +39,7 @@ instructors:
 learning_resource_types: []
 legacy_uid: abc86ff9-d113-a96c-f0e1-24549b866cb8
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.HST-001
 term: Fall
 title: MIT Little Devices Lab

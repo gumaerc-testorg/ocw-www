@@ -24,7 +24,7 @@ course_image_thumbnail:
 course_title: 'Learn Differential Equations: Up Close with Gilbert Strang and Cleve
   Moler'
 department_numbers:
-- RES
+- '18'
 extra_course_numbers: ''
 hide_download: false
 instructors:

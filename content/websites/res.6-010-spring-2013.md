@@ -20,8 +20,9 @@ course_image_thumbnail:
   website: res-6-010-electronic-feedback-systems-spring-2013
 course_title: Electronic Feedback Systems
 department_numbers:
-- RES
+- '6'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 2540e332-fb7c-3c41-dc22-b19ac86c5c44

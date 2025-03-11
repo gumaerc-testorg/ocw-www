@@ -24,8 +24,9 @@ course_image_thumbnail:
   website: res-6-004-principles-of-computer-system-design-an-introduction-spring-2009
 course_title: 'Principles of Computer System Design: An Introduction'
 department_numbers:
-- RES
+- '6'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 1cae3612-db98-0fbf-87a4-130dffa8372a

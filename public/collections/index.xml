@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collections on MIT OpenCourseWare</title>
+    <link>//localhost:3000/collections/</link>
+    <description>Recent content in Collections on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:3000/collections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Africana Studies</title>
+      <link>//localhost:3000/collections/africana-studies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/collections/africana-studies/</guid>
+      <description>&lt;p&gt;In collaboration with a network of Historically Black Colleges and Universities (HBCUs), MIT OpenCourseWare has curated this collection of OCW courses related to Africana, African American, and Black Studies topics.  &lt;/p&gt;&#xA;&lt;p&gt;Learn more about OCW&amp;rsquo;s collaboration with HBCUs and MERLOT in this &lt;a href=&#34;https://www.ocw-openmatters.org/2022/12/20/from-open-access-to-educational-equity-an-hbcumerlotmit-ocw-collaboration/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog post&lt;/a&gt;, and see this MIT OpenCourseWare Africana Studies course collection also &lt;a href=&#34;https://merlot.org/merlot/viewBookmarkCollection.htm?id=1383837&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;on the MERLOT website&lt;/a&gt;. This work is part of the &lt;a href=&#34;https://www.hbcuals.org/cultural_collections.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HBCU Affordable Learning Solutions Cultural Collections&lt;/a&gt;, and is one of the initiatives of the &lt;a href=&#34;https://www.hbcuals.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HBCU Affordable Learning Solutions (AL$) Community Portal&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Energy</title>
+      <link>//localhost:3000/collections/energy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/collections/energy/</guid>
+      <description>&lt;p&gt;Photo by Flickr user &lt;a href=&#34;http://www.flickr.com/photos/waders/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Changhua Coast Conservation Action&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Seeking to understand and transform the world’s energy systems, MIT researchers and students investigate all aspects of energy. They discover new ways of generating and storing energy, as in creating biofuels from plant waste and in holding electricity from renewable sources in cost-effective, high-capacity batteries. They create models and design experiments to determine how we can improve energy efficiency at all scales, from nanostructures and photovoltaic cells to large power plants and smart electrical grids. They analyze how people make decisions about energy, whether as individual consumers or whole nations, and they forecast what the social and environmental consequences of these decisions might be.  &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Entrepreneurship</title>
+      <link>//localhost:3000/collections/entrepreneurship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/collections/entrepreneurship/</guid>
+      <description>&lt;p&gt;Photo by Flickr user &lt;a href=&#34;http://www.flickr.com/photos/dustyreagan/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DustyReagan&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Massachusetts Institute of Technology has always been associated with major scientific and technological breakthroughs. But the breakthroughs alone do not explain the impact that MIT has had on the world. For that we have to look at entrepreneurship, which starts with the &amp;ldquo;Mens et Manus&amp;rdquo; (Mind and Hand) slogan on the Great Seal of MIT. For faculty, students, and alumni, MIT is all about making discoveries and inventions and then applying these discoveries and inventions to solve real problems. In a very tangible way, MIT faculty and graduates invent the future, and entrepreneurship—the building of new businesses—is often the road to that future. &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Environment &amp; Sustainability</title>
+      <link>//localhost:3000/collections/environment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/collections/environment/</guid>
+      <description>&lt;p&gt;Photo license: CC Zero (public domain)&lt;/p&gt;&#xA;&lt;p&gt;Like so many of the big challenges taken on at MIT, environmental and sustainability issues demand an interdisciplinary perspective.&lt;/p&gt;&#xA;&lt;p&gt;From declining fisheries to acute urban pollution to record-breaking global temperatures, the evidence of human impact on the environment continues to mount. And at the same time, the environment shapes us, as human society and institutions are built upon our connection to the weather, land, water, and other species. What can we learn from ecological systems and cycles? What solutions will allow people and the planet to thrive? &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introductory Programming</title>
+      <link>//localhost:3000/collections/introductory-programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/collections/introductory-programming/</guid>
+      <description>&lt;p&gt;This page will help you begin to learn programming and computer science, with some suggested introductory courses on OCW.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introductory Science and Math</title>
+      <link>//localhost:3000/collections/introductory-science-and-math/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/collections/introductory-science-and-math/</guid>
+      <description>&lt;p&gt;Some of OCW’s most widely used courses are introductions to science and math, which together form MIT&amp;rsquo;s &lt;a href=&#34;https://firstyear.mit.edu/academics-exploration/general-institute-requirements-girs/science-core/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Core&lt;/a&gt;. These foundational subjects in calculus, physics, chemistry, and biology are a key part of MIT’s &lt;a href=&#34;https://firstyear.mit.edu/academics-exploration/general-institute-requirements-girs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;General Institute Requirements (GIR)&lt;/a&gt; for all undergraduate students.&lt;/p&gt;&#xA;&lt;p&gt;MIT offers several related but varied treatments of each subject, in order to match the learner&amp;rsquo;s particular interests and level of preparation. There is more than one way to learn these key concepts, for instance with differing emphasis on theory or on real-world applications, and so OCW shares some of the varied treatments offered at MIT.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MBA First-Semester Core</title>
+      <link>//localhost:3000/collections/sloan-mba-first-semester-core/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/collections/sloan-mba-first-semester-core/</guid>
+      <description>&lt;p&gt;Are you drawn to business? Thinking about an MBA? With OCW, you can learn alongside the next generation of business leaders studying at MIT.&lt;/p&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://mitsloan.mit.edu/mba/explore-program/mba-curriculum&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MBA program at MIT’s Sloan School of Management&lt;/a&gt; begins with a collection of courses known as the &amp;ldquo;first-semester core.&amp;rdquo; Through this shared experience, students gain fundamental skills in six required core courses. Five of these six courses are on OCW and listed below. The sixth required core course, &lt;em&gt;Leadership Challenges for an Inclusive World&lt;/em&gt;, is not yet on OCW, but learners may find useful materials among many other &lt;a href=&#34;https://ocw.c4103.com/search/?d=Sloan%20School%20of%20Management&amp;amp;q=leadership&amp;amp;s=-runs.best_start_date&amp;amp;t=Leadership&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;leadership courses&lt;/a&gt; on OCW.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MIT Open Learning Library</title>
+      <link>//localhost:3000/collections/mit-open-learning-library/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/collections/mit-open-learning-library/</guid>
+      <description>&lt;p&gt;The MIT Open Learning Library is home to selected educational content from MIT OpenCourseWare and &lt;a href=&#34;https://www.edx.org/school/mitx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MITx courses&lt;/a&gt;, available for free to anyone in the world at any time. &lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;How MIT Open Learning Library Differs from MIT OpenCourseWare and MITx on edX&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;You can think of OCW, MITx, and Open Learning Library along a spectrum of learning scenarios, presenting content in different formats to meet different learner needs. &lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;MITx courses&lt;/strong&gt; are end-to-end course experiences with optional certificates available for you to earn, live teaching support and interaction with other learners in discussion forums, and start and end dates.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;MIT OpenCourseWare&lt;/strong&gt; offers a completely self-guided experience with published content from MIT courses that is open all of the time and licensed for download, remix, and reuse, but does not offer certificates nor interaction with teachers and learners. &lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;MIT Open Learning Library&lt;/strong&gt; sits in between MITx and OCW. As in many MITx courses, Open Learning Library provides interactive course experiences that include auto-graded assessments that give you instant feedback and allow you to track your progress as you work your way through the subject matter. And like OCW, this content is always open and self-guided and includes no live support, discussion forum, or certificates.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;MIT is committed to sharing learning materials with the world. The Open Learning Library provides additional opportunities to learn from MIT at your own pace, engaging with interactive problems and receiving instant feedback.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Transportation</title>
+      <link>//localhost:3000/collections/transportation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:3000/collections/transportation/</guid>
+      <description>&lt;p&gt;Photo by &lt;a href=&#34;http://www.flickr.com/photos/windsordi/4972633078/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;windsordi&lt;/a&gt; on Flickr.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://transportation.mit.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Transportation@MIT&lt;/a&gt; is a coordinated effort to address one of civilization&amp;rsquo;s most pressing challenges: the environmental impact of the world&amp;rsquo;s ever-increasing demand for transportation.&lt;/p&gt;&#xA;&lt;p&gt;Hundreds of MIT faculty members work in areas related to transportation, from motor vehicles to urban infrastructure planning to aviation efficiency to adaptive technologies and their influence on personal behavior.&lt;/p&gt;&#xA;&lt;p&gt;The Transportation@MIT initiative knits together the wide-ranging, robust research already under way at the Institute and creates new opportunities for education and innovation.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -21,7 +21,7 @@ course_image_thumbnail:
 course_title: "Learning Chinese: A Foundation Course in Mandarin (\u6C49\u8BED\u57FA\
   \u7840\u6559\u6750)"
 department_numbers:
-- RES
+- 21G
 extra_course_numbers: ''
 hide_download: false
 instructors:

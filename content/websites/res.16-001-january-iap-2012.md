@@ -38,8 +38,9 @@ course_image_thumbnail:
   website: res-16-001-lean-enterprise-en-espanol-january-iap-2012
 course_title: "Lean Enterprise en Espa\xF1ol"
 department_numbers:
-- RES
+- '16'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - ff38ba94-82e8-6f1a-4866-d7ff8f123a94

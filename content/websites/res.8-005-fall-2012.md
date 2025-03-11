@@ -9,7 +9,7 @@ course_description: '[_8.03 Physics III: Vibrations and Waves_](/courses/8-03sc-
   include mechanical vibrations and waves, electromagnetic waves, and optics. These
   Problem Solving Help Videos provide step-by-step solutions to sample problems. Also
   included is information about how Physics III is typically taught on the MIT campus.
-  [Instructor Insights](/resources/res-8-005-vibrations-and-waves-problem-solving-fall-2012/instructor-insights/)
+  [Instructor Insights](/courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/pages/instructor-insights)
   are shared by Professor Wit Busza who has taught Physics III and its associated
   recitation sessions many times. Professor Busza''s insights focus on his approach
   to problem solving, strategies for supporting students as they solve problems, and
@@ -28,8 +28,9 @@ course_image_thumbnail:
   website: res-8-005-vibrations-and-waves-problem-solving-fall-2012
 course_title: Vibrations and Waves Problem Solving
 department_numbers:
-- RES
+- '8'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 39e8903d-d873-9b43-a229-51fa23b19dd0

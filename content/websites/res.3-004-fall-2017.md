@@ -16,8 +16,9 @@ course_image_thumbnail:
   website: res-3-004-visualizing-materials-science-fall-2017
 course_title: Visualizing Materials Science
 department_numbers:
-- RES
+- '3'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 2b564674-83e7-2355-c87b-0e1734d4c8ee

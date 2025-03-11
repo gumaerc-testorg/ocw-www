@@ -16,11 +16,11 @@ course_description: "This is not a metallurgy class! Learn everything you ever w
   \ Technique with Paul Buckley\n- History of Heavy Metal, Part I\n- Connections Between\
   \ Metal and Literature with Dean Swinford\n- History of Heavy Metal: Part II\n-\
   \ GeoShred and Technology-Based Expressive Musical Instruments with Jordan Rudess\n\
-  - History of Heavy Metal: Part III\n\nThe [2021 and 2022 class video lectures](https://metal.mit.edu/archive)\
-  \ are also available on the site.\n\n\\**IAP is a 4-week term at MIT in January\
-  \ that provides members of the MIT community with an opportunity to organize, sponsor,\
-  \ and participate in activities and topics that are often outside of the regular\
-  \ MIT curriculum*."
+  - History of Heavy Metal: Part III\n\nThe [class video lectures from 2021 to the\
+  \ present](https://metal.mit.edu/class-archive) are available on the site.\n\n\\\
+  **IAP is a 4-week term at MIT in January that provides members of the MIT community\
+  \ with an opportunity to organize, sponsor, and participate in activities and topics\
+  \ that are often outside of the regular MIT curriculum*."
 course_image:
   content: 4bbc0794-5d3a-4051-920c-74f4639839a4
   website: heavy-metal-101
@@ -30,7 +30,6 @@ course_image_thumbnail:
 course_title: Heavy Metal 101
 department_numbers:
 - 21M
-- RES
 extra_course_numbers: ''
 hide_download: true
 instructors:
@@ -42,7 +41,7 @@ learning_resource_types:
 - Demonstration Audio
 legacy_uid: ''
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.21M-001
 term: January IAP
 title: Heavy Metal 101

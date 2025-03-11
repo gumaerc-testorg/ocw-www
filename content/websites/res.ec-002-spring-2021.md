@@ -23,7 +23,7 @@ course_image_thumbnail:
   website: res-ec-002-lean-research-skills-for-conducting-interviews-spring-2021
 course_title: Lean Research Skills for Conducting Interviews
 department_numbers:
-- RES
+- EC
 extra_course_numbers: ''
 hide_download: true
 instructors:

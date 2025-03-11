@@ -18,9 +18,9 @@ course_image_thumbnail:
   content: f2c3f3dd-4215-485c-a58d-aa4d1bcb3fc7
   website: ll-educate-introduction-to-engineering-concepts
 course_title: 'LL EduCATE: Introduction to Engineering Concepts'
-department_numbers:
-- RES
+department_numbers: []
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - ddbd5bd4-f826-4813-b784-bd44215fe9f4

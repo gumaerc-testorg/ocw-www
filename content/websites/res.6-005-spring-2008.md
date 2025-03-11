@@ -33,8 +33,9 @@ course_image_thumbnail:
   website: res-6-005-understanding-lasers-and-fiberoptics-spring-2008
 course_title: Understanding Lasers and Fiberoptics
 department_numbers:
-- RES
+- '6'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 2d094e0f-57f5-e0ee-46da-3da67faad7c8

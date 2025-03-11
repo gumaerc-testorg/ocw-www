@@ -23,8 +23,9 @@ course_image_thumbnail:
   website: res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008
 course_title: 'Electromagnetic Field Theory: A Problem Solving Approach'
 department_numbers:
-- RES
+- '6'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 563af061-106b-b1e4-e8d2-bc3d6873e258

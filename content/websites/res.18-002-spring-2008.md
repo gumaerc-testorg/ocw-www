@@ -24,8 +24,9 @@ course_image_thumbnail:
   website: res-18-002-introduction-to-matlab-spring-2008
 course_title: Introduction to MATLAB
 department_numbers:
-- RES
+- '18'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - c0b57fe0-cef5-2533-2569-1640ac72a098

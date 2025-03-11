@@ -10,16 +10,22 @@ course_description: 'The goal of the Climate Primer website is to summarize the 
   We hope that the facts prepare you for more effective conversations with your community
   about values, trade-offs, politics, and actions.
 
-  '
+
+  In March 2024, the MIT Environmental Solutions Initiative launched the first major
+  update to the Climate Primer. The updated Primer includes more precise estimates
+  of future global warming and its effects on global temperatures and extreme weather
+  events, important advances in climate modeling, new actions taken around the world
+  to adapt to the impacts of climate change, and the latest data about the pace at
+  which clean energy and other critical climate solutions are being deployed. [Read
+  more about the update on the MIT Environmental Solutions website](https://environmentalsolutions.mit.edu/news/a-refreshed-mit-climate-primer-to-better-serve-students-educators-and-the-climate-curious/).'
 course_image:
   content: 37be82fa-3a6b-26e5-9b10-86a57f553849
-  website: res-env-005-climate-science-risk-solutions-a-climate-primer-fall-2020
+  website: res-env-005-climate-science-risk-solutions-a-climate-primer
 course_image_thumbnail:
   content: 87ffee56-2b71-2844-6476-354cc616c3df
-  website: res-env-005-climate-science-risk-solutions-a-climate-primer-fall-2020
+  website: res-env-005-climate-science-risk-solutions-a-climate-primer
 course_title: 'Climate Science, Risk & Solutions: A Climate Primer'
-department_numbers:
-- RES
+department_numbers: []
 extra_course_numbers: ''
 hide_download: true
 instructors:
@@ -29,11 +35,12 @@ instructors:
 learning_resource_types:
 - Other Video
 - Other Audio
+- Course Introduction
 legacy_uid: 146c052a-70f8-812e-2ddb-876abeb9f21f
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.ENV-005
-term: Fall
+term: ''
 title: 'Climate Science, Risk & Solutions: A Climate Primer'
 topics:
 - - Energy
@@ -47,6 +54,6 @@ topics:
   - Earth Science
   - Sustainability
 uid: dfbd66d1-c842-4917-a045-40c935310cfb
-url_path: courses/res-env-005-climate-science-risk-solutions-a-climate-primer-fall-2020
-year: '2020'
+url_path: courses/res-env-005-climate-science-risk-solutions-a-climate-primer
+year: ''
 ---

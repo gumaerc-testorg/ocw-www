@@ -1,0 +1,95 @@
+/*!***********************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/src/index.js!./node_modules/sass-loader/dist/cjs.js!./course-v2/assets/css/instructor-insights.scss ***!
+  \***********************************************************************************************************************************************************************************/
+/* 32px == 2 x 16 */
+/* 28px == 2 x 16 */
+/* 24px == 1.5 x 16 */
+/* 20px */
+/* 18px */
+/* 16px */
+/* 14px */
+/* 12px */
+/* 32px */
+/* 24px */
+/* 36px */
+/* 28px */
+/* 32px */
+/* 24px */
+/* 36px */
+/* 28px */
+/* 22.4px */
+/* 20px */
+/* 25.6px */
+/* 24px */
+/* 22.4px */
+/* 20px */
+/* 25.6px */
+/* 24px */
+/* 16px */
+/* 16px */
+/* 16px */
+/* 16px */
+/* 14px */
+/* 16px */
+/* 14px */
+/* 16px */
+/* 12px */
+/* 28px */
+/* 12px */
+/* 28px */
+/* Preferred icon size = 24px */
+/* 28px */
+#course-content-section {
+  margin-top: 20px;
+  padding-right: 1.5rem;
+}
+#course-content-section p {
+  margin-bottom: 1.25rem;
+}
+#course-content-section .quotewrapper {
+  margin: 0;
+  line-height: 1.75em;
+}
+#course-content-section .quotewrapper blockquote,
+#course-content-section figcaption {
+  font-family: "Helvetica-Oblique", "Helvetica", sans-serif;
+  font-style: italic;
+  margin: 0;
+}
+#course-content-section .quotewrapper blockquote.quote {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #9c9d9e;
+}
+#course-content-section .quotewrapper .sigwrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+#course-content-section .quotewrapper figcaption.sig {
+  margin-left: auto;
+  text-transform: uppercase;
+  order: 2;
+  font-size: 1.25em;
+}
+#course-content-section .approx-students {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #a31f34;
+  border-radius: 50%;
+}
+#course-content-section .approx-students h1 {
+  margin-top: 0.75rem;
+  margin-bottom: 0;
+}
+#course-content-section .approx-students h1,
+#course-content-section .approx-students h2 {
+  color: #ffffff !important;
+  text-transform: none !important;
+  -webkit-user-select: none;
+          user-select: none;
+}
