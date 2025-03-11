@@ -3,12 +3,12 @@ content_type: page
 title: Life Sciences
 uid: 2a451235-30be-4733-b0c3-080e612424cf
 ---
-![banner_courses.jpg](https://ocw.mit.edu/courses/life-sciences/banner_courses.jpg)
+![banner_courses.jpg](https://ocw.c4103.com/courses/life-sciences/banner_courses.jpg)
 
 Today, Life Sciences topics and tools are present in almost all disciplines of science and technology. MIT is the leader in interdisciplinary Life Sciences research and education, and multiple departments offer majors and minors that have a [Life Sciences focus](http://lifesciences.mit.edu/). We present here a set of MIT courses that are Life Sciences-based. Pursuing an education in Life Sciences is both exciting and challenging, and we hope you experience both in viewing this collation!
 
-- [Notify me of course updates via RSS](http://ocw.mit.edu/rss/new/mit-newlifesciencescourses.xml)
-- [Other RSS feeds](https://ocw.mit.edu/help/rss)
+- [Notify me of course updates via RSS](http://ocw.c4103.com/rss/new/mit-newlifesciencescourses.xml)
+- [Other RSS feeds](https://ocw.c4103.com/help/rss)
 
 {{% resource_link eac2c4b0-93a1-4f67-97f7-86e08b7170a6 "Life Sciences: Aeronautics and Astronautics" %}}
 

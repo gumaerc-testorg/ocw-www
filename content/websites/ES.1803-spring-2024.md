@@ -4,7 +4,7 @@ _build:
   render: false
 content_type: website
 course_description: "This course, taught to students in MIT\u2019s Experimental Study\
-  \ Group, is equivalent to the Mathematics Department's [*18.03 Differential Equations*](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/).\
+  \ Group, is equivalent to the Mathematics Department's [*18.03 Differential Equations*](https://ocw.c4103.com/courses/18-03sc-differential-equations-fall-2011/).\
   \ They satisfy the same prerequisites and are geared to preparing students for downstream\
   \ science and engineering classes.\n\nMIT\u2019s [Experimental Study Group](https://esg.mit.edu/)\
   \ (ESG) is one of MIT\u2019s first-year learning communities. Small class sizes\

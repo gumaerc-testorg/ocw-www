@@ -4,7 +4,7 @@ draft: false
 title: The Class of 2009
 uid: d93fbd34-d215-4ed5-8906-900e179bc35c
 ---
-Thanks to the support from the Class of 2009, OCW was able to update the video lectures of [*5.111 Principles of Chemical Science*](https://old.ocw.mit.edu/courses/chemistry/5-111-principles-of-chemical-science-fall-2008) — a foundational MIT course serving hundreds of MIT students and thousands of learners around the globe every year.
+Thanks to the support from the Class of 2009, OCW was able to update the video lectures of [*5.111 Principles of Chemical Science*](https://old.ocw.c4103.com/courses/chemistry/5-111-principles-of-chemical-science-fall-2008) — a foundational MIT course serving hundreds of MIT students and thousands of learners around the globe every year.
 
 ## **What Was Made Possible by This Support**
 
@@ -24,7 +24,7 @@ The course also includes the complete reading and lecture notes for all 36 sessi
 
 ## **Making Connections Between the Sciences**
 
-To illuminate connections between chemistry and biology and spark students' excitement for chemistry, [frequent biology-related examples were incorporate into the lectures](https://old.ocw.mit.edu/courses/chemistry/5-111-principles-of-chemical-science-fall-2008/biology-related-examples). These in-class examples range from two to ten minutes, designed to succinctly introduce biological connections without sacrificing any chemistry content in the curriculum.
+To illuminate connections between chemistry and biology and spark students' excitement for chemistry, [frequent biology-related examples were incorporate into the lectures](https://old.ocw.c4103.com/courses/chemistry/5-111-principles-of-chemical-science-fall-2008/biology-related-examples). These in-class examples range from two to ten minutes, designed to succinctly introduce biological connections without sacrificing any chemistry content in the curriculum.
 
 A list of the biology-, medicine-, and MIT research-related examples used in 5.111 is provided in each example in a PDF. To reinforce the connections formed in lecture, biology-related problems were also include in each homework assignment.
 
@@ -34,7 +34,7 @@ A list of the biology-, medicine-, and MIT research-related examples used in 5.1
 
 Teaching a large class with 350 students is challenging, and success depends upon the strength and dedication of the Teaching Assistants (TAs). Because these first-year graduate students are considered part of the instructional team, TAs undergo a 5-day training prior to the start of the course.
 
-[They learn how to teach the subject](https://old.ocw.mit.edu/courses/chemistry/5-111-principles-of-chemical-science-fall-2008/ta-training) and about team building, active learning strategies, challenges in teaching 5.111, and diversity issues. The TAs’ shared experience fosters a sense of group identity among them, so they also support one other as a team.
+[They learn how to teach the subject](https://old.ocw.c4103.com/courses/chemistry/5-111-principles-of-chemical-science-fall-2008/ta-training) and about team building, active learning strategies, challenges in teaching 5.111, and diversity issues. The TAs’ shared experience fosters a sense of group identity among them, so they also support one other as a team.
 
 > *"We start the semester with a group of teaching assistants who are really excited about being part of the course. This has had such a wonderful impact on the learning experiences of students. They see that the whole teaching team wants to be there, is enthusiastic about the opportunity to teach them, and cares about each and every one of the students."*
 > 
@@ -46,9 +46,9 @@ Teaching a large class with 350 students is challenging, and success depends upo
 
 In publishing 5.111, the support the Class of 2009 helped create the opportunity for any learner to gain a deep understanding for the principles of chemistry. This course laid the groundwork for a more holistic approach to learning chemistry. OCW collaborated with Professor Drennan to create an OCW Scholar version of 5.111, known as 5.111SC, for learners interested in mastering foundational subjects at the college level, and includes similar content from 5.111.
 
-[*5.111SC Principles of Chemical Science*](https://old.ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014) is structured in linear fashion, progressing through five learning units: The Atom, Chemical Bonding and Structure, Thermodynamics and Chemical Equilibrium, Transition Metals and Oxidation-Reduction Reactions, and Chemical Kinetics.
+[*5.111SC Principles of Chemical Science*](https://old.ocw.c4103.com/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014) is structured in linear fashion, progressing through five learning units: The Atom, Chemical Bonding and Structure, Thermodynamics and Chemical Equilibrium, Transition Metals and Oxidation-Reduction Reactions, and Chemical Kinetics.
 
-[A Resource Index page collects and organizes](https://old.ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/resource-index) the course materials sequentially and by content type (video lectures, notes, problem sets, etc.), allowing learners to quickly find topics and see how all the content is connected and related to real world applications.
+[A Resource Index page collects and organizes](https://old.ocw.c4103.com/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/resource-index) the course materials sequentially and by content type (video lectures, notes, problem sets, etc.), allowing learners to quickly find topics and see how all the content is connected and related to real world applications.
 
 > *"You can tell Dr. Drennan really cares about the learning of her students. Everything is so clear and descriptive. Her lectures have forced me to rethink my previous aversion to Chemistry. All I can say is thank you!!"*
 > 
@@ -58,7 +58,7 @@ In publishing 5.111, the support the Class of 2009 helped create the opportunity
 
 {{< resource uuid="0d7a7778-325a-494c-b059-ef9fccb3c971" >}}
 
-Many of the topics in 5.111 are brought even more to life through accompanying [“Behind the Scenes at MIT” videos](https://old.ocw.mit.edu/courses/chemistry/5-111-principles-of-chemical-science-fall-2008/related-resources). Professor Drennan’s passion for chemistry and strong belief that chemistry can help solve some of the world’s problems led her to create this collection of short videos, featuring MIT researchers explaining how a textbook chemistry topic is essential both to their research and to an inspiring real-world application. The videos were produced by the [Drennan Research and Education Laboratory](http://drennan.mit.edu/) as part of a [Howard Hughes Medical Institute](http://www.hhmi.org/) (HHMI) Professors grant.
+Many of the topics in 5.111 are brought even more to life through accompanying [“Behind the Scenes at MIT” videos](https://old.ocw.c4103.com/courses/chemistry/5-111-principles-of-chemical-science-fall-2008/related-resources). Professor Drennan’s passion for chemistry and strong belief that chemistry can help solve some of the world’s problems led her to create this collection of short videos, featuring MIT researchers explaining how a textbook chemistry topic is essential both to their research and to an inspiring real-world application. The videos were produced by the [Drennan Research and Education Laboratory](http://drennan.mit.edu/) as part of a [Howard Hughes Medical Institute](http://www.hhmi.org/) (HHMI) Professors grant.
 
 The videos bring the why and the who of chemistry research into introductory classes. These videos help motivate students to learn chemistry, inspire students to tackle important scientific problems in their future careers, and expose students to the many faces of chemistry.
 

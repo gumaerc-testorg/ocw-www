@@ -7,7 +7,7 @@ course_description: 'These lecture notes and exercises (with solutions) cover MI
   multivariable calculus sequence as taught in Fall 2024.
 
 
-  The course [*18.02 Multivariable Calculus*](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
+  The course [*18.02 Multivariable Calculus*](https://ocw.c4103.com/courses/18-02sc-multivariable-calculus-fall-2010/)
   is a General Institute Requirement ([GIR](https://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/));
   every MIT student must pass this class in order to graduate. The first third of
   the course is dedicated to briefly covering some basic linear algebra. The rest

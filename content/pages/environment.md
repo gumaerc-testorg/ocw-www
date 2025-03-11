@@ -3,7 +3,7 @@ content_type: page
 title: Environment
 uid: 8149f7f9-0fef-43e0-ba51-e1f33aae2661
 ---
-![Photo of several people on a rocky hilltop overlooking a large city on the ocean coast.](https://ocw.mit.edu/courses/environment-courses/dhp_environment.jpg)
+![Photo of several people on a rocky hilltop overlooking a large city on the ocean coast.](https://ocw.c4103.com/courses/environment-courses/dhp_environment.jpg)
 
 Photo license: CC Zero (public domain)
 
@@ -15,8 +15,8 @@ MIT scholars, students and alumni are working to understand and help us make pro
 
 Use OCW materials from across these fields to expand your horizons and learn more about our relationship with the environment. The course list below is particularly inspired by two interdisciplinary MIT programs. Many of the undergraduate courses fall within the [undergraduate Environment and Sustainability Minor](http://environmentalsolutions.mit.edu/environment-sustainability-minor/) devised by MIT’s Environmental Solutions Initiative (ESI); the OCW course list employs the undergraduate minor’s four topic pillars. Many of the graduate-level courses are part of the [MIT Sloan School of Management Sustainability Certificate](http://mitsloan.mit.edu/sustainability/sustainability-certificate) curriculum.
 
-- [Notify me of course updates via RSS](https://ocw.mit.edu/rss/new/mit-newcourses-environment.xml)
-- [Other RSS feeds](https://ocw.mit.edu/help/rss)
+- [Notify me of course updates via RSS](https://ocw.c4103.com/rss/new/mit-newcourses-environment.xml)
+- [Other RSS feeds](https://ocw.c4103.com/help/rss)
 
 {{% resource_link f92bf6bd-def5-407d-822c-8f22480c44a6 "Environment: Earth Systems and Climate Science (5)" %}}
 

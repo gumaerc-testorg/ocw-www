@@ -4,7 +4,7 @@ _build:
   render: false
 content_type: website
 course_description: "This is the student project for the Spring 2024 MIT course\_\
-  [*21G.108 Chinese II (Streamlined)*](https://ocw.mit.edu/courses/21g-108-chinese-ii-streamlined-spring-2015/).\
+  [*21G.108 Chinese II (Streamlined)*](https://ocw.c4103.com/courses/21g-108-chinese-ii-streamlined-spring-2015/).\
   \ In the project, Chinese heritage language students explore various topics, including\
   \ the meaning of their Chinese names. Based on their discoveries, each student creates\
   \ an online book."

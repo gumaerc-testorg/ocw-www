@@ -20,7 +20,7 @@ course_description: "\u201C*Getting an education at MIT is like trying to drink 
   \nIf any significant changes are required to adapt it to the needs of another institution,\
   \ please clearly notify readers that the work is modified from the orginal version\
   \ and provide a link to this web site. For archival purposes, translators should\
-  \ notify [MIT OpenCourseWare](https://ocw.mit.edu/contact/) of their version."
+  \ notify [MIT OpenCourseWare](https://ocw.c4103.com/contact/) of their version."
 course_image:
   content: d88fdbd5-3c84-6d74-0566-1b773ab64d9f
   website: res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009

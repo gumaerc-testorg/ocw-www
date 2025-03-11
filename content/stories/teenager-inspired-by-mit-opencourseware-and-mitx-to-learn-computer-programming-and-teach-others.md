@@ -18,9 +18,9 @@ uid: 7082e81f-e654-4ee1-b596-1acac0250c13
 
 **By Stefanie Koperniak | MIT Open Learning**
 
-For David G., a sixteen-year-old from Southern California, career inspiration appeared in an unexpected way. He was scrolling through YouTube Shorts during his winter break when he saw a video about [MIT OpenCourseWare](https://ocw.mit.edu/). The person in the short explained how he learned to code from real MIT classes on this online platform. And the best part? These resources were all free.
+For David G., a sixteen-year-old from Southern California, career inspiration appeared in an unexpected way. He was scrolling through YouTube Shorts during his winter break when he saw a video about [MIT OpenCourseWare](https://ocw.c4103.com/). The person in the short explained how he learned to code from real MIT classes on this online platform. And the best part? These resources were all free.
 
-David was instantly intrigued. Although he was already an avid consumer of technology, he hadn’t previously thought of computer programming as something he could learn. But since the video linked to [6.0001 Introduction to Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) — taught by Professors Ana Bell, Eric Grimson, and John Guttag — he went to the course website and did just that.
+David was instantly intrigued. Although he was already an avid consumer of technology, he hadn’t previously thought of computer programming as something he could learn. But since the video linked to [6.0001 Introduction to Programming in Python](https://ocw.c4103.com/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) — taught by Professors Ana Bell, Eric Grimson, and John Guttag — he went to the course website and did just that.
 
 “It was really pure chance,” says David. He was only browsing YouTube to occupy his time. He didn’t expect to jumpstart an online learning journey. “I learned how to code from MIT without having stepped on campus.”
 
@@ -46,7 +46,7 @@ David saw the transformative power of free open-access education firsthand. Now 
 
 “I really believe in the idea that knowledge not put to use is useless knowledge, and to me the most useful way to use my coding knowledge is to share it with other people,” he says. “My hope is that I can use my knowledge to make coding understandable to kids in my community.”
 
-He is turning again to MIT OpenCourseWare as he prepares for college in the fall, studying [18.01 Single Variable Calculus](https://ocw.mit.edu/courses/18-01-calculus-i-single-variable-calculus-fall-2020/) and [8.01SC Classical Mechanics](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/).
+He is turning again to MIT OpenCourseWare as he prepares for college in the fall, studying [18.01 Single Variable Calculus](https://ocw.c4103.com/courses/18-01-calculus-i-single-variable-calculus-fall-2020/) and [8.01SC Classical Mechanics](https://ocw.c4103.com/courses/8-01sc-classical-mechanics-fall-2016/).
 
 “It’s so amazing to be able to access these lectures and courses, to think that I can be ‘sitting’ in an MIT lecture from wherever I am,” says David. “It’s such an incredible opportunity.”
 

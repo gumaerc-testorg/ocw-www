@@ -30,7 +30,7 @@ Eldouma grew up in Omdurman, Sudan, with her parents and siblings. She always ha
 
 In her second year at university, Eldouma struggled with her first coding courses in C++ and C#, which are general-purpose programming languages. When a teaching assistant introduced Eldouma and her classmates to MIT OpenCourseWare for additional support, she promptly worked through OpenCourseWare’s C++ and C courses in tandem with her in-person classes. This began Eldouma’s ongoing connection with the open educational resources available through MIT Open Learning.
 
-[OpenCourseWare](https://ocw.mit.edu/), part of MIT Open Learning, offers a free collection of materials from thousands of MIT courses, spanning the entire curriculum. To date, Eldouma has explored over 20 OpenCourseWare courses, and she says it is a resource she returns to regularly.
+[OpenCourseWare](https://ocw.c4103.com/), part of MIT Open Learning, offers a free collection of materials from thousands of MIT courses, spanning the entire curriculum. To date, Eldouma has explored over 20 OpenCourseWare courses, and she says it is a resource she returns to regularly.
 
  
 
