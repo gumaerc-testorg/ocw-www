@@ -22,6 +22,7 @@ department_numbers:
 - '6'
 - '18'
 extra_course_numbers: '456'
+file: /ocw-www
 hide_download: false
 instructors:
   content:
