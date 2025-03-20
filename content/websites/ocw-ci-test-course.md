@@ -37,6 +37,10 @@ legacy_uid: ''
 level:
 - Graduate
 - Undergraduate
+mit_learn_topics:
+- - Art, Design & Architecture
+- - Business & Management
+  - Business Analytics
 primary_course_number: '123'
 site_short_id: ocw-ci-test-course
 term: Fall
