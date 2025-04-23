@@ -1,8 +1,6 @@
 ---
 content_type: course-lists
 courses:
-- id: courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc
-  title: Social and Ethical Responsibilities of Computing (SERC)
 - id: courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023
   title: Matrix Calculus for Machine Learning and Beyond
 - id: courses/21g-010-introduction-to-european-and-latin-american-fiction-fall-2006
@@ -25,6 +23,8 @@ courses:
   title: What is Capitalism?
 - id: courses/es-010-chemistry-of-sports-spring-2013
   title: Chemistry of Sports
+- id: courses/21w-015-writing-and-rhetoric-writing-about-sports-fall-2013
+  title: 'Writing and Rhetoric: Writing about Sports'
 description: ''
 draft: false
 title: featured-courses-homepage
