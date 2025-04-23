@@ -7,7 +7,6 @@ image:
 is_quote: false
 leadquote: Students need to know that these things are available.
 location: Nigeria
-name: Kunle Adejumo
 occupation: Student
 title: Kunle Adejumo
 uid: 409dc50d-e9e3-440a-9c41-7a7a86c222d1

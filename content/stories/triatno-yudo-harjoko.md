@@ -8,7 +8,6 @@ is_quote: false
 leadquote: I was amazed that a university such as MIT would freely give access to
   its educational information.
 location: Indonesia
-name: Triatno Yudo Harjoko
 occupation: Educator
 title: Triatno Yudo Harjoko
 uid: 585bb2fb-be85-4860-9ad2-4867823cb872

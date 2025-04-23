@@ -7,7 +7,6 @@ image:
 leadquote: I found lecture notes, handouts and slides from presentations, and some
   problem sets. It helped me a lot.
 location: Greece
-name: Maria Karamitsou
 occupation: Student
 title: Maria Karamitsou
 uid: 1343a124-0598-425a-bad7-4cdb4717d6d8
@@ -26,7 +25,7 @@ As she began work on the project, Karamitsou realized that she needed outside so
 
 ## **Wavelets, Filter Banks, and Applications**
 
-[“Wavelets, Filter Banks, and Applications](https://ocw.c4103.com/courses/mathematics/18-327-wavelets-filter-banks-and-applications-spring-2003) had lots of information,” continues Karamitsou. “I didn’t find any videos, but I found lecture notes, handouts and slides from presentations, and some problem sets. It helped me a lot; I learned many, many things. I especially liked the fact that I saw many diagrams there. I was able to find almost the same information at my own university, but it was more theoretical. Sometimes I have a hard time with the theoretical style, and having all the information in mathematical style was very informative, and very helpful.”
+[“Wavelets, Filter Banks, and Applications](https://ocw.mit.edu/courses/mathematics/18-327-wavelets-filter-banks-and-applications-spring-2003) had lots of information,” continues Karamitsou. “I didn’t find any videos, but I found lecture notes, handouts and slides from presentations, and some problem sets. It helped me a lot; I learned many, many things. I especially liked the fact that I saw many diagrams there. I was able to find almost the same information at my own university, but it was more theoretical. Sometimes I have a hard time with the theoretical style, and having all the information in mathematical style was very informative, and very helpful.”
 
 Karamitsou has not yet had the opportunity to use OCW as a complement to her other courses, but she plans to take advantage of it in the near future.
 

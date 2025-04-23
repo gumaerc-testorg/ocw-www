@@ -8,7 +8,6 @@ is_quote: false
 leadquote: OCW refreshed all my interest in math and got me totally inspired by the
   material again. It changed my whole perspective.
 location: United States
-name: Jamie Tucker-Foltz
 occupation: Student
 title: Jamie Tucker-Foltz
 uid: df44228d-97c8-4cbd-82ab-0e13d1b800c1

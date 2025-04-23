@@ -9,7 +9,6 @@ leadquote: In the span of ~6 months, I went from a nearly unemployed dropout wit
   poor, ad hoc CS skills to a technical position at one of the world's leading technology
   firms, in large part thanks to the open availability of these materials.
 location: United States
-name: Trent Parker
 occupation: Self-Learner
 title: Trent Parker
 uid: 31686a66-6cd1-4cdd-b319-a58a8caee3ab

@@ -8,7 +8,6 @@ is_quote: false
 leadquote: I know if I can put on a resume that I have computer programming experience,
   I can use this skill to better my own life.
 location: United States
-name: Jack Berger
 occupation: Self-Learner
 title: Jack Berger
 uid: 459b58f8-e4a4-4297-bc27-33be435714d2

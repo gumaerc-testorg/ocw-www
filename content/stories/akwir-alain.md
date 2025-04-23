@@ -6,7 +6,6 @@ image:
   website: ocw-www
 leadquote: OCW gives rare and high-level knowledge explained in a simple way.
 location: Democratic Republic of Congo
-name: Akwir Alain
 occupation: Self-Learner
 title: Akwir Alain
 uid: 8bc054a4-d25a-42ad-8c4a-1270bd446491

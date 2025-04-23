@@ -10,7 +10,6 @@ leadquote: "Studying in a country where there are political issues going on, suc
   \ But thanks to OCW, now I do not have to worry about keeping [up] with the competing\
   \ world."
 location: Pakistan
-name: Tooba Siddiqui
 occupation: Student
 title: Tooba Siddiqui
 uid: 8ce252a2-08d0-403d-ac88-359f71722eb9

@@ -7,7 +7,7 @@ draft: false
 title: Why Give?
 uid: 81f177c8-d664-46ba-8f89-d73e96ea2c26
 ---
-![givecover-v1.png](https://old.ocw.c4103.com/give/why-give/givecoverv1.png)
+![givecover-v1.png](https://old.ocw.mit.edu/give/why-give/givecoverv1.png)
 
 Since our founding in 2001, MIT OpenCourseWare has been guided by a revolutionary mission to openly share educational resources from MIT with the world. The site presents the core academic content — including lecture notes, syllabi, assignments, and exams — from nearly all of MIT's undergraduate and graduate curricula. All content is offered freely and openly to support formal and informal learning around the world, whenever learners need them. Many of the site's 2,600+ courses also include rich media resources such as video lectures, faculty podcasts, and inspiring examples of student work. Over twenty years in, our commitment to deliver on this mission continues as we work on more accessible, collaborative, and resilient ways of sharing resources and knowledge for the future. 
 
@@ -33,7 +33,7 @@ OCW has inspired a worldwide movement that now includes hundreds of universities
 
 #### **What is the impact of OCW on the world?**
 
-No one better captures the impact OCW has on the world than the thousands of learners who use OCW each day, a vibrant community of university and high school students, educators, and independent and lifelong learners from all over the world. To hear their stories, we invite you to [read a compilation of some of the inspirational feedback](https://ocw.c4103.com/ans7870/global/OCW-Book-of-Impact_opt.pdf)  we've received over the years. We've created a 20th edition of the [OCW Book of Impact](https://ocw.c4103.com/ocw-www/20_years_of_ocw_impactv2.pdf)  that recognizes this milestone. 
+No one better captures the impact OCW has on the world than the thousands of learners who use OCW each day, a vibrant community of university and high school students, educators, and independent and lifelong learners from all over the world. To hear their stories, we invite you to [read a compilation of some of the inspirational feedback](https://ocw.mit.edu/ans7870/global/OCW-Book-of-Impact_opt.pdf)  we've received over the years. We've created a 20th edition of the [OCW Book of Impact](https://ocw.mit.edu/ocw-www/20_years_of_ocw_impactv2.pdf)  that recognizes this milestone. 
 
 To learn more about MIT OpenCourseWare's impact, [read our latest impact report](https://www.ocw-openmatters.org/give-to-ocw/2023-22-impact-of-ocw/) .
 

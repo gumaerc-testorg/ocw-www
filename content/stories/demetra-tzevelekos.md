@@ -8,7 +8,6 @@ is_quote: false
 leadquote: OCW gives me accessibility to a plethora of valuable resources and courses,
   thus enhancing my teaching.
 location: Greece
-name: Demetra Tzevelekos
 occupation: Educator
 title: Demetra Tzevelekos
 uid: e82b0d53-cf3a-4252-8c6e-3db0b946c378

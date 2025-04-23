@@ -7,7 +7,6 @@ image:
 is_quote: false
 leadquote: It's an important way to ensure the quality of my courses.
 location: United States
-name: Shirley Harrell
 occupation: Educator
 title: Shirley Harrell
 uid: b1c621e1-0b6d-432d-b8d0-e774460c029d

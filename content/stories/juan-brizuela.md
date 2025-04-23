@@ -7,7 +7,6 @@ image:
 leadquote: "Since I had already learned most first-year subjects [before] I applied\
   \ to the university, I didn\u2019t struggle as much as other students\u2026"
 location: Mexico
-name: Juan Brizuela
 occupation: Self-Learner
 title: Juan Brizuela
 uid: 0c805217-af2f-4973-a460-2002e94d69c9

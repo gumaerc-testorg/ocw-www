@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Various classroom images in hexagon shapes. Copy: Help unleash knowledge.'
 draft: false
-file: /ocw-www/eoy-2022-homepage-v2.png
+file: /ol-ocw-studio-app/ocw-www/eoy-2022-homepage-v2.png
 file_size: 113808
 metadata:
   caption: ''

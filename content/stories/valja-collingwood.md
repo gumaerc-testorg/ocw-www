@@ -8,7 +8,6 @@ is_quote: false
 leadquote: I used OCW to boost my knowledge of scientific concepts that I encounter
   daily at my job.
 location: United States
-name: Valja Collingwood
 occupation: Self-Learner
 title: Valja Collingwood
 uid: 4f3124fe-0d6d-43eb-83c8-f7b575a5531a

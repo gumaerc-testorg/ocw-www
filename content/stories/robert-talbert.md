@@ -8,7 +8,6 @@ is_quote: false
 leadquote: The course proved to me that you can teach elementary programming concepts
   in a clear, comprehensible way.
 location: United States
-name: Robert Talbert
 occupation: Educator
 title: Robert Talbert
 uid: 9bfc959f-0ba9-43ce-b025-c4ecc6eaf444

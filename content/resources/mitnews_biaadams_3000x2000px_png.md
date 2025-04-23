@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ocw-www/mitnews_biaadams_3000x2000px.png
+file: /ol-ocw-studio-app/ocw-www/mitnews_biaadams_3000x2000px.png
 file_size: 348521
 file_type: image/png
 image_metadata:

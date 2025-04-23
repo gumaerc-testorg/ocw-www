@@ -8,7 +8,6 @@ is_quote: false
 leadquote: "In school there are times when I don\u2019t completely understand a topic\
   \ that my teacher is lecturing. After I go to OCW, I understand it properly."
 location: India
-name: Tuhin Bagi
 occupation: Student
 title: Tuhin Bagi
 uid: 086ce670-5b3f-4c93-94e4-e94c9e63da8a

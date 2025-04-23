@@ -8,7 +8,6 @@ is_quote: false
 leadquote: Through OCW, I am part of a movement to help make education free and available
   to the world.
 location: United States
-name: Clinton Blackburn
 occupation: Student
 title: Clinton Blackburn
 uid: 508027f0-2071-4a59-8e9c-24b5f6783674

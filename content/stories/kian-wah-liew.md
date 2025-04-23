@@ -8,7 +8,6 @@ is_quote: false
 leadquote: OCW provides a chance for the students to get an idea of how it would be
   when studying abroad.
 location: Malaysia
-name: Kian Wah Liew
 occupation: Educator
 title: Kian Wah Liew
 uid: cd3fe9ba-4f20-4fa0-a6e8-503769717207
