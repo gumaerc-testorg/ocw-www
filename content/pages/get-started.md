@@ -10,7 +10,7 @@ uid: e166242e-6b45-43f0-9d17-9bbab1be91dd
 
 OCW is a free and open publication of material from thousands of MIT courses across the entire MIT curriculum. That's courses from every MIT department and degree program, and ranging from the introductory to the most advanced graduate level. 
 
-Each OCW course includes a syllabus, some instructional material (such as lecture notes or a reading list), and some learning activities (such as assignments or exams). Many courses also have [complete video lectures](https://ocw.c4103.com/search/?f=Lecture%20Videos&s=-runs.best_start_date), [free online textbooks](https://ocw.c4103.com/search/?f=Online%20Textbook&s=-runs.best_start_date), and [faculty teaching insights](https://ocw.c4103.com/search/?f=Instructor%20Insights&s=-runs.best_start_date). While some OCW content is custom-created for online use, most of it comes straight from the MIT classroom.
+Each OCW course includes a syllabus, some instructional material (such as lecture notes or a reading list), and some learning activities (such as assignments or exams). Many courses also have [complete video lectures](https://ocw.mit.edu/search/?f=Lecture%20Videos&s=-runs.best_start_date), [free online textbooks](https://ocw.mit.edu/search/?f=Online%20Textbook&s=-runs.best_start_date), and [faculty teaching insights](https://ocw.mit.edu/search/?f=Instructor%20Insights&s=-runs.best_start_date). While some OCW content is custom-created for online use, most of it comes straight from the MIT classroom.
 
 ## How do I use OCW?
 
@@ -18,7 +18,7 @@ You can freely browse the OCW collection and use it at your own pace. There's no
 
 MIT doesn't offer credit or certificates for using OCW. Instead, use OCW to guide your own life-long learning, or use OCW to teach others. Knowledge is your reward!
 
-OCW is made for sharing. Download and save files and complete courses for later. Send them to friends and colleagues. Modify or remix OCW content for any non-commercial use -- just remember to credit OCW as the source. It's all allowed and encouraged, per the terms of our [Creative Commons license](https://ocw.c4103.com/pages/privacy-and-terms-of-use/?__hstc=215508872.8b0d6a564d954ec36735e5f3e5a4d717.1644420099739.1648738214719.1648749631544.13&__hssc=215508872.18.1648749631544&__hsfp=689994695#cc).
+OCW is made for sharing. Download and save files and complete courses for later. Send them to friends and colleagues. Modify or remix OCW content for any non-commercial use -- just remember to credit OCW as the source. It's all allowed and encouraged, per the terms of our [Creative Commons license](https://ocw.mit.edu/pages/privacy-and-terms-of-use/?__hstc=215508872.8b0d6a564d954ec36735e5f3e5a4d717.1644420099739.1648738214719.1648749631544.13&__hssc=215508872.18.1648749631544&__hsfp=689994695#cc).
 
 More details are in the [Using OCW Materials](https://mitocw.zendesk.com/hc/en-us/sections/4414782464283-USING-OCW-MATERIALS) FAQs.
 
@@ -26,7 +26,7 @@ More details are in the [Using OCW Materials](https://mitocw.zendesk.com/hc/en-u
 
 The free materials on OCW are used by educators around the world in teaching, adapted and integrated into curricula that inspires and empowers learners. And by sharing MIT faculty’s teaching approaches with the world, OCW is also a setting for reflective dialog about the craft of teaching and using Open Educational Resources (OER).
 
-We encourage you to start by exploring OCW's [Educator page](https://ocw.c4103.com/educator/) which highlights content created and curated just for educators.
+We encourage you to start by exploring OCW's [Educator page](https://ocw.mit.edu/educator/) which highlights content created and curated just for educators.
 
 ## For Learners
 
@@ -36,11 +36,11 @@ It's up to you to decide what and how you'd like to learn. Study the materials i
 
 Some popular destinations include:
 
-- [Courses with Video or Audio Lectures](https://ocw.c4103.com/search/?f=Lecture%20Videos&s=-runs.best_start_date)
-- [Most Popular Courses](https://ocw.c4103.com/course-lists/most-popular-courses/)
-- [OCW Scholar Courses](https://ocw.c4103.com/course-lists/scholar-courses/)
+- [Courses with Video or Audio Lectures](https://ocw.mit.edu/search/?f=Lecture%20Videos&s=-runs.best_start_date)
+- [Most Popular Courses](https://ocw.mit.edu/course-lists/most-popular-courses/)
+- [OCW Scholar Courses](https://ocw.mit.edu/course-lists/scholar-courses/)
 
-For more inspiration, read [OCW Stories](https://ocw.c4103.com/stories/) from students and self-learners.
+For more inspiration, read [OCW Stories](https://ocw.mit.edu/stories/) from students and self-learners.
 
 ## Top Frequently Asked Questions
 
@@ -74,4 +74,4 @@ The course packs or reading materials used in many MIT courses contain proprieta
 
 **I have more questions…**
 
-Please see our complete [Help & FAQs](https://mitocw.zendesk.com/hc/en-us) section, or [contact us](https://ocw.c4103.com/contact) and a member of the OCW team will get back to you.
+Please see our complete [Help & FAQs](https://mitocw.zendesk.com/hc/en-us) section, or [contact us](https://ocw.mit.edu/contact) and a member of the OCW team will get back to you.
