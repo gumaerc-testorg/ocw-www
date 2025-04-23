@@ -50,17 +50,17 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 **Under the following terms:**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-![](https://ocw.c4103.com/terms/by.png)      
+![](https://ocw.mit.edu/terms/by.png)      
  
 {{< tdclose >}}{{< tdopen >}}
 **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-![](https://ocw.c4103.com/terms/nc.png)      
+![](https://ocw.mit.edu/terms/nc.png)      
  
 {{< tdclose >}}{{< tdopen >}}
 **Noncommercial** — You may not use the material for commercial purposes.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-![](https://ocw.c4103.com/terms/sa.png)      
+![](https://ocw.mit.edu/terms/sa.png)      
  
 {{< tdclose >}}{{< tdopen >}}
 **Share Alike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
@@ -87,7 +87,7 @@ No warranties are given. The license may not give you all of the permissions nec
 
 ### MIT Interpretation of "Non-commercial"
 
-*Non-commercial use* means that users may not sell, profit from, or commercialize OCW materials or works derived from them. The guidelines below are intended to help users determine whether or not their use of OCW materials would be permitted by MIT under the "non-commercial" restriction. Note that there are additional requirements (attribution and share alike) spelled out in our [license](https://ocw.c4103.com/terms/#cc).
+*Non-commercial use* means that users may not sell, profit from, or commercialize OCW materials or works derived from them. The guidelines below are intended to help users determine whether or not their use of OCW materials would be permitted by MIT under the "non-commercial" restriction. Note that there are additional requirements (attribution and share alike) spelled out in our [license](https://ocw.mit.edu/terms/#cc).
 
 1. **Commercialization is prohibited.** Users may *not* directly sell or profit from OCW materials or from works derived from OCW materials.        
       

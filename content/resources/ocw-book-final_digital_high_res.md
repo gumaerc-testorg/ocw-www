@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /ocw-www/ocw-book-final_digital_high_res.pdf
+file: /ol-ocw-studio-app/ocw-www/ocw-book-final_digital_high_res.pdf
 file_size: 72078600
 metadata:
   caption: ''

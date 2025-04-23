@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /ocw-www/ocw-book-of-impact_online_final.pdf
+file: /ol-ocw-studio-app/ocw-www/ocw-book-of-impact_online_final.pdf
 file_size: 55093819
 metadata:
   caption: ''
