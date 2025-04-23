@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/ahenshall_photo_by_lillie_paquette-small.jpg
+file: /ol-ocw-studio-app/ocw-www/ahenshall_photo_by_lillie_paquette-small.jpg
 file_size: 36470
 metadata:
   caption: ''

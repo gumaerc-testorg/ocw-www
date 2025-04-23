@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/chalk-radio2024.png
+file: /ol-ocw-studio-app/ocw-www/chalk-radio2024.png
 file_size: 94332
 metadata:
   caption: ''

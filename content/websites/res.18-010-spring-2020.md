@@ -13,9 +13,7 @@ course_description: "This collection of videos presents Professor Strang\u2019s 
   \ in 2021, *Finding the Nullspace: Solving Ax = 0 by Elimination*, computes the\
   \ nullspace of any matrix *A*.\n\nIn 2023, Professor Strang recorded a new one-hour\
   \ video, *Five Factorizations of a Matrix,* providing an overall look at linear\
-  \ algebra by highlighting five different ways that a matrix gets factored.\n\nTwo\
-  \ more videos were added in 2024:\_*The Four Fundamental Subspaces and Least Squares*\
-  \ and *Elimination and Factorization A = CR*"
+  \ algebra by highlighting five different ways that a matrix gets factored."
 course_image:
   content: 7cc0f4ea-3cbe-6ba1-0f16-c1bad81fb872
   website: res-18-010-a-2020-vision-of-linear-algebra-spring-2020
@@ -37,7 +35,6 @@ learning_resource_types:
 legacy_uid: cba1c1e2-2f7f-7fa3-07e1-55fd4c9215ef
 level:
 - Undergraduate
-mit_learn_topics: []
 primary_course_number: RES.18-010
 term: Spring
 title: A Vision of Linear Algebra

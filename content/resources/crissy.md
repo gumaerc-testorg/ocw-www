@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/crissy.jpg
+file: /ol-ocw-studio-app/ocw-www/crissy.jpg
 file_size: 10986
 metadata:
   caption: ''

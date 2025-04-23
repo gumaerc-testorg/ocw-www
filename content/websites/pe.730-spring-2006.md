@@ -20,6 +20,7 @@ course_title: Archery
 department_numbers:
 - PE
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 3bf2dc5c-cc04-9425-6c8f-25d6cdd23a8d

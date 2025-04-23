@@ -35,6 +35,7 @@ department_numbers:
 - '3'
 - '16'
 extra_course_numbers: 1.146,3.56,16.861
+hide_download: false
 instructors:
   content:
   - 51a9d14e-4604-f4af-6342-a08e5661acd3

@@ -8,7 +8,7 @@ course_description: "Algebra II is the second semester of a year-long introducti
   \ fields, polynomial rings, modules, factorization, integers in quadratic number\
   \ fields, field extensions, and Galois theory.\n\nThese notes, which were created\
   \ by students in a recent on-campus 18.702 Algebra II class, are offered here to\
-  \ supplement the materials included in OCW\u2019s\_[version of 18.702](https://ocw.c4103.com/courses/18-702-algebra-ii-spring-2011/).\
+  \ supplement the materials included in OCW\u2019s\_[version of 18.702](https://ocw.mit.edu/courses/18-702-algebra-ii-spring-2011/).\
   \ They have not been checked for accuracy by the instructors of that class or by\
   \ other MIT faculty members."
 course_image:

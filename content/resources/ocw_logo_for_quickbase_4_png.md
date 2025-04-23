@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ocw-www/ocw_logo_for_quickbase_4.png
+file: /ol-ocw-studio-app/ocw-www/ocw_logo_for_quickbase_4.png
 file_size: 296963
 file_type: image/png
 image_metadata:

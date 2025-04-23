@@ -24,6 +24,7 @@ course_title: Network Representations of Complex Engineering Systems
 department_numbers:
 - ESD
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 54e3f5ea-38b5-3365-97a4-07feb2d7ac86

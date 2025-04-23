@@ -22,6 +22,7 @@ department_numbers:
 - HST
 - '22'
 extra_course_numbers: 22.561J
+hide_download: false
 instructors:
   content:
   - 00b3adec-c5c4-043f-d95b-742af393d5b7

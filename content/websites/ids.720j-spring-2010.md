@@ -26,6 +26,7 @@ department_numbers:
 - '11'
 - '15'
 extra_course_numbers: 11.434,15.428,IDS.720J (formerly ESD.712)
+hide_download: false
 instructors:
   content:
   - 51a9d14e-4604-f4af-6342-a08e5661acd3

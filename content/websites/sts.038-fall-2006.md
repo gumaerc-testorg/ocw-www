@@ -22,6 +22,7 @@ course_title: 'Energy and Environment in American History: 1705-2005'
 department_numbers:
 - STS
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - c3ab8ab9-1f25-c915-4c35-32792fb1eec6

@@ -24,6 +24,7 @@ course_title: Sailing
 department_numbers:
 - PE
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 6df729b4-dc3f-b2b6-0242-74ea0f0db631

@@ -22,6 +22,7 @@ department_numbers:
 - '6'
 - '8'
 extra_course_numbers: 6.443J,8.371J
+hide_download: false
 instructors:
   content:
   - de94fd31-c5dc-a8bf-9674-7c242c7bdb65

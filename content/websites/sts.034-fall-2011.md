@@ -22,6 +22,7 @@ course_title: 'Science Communication: A Practical Guide'
 department_numbers:
 - STS
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 92e797ef-d94c-a78e-991f-4ab72112a8b5

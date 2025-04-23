@@ -24,6 +24,7 @@ course_title: Sensor Technologies for Interactive Environments
 department_numbers:
 - MAS
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 0f5148e1-6013-c8e8-7c67-47e8a3899132

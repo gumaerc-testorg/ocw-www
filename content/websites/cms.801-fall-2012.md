@@ -20,6 +20,7 @@ course_title: Media in Transition
 department_numbers:
 - CMS-W
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - fb803609-b896-c081-b3cb-f27d9ef3ed9d

@@ -5,7 +5,7 @@ _build:
 content_type: website
 course_description: "This book, Project Evaluation: Essays and Case Studies, is based\
   \ primarily upon materials prepared between 1997 and 2010 by Carl D. Martland for\
-  \ [*1.011 Project Evaluation*](https://ocw.c4103.com/courses/1-011-project-evaluation-spring-2011/),\
+  \ [*1.011 Project Evaluation*](https://ocw.mit.edu/courses/1-011-project-evaluation-spring-2011/),\
   \ a required course within MIT\u2019s Department of Civil & Environmental Engineering\
   \ that he designed, developed, and taught for many years. It is structured to be\
   \ of interest to anyone focused on infrastructure systems, especially engineers,\

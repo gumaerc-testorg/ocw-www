@@ -3,17 +3,13 @@ _build:
   list: true
   render: false
 content_type: website
-course_description: 'These lecture notes and exercises (with solutions) cover MIT''s
-  multivariable calculus sequence as taught in Fall 2024.
-
-
-  The course [*18.02 Multivariable Calculus*](https://ocw.c4103.com/courses/18-02sc-multivariable-calculus-fall-2010/)
-  is a General Institute Requirement ([GIR](https://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/));
-  every MIT student must pass this class in order to graduate. The first third of
-  the course is dedicated to briefly covering some basic linear algebra. The rest
-  of the course covers the traditional multivariable calculus topics including vectors
-  and matrices, partial derivatives, double and triple integrals, and vector calculus
-  in 2D and 3D space.
+course_description: 'The course *18.02 Multivariable Calculus* is a general institute
+  requirement ([GIR](https://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/));
+  every student must pass this class in order to graduate. The first 1/3 of the course--
+  everything before first midterm -- is dedicated to covering some basic linear algebra.
+  The rest of the course covers the traditional multivariable calculus topics including
+  vectors and matrices, partial derivatives, double and triple integrals, and vector
+  calculus in 2 and 3-space.
 
 
   These notes were created by Evan Chen, a recitation instructor in the Fall 2024
@@ -21,11 +17,12 @@ course_description: 'These lecture notes and exercises (with solutions) cover MI
   by the instructor of that class or by other MIT faculty members. The notes will
   be updated as needed. [Comments, suggestions, and corrections are welcomed](https://web.evanchen.cc/1802.html).'
 course_image:
-  content: fe7cf72c-ba69-4c71-b561-7eea9aafd472
+  content: ''
   website: multivariable-calculus-recitation-notes
 course_title: Multivariable Calculus Recitation Notes
 department_numbers:
 - '18'
+draft: true
 extra_course_numbers: ''
 hide_download: true
 instructors:
@@ -34,8 +31,6 @@ instructors:
   website: ocw-www
 learning_resource_types:
 - Recitation Notes
-- Lecture Notes
-- Problem Sets with Solutions
 legacy_uid: ''
 level:
 - Undergraduate

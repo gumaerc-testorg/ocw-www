@@ -24,6 +24,7 @@ course_title: 'Biomedical Engineering Seminar Series: Topics in Medical Ethics a
 department_numbers:
 - HST
 extra_course_numbers: HST.502
+hide_download: false
 instructors:
   content:
   - 625cd80b-08e9-4588-ef25-4e83e31b10f3

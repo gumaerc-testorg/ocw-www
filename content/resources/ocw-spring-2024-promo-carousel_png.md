@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/ocw-spring-2024-promo-carousel.png
+file: /ol-ocw-studio-app/ocw-www/ocw-spring-2024-promo-carousel.png
 file_size: 48540
 metadata:
   caption: ''

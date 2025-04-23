@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/ocw-homepage-ad.jpg
+file: /ol-ocw-studio-app/ocw-www/ocw-homepage-ad.jpg
 file_size: 55014
 metadata:
   caption: ''

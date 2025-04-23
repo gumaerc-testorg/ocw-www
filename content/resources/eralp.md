@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/eralp.jpg
+file: /ol-ocw-studio-app/ocw-www/eralp.jpg
 file_size: 10714
 metadata:
   caption: ''

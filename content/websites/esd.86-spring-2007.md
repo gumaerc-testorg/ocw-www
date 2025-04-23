@@ -23,6 +23,7 @@ course_title: Models, Data and Inference for Socio-Technical Systems
 department_numbers:
 - ESD
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - ce2a794a-3bd9-f266-68f3-776c1b372455

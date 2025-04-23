@@ -24,6 +24,7 @@ course_title: Molecular Biology and Genetics in Modern Medicine
 department_numbers:
 - HST
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 157f1092-5511-fcb8-674d-65677d60f449

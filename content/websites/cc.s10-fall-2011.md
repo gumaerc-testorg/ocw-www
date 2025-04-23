@@ -18,6 +18,7 @@ course_title: 'History and Philosophy of Mechanics: Newton''s Principia Mathemat
 department_numbers:
 - CC
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 856fffe2-668f-7950-a8c9-daa0d03b861d

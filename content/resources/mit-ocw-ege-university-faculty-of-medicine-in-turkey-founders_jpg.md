@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ocw-www/mit-ocw-ege-university-faculty-of-medicine-in-turkey-founders.jpg
+file: /ol-ocw-studio-app/ocw-www/mit-ocw-ege-university-faculty-of-medicine-in-turkey-founders.jpg
 file_size: 0
 file_type: image/jpeg
 image_metadata:

@@ -25,6 +25,7 @@ department_numbers:
 - '6'
 - CMS-W
 extra_course_numbers: '6.073'
+hide_download: false
 instructors:
   content:
   - 7e5ffa2a-ccdf-4136-9bef-213f34dbf5c0

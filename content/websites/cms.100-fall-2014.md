@@ -19,6 +19,7 @@ course_title: Introduction to Media Studies
 department_numbers:
 - CMS-W
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 38d266d1-944c-5146-3fc4-ef999b23d2b4

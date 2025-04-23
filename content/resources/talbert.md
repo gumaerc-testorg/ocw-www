@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/talbert.jpg
+file: /ol-ocw-studio-app/ocw-www/talbert.jpg
 file_size: 22300
 metadata:
   caption: ''

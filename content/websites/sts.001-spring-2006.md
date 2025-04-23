@@ -23,6 +23,7 @@ course_title: Technology in American History
 department_numbers:
 - STS
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - d7f32266-6f58-3606-54fa-d4b85b599d5e

@@ -23,6 +23,7 @@ course_title: EarthDNA's Climate 101
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - de2aeb18-6c75-22eb-1c67-71ec42f1057c

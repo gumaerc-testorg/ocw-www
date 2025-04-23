@@ -22,6 +22,7 @@ department_numbers:
 - WGS
 draft: true
 extra_course_numbers: 21W.768,WGS.125,CMS.868
+hide_download: false
 instructors:
   content:
   - 1c8c58bb-aee0-a71d-8fc6-edac01b07d0d

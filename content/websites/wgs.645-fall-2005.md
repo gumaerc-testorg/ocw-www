@@ -30,6 +30,7 @@ course_title: 'Issues of Representation: Women, Representation, and Music in Sel
 department_numbers:
 - WGS
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 22c40c91-30ab-3637-30b2-4ee5996f9215

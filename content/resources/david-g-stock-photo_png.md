@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/david-g-stock-photo.png
+file: /ol-ocw-studio-app/ocw-www/david-g-stock-photo.png
 file_size: 146074
 metadata:
   caption: ''

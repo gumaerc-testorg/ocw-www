@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/oll_screenshot.jpeg
+file: /ol-ocw-studio-app/ocw-www/oll_screenshot.jpeg
 file_size: 45233
 metadata:
   caption: ''

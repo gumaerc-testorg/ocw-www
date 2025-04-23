@@ -23,6 +23,7 @@ course_title: Technology and Change in Rural America
 department_numbers:
 - STS
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 848b0b45-1e20-ba72-ae02-d3838cd12ff5

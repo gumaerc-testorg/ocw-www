@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/2021_nextgen_phone.png
+file: /ol-ocw-studio-app/ocw-www/2021_nextgen_phone.png
 file_size: 63100
 metadata:
   caption: ''

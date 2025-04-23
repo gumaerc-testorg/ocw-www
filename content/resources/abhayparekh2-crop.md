@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/abhayparekh2-crop.jpg
+file: /ol-ocw-studio-app/ocw-www/abhayparekh2-crop.jpg
 file_size: 71245
 metadata:
   caption: ''

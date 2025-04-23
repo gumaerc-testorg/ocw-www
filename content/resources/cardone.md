@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/cardone.jpg
+file: /ol-ocw-studio-app/ocw-www/cardone.jpg
 file_size: 54696
 metadata:
   caption: ''

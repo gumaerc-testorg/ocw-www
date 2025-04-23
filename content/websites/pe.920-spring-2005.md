@@ -25,6 +25,7 @@ course_title: PE for ME
 department_numbers:
 - PE
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 390ca2d0-3f9b-2968-14d2-b2e32bc7f62d

@@ -24,6 +24,7 @@ course_title: Philosophy of Love
 department_numbers:
 - CC
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 6d4cc94a-1cc6-184f-cb36-2322ce10b07a

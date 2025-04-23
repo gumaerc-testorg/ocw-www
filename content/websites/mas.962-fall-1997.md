@@ -18,6 +18,7 @@ course_title: Digital Typography
 department_numbers:
 - MAS
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - e06ce70d-9a10-a47e-0d78-f9a70a5d2eca

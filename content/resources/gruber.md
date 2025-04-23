@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/gruber.jpg
+file: /ol-ocw-studio-app/ocw-www/gruber.jpg
 file_size: 10413
 metadata:
   caption: ''

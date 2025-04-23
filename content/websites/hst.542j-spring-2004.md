@@ -24,6 +24,7 @@ department_numbers:
 - '20'
 - '6'
 extra_course_numbers: 2.792J,20.371J,6.022J
+hide_download: false
 instructors:
   content:
   - 8adac540-3bdf-56d9-ffdb-eb697aaafa53

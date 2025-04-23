@@ -27,7 +27,7 @@ course_description: '*Chemistry Behind the Magic* features videos of exciting li
   protective equipment, and supervision by appropriate individuals. You bear the sole
   responsibility, liability, and risk for the implementation of such safety procedures
   and measures. MIT and Dow shall have no responsibility, liability, or risk for the
-  content or implementation of any of the material presented. [Legal Notice](https://ocw.c4103.com/pages/privacy-and-terms-of-use/)'
+  content or implementation of any of the material presented. [Legal Notice](https://ocw.mit.edu/pages/privacy-and-terms-of-use/)'
 course_image:
   content: 7a469e13-fef3-44ae-aef0-a9de9aa1cdb8
   website: chemistry-behind-the-magic-chemical-demonstrations-for-the-classroom

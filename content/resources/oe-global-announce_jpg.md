@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ocw-www/oe-global-announce.jpg
+file: /ol-ocw-studio-app/ocw-www/oe-global-announce.jpg
 file_size: 60994
 file_type: image/jpeg
 image_metadata:

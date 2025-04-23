@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/intro_sci_math.jpg
+file: /ol-ocw-studio-app/ocw-www/intro_sci_math.jpg
 file_size: 450768
 metadata:
   caption: ''

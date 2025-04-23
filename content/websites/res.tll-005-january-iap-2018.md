@@ -28,6 +28,7 @@ course_title: How to Speak
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - b12cf09d-b9c0-3138-5e1b-26e03395d143

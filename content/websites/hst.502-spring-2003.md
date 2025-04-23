@@ -25,6 +25,7 @@ course_title: 'Survival Skills for Researchers: The Responsible Conduct of Resea
 department_numbers:
 - HST
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - cd4ffe3c-a622-d955-f7ef-3b85856d29ee

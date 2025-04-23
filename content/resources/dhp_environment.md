@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/dhp_environment.jpg
+file: /ol-ocw-studio-app/ocw-www/dhp_environment.jpg
 file_size: 61136
 metadata:
   caption: ''

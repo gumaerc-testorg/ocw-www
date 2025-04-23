@@ -28,6 +28,7 @@ department_numbers:
 - RES
 draft: true
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 28f27c04-b9c8-3c6b-fbf2-0ec1b857debb

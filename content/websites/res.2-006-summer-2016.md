@@ -26,6 +26,7 @@ course_title: Girls Who Build Cameras
 department_numbers:
 - '2'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 669ad1ca-9de5-38b8-b320-a4182c77cfc3

@@ -23,6 +23,7 @@ course_title: Introduction to Videogame Studies
 department_numbers:
 - CMS-W
 extra_course_numbers: CMS.841
+hide_download: false
 instructors:
   content:
   - 7a70009f-c1b4-0726-24b1-5c1e6990fd5e

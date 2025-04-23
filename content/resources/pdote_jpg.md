@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/pdote.jpg
+file: /ol-ocw-studio-app/ocw-www/pdote.jpg
 file_size: 30620
 metadata:
   caption: ''

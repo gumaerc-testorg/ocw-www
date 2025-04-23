@@ -20,6 +20,7 @@ course_title: Disease and Society in America
 department_numbers:
 - STS
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 1f85d233-f756-a43f-ed17-f57a335ec447

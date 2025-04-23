@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/tzevelekos_th.png
+file: /ol-ocw-studio-app/ocw-www/tzevelekos_th.png
 file_size: 33573
 metadata:
   caption: ''

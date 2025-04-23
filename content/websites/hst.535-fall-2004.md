@@ -34,6 +34,7 @@ course_title: Principles and Practice of Tissue Engineering
 department_numbers:
 - HST
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 2bb25db1-18c4-7c8e-fc9e-dbaa4573caa2

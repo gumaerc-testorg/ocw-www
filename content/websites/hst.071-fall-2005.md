@@ -24,6 +24,7 @@ course_title: Human Reproductive Biology
 department_numbers:
 - HST
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 00343d5c-9ec6-0b19-d701-2e6d874db284

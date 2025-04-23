@@ -23,6 +23,7 @@ course_title: Neuroscience and Society
 department_numbers:
 - STS
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - b3e19b54-7349-b66e-0e76-74728b751230

@@ -14,6 +14,7 @@ course_title: Math Diagnostic
 department_numbers:
 - '8'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - a32373bc-8c78-e37a-f79e-1f15686d1a9b

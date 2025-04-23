@@ -26,6 +26,7 @@ course_title: 'D-Lab: Waste'
 department_numbers:
 - EC
 extra_course_numbers: EC.786
+hide_download: false
 instructors:
   content:
   - beb7caed-0f86-f63b-9206-448f29bbca42

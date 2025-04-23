@@ -31,6 +31,7 @@ department_numbers:
 - CMS-W
 draft: true
 extra_course_numbers: CMS.S96
+hide_download: false
 instructors:
   content:
   - 918cfe40-0daa-c749-34a3-2319296d2769

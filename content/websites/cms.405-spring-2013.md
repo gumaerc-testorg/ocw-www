@@ -24,6 +24,7 @@ course_title: 'Media and Methods: Seeing and Expression'
 department_numbers:
 - CMS-W
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - a9dd3568-f6ee-c77e-f931-308f5cc0142e

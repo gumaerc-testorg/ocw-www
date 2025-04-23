@@ -25,6 +25,7 @@ department_numbers:
 - HST
 - '6'
 extra_course_numbers: 6.07J
+hide_download: false
 instructors:
   content:
   - 38973de5-71fc-27f5-2642-c330c2c9ed57

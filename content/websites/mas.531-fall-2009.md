@@ -29,6 +29,7 @@ course_title: Computational Camera and Photography
 department_numbers:
 - MAS
 extra_course_numbers: MAS.131
+hide_download: false
 instructors:
   content:
   - 3ed48997-b81e-aa90-ead6-2eab2c93ce21

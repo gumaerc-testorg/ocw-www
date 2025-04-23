@@ -25,6 +25,7 @@ department_numbers:
 - CMS-W
 draft: true
 extra_course_numbers: CMS.922
+hide_download: false
 instructors:
   content:
   - 2d0ead69-3e37-3d9f-460b-0cee7d13e4a5

@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/2001_chuckvest.png
+file: /ol-ocw-studio-app/ocw-www/2001_chuckvest.png
 file_size: 0
 metadata:
   caption: ''

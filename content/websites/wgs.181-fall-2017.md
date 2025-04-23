@@ -23,6 +23,7 @@ course_title: Queer Cinema and Visual Culture
 department_numbers:
 - WGS
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - ce7e3645-a595-33c5-3d1d-8e1b04665031

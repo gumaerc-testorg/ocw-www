@@ -24,6 +24,7 @@ course_title: 'Energy, Environment, and Society: Global Politics, Technologies, 
 department_numbers:
 - STS
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 8f20c0f0-b4cf-cb43-26a1-5cc7c3df808f

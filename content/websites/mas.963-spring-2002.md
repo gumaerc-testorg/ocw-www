@@ -24,6 +24,7 @@ course_title: 'Techno-identity: Who we are and how we perceive ourselves and oth
 department_numbers:
 - MAS
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 3fe4aa95-415a-94eb-e916-09f5fe4e0e6f

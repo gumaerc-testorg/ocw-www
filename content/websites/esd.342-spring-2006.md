@@ -24,6 +24,7 @@ course_title: Advanced System Architecture
 department_numbers:
 - ESD
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 1bf2a7e0-60ec-27a8-8b22-aa128400037b

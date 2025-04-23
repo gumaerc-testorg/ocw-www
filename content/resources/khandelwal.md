@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/khandelwal.jpg
+file: /ol-ocw-studio-app/ocw-www/khandelwal.jpg
 file_size: 57003
 metadata:
   caption: ''

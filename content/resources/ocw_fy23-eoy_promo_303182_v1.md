@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/ocw_fy23-eoy_promo_303182_v1.png
+file: /ol-ocw-studio-app/ocw-www/ocw_fy23-eoy_promo_303182_v1.png
 file_size: 87343
 metadata:
   caption: ''

@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/gene_stark.jpg
+file: /ol-ocw-studio-app/ocw-www/gene_stark.jpg
 file_size: 46280
 metadata:
   caption: ''

@@ -30,6 +30,7 @@ department_numbers:
 - CMS-W
 draft: true
 extra_course_numbers: CMS.602
+hide_download: false
 instructors:
   content:
   - a6e5affd-00e1-a85c-9917-e7daeb435aa4

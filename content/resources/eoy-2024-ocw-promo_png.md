@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ocw-www/eoy-2024-ocw-promo.png
+file: /ol-ocw-studio-app/ocw-www/eoy-2024-ocw-promo.png
 file_size: 44965
 file_type: image/png
 image_metadata:

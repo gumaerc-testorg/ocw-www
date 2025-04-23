@@ -24,6 +24,7 @@ department_numbers:
 - EC
 - '2'
 extra_course_numbers: 2.722J
+hide_download: false
 instructors:
   content:
   - 7c23a4e0-d0b3-e062-153d-1643b885fc1c

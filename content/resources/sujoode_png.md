@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ocw-www/sujoode.png
+file: /ol-ocw-studio-app/ocw-www/sujoode.png
 file_size: 814745
 file_type: image/png
 image_metadata:

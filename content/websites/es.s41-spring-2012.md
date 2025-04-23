@@ -20,6 +20,7 @@ course_title: Speak Italian With Your Mouth Full
 department_numbers:
 - ES
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 4dbd4e12-512c-cc50-a432-cdcad687f462

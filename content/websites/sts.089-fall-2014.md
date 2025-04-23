@@ -22,6 +22,7 @@ course_title: Technology and Innovation in Africa
 department_numbers:
 - STS
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - b29dfde9-461b-0ecf-4d34-e3d4a91bacf1

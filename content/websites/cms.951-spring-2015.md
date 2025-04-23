@@ -26,6 +26,7 @@ course_title: 'Workshop II: Qualitative Social Science Methods for Media Studies
 department_numbers:
 - CMS-W
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - a4b60a17-c963-08e9-87dc-fec6a2c71ac4

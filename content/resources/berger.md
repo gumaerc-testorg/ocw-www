@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/berger.jpg
+file: /ol-ocw-studio-app/ocw-www/berger.jpg
 file_size: 167777
 metadata:
   caption: ''

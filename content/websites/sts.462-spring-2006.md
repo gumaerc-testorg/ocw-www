@@ -21,6 +21,7 @@ course_title: Social and Political Implications of Technology
 department_numbers:
 - STS
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - e950e033-9524-c600-2449-fe5276f40a3c

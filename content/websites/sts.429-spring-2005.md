@@ -30,6 +30,7 @@ course_title: Food and Power in the Twentieth Century
 department_numbers:
 - STS
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 848b0b45-1e20-ba72-ae02-d3838cd12ff5

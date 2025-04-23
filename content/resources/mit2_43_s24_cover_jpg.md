@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ocw-www/mit2_43_s24_cover.jpg
+file: /ol-ocw-studio-app/ocw-www/mit2_43_s24_cover.jpg
 file_size: 163032
 file_type: image/jpeg
 image_metadata:

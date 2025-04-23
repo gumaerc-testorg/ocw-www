@@ -21,6 +21,7 @@ course_title: Leadership Development
 department_numbers:
 - IDS
 extra_course_numbers: IDS.910 (formerly ESD.801)
+hide_download: false
 instructors:
   content:
   - f51fc489-e59a-38c5-7f93-1504fbb1076f

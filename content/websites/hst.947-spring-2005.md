@@ -21,6 +21,7 @@ course_title: Medical Artificial Intelligence
 department_numbers:
 - HST
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 780f36c7-ef90-c0fc-309f-e510ee19f14a

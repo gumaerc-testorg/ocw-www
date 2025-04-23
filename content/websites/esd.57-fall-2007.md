@@ -22,6 +22,7 @@ course_title: Technology-based Business Transformation
 department_numbers:
 - ESD
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - fab0213c-c65a-496c-eb07-9aa27e78a393

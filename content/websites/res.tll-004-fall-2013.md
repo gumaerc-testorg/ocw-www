@@ -24,6 +24,7 @@ course_title: STEM Concept Videos
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 1c45cbdc-4ade-c529-3c1b-a451c8117021

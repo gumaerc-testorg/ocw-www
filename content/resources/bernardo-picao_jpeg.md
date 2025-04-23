@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ocw-www/bernardo-picao.jpeg
+file: /ol-ocw-studio-app/ocw-www/bernardo-picao.jpeg
 file_size: 248632
 file_type: image/jpeg
 image_metadata:

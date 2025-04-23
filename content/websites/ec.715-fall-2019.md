@@ -22,6 +22,7 @@ department_numbers:
 - EC
 - '11'
 extra_course_numbers: '11.474'
+hide_download: false
 instructors:
   content:
   - 3e8545c0-a6a1-15ed-f0d1-197f0ed25dbf

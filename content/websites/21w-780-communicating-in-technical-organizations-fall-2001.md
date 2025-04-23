@@ -23,6 +23,7 @@ course_title: Communicating in Technical Organizations
 department_numbers:
 - CMS-W
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - b5bd82fe-498e-d086-b773-7efd68aa7d10

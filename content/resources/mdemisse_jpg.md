@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/mdemisse.jpg
+file: /ol-ocw-studio-app/ocw-www/mdemisse.jpg
 file_size: 34535
 metadata:
   caption: ''

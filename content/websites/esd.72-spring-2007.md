@@ -28,6 +28,7 @@ department_numbers:
 - '16'
 - '22'
 extra_course_numbers: 1.155,2.963,3.577,6.938,10.816,16.862,22.82
+hide_download: false
 instructors:
   content:
   - 3e347107-d66a-951b-3815-6e579e806552

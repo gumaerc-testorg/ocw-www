@@ -27,6 +27,7 @@ department_numbers:
 - STS
 - 21A
 extra_course_numbers: 21A.344J
+hide_download: false
 instructors:
   content:
   - 769998c8-1926-6fda-1106-d821ed61147a

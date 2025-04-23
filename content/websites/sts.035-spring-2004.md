@@ -27,6 +27,7 @@ course_title: The History of Computing
 department_numbers:
 - STS
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - daa6c4f6-c026-3bcd-127d-519e6b197b3b

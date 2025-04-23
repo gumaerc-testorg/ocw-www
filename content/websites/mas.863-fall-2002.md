@@ -21,6 +21,7 @@ course_title: How to Make (Almost) Anything
 department_numbers:
 - MAS
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - de94fd31-c5dc-a8bf-9674-7c242c7bdb65

@@ -21,6 +21,7 @@ department_numbers:
 - ESD
 - HST
 extra_course_numbers: HST.926J
+hide_download: false
 instructors:
   content:
   - 7c1a6691-b4a7-1225-1290-08c9a3c6fe57

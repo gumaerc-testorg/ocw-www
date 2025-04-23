@@ -19,6 +19,7 @@ course_title: Art of Color
 department_numbers:
 - ES
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - a32373bc-8c78-e37a-f79e-1f15686d1a9b

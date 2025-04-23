@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/collingwood.jpg
+file: /ol-ocw-studio-app/ocw-www/collingwood.jpg
 file_size: 115107
 metadata:
   caption: ''

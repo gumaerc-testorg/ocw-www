@@ -23,6 +23,7 @@ course_title: History of Science
 department_numbers:
 - STS
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - a1de805f-0dbd-7af0-390f-1b0d384f502a

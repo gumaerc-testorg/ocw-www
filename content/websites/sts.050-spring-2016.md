@@ -29,6 +29,7 @@ course_title: The History of MIT
 department_numbers:
 - STS
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 8ce5b5fc-de4c-0677-54ff-3f3ad9169fdd

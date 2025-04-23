@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/promo_2023_video.png
+file: /ol-ocw-studio-app/ocw-www/promo_2023_video.png
 file_size: 92966
 metadata:
   caption: ''

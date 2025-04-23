@@ -34,6 +34,7 @@ course_title: Social Study of Science and Technology
 department_numbers:
 - STS
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 1619043a-517d-06ae-7e56-41fab57835ca

@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/klug.jpg
+file: /ol-ocw-studio-app/ocw-www/klug.jpg
 file_size: 13646
 metadata:
   caption: ''

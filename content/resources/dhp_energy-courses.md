@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/dhp_energy-courses.jpg
+file: /ol-ocw-studio-app/ocw-www/dhp_energy-courses.jpg
 file_size: 12585
 metadata:
   caption: ''

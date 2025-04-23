@@ -21,6 +21,7 @@ course_title: Physiology of the Ear
 department_numbers:
 - HST
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - d4d4c4e9-9dc4-4b61-65cf-df6f153157a1

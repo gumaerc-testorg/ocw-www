@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/tucker-foltz.jpg
+file: /ol-ocw-studio-app/ocw-www/tucker-foltz.jpg
 file_size: 71846
 metadata:
   caption: ''

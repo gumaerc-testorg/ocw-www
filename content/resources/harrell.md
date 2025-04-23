@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/harrell.jpg
+file: /ol-ocw-studio-app/ocw-www/harrell.jpg
 file_size: 10575
 metadata:
   caption: ''

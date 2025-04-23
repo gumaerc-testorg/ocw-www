@@ -24,6 +24,7 @@ department_numbers:
 - MAS
 - '1'
 extra_course_numbers: 1.126J
+hide_download: false
 instructors:
   content:
   - d9cb937e-68d2-53a7-f812-696a7702697a

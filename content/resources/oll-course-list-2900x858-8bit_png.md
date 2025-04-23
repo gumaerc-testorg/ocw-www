@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/oll-course-list-2900x858-8bit.png
+file: /ol-ocw-studio-app/ocw-www/oll-course-list-2900x858-8bit.png
 file_size: 457710
 metadata:
   caption: ''

@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/etekkatho.jpg
+file: /ol-ocw-studio-app/ocw-www/etekkatho.jpg
 file_size: 42143
 metadata:
   caption: ''

@@ -19,6 +19,7 @@ course_title: Fencing
 department_numbers:
 - PE
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 426c48d9-7e87-828d-fa4e-f537dcda9352

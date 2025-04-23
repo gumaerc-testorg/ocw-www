@@ -40,6 +40,7 @@ department_numbers:
 - CMS-W
 - 21L
 extra_course_numbers: 21L.435
+hide_download: false
 instructors:
   content:
   - 9bda8d20-006e-5563-73f5-d7659a576007

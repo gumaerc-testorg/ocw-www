@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/emmanuel-kasi-small.jpg
+file: /ol-ocw-studio-app/ocw-www/emmanuel-kasi-small.jpg
 file_size: 58641
 metadata:
   caption: ''

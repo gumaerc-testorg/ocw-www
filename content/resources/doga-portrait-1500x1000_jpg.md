@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ocw-www/doga-portrait-1500x1000.jpg
+file: /ol-ocw-studio-app/ocw-www/doga-portrait-1500x1000.jpg
 file_size: 349894
 file_type: image/jpeg
 image_metadata:

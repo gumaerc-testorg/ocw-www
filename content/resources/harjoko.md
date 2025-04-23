@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/harjoko.jpg
+file: /ol-ocw-studio-app/ocw-www/harjoko.jpg
 file_size: 18396
 metadata:
   caption: ''

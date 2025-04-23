@@ -24,6 +24,7 @@ course_title: How to Learn (Almost) Anything
 department_numbers:
 - MAS
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 3fb07337-f543-91d6-290f-b686e3a81140

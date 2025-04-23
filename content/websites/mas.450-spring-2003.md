@@ -34,6 +34,7 @@ course_title: Holographic Imaging
 department_numbers:
 - MAS
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - e8013628-1a47-5cdd-6405-7ad6d4845c9e

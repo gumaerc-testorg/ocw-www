@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/class_of_09.jpg
+file: /ol-ocw-studio-app/ocw-www/class_of_09.jpg
 file_size: 22201
 metadata:
   caption: ''

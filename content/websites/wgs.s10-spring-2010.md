@@ -23,6 +23,7 @@ course_title: 'Special Topics in Women & Gender Studies Seminar: Latina Women''s
 department_numbers:
 - WGS
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 9ef7454a-20d7-070b-9bd5-eb40a8153d69

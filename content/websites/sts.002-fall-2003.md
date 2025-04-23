@@ -20,6 +20,7 @@ course_title: Toward the Scientific Revolution
 department_numbers:
 - STS
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - a82bdf46-94f8-6a7a-7a3c-39dccc6b5001

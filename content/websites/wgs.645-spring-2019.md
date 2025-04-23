@@ -20,6 +20,7 @@ course_title: 'Gendering U.S. Immigration Policy: Sociopolitical, Theological an
 department_numbers:
 - WGS
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 0f3d0a0a-67ab-d2db-cf33-80fd43bd64dd
