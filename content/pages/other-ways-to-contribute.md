@@ -6,7 +6,7 @@ draft: false
 title: Other Ways to Contribute
 uid: d86966a2-9b24-49a2-b247-ea124f63a35a
 ---
-![give-cover-v6.png](https://old.ocw.c4103.com/give/other-ways-to-contribute/give-cover-v6.png)
+![give-cover-v6.png](https://old.ocw.mit.edu/give/other-ways-to-contribute/give-cover-v6.png)
 
 Donations are vital to sustaining OpenCourseWare for the future, but financial support isn't the only way you can contribute to our work:
 
@@ -24,4 +24,4 @@ There are many ways to help get the word out about the free resources available 
 
 ### **Encourage your company to sponsor OCW**
 
-OCW is a great sponsorship opportunity for companies who support knowledge as a public good. [Learn more](https://ocw.c4103.com/pages/become-a-corporate-sponsor/).
+OCW is a great sponsorship opportunity for companies who support knowledge as a public good. [Learn more](https://ocw.mit.edu/pages/become-a-corporate-sponsor/).
