@@ -5,9 +5,9 @@ uid: ab496c5d-8eb4-4361-9120-fa48d2f5afda
 ---
 This page will help you begin to learn programming and computer science, with some suggested introductory courses on OCW. Choose from:
 
-- [General Introductions to Programming](https://ocw.c4103.com/courses/intro-programming/#general)
-- [Language-Specific Courses](https://ocw.c4103.com/courses/intro-programming/#language)
-- [Follow-up Courses](https://ocw.c4103.com/courses/intro-programming/#followup)
+- [General Introductions to Programming](https://ocw.mit.edu/courses/intro-programming/#general)
+- [Language-Specific Courses](https://ocw.mit.edu/courses/intro-programming/#language)
+- [Follow-up Courses](https://ocw.mit.edu/courses/intro-programming/#followup)
 
 ## **General Introductions to Programming**
 

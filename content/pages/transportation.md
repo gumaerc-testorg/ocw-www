@@ -3,7 +3,7 @@ content_type: page
 title: Transportation
 uid: dafb7864-76df-46e5-878a-22b3c04f8970
 ---
-![dhp_transportation.jpg](https://ocw.c4103.com/courses/transportation-courses/dhp_transportation.jpg)
+![dhp_transportation.jpg](https://ocw.mit.edu/courses/transportation-courses/dhp_transportation.jpg)
 
 Photo by [windsordi](http://www.flickr.com/photos/windsordi/4972633078/) on Flickr.
 
@@ -13,8 +13,8 @@ Hundreds of MIT faculty members work in areas related to transportation, from mo
 
 The Transportation@MIT initiative knits together the wide-ranging, robust research already under way at the Institute and creates new opportunities for education and innovation.
 
-- [Notify me of course updates via RSS](https://ocw.c4103.com/rss/new/mit-newcourses-transportation.xml)
-- [Other RSS feeds](https://ocw.c4103.com/help/rss)
+- [Notify me of course updates via RSS](https://ocw.mit.edu/rss/new/mit-newcourses-transportation.xml)
+- [Other RSS feeds](https://ocw.mit.edu/help/rss)
 
 {{% resource_link 7d77e777-e078-4a3a-b417-0db31dda045a "Transportation: Airline Industry" %}}
 

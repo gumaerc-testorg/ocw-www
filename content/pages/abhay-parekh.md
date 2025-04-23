@@ -32,7 +32,7 @@ I continue to be very excited about OCW. Of course, everything has evolved, but 
 
 **What have you studied on OCW?**
 
-I'm a complete geek at heart, so I'm always learning something. There was a point in time where I had forgotten some of my multivariable calculus, and I remember watching amazing [lectures by Denis Auroux on OCW](https://ocw.c4103.com/courses/mathematics/18-02-multivariable-calculus-fall-2007/) that were terrific. Most recently, I saw most of the videos from a [course that was offered in the biology department on the coronavirus](https://ocw.c4103.com/courses/biology/7-00-covid-19-sars-cov-2-and-the-pandemic-fall-2020/). This is a collection of experts, everyone from Dr. Anthony Fauci to Eric Lander and so on. It covers different aspects of the virus—I don't think I could have gotten that anywhere else.
+I'm a complete geek at heart, so I'm always learning something. There was a point in time where I had forgotten some of my multivariable calculus, and I remember watching amazing [lectures by Denis Auroux on OCW](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/) that were terrific. Most recently, I saw most of the videos from a [course that was offered in the biology department on the coronavirus](https://ocw.mit.edu/courses/biology/7-00-covid-19-sars-cov-2-and-the-pandemic-fall-2020/). This is a collection of experts, everyone from Dr. Anthony Fauci to Eric Lander and so on. It covers different aspects of the virus—I don't think I could have gotten that anywhere else.
 
 I use it quite a bit. I've probably looked at dozens of courses. Over the years, my kids have used it, and a lot of other people I know take advantage of it. It's great.
 
