@@ -15,14 +15,14 @@ description: "Whether you are new to climate change, an experienced advocate, or
   \ MIT Climate Primer: [https://climateprimer.mit.edu/](https://climateprimer.mit.edu/)\n\
   - TILclimate Guides for Educators: [https://climate.mit.edu/educators](https://climate.mit.edu/educators)\n\
   - SCALES Project: [https://scales.mit.edu/](https://scales.mit.edu/)\n- MIT OpenCourseWare:\
-  \ [https://ocw.c4103.com](https://ocw.c4103.com)\n- MITx Online: [https://mitxonline.mit.edu](https://mitxonline.mit.edu)\n\
+  \ [https://ocw.mit.edu](https://ocw.mit.edu)\n- MITx Online: [https://mitxonline.mit.edu](https://mitxonline.mit.edu)\n\
   - MITx on edX: [https://www.edx.org/school/mitx](https://www.edx.org/school/mitx)\n\
   - MIT Open Learning Library: [https://openlearninglibrary.mit.edu/](https://openlearninglibrary.mit.edu/)\n\
-  \nLicense: Creative Commons BY-NC-SA  \nMore information at https://ocw.c4103.com/terms\
-  \  \nMore courses at https://ocw.c4103.com  \nSupport OCW at http://ow.ly/a1If50zVRlQ\n\
+  \nLicense: Creative Commons BY-NC-SA  \nMore information at https://ocw.mit.edu/terms\
+  \  \nMore courses at https://ocw.mit.edu  \nSupport OCW at http://ow.ly/a1If50zVRlQ\n\
   \nWe encourage constructive comments and discussion on OCW\u2019s YouTube and other\
   \ social media channels. Personal attacks, hate speech, trolling, and inappropriate\
-  \ comments are not allowed and may be removed. More details at https://ocw.c4103.com/comments."
+  \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
 draft: true
 file: /ol-ocw-studio-app/ocw-www/learn-climate-with-open-mit-resources-final_360p_16_9.mp4
 file_size: 91711989
