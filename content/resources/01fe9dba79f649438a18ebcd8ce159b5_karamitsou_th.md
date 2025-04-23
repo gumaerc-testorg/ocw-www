@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ocw-www/01fe9dba79f649438a18ebcd8ce159b5_karamitsou_th.jpg
+file: /ol-ocw-studio-app/ocw-www/01fe9dba79f649438a18ebcd8ce159b5_karamitsou_th.jpg
 file_size: 3042
 metadata:
   caption: ''
